@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DAPPToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d6c15995a4e3e7fed4e83f0198a1f821f16ef7af6b587ab7dd7767671990a961",
+  "path": [
+    "DAPPToken.sol"
+  ],
+  "address": "0x5D0fa08AEb173AdE44B0Cf7F31d506D8E04f0ac8"
+}

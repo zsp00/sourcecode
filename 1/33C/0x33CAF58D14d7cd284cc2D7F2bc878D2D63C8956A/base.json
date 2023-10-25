@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OPOE",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://28f206ce1152e602bbc6d787fd8801999e50f21deaacef8e28346f66ae0ebffd",
+  "path": [
+    "OPOE.sol"
+  ],
+  "address": "0x33CAF58D14d7cd284cc2D7F2bc878D2D63C8956A"
+}
