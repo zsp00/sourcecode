@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Trade_Bionic",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "Initializable.sol",
+    "IUniswapV2Pair.sol",
+    "IUniswapV2Router01.sol",
+    "IUniswapV2Router02.sol",
+    "Context.sol",
+    "IERC20.sol",
+    "Token.sol",
+    "Ownable.sol",
+    "IUniswapV2Factory.sol",
+    "IERC20Metadata.sol",
+    "ERC20.sol",
+    "ERC20Burnable.sol"
+  ],
+  "address": "0xCDD0d11dE0225b528b3a20d6436392c8260969d0"
+}
