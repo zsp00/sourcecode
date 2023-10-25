@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AAGToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000f536ab9e042d414c8e54bff40147f34f0926e2440000000000000000000000009accdb69d8757dd9ceb7f69e985cbca879c0ddf60000000000000000000000000000000000000000000000000000000000015180000000000000000000000000e91d7cebce484070fc70777cb04f7e2efae31db40000000000000000000000000000000000000000000000000000000000000001",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a9aecefac499d12e94a2baa1a76b8434a502316da619fb32f2e481a0bc5cfb41",
+  "path": [
+    "AAGToken.sol"
+  ],
+  "address": "0x5ba19d656B65f1684cFea4Af428C23B9f3628F97"
+}

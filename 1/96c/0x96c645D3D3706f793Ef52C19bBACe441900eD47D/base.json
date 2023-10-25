@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MPSToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7b772253022a34c13f160094b262bd38a37d7bfb0c40727f22dc2bd07b2de7ae",
+  "path": [
+    "MPSToken.sol"
+  ],
+  "address": "0x96c645D3D3706f793Ef52C19bBACe441900eD47D"
+}

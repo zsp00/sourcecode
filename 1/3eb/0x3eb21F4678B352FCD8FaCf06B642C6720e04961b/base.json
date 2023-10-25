@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Alpha",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a9779f239e83990a9111ea5857f47ef248a07b2721d9de0821f038cce6ae3fca",
+  "path": [
+    "Alpha.sol"
+  ],
+  "address": "0x3eb21F4678B352FCD8FaCf06B642C6720e04961b"
+}
