@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "weeWMA",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://27427e07d6c6f662ec4b588fd1dcfdc6696944fceafa0ce8520b9a77bef8ee2d",
+  "path": [
+    "weeWMA.sol"
+  ],
+  "address": "0x685ED390B16Ac9Df9Ab9707294a42a107cFB62Af"
+}

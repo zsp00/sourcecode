@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PaintToken",
+  "CompilerVersion": "v0.6.11+commit.5ef660b1",
+  "OptimizationUsed": "1",
+  "Runs": "21000",
+  "ConstructorArguments": "",
+  "EVMVersion": "constantinople",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7ba0190cdfdc6686d42c8abe97dac036e2d4c9676fd40da03a2a90231efc5b3a",
+  "path": [
+    "PaintToken.sol"
+  ],
+  "address": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042"
+}
