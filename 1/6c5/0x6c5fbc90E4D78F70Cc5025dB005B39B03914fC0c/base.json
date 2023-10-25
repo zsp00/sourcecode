@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AuroxToken",
+  "CompilerVersion": "v0.7.4+commit.3f05b770",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000f78fc3c851fd74362ed0e3d7059650577279b120000000000000000000000000b09029f0429ff5900695991e81bb51ea7644a5fe0000000000000000000000004ff16afee0683fa3148f3570fd3a66800481a813000000000000000000000000f9a6299a726a60c942ee956a0c379a74fcbdd051",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/Users/giorgi/Token-Final/contracts/Token/IAuroxToken.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/IERC20.sol",
+    "openzeppelin-solidity/contracts/utils/Address.sol",
+    "/Users/giorgi/Token-Final/contracts/Token/AuroxToken.sol",
+    "openzeppelin-solidity/contracts/GSN/Context.sol",
+    "openzeppelin-solidity/contracts/access/Ownable.sol",
+    "openzeppelin-solidity/contracts/math/SafeMath.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/SafeERC20.sol",
+    "openzeppelin-solidity/contracts/utils/ReentrancyGuard.sol",
+    "/Users/giorgi/Token-Final/contracts/Token/TokenVesting.sol"
+  ],
+  "address": "0x6c5fbc90E4D78F70Cc5025dB005B39B03914fC0c"
+}
