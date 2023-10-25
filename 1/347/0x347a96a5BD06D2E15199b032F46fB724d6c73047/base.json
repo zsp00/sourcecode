@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ASIC",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/tokens/ASIC.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+    "contracts/interfaces/PulseDogecoin.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0x347a96a5BD06D2E15199b032F46fB724d6c73047"
+}

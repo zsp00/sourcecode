@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "REMME",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "10000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b63519aefab850441fb9213a9c60c38a9226690754cd394c422c3ed96d0e3dff",
+  "path": [
+    "REMME.sol"
+  ],
+  "address": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CortexCoin",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b0be7b7a0edf717598fc71341a0de5dc72a46af98521f41da28a2fcb1e10eaf2",
+  "path": [
+    "CortexCoin.sol"
+  ],
+  "address": "0xEa11755Ae41D889CeEc39A63E6FF75a02Bc1C00d"
+}

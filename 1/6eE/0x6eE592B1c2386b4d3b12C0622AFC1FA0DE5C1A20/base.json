@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XWW",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000007a9a9b1b160022060a49e961e37667251b4948ef000000000000000000000000000000000000000000000000000000000000000858575720436f727000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000035857570000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "byzantium",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "/contracts/XWW.sol"
+  ],
+  "address": "0x6eE592B1c2386b4d3b12C0622AFC1FA0DE5C1A20"
+}

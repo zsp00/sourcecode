@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MultiVACToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2e3c3090ea7ecf29612c60de3e17b3c5fb5c5ef314780fcd7d81aa9818940e83",
+  "path": [
+    "MultiVACToken.sol"
+  ],
+  "address": "0x6226e00bCAc68b0Fe55583B90A1d727C14fAB77f"
+}
