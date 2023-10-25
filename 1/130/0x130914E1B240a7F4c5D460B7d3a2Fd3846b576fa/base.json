@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AureusNummusGold",
+  "CompilerVersion": "v0.5.14+commit.1f1aaa4",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://25d43ed63475875475cdf7fd1bd2c8ba8edd0fb7642d56c8d159c8bcd2207629",
+  "path": [
+    "AureusNummusGold.sol"
+  ],
+  "address": "0x130914E1B240a7F4c5D460B7d3a2Fd3846b576fa"
+}

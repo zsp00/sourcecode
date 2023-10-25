@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KibaInu",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3c3ea16a520bbb92f1ff56f63f692a5f96d2f5f2320c20a247f45ad005914fb1",
+  "path": [
+    "KibaInu.sol"
+  ],
+  "address": "0x005D1123878Fc55fbd56b54C73963b234a64af3c"
+}

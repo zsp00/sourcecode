@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Swift",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4c62d746a462303c85f6d76427cdaa64b36a265ce0988ed0507b847ac1f14472",
+  "path": [
+    "Swift.sol"
+  ],
+  "address": "0xacC48f65F8701f376bC4Ba13f4BC103F31dDa74E"
+}

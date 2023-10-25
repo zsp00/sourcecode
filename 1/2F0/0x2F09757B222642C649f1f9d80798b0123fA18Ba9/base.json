@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Token",
+  "CompilerVersion": "v0.8.1+commit.df193b15",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009e66174d98edccea014e1ebafca223d889a360be",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/IStaking.sol",
+    "contracts/IUniswapV2Factory.sol",
+    "contracts/IUniswapV2Router02.sol",
+    "contracts/Token.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0x2F09757B222642C649f1f9d80798b0123fA18Ba9"
+}

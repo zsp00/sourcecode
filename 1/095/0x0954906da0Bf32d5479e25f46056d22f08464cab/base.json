@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IndexToken",
+  "CompilerVersion": "v0.6.10+commit.00c0fcaf",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e501d177fe2172e1da8a6d338a44d9f89705ed5c",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://366f9d51262f408fec06474c120ec0b9d9cfe8b02cb12348a273ad1018fcd75a",
+  "path": [
+    "IndexToken.sol"
+  ],
+  "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab"
+}
