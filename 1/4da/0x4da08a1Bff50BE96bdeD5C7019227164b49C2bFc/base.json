@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MononokeInu",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7c86f790586783c38a5080b38737a5683a27bea3362e3d4a891cd0b24e9c2f67",
+  "path": [
+    "MononokeInu.sol"
+  ],
+  "address": "0x4da08a1Bff50BE96bdeD5C7019227164b49C2bFc"
+}

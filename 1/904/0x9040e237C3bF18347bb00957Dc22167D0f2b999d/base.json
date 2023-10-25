@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Standard",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Standard.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol",
+    "contracts/UsingLiquidityProtectionService.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "contracts/ILiquidityProtectionService.sol",
+    "@openzeppelin/contracts/access/AccessControlEnumerable.sol",
+    "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/security/Pausable.sol"
+  ],
+  "address": "0x9040e237C3bF18347bb00957Dc22167D0f2b999d"
+}

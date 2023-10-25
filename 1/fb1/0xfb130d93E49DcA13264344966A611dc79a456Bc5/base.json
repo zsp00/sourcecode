@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DOGEGF",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d94d660ca6c1e9565ed0dce308dce63f8081c88ba2f1f4e3c9f24e9cabe6464e",
+  "path": [
+    "DOGEGF.sol"
+  ],
+  "address": "0xfb130d93E49DcA13264344966A611dc79a456Bc5"
+}
