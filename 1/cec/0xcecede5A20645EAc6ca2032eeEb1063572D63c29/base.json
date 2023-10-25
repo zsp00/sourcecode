@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "P2PX",
+  "CompilerVersion": "v0.5.3+commit.10d17f24",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5f21e9038ffc21c58b537839b939916661f7569a78211d94fd620e1213001b80",
+  "path": [
+    "P2PX.sol"
+  ],
+  "address": "0xcecede5A20645EAc6ca2032eeEb1063572D63c29"
+}

@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC20Basic",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://65bb83c54363946c5c548df84ad5ddd29f271228f710b5ecd09be7931ad9a45d",
+  "path": [
+    "ERC20Basic.sol",
+    "IERC20.sol",
+    "Ownable.sol",
+    "Whitelist.sol"
+  ],
+  "address": "0x992D339532A9C42F1b0E59A57e95F38da38c66F6"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Jesus",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://69f5cd7263f4bbc79593d13ff5d042e287261304057eee11865e6065f2f08e4f",
+  "path": [
+    "Jesus.sol"
+  ],
+  "address": "0xD115A61A25c059c78cD34b97Fab7aB25dfC84BC3"
+}

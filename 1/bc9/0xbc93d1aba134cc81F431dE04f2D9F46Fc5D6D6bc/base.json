@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Musketeer",
+  "CompilerVersion": "v0.7.1+commit.f4a555be",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a9f8a32cf595bcee26ce398756ca5b61b69dd4b8e4879a6001a462739a110045",
+  "path": [
+    "Musketeer.sol"
+  ],
+  "address": "0xbc93d1aba134cc81F431dE04f2D9F46Fc5D6D6bc"
+}
