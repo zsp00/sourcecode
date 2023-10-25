@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WOMTokenProxy",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000c61f671a73744c080ef5bc2a5daa534b6ecb30200000000000000000000000037836c3d61e6ee20c98cc53240994e0609df0dc7000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000048129fc1c00000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0x3643ed1e3ad2aec3f3557524a9b2d54a60508a35",
+  "SwarmSource": "ipfs://c11dd28b12bf3e8ba3c15c9172e8c938b21da56356cb96ea4dc07a8ee17bcd06",
+  "path": [
+    "WOMTokenProxy.sol"
+  ],
+  "address": "0xBd356a39BFf2cAda8E9248532DD879147221Cf76"
+}
