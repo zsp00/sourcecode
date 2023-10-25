@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TestToken",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cf85e25dd5cc7656fbdd92e6ae1a152ed5a74b1c7b40b8ad81457882ecf34398",
+  "path": [
+    "Context.sol",
+    "ERC20.sol",
+    "ERC20Detailed.sol",
+    "IERC20.sol",
+    "Migrations.sol",
+    "Ownable.sol",
+    "BloodToken.sol",
+    "LockAmount.sol",
+    "Math.sol",
+    "SafeMath.sol",
+    "TestToken.sol"
+  ],
+  "address": "0xd2727e4259BBa31955FD582986334AEA4fBA8C52"
+}
