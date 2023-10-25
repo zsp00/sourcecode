@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SkillChainToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://60288ab3283834f86ffeb0db67eb578cd6a7f3d295ea0d997b4a3665de155522",
+  "path": [
+    "SkillChainToken.sol"
+  ],
+  "address": "0x996Dc5dfc819408Dd98Cd92c9a76f64b0738Dc3D"
+}

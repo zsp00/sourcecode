@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AmberToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://204c178072e3f346742b9c8b512704514d37f965afae9a5ddc951542a6230e49",
+  "path": [
+    "AmberToken.sol"
+  ],
+  "address": "0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE"
+}

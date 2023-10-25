@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "iFish",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a80baa8e53fa884b9db893dba5ed33b94e9632b28a253b7391977c547a229e7d",
+  "path": [
+    "iFish.sol"
+  ],
+  "address": "0x98b4CA8Bd52E4ED1F28D3F30d9f567d1166c9483"
+}

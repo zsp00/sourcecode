@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ATN",
+  "CompilerVersion": "v0.4.17+commit.bdeb9e52",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ac7f1c0f387715460c81546556460a75e2d151fdb0d38af10c200e54ae651f2e",
+  "path": [
+    "ATN.sol"
+  ],
+  "address": "0x461733c17b0755CA5649B6DB08B3E213FCf22546"
+}

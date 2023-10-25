@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ONSTON",
+  "CompilerVersion": "v0.8.2+commit.661d1103",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000eecfd38ed7426abbf1a9ec0c3015e6e865863aef",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5256d21a485e4486a384730ae15dc31a21eaaa1de7832fe5513bf357ab372367",
+  "path": [
+    "ONSTON.sol"
+  ],
+  "address": "0x47b9F01B16E9C9cb99191DCA68c9cc5bF6403957"
+}

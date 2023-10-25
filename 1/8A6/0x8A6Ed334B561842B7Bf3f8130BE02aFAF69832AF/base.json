@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CMDX",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://dc8807bb93a0735cc37ec3130575d97c505ad7daac401400f34402e76eafc404",
+  "path": [
+    "CMDX.sol"
+  ],
+  "address": "0x8A6Ed334B561842B7Bf3f8130BE02aFAF69832AF"
+}

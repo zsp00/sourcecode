@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Safereum",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "10000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e8898c8247a183cd505a6a421a2928b48fa2e6b5ebb2dc6f04b4fe557080dfe0",
+  "path": [
+    "Safereum.sol"
+  ],
+  "address": "0xb504035a11E672e12a099F32B1672b9C4a78b22f"
+}

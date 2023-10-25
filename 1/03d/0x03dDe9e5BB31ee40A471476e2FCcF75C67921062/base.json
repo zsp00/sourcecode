@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TokenImplementation",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a06f59e1233341dd69d77387147f9f2ed2558c794c5a8869c844459a5dd14381",
+  "path": [
+    "@openzeppelin/contracts-upgradeable/token/ERC20/IERC20Upgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/utils/math/SafeMathUpgradeable.sol",
+    "@openzeppelin/contracts/proxy/Clones.sol",
+    "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/token/ERC20/extensions/IERC20MetadataUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/utils/AddressUpgradeable.sol",
+    "contracts/Token_Factory.sol",
+    "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol",
+    "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "contracts/Token_Implementation.sol",
+    "@openzeppelin/contracts-upgradeable/token/ERC20/ERC20Upgradeable.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts-upgradeable/security/PausableUpgradeable.sol"
+  ],
+  "address": "0x03dDe9e5BB31ee40A471476e2FCcF75C67921062"
+}

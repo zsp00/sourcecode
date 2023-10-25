@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AiDAO",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0ce4c67eadbb131f3e71360fe8ae3769b9126eed39b95152e1d6b8e822270a94",
+  "path": [
+    "AiDAO.sol"
+  ],
+  "address": "0x41D0496b954C975c8513F72Fce6F92536beC60A9"
+}
