@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NOWAI",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c4699b47c6adf6ed367006fd2c81c9d47173547fa0c5876d3e9f0f200543c33b",
+  "path": [
+    "NOWAI.sol"
+  ],
+  "address": "0x987441856BA4f463544FC68ccBF6a80F434a7956"
+}

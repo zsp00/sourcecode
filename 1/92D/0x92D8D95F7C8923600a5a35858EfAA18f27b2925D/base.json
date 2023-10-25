@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BobiInu",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e92c4b93cdc6f189f5a65f50625d76dec9e0af891c09948e5e73bc3e69afcb77",
+  "path": [
+    "BobiInu.sol"
+  ],
+  "address": "0x92D8D95F7C8923600a5a35858EfAA18f27b2925D"
+}
