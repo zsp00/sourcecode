@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Legichain",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://12cbc3b978e75d9c008f2d24dddca7b7f84709581279bde32c0f6ddfa08db4fc",
+  "path": [
+    "Legichain.sol"
+  ],
+  "address": "0x4693f908a90B6700CAffaECe8dddC41990AB6747"
+}
