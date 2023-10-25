@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GoldenRetrieverV2",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3ac42a39b5f10c2724891956c9e0944aec8649c65cccff94a628b609011885dc",
+  "path": [
+    "GoldenRetrieverV2.sol"
+  ],
+  "address": "0xFeeB4D0f5463B1b04351823C246bdB84c4320CC2"
+}
