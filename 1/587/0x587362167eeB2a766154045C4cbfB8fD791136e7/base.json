@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BasicToken",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5baadd5692b774462e3cc583468a104ea67ac4023008753baf5334a6a00bc8ea",
+  "path": [
+    "BasicToken.sol"
+  ],
+  "address": "0x587362167eeB2a766154045C4cbfB8fD791136e7"
+}
