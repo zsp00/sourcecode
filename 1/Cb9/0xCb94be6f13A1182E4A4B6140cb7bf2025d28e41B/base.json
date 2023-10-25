@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Trustcoin",
+  "CompilerVersion": "v0.4.8+commit.60cc1668",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000094D99A91f55259Ed93503f8711E79D71E6e913E2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://489dd7d5cf36a9167f27c4b5fc1de716a507db014dc96c3449957480bccff801",
+  "path": [
+    "Trustcoin.sol"
+  ],
+  "address": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UPTOBER",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b8a6b989bb65aec4b14633ecda8a9f0001f74098a27630209f0063e8474bf02e",
+  "path": [
+    "UPTOBER.sol"
+  ],
+  "address": "0x54445c6Ffc0497821dC2A949FfBb5eBd9c392834"
+}

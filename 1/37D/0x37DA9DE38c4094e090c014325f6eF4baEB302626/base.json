@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OTSeaERC20",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000081be68d86eb5645fe696e6c911791a5169ddff080000000000000000000000001c17a4cbb41460e92a91dac7cab5b661b273236d000000000000000000000000ab66f3321ee1ec07daf4f4ca757bfcfdc943aad4000000000000000000000000b50f3731046d4a6716bb1ef7e742735e2eef9990",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "contracts/OTSeaDividends.sol",
+    "contracts/OTSeaERC20.sol",
+    "contracts/SafeMath.sol"
+  ],
+  "address": "0x37DA9DE38c4094e090c014325f6eF4baEB302626"
+}
