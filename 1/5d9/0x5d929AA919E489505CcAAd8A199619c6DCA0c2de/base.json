@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BaaSid",
+  "CompilerVersion": "v0.5.4+commit.9549d8ff",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0652ea2b2f32a8394252fd1c4e3714b34f6180c1140ef40929f28d93bbaf432b",
+  "path": [
+    "BaaSid.sol",
+    "ercInterface.sol"
+  ],
+  "address": "0x5d929AA919E489505CcAAd8A199619c6DCA0c2de"
+}

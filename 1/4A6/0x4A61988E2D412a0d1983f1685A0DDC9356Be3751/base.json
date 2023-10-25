@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZapaygoHoldingToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cbbab3e18493baf9e9955d3f99d84c535883d405b1538292114c0039a22c6260",
+  "path": [
+    "StandardToken.sol",
+    "ZapaygoHoldingToken.sol",
+    "BasicToken.sol",
+    "ERC20.sol",
+    "ERC20Basic.sol",
+    "SafeMath.sol"
+  ],
+  "address": "0x4A61988E2D412a0d1983f1685A0DDC9356Be3751"
+}
