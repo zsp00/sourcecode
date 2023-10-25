@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KaratBankCoin",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://641c269aac583174d18549e8eba0434a2102d730106e774c4eb2d7608afc15b4",
+  "path": [
+    "KaratBankCoin.sol"
+  ],
+  "address": "0xd67b1Db49801b6F4c96a01a4F7964233150dc58b"
+}

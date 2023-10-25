@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ETH_RUNE",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://318be0a1a56a27a6a140b81aac71322cdca3cb75b526d4c710a0273540de2150",
+  "path": [
+    "ETH_RUNE.sol"
+  ],
+  "address": "0x3155BA85D5F96b2d030a4966AF206230e46849cb"
+}

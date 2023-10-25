@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VideoCoin",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3c55c79fa2fa446b4039054dd70a7dda97f5ba853164d380b5bae296ff78d325",
+  "path": [
+    "VideoCoin.sol"
+  ],
+  "address": "0x2C9023bBc572ff8dc1228c7858A280046Ea8C9E5"
+}

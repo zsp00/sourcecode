@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PermacultureCoin",
+  "CompilerVersion": "v0.7.0+commit.9e61f92b",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a57f1e4d7f08e5f4880e293a51d8bf3bdafb44e2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://965b29c4ba74c1cf5ed0b10b104d3e3ee00b9dbaaf5fb825631012dada2745a0",
+  "path": [
+    "PermacultureCoin.sol"
+  ],
+  "address": "0xC0B376f1887b00b66De12cD0741618FCaAA6D47d"
+}
