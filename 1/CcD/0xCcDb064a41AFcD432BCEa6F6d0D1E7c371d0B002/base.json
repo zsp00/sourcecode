@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Qrolli",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "qrolli.sol"
+  ],
+  "address": "0xCcDb064a41AFcD432BCEa6F6d0D1E7c371d0B002"
+}

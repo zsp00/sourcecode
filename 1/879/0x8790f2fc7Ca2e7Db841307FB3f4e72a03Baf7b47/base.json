@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SpillWays",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://790e2f4d71870c318c2ab27580a75e43bdc6b4b59aa4dfd925b9d5c728c98151",
+  "path": [
+    "SpillWays.sol"
+  ],
+  "address": "0x8790f2fc7Ca2e7Db841307FB3f4e72a03Baf7b47"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BOXToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8aa93948a2d9096564f89fc44d7f64f4e82517b4e2bd2e3daf81bae4addc8894",
+  "path": [
+    "BOXToken.sol"
+  ],
+  "address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f"
+}
