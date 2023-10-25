@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EvedoToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000084595161401484a0000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4a775a83b80109f36f7426bf2d7ba9023d0d6379194540500e20271b80498d6e",
+  "path": [
+    "EvedoToken.sol"
+  ],
+  "address": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd"
+}
