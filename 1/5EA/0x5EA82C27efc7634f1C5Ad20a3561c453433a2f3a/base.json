@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BTRToken",
+  "CompilerVersion": "v0.5.4+commit.9549d8ff",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b42229f1b7dcfb4d6e0cff703b92ad1329ee37a12951c9229375b52d4f0ff420",
+  "path": [
+    "BTRToken.sol"
+  ],
+  "address": "0x5EA82C27efc7634f1C5Ad20a3561c453433a2f3a"
+}

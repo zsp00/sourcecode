@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UltimateTipbot",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c8aa34a04d9450c2ca271d98d5f3ebeededa9a8b3859bc6d9d141f7a8e009ac7",
+  "path": [
+    "UltimateTipbot.sol"
+  ],
+  "address": "0x6b4CEB0beb0DCF0043C9389e01e3F1c84b422e4f"
+}

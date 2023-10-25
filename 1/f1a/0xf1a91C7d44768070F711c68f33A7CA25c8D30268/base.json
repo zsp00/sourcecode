@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Charlie",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "2000",
+  "ConstructorArguments": "",
+  "EVMVersion": "byzantium",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "/C/Crypto/Projects/Cards/cards_solidity/contracts/external/IUniswapV2Router01.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "/C/Crypto/Projects/Cards/cards_solidity/contracts/external/IUniswapV2Router02.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "/C/Crypto/Projects/Cards/cards_solidity/contracts/Charlie.sol",
+    "/C/Crypto/Projects/Cards/cards_solidity/contracts/external/IUniswapV2Factory.sol"
+  ],
+  "address": "0xf1a91C7d44768070F711c68f33A7CA25c8D30268"
+}
