@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NASDAQ6900",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b8e59a0e57e173a0afd79c1f224bd76b41797bec26b287acb11d0c13f628dd3f",
+  "path": [
+    "NASDAQ6900.sol"
+  ],
+  "address": "0x3b944C672D250beA6a65c4F933895F823BD6D013"
+}
