@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Fellaz",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000f0260e76837f6452af6381f819057b8c2e53f6c2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c50cb4abddf4490ee11e0f602e73c8931584b975b7475ca2e7100f51af3df728",
+  "path": [
+    "Fellaz.sol"
+  ],
+  "address": "0x8E964e35A76103Af4C7D7318e1B1a82c682ae296"
+}
