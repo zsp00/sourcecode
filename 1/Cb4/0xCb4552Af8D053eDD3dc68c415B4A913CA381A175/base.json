@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TPX",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ace28e1f290310703f6dc164761876dd8c0ccca8dcfe3a9f2f77cdbfe48875f7",
+  "path": [
+    "TPX.sol"
+  ],
+  "address": "0xCb4552Af8D053eDD3dc68c415B4A913CA381A175"
+}

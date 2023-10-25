@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PuffyBirdo",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://98d72410b5097aa79fdc403db6ec92f3d54003e02ef2c5b6e123eac0fb33a5e3",
+  "path": [
+    "PuffyBirdo.sol"
+  ],
+  "address": "0xbf9Dac4e8439965809373f5C388fAecC7F951994"
+}
