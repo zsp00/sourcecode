@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PREMA",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://34f25f31c330dc105ad0013b9601e77294e268fb34c18386ca01a1d69c52332e",
+  "path": [
+    "PREMA.sol"
+  ],
+  "address": "0xe4dae00bc1c46ea2F44ae71B1BEb8b171C15d812"
+}

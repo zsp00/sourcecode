@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SHIBAINU",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://63817d4a8c5b46e2cb5d428779abaa296880e393c32ed8d8688dcb1befb19846",
+  "path": [
+    "SHIBAINU.sol"
+  ],
+  "address": "0x45a2F5d4AB4CCb8d4e3c006774aCE22860c77338"
+}
