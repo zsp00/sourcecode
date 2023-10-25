@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EarthToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://08fa0c1ae6a433f0ff44a641a34c83e2c86d6ff7e6488632d80b2d0aff45e7fc",
+  "path": [
+    "EarthToken.sol"
+  ],
+  "address": "0x9e04F519b094F5F8210441e285f603f4d2b50084"
+}

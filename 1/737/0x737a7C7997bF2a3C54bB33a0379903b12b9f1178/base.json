@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PrestigeWorldwideToken",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5edb74c9e95d10fe040ed506677d1803fadb2ba9b667cc814f8c7f89fc4bc56c",
+  "path": [
+    "PrestigeWorldwideToken.sol"
+  ],
+  "address": "0x737a7C7997bF2a3C54bB33a0379903b12b9f1178"
+}
