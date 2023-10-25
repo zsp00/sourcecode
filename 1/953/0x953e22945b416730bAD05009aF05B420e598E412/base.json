@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GXCToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5259d65382c88004b8aa1f5d4bc3f29c5255242a3bc3e346ee7a4f5ddafaaa9d",
+  "path": [
+    "GXCToken.sol"
+  ],
+  "address": "0x953e22945b416730bAD05009aF05B420e598E412"
+}

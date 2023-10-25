@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HydraToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ea4a27747ffb046e50c24515e205cca27fd79375",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://400b32d0491043713fc669a5e90d103944ec586baa2f54204ea9e22c0ab8811f",
+  "path": [
+    "HydraToken.sol"
+  ],
+  "address": "0x4501A82790eF2587dfEb93Dc038541228E516597"
+}
