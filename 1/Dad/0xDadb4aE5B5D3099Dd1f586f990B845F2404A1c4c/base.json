@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LennyFaceCoin",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a902499078dd35458a8472d7e3100a3de767ff6f13e2d31920c66120e8bdccd0",
+  "path": [
+    "LennyFaceCoin.sol"
+  ],
+  "address": "0xDadb4aE5B5D3099Dd1f586f990B845F2404A1c4c"
+}

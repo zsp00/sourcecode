@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DustToken",
+  "CompilerVersion": "v0.7.5+commit.eb77ed08",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000001027e72f1f12813088000000000000000000000000000000000000000000000000000000000000000000000a4455535420546f6b656e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000444555354000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC777/IERC777Recipient.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC777/IERC777.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/introspection/IERC1820Registry.sol",
+    "contracts/DustToken.sol",
+    "contracts/openzeppelin/ERC777.sol",
+    "@openzeppelin/contracts/token/ERC777/IERC777Sender.sol"
+  ],
+  "address": "0xe2E109f1b4eaA8915655fE8fDEfC112a34ACc5F0"
+}

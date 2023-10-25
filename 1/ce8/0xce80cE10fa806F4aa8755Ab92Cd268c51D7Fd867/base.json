@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IdallToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000e79a2d8e3943fbba62d33ac5dd426198b1429fc00000000000000000000000000000000000000000000000000005af3107a4000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6b4d2b2e1b70848aad715fb3c9bb458d057351b97438475c59e29eecee6f54f5",
+  "path": [
+    "IdallToken.sol"
+  ],
+  "address": "0xce80cE10fa806F4aa8755Ab92Cd268c51D7Fd867"
+}
