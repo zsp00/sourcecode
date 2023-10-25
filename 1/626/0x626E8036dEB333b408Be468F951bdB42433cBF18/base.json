@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AIOZToken",
+  "CompilerVersion": "v0.8.3+commit.8d00100c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9535ed4b42d06e9fc8450c24953f25ff95a477fd47b30a0a08a33aed990fda60",
+  "path": [
+    "IERC20Metadata.sol",
+    "Ownable.sol",
+    "TokenTimelock.sol",
+    "AIOZToken.sol",
+    "IERC20.sol"
+  ],
+  "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18"
+}

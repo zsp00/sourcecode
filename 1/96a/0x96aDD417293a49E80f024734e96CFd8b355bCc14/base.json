@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LiquidLayerToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8a55d7c58cbc3e945b96b71953760fb92c2d89b9fdd48a44889f4e42ba9855d3",
+  "path": [
+    "LiquidLayerToken.sol"
+  ],
+  "address": "0x96aDD417293a49E80f024734e96CFd8b355bCc14"
+}
