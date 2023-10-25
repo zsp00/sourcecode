@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "zzzzzzzzzz",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4d23ca5f12d3f8a290d80f0b0948ecf8419cb94a0619fa9b51e5795a74504142",
+  "path": [
+    "zzzzzzzzzz.sol"
+  ],
+  "address": "0x818f0c90E38757A6443635262c708e7275614A15"
+}
