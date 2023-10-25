@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YUUKI",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://674b885c6d97b0259565cbd07b8e400f5c9b961f208f7d24feaf25bd82da5269",
+  "path": [
+    "YUUKI.sol"
+  ],
+  "address": "0xBF1ccb3E65FaCD85516DaF7463bC5A2823E3Cd1c"
+}
