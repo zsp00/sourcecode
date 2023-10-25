@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NewGolemNetworkToken",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000e6a2a5f47c5a188c65c778cd493f7d92ff8266e0000000000000000000000000000000000000000000000000000000000000001",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://55aea1d85f135b4c316ab82c25452e2f376298e3692bc5f39fcb47a97fa9bc0f",
+  "path": [
+    "NewGolemNetworkToken.sol"
+  ],
+  "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429"
+}

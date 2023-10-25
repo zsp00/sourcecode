@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MultichainToken",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv2",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://27fbb2f8d4b1b024367ee4f3d794bd6530763564669820088542d9fd4641903c",
+  "path": [
+    "MultichainToken.sol"
+  ],
+  "address": "0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4"
+}
