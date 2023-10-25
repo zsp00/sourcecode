@@ -11,5 +11,15 @@
   "LicenseType": "",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": ""
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/Floki.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "contracts/governance/IGovernanceToken.sol",
+    "contracts/tax/ITaxHandler.sol",
+    "contracts/treasury/ITreasuryHandler.sol"
+  ],
+  "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E"
 }

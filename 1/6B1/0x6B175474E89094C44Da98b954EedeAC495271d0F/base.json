@@ -11,5 +11,9 @@
   "LicenseType": "GNU GPLv3",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": "bzzr://c0ae2c29860c0a59d5586a579abbcddfe4bcef0524a87301425cbc58c3e94e31"
+  "SwarmSource": "bzzr://c0ae2c29860c0a59d5586a579abbcddfe4bcef0524a87301425cbc58c3e94e31",
+  "path": [
+    "Dai.sol"
+  ],
+  "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
 }

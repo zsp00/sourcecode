@@ -11,5 +11,9 @@
   "LicenseType": "",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": "bzzr://deb4c2ccab3c2fdca32ab3f46728389c2fe2c165d5fafa07661e4e004f6c344a"
+  "SwarmSource": "bzzr://deb4c2ccab3c2fdca32ab3f46728389c2fe2c165d5fafa07661e4e004f6c344a",
+  "path": [
+    "WETH9.sol"
+  ],
+  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
 }

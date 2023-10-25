@@ -11,5 +11,9 @@
   "LicenseType": "None",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": "bzzr://e20d925751f78a8e97575d042cae5a0688546f17e3e28665288efb94861651f1"
+  "SwarmSource": "bzzr://e20d925751f78a8e97575d042cae5a0688546f17e3e28665288efb94861651f1",
+  "path": [
+    "TokenMintERC20Token.sol"
+  ],
+  "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
 }

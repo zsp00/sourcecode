@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Bufficorn",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000e0000000000000000000000000000000000000000000000000000000000000014070f59debefbd647128694f2b04f80f9f3d8c687ac36ae60e9cd024b39ed81191000000000000000000000000000000000000000000000000000000000000025800000000000000000000000000000000000000000000000000000000000014a0000000000000000000000000000000000000000000000000000000000000271000000000000000000000000011cce80e6ea89c7da94f670977edbf7673fdcef4000000000000000000000000000000000000000000000000000000000000002e68747470733a2f2f70726f642d6d657461646174612e73332e616d617a6f6e6177732e636f6d2f746f6b656e732f000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003468747470733a2f2f70726f642d6d657461646174612e73332e616d617a6f6e6177732e636f6d2f636f6e74726163742e6a736f6e000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/Bufficorn.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol",
+    "@openzeppelin/contracts/token/ERC721/ERC721.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol"
+  ],
+  "address": "0x1e988ba4692e52Bc50b375bcC8585b95c48AaD77"
+}

@@ -11,5 +11,9 @@
   "LicenseType": "",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": "bzzr://cce49a7abfc4bd1fcccf59df283bbf2975819bc0cd4e6f6755f46ea9411bdc65"
+  "SwarmSource": "bzzr://cce49a7abfc4bd1fcccf59df283bbf2975819bc0cd4e6f6755f46ea9411bdc65",
+  "path": [
+    "MaticToken.sol"
+  ],
+  "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
 }

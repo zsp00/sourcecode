@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KishuInu",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4932a228d5481ba475f1d0db90b5a69bbf0cd95430e217a4aa580a798b1df690",
+  "path": [
+    "KishuInu.sol"
+  ],
+  "address": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D"
+}

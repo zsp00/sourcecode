@@ -11,5 +11,9 @@
   "LicenseType": "",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": ""
+  "SwarmSource": "",
+  "path": [
+    "contracts/unibot_v2.sol"
+  ],
+  "address": "0xf819d9Cb1c2A819Fd991781A822dE3ca8607c3C9"
 }

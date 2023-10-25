@@ -11,5 +11,15 @@
   "LicenseType": "",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": ""
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/Tip.sol",
+    "hardhat/console.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0x0176b898E92e814c06Cc379E508CEB571F70bD40"
 }

@@ -11,5 +11,9 @@
   "LicenseType": "",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": "bzzr://645ee12d73db47fd78ba77fa1f824c3c8f9184061b3b10386beb4dc9236abb28"
+  "SwarmSource": "bzzr://645ee12d73db47fd78ba77fa1f824c3c8f9184061b3b10386beb4dc9236abb28",
+  "path": [
+    "TetherToken.sol"
+  ],
+  "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
 }

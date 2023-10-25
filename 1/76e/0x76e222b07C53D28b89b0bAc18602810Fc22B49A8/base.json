@@ -11,5 +11,9 @@
   "LicenseType": "",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": ""
+  "SwarmSource": "",
+  "path": [
+    "joecoin.sol"
+  ],
+  "address": "0x76e222b07C53D28b89b0bAc18602810Fc22B49A8"
 }

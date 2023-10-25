@@ -11,5 +11,12 @@
   "LicenseType": "",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": ""
+  "SwarmSource": "",
+  "path": [
+    "/Users/js/Documents/agix-contracts-master/contracts/Ownable.sol",
+    "/Users/js/Documents/agix-contracts-master/contracts/SingDao.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "/Users/js/Documents/agix-contracts-master/contracts/Context.sol"
+  ],
+  "address": "0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F"
 }

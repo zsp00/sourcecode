@@ -11,5 +11,9 @@
   "LicenseType": "MIT",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": "bzzr://ee7cac4ea53bf5c12ef605eb88bd54afa00b81febf81df80df693129f0a91519"
+  "SwarmSource": "bzzr://ee7cac4ea53bf5c12ef605eb88bd54afa00b81febf81df80df693129f0a91519",
+  "path": [
+    "DEAPCoin.sol"
+  ],
+  "address": "0x1A3496C18d558bd9C6C8f609E1B129f67AB08163"
 }

@@ -11,5 +11,9 @@
   "LicenseType": "GNU GPLv3",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": "bzzr://03831a05eef9554b28a0275d37c8ad0ff27e6bb2a227f1cce439c4251d309d74"
+  "SwarmSource": "bzzr://03831a05eef9554b28a0275d37c8ad0ff27e6bb2a227f1cce439c4251d309d74",
+  "path": [
+    "LRC_v2.sol"
+  ],
+  "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD"
 }

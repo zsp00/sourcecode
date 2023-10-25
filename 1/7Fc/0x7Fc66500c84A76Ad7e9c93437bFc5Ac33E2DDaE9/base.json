@@ -11,5 +11,27 @@
   "LicenseType": "",
   "Proxy": "1",
   "Implementation": "0x96f68837877fd0414b55050c9e794aecdbcfca59",
-  "SwarmSource": ""
+  "SwarmSource": "",
+  "path": [
+    "contracts/open-zeppelin/BaseAdminUpgradeabilityProxy.sol",
+    "contracts/open-zeppelin/UpgradeabilityProxy.sol",
+    "contracts/utils/VersionedInitializable.sol",
+    "contracts/token/LendToAaveMigrator.sol",
+    "contracts/utils/MintableErc20.sol",
+    "contracts/utils/MockTransferHook.sol",
+    "contracts/interfaces/IERC20Detailed.sol",
+    "contracts/open-zeppelin/InitializableAdminUpgradeabilityProxy.sol",
+    "contracts/token/AaveToken.sol",
+    "contracts/open-zeppelin/Context.sol",
+    "contracts/interfaces/ITransferHook.sol",
+    "contracts/open-zeppelin/BaseUpgradeabilityProxy.sol",
+    "contracts/open-zeppelin/Proxy.sol",
+    "contracts/open-zeppelin/SafeMath.sol",
+    "contracts/open-zeppelin/InitializableUpgradeabilityProxy.sol",
+    "contracts/utils/DoubleTransferHelper.sol",
+    "contracts/interfaces/IERC20.sol",
+    "contracts/open-zeppelin/ERC20.sol",
+    "contracts/open-zeppelin/Address.sol"
+  ],
+  "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
 }

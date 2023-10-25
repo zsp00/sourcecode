@@ -11,5 +11,25 @@
   "LicenseType": "",
   "Proxy": "0",
   "Implementation": "",
-  "SwarmSource": ""
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "contracts/Spell.sol",
+    "@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "contracts/Enchantable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/security/Pausable.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol",
+    "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/RSR.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol"
+  ],
+  "address": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70"
 }
