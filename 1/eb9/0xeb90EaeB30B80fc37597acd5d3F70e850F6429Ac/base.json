@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RTI",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b4083a421338d65828b30334394977fb4fc7b75bc0a129aba07335b9b5a2d1b3",
+  "path": [
+    "RTI.sol"
+  ],
+  "address": "0xeb90EaeB30B80fc37597acd5d3F70e850F6429Ac"
+}
