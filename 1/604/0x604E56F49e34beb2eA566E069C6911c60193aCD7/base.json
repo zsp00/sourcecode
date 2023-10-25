@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WADCoin",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000020c855800",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4d7e1cbcb9668751e8cd0ba422bd3cb3e639930324307be7df41dd15da10b7ee",
+  "path": [
+    "WADCoin.sol"
+  ],
+  "address": "0x604E56F49e34beb2eA566E069C6911c60193aCD7"
+}
