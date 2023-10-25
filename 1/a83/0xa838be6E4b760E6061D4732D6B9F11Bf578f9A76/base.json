@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TokenForTelevision",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "10000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1a2cb6f0b9ce5118a7a7ea93082b2bb8a88e598cef9f60a42e1244104d9ebfbb",
+  "path": [
+    "TokenForTelevision.sol"
+  ],
+  "address": "0xa838be6E4b760E6061D4732D6B9F11Bf578f9A76"
+}

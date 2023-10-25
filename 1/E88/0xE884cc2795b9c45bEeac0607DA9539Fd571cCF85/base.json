@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ultiledger",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000fb889483f561e5fb8e67071a50b14061a1bc25ea",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4279a978853bafb667f748e7265f8071dc1e058edddcb43410d7aeb453f07053",
+  "path": [
+    "Ultiledger.sol"
+  ],
+  "address": "0xE884cc2795b9c45bEeac0607DA9539Fd571cCF85"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GatsbyToolsPass",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "5000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6d668847a4dc88a4ad062a6ab340dd81597d0f4e4eaea030a466744e6bee2dcb",
+  "path": [
+    "GatsbyToolsPass.sol"
+  ],
+  "address": "0x7bF3FF578a70872b1A30Ae811eDe69477BF79f29"
+}

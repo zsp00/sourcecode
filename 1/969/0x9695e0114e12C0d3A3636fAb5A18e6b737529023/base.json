@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DFYNToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "000000000000000000000000899bfba3fbd79b80d35e9fb4dd594efd8d76f283",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/Users/shubham/Projects/Personal/dfyn-token/1inch-token/contracts/DFYNToken.sol"
+  ],
+  "address": "0x9695e0114e12C0d3A3636fAb5A18e6b737529023"
+}
