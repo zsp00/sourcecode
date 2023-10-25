@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Unifrog",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://37ec950a82b4d2e5314df7471a91bcf2dbaad5b063576b478d656f39747ca0a2",
+  "path": [
+    "Unifrog.sol"
+  ],
+  "address": "0x2abF7B59ca3c210f186B87D53615C2bC2C95EF69"
+}

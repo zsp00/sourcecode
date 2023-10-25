@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Cyberdoge",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6b92fa9e9dd4fcd9aae77a4d8ebf49f44dd35b5696281eb7f01387e5d810d9b7",
+  "path": [
+    "Cyberdoge.sol"
+  ],
+  "address": "0x4E7B8c0ea629a2BCd9437fE7386aa9D3bd7f2074"
+}

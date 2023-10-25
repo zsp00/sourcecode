@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Maximus",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000000e00000000000000000000000000000000000000000000000000000000000015b3",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2ee8f58cb87e4676b1436935441467d6c8d2f12dec58e0784cd3c29228381898",
+  "path": [
+    "Maximus.sol"
+  ],
+  "address": "0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b"
+}
