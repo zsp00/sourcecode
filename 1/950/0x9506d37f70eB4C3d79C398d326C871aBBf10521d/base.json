@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MediaLicensingToken",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b192b093613bb7e4e7eefaea29106726054901615339be358c70c7394ae765c1",
+  "path": [
+    "MediaLicensingToken.sol"
+  ],
+  "address": "0x9506d37f70eB4C3d79C398d326C871aBBf10521d"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Token",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000f7e2d2ba320020fe1b6975b049a8afff4a5ac6c7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2eafa3d2b52f616c50304fcbab398ae3b7a080e83ffa7c007bd896cab5bc20eb",
+  "path": [
+    "Token.sol"
+  ],
+  "address": "0xd7c302fc3ac829C7E896a32c4Bd126f3e8Bd0a1f"
+}

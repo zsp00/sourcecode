@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EjsToken",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000001027e72f1f12813088000000000000000000000000000000000000000000000000000000000000000000000c456e6a696e7374617274657200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003454a530000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "contracts/interfaces/IERC20Mintable.sol",
+    "contracts/EjsToken.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Capped.sol",
+    "contracts/interfaces/IEjsToken.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x96610186F3ab8d73EBEe1CF950C750f3B1Fb79C2"
+}
