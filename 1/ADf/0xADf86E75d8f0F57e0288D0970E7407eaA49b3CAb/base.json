@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ApolloInu",
+  "CompilerVersion": "v0.8.3+commit.8d00100c",
+  "OptimizationUsed": "1",
+  "Runs": "99999",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6593a9947e3e99e242c2137949c41488ac1fdd05d952e79e6757fa057ec360e4",
+  "path": [
+    "ApolloInu.sol"
+  ],
+  "address": "0xADf86E75d8f0F57e0288D0970E7407eaA49b3CAb"
+}
