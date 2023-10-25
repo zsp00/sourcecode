@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OjamuToken",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7e194fa2fbccd89f92207af5b16f68d26fd1047fd0a58ac7bb3715b5f7f75a4d",
+  "path": [
+    "OjamuToken.sol"
+  ],
+  "address": "0x0aA7eFE4945Db24d95cA6E117BBa65Ed326e291A"
+}
