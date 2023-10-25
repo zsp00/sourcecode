@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XMON",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU AGPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9464340d2e8997aaa43c3c4649172b88b061b791226b248ed59f40125a084dff",
+  "path": [
+    "XMON.sol"
+  ],
+  "address": "0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74"
+}

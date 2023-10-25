@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LMI",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3ccfb952228a6af2e4a088ca7a275e152f839d8440eafd62c05c222fc65ab717",
+  "path": [
+    "LMI.sol"
+  ],
+  "address": "0xAf05Ce8A2Cef336006E933c02fc89887F5B3C726"
+}

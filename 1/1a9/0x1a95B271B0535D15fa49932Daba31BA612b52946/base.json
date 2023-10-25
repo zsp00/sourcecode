@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "minereum",
+  "CompilerVersion": "v0.4.10+commit.f0d539ae",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ecc422cbefd49f5b3567a8df8aa064348f9841fe15f3674e1b67d0e67af3e668",
+  "path": [
+    "minereum.sol"
+  ],
+  "address": "0x1a95B271B0535D15fa49932Daba31BA612b52946"
+}

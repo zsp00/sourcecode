@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "dobuy",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7bf0f7e7f321f534336daa6fbb2b82e3cfe41b8a06088a76f4c4633b4541338b",
+  "path": [
+    "dobuy.sol"
+  ],
+  "address": "0x7c82a76DB0166b0e153A66B1A4c331970B2b0EE2"
+}
