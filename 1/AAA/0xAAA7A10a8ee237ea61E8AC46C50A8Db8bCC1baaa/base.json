@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QANX",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://dae0b7308e533ed6887411ac0fa9a38ede082f4334ef028cd393303b68139b0b",
+  "path": [
+    "QANX.sol"
+  ],
+  "address": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa"
+}
