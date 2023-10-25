@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Kawakami",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000d0b84202bd02eb1b9f62b30de1d8985f65d8dfb3000000000000000000000000d6bd989bebdb03c95a4a6922bdb4f4ee5f1cf495",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5d0a32cd3daf9cb8a89fc0b5a827e53bc9cee971447c40faea0527f9ed0622c6",
+  "path": [
+    "Kawakami.sol"
+  ],
+  "address": "0x5552E5a89A70cB2eF5AdBbC45a6BE442fE7160Ec"
+}
