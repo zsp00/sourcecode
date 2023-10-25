@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Smatoos",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5e3625f6c140212128c8f2e8781fa11b0154c2a79ac66f97a476e186a1552640",
+  "path": [
+    "Smatoos.sol"
+  ],
+  "address": "0xDC97FDaADcbc1c77525B8a1c981865BD2e0425AA"
+}
