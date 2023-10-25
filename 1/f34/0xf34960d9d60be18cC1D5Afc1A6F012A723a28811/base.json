@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KCSToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000a23cdee",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7f50106235de4ed6fe38d14d48f9795d307344e0d1f343c4ffd104b7ae48c386",
+  "path": [
+    "IERC20.sol",
+    "Context.sol",
+    "ERC20.sol",
+    "ERC20Burnable.sol",
+    "Ownable.sol",
+    "SafeMath.sol",
+    "Blacklistable.sol",
+    "KCS.sol",
+    "Migrations.sol"
+  ],
+  "address": "0xf34960d9d60be18cC1D5Afc1A6F012A723a28811"
+}
