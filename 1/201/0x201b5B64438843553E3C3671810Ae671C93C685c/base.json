@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Megabot",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4a9634e7acd59ebbad70345a2c18b9fa36a6e981ea22c93797bc9352cb81699e",
+  "path": [
+    "Megabot.sol"
+  ],
+  "address": "0x201b5B64438843553E3C3671810Ae671C93C685c"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CGGToken",
+  "CompilerVersion": "v0.7.4+commit.3f05b770",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000006342fd08f00f6378000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0f68589fb1141e4a08b5603f906ac7b368b4be4d5306eb87d9669ce94289d951",
+  "path": [
+    "CGGToken.sol"
+  ],
+  "address": "0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43"
+}
