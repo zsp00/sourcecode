@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HuxleyComicsIssue56",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "erc721a/contracts/IERC721A.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/interfaces/IERC1271.sol",
+    "/contracts/HuxleyComicsIssue5-6.sol",
+    "/contracts/interfaces/IBurnable.sol",
+    "@openzeppelin/contracts/utils/cryptography/SignatureChecker.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol"
+  ],
+  "address": "0x42fe737749683595e4315b443eadcC9346a994D9"
+}

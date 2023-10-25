@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NuCypherToken",
+  "CompilerVersion": "v0.7.0+commit.9e61f92b",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000c8deb5a6116cca825b9dbb2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU AGPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9483e9d9d88d96576df326dde3fa3355ea5324d50e80edd2cc32d4f6e31509f0",
+  "path": [
+    "NuCypherToken.sol"
+  ],
+  "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc"
+}

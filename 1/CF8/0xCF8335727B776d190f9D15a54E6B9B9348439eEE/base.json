@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Epstein",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://32628732bee753951e353c65ec0cd1e13a7a4fedb98782c639b6d88b9a516999",
+  "path": [
+    "Epstein.sol"
+  ],
+  "address": "0xCF8335727B776d190f9D15a54E6B9B9348439eEE"
+}

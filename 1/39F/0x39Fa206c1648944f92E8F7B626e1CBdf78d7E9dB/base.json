@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DXY",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ead1b486a2939a2edcdbfcd1b73c55d325ea215aee5709ed56c3b2ce7e91085f",
+  "path": [
+    "DXY.sol"
+  ],
+  "address": "0x39Fa206c1648944f92E8F7B626e1CBdf78d7E9dB"
+}
