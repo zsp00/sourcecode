@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BetaToken",
+  "CompilerVersion": "v0.5.5+commit.47a71e8f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://69b6900f339d344a9dc8b8ce169e57f1bf59920c44a12d35e47af1cd1c0348aa",
+  "path": [
+    "BetaToken.sol"
+  ],
+  "address": "0x35F67c1D929E106FDfF8D1A55226AFe15c34dbE2"
+}
