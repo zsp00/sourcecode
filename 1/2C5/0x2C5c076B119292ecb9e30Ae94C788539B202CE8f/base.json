@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PEDOBEAR",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a6310a73326ffd33c734928408e41a2f7742d66cd0ebea8cb57fc074a118b16b",
+  "path": [
+    "PEDOBEAR.sol"
+  ],
+  "address": "0x2C5c076B119292ecb9e30Ae94C788539B202CE8f"
+}
