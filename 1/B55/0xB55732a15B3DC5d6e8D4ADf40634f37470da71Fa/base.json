@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ECPNToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c6e89dabbe807b4b7cc9e85b5d651a591df4742cb57249a0dce4b9bb400e2c31",
+  "path": [
+    "ECPNToken.sol"
+  ],
+  "address": "0xB55732a15B3DC5d6e8D4ADf40634f37470da71Fa"
+}
