@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PLANET",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0107ddbfd76664896a40f7a53badf30e1526a3d7723aba74e840974ec2808070",
+  "path": [
+    "PLANET.sol"
+  ],
+  "address": "0x2aD9adDD0d97EC3cDBA27F92bF6077893b76Ab0b"
+}

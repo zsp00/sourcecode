@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UNIINU",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://991ab1dbcd614ebd651b142fbfb70beb8cbe83ab9ce8d904751c5b6de41194cd",
+  "path": [
+    "UNIINU.sol"
+  ],
+  "address": "0x584d4B86F4aD82F9d58A2A8F24A37F400C72c409"
+}
