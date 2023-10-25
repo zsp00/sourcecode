@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DimitraToken",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fb4289c0b7e9481a3bd6ef00c2f6ed34902c59c7ca0feeaf606f32e046b2bc79",
+  "path": [
+    "ERC20.sol",
+    "ERC20Pausable.sol",
+    "IERC165.sol",
+    "AccessControlEnumerable.sol",
+    "EnumerableSet.sol",
+    "IERC20Metadata.sol",
+    "Strings.sol",
+    "DimitraToken.sol",
+    "ERC20Burnable.sol",
+    "IERC20.sol",
+    "Pausable.sol",
+    "ERC165.sol",
+    "ERC20PresetMinterPauser.sol",
+    "AccessControl.sol",
+    "Context.sol"
+  ],
+  "address": "0x51cB253744189f11241becb29BeDd3F1b5384fdB"
+}

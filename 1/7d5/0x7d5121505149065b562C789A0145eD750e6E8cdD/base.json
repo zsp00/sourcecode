@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VictoriaVR",
+  "CompilerVersion": "v0.6.8+commit.0bbfe453",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000010ee4afe37a863a124d0c94d5db43add454d6350",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2794c0c2e36e7ec76c62fe4f3893f44701bfe2c0cfc12d9687e51547f8252b19",
+  "path": [
+    "ERC20Pausable.sol",
+    "Pausable.sol",
+    "ERC20Burnable.sol",
+    "Math.sol",
+    "Ownable.sol",
+    "Address.sol",
+    "Context.sol",
+    "ERC20Snapshot.sol",
+    "IERC20.sol",
+    "VRToken.sol",
+    "Arrays.sol",
+    "ERC20.sol",
+    "SafeMath.sol",
+    "Counters.sol"
+  ],
+  "address": "0x7d5121505149065b562C789A0145eD750e6E8cdD"
+}
