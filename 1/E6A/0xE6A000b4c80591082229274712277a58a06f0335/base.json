@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Wapple",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d8ba378c075c8f063ebbf362a141a301d0158a702e87f69996fe38a9f0be7a96",
+  "path": [
+    "Wapple.sol"
+  ],
+  "address": "0xE6A000b4c80591082229274712277a58a06f0335"
+}
