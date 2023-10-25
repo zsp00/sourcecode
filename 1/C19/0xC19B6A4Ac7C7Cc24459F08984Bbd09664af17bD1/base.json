@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SENSOToken",
+  "CompilerVersion": "v0.5.11+commit.c082d0b4",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000545f1bb26f47980ecb56831a683a9f9919dbc96b000000000000000000000000e8b9424dec1231f687165dec4d0dc289c15319a9",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f7166001d92e4497488d4450ece7eb6e028075038b9cffea8ddf19161bc2dfef",
+  "path": [
+    "SENSOToken.sol"
+  ],
+  "address": "0xC19B6A4Ac7C7Cc24459F08984Bbd09664af17bD1"
+}
