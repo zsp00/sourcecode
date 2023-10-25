@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GTC",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e00abc6686ee8fa5c45161a5fa75fb99a1026b96000000000000000000000000e00abc6686ee8fa5c45161a5fa75fb99a1026b960000000000000000000000000000000000000000000000000000000061cffbf0",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": ""
+}

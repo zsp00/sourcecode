@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PUNDIXTokenProxy",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "1",
+  "Implementation": "0x4daa3c4c0a253c1e6c6fcb0705e5c64d21cf9c59",
+  "SwarmSource": "ipfs://7860ee4086a1821cb807e74f6419aa56a1dcf0f7fada65f0e079852a9fce8fcb"
+}
