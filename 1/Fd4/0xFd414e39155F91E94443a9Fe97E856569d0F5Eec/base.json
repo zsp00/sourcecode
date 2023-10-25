@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ShibariumPerpetuals",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://61489473c28fa3072c8e392b429461afe4a5c7776bee3bc1c9b025452b213b10",
+  "path": [
+    "ShibariumPerpetuals.sol"
+  ],
+  "address": "0xFd414e39155F91E94443a9Fe97E856569d0F5Eec"
+}

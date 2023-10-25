@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AdminUpgradeabilityProxy",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000001a1fdf27c5e6784d1cebf256a8a5cc0877e73af000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000044485cc955000000000000000000000000b4ed31195d1ad52f868dfc6a607e97d6773927f60000000000000000000000000996bfb5d057faa237640e2506be7b4f9c46de0b00000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU LGPLv3",
+  "Proxy": "1",
+  "Implementation": "0x1a1fdf27c5e6784d1cebf256a8a5cc0877e73af0",
+  "SwarmSource": "bzzr://f82e8b87e97893a49b8bd4d7b939f667ecf5bb0557066c581f98354d9f5ade52",
+  "path": [
+    "AdminUpgradeabilityProxy.sol"
+  ],
+  "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24"
+}
