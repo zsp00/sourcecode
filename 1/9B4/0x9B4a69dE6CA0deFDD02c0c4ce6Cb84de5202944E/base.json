@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ProofToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d000000000000000000000000e9b4d32f829951a3ce145d2caa84cf66af56ca5e000000000000000000000000ffa594c9af7569fe3860e88d74963c1006c02ad6000000000000000000000000000000000000000000000000000000000000dead000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000001e000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000001e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "contracts/ProofToken.sol",
+    "@openzeppelin/contracts/security/Pausable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
+    "contracts/interfaces/IProofToken.sol",
+    "contracts/interfaces/IUniswapV2Factory.sol",
+    "contracts/interfaces/IUniswapV2Router02.sol"
+  ],
+  "address": "0x9B4a69dE6CA0deFDD02c0c4ce6Cb84de5202944E"
+}

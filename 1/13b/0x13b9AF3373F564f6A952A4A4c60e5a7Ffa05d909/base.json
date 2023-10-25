@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WearX",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000008c088775e4139af116ac1fa6f281bbf71e8c1c7389b5c0e9b73168bd71c0a5a5e97e534fcb41329175debd525d08ec4b0cf726f100000000000000000000000000000000000000000000000000000000000000800000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000005168747470733a2f2f676174657761792e70696e6174612e636c6f75642f697066732f516d5a4c56546b686447615641594635634c773355566b536771374d78755a384d7479594450313731627847425a2f000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005c68747470733a2f2f676174657761792e70696e6174612e636c6f75642f697066732f516d6446743771467a5256534169767638486f4c67776a6342325a786e394d394a6d56457254517153516433517a2f68696464656e2e6a736f6e00000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "contracts/WearX.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/security/Pausable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "erc721a/contracts/IERC721A.sol"
+  ],
+  "address": "0x13b9AF3373F564f6A952A4A4c60e5a7Ffa05d909"
+}

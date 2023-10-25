@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MLProtocol",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a26e873e864b5038213d45e685e8106f0d42f40a45781690f8af56d8c92dcbeb",
+  "path": [
+    "MLProtocol.sol"
+  ],
+  "address": "0x757C67CB79a4DC8af386cB3abf32359C9a99F652"
+}
