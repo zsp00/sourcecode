@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EthereumLiteCash",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c9a829907df7da60cdf3b99d6f014bbdb728f679788f578e9a8b600d4fb8749e",
+  "path": [
+    "EthereumLiteCash.sol"
+  ],
+  "address": "0x8FAF0be1465B9bE70eE73d9123B2A1fDD9F2AAe4"
+}
