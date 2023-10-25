@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CNNToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://873769c494e58cda829b2d15fc61d2e3251377a9e92f7d1297b653744802af4f",
+  "path": [
+    "CNNToken.sol"
+  ],
+  "address": "0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343"
+}

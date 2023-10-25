@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CSToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://51d50aa285e195edae4771702454d4527b0b5f02d3b5f70ca5d39956b88770f8",
+  "path": [
+    "CSToken.sol"
+  ],
+  "address": "0xc0e4F45b828Aa4aA628e897e5DA38d9dC72C2257"
+}

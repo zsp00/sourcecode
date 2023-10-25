@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NotifaBot",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://98f8b70790e826b905eaff0c193fb8e7248bf2f16e35b9db0bd16a8ee681e715",
+  "path": [
+    "NotifaBot.sol"
+  ],
+  "address": "0x4Ed5db043275066298B584500ee59e5A7e1E57AC"
+}

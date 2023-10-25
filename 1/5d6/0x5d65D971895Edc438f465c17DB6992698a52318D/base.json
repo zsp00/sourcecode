@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NebulasToken",
+  "CompilerVersion": "v0.4.12+commit.194ff033",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000089731260b16eab0b941cc060ad078fbcda6498600000000000000000000000000000000000000000000000000000000004c4b40",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2b4b351f471fb4379e9b4830df75d728ee9277b9700b2825a9284b2c95c56f64",
+  "path": [
+    "NebulasToken.sol"
+  ],
+  "address": "0x5d65D971895Edc438f465c17DB6992698a52318D"
+}
