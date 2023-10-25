@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AICB",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MPL-2.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7a9eb7ada8f0bddb69548e1d3f12f675380e49b524b372ca3c3091307b852dc6",
+  "path": [
+    "AICB.sol"
+  ],
+  "address": "0xa97CD1c5BCEE878496Fadb4eDEE081D05239051F"
+}
