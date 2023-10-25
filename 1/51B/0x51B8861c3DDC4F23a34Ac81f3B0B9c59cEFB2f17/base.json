@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SampleERC",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "byzantium",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/node_modules/@openzeppelin/contracts/utils/Context.sol",
+    "/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "/contracts/SampleERC.sol"
+  ],
+  "address": "0x51B8861c3DDC4F23a34Ac81f3B0B9c59cEFB2f17"
+}

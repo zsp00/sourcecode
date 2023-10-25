@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SpaceChain",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ba00bf8333f9460de9340f2687c5e7bbd266f6f14a4d2ebb170c7a5a645ed0a9",
+  "path": [
+    "SpaceChain.sol"
+  ],
+  "address": "0x86ed939B500E121C0C5f493F399084Db596dAd20"
+}

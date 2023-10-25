@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CELL",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://62529715c801ab88f4a4fd614ea492e00a69c83ed0270adbd4076d3489090a02",
+  "path": [
+    "CELL.sol"
+  ],
+  "address": "0xaCa876Cc386557cE0905A5EA70A1cb6c6F3CA651"
+}
