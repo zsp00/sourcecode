@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PolkamonToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000000000000000000000084595161401484a0000000000000000000000000000005803a83be1fe01738b0bb3a289e9f82ce49003e30000000000000000000000000000000000000000000000000000000000000008506f6c6b616d6f6e0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004504d4f4e00000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "contracts/PolkamonToken.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol"
+  ],
+  "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2"
+}

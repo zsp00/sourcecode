@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TokenProxy",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "100",
+  "ConstructorArguments": "000000000000000000000000db77d0d3d9bf850e38282ed8b5fb410d02e75d2d000000000000000000000000ba80aa44cc25e85cc30359150dfb1c7d041cf6d500000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xea0f7eebdc2ae40edfe33bf03d332f8a7f617528",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Proxy.sol",
+    "contracts/external/openzeppelin/contracts/proxy/TransparentUpgradeableProxy.sol",
+    "contracts/external/openzeppelin/contracts/proxy/ERC1967Upgrade.sol",
+    "contracts/external/openzeppelin/contracts/proxy/IBeacon.sol",
+    "contracts/external/openzeppelin/contracts/utils/StorageSlot.sol",
+    "contracts/external/openzeppelin/contracts/proxy/ERC1967Proxy.sol",
+    "contracts/external/openzeppelin/contracts/proxy/Proxy.sol",
+    "contracts/external/openzeppelin/contracts/proxy/draft-IERC1822.sol",
+    "contracts/external/openzeppelin/contracts/utils/Address.sol"
+  ],
+  "address": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C"
+}

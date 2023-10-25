@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Niftsy",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000f3eed51e11aee5d8c161e97dcbbf17030803f8c1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://90ae58dd3f5fc41c27ef88469aaa524d2360a79d1f0145edf0a065b38f75addf",
+  "path": [
+    "ERC20.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "NiftsyERC20.sol",
+    "Context.sol"
+  ],
+  "address": "0x7728cd70b3dD86210e2bd321437F448231B81733"
+}

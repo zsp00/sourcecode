@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OG4762",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "300",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x5133522ea5a0494ecb83f26311a095ddd7a9d4b6",
+  "SwarmSource": "",
+  "path": [
+    "contracts/OG4762.sol",
+    "contracts/manifold/ERC721Creator.sol",
+    "node_modules/@openzeppelin/contracts/proxy/Proxy.sol",
+    "node_modules/@openzeppelin/contracts/utils/Address.sol",
+    "node_modules/@openzeppelin/contracts/utils/StorageSlot.sol"
+  ],
+  "address": "0x6abD8b72e1D58e0f39942E9682bE1cf4c9050CfB"
+}
