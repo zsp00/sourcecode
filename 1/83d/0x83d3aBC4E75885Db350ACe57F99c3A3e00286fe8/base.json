@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BetaCoin",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e4eeb045ab5d529d5856aced7950a63f84d5f31179b427a6e20613cae702b23944fcbc1ec630ea1f6284e2ed00090438bba39962",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://23226ac14efee85d51dd4689bfcf837389906d3aaf79d2a1ae47927fd724fb96",
+  "path": [
+    "BetaCoin.sol"
+  ],
+  "address": "0x83d3aBC4E75885Db350ACe57F99c3A3e00286fe8"
+}
