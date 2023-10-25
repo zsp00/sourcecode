@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Gala",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e18b52ba66965682c99eda01b40af03b60b0c81c7a0272ca850526ea48d7bb49",
+  "path": [
+    "ERC20.sol",
+    "SafeMath.sol",
+    "Address.sol",
+    "Context.sol",
+    "ERC20Burnable.sol",
+    "Gala.sol",
+    "IERC20.sol",
+    "MinterRole.sol",
+    "Roles.sol"
+  ],
+  "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA"
+}

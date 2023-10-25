@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WasderToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000081ffdf1551e96c14e76040b310c17c3666ecea07",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://07bccdde86ccb58a8ee910e4c18049afc4feac88b26270876b629364e680417b",
+  "path": [
+    "WasderToken.sol"
+  ],
+  "address": "0x0c572544a4Ee47904d54aaA6A970AF96B6f00E1b"
+}

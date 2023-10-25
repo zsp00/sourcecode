@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LRC_v2",
+  "CompilerVersion": "v0.5.7+commit.6da8b019",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://03831a05eef9554b28a0275d37c8ad0ff27e6bb2a227f1cce439c4251d309d74",
+  "path": [
+    "LRC_v2.sol"
+  ],
+  "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD"
+}
