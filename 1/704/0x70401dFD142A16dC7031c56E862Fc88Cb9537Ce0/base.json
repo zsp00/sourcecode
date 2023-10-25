@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BirdToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://35e0fac7cc97a56b0eae95ec8f2b03b6b1036b22a7a0687c8b659fd4bf74c2cb",
+  "path": [
+    "BirdToken.sol"
+  ],
+  "address": "0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0"
+}
