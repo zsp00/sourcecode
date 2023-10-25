@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Contract",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://79791af3bbd085d13a4516862a6b7eb1e8aab0196308c7fd8e88df8814fa3d14",
+  "path": [
+    "Contract.sol"
+  ],
+  "address": "0xA0D54c9fF19A5e9aa358345EB015BeA7767b4456"
+}

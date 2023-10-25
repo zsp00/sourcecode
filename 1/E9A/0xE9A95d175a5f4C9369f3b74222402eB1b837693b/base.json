@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ChangeNOWToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9459b45eac602c98b301daf0b619b983cfa22875a3477241ce009b554ef5e6db",
+  "path": [
+    "ChangeNOWToken.sol"
+  ],
+  "address": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b"
+}
