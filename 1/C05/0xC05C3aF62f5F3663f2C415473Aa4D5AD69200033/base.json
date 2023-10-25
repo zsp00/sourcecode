@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PIRB",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c407f8594c7047df08bf41f74b60e56ef6df740ec77e94d456bbcf0cac5eae2a",
+  "path": [
+    "PIRB.sol"
+  ],
+  "address": "0xC05C3aF62f5F3663f2C415473Aa4D5AD69200033"
+}
