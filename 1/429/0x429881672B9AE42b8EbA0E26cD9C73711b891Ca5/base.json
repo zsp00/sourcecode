@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PickleToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://19e53d0d709dc9d6955cfdf132d40f6cbb7feca235bcbb22d2a13227874005a1",
+  "path": [
+    "PickleToken.sol"
+  ],
+  "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5"
+}

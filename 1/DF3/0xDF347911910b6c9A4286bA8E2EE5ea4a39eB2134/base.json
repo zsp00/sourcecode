@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BOBToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c41fb5c485f08b26d52a9f7f329aee7230d70e46bf0422222931490e139babbf",
+  "path": [
+    "BOBToken.sol"
+  ],
+  "address": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134"
+}
