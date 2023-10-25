@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RocketTokenRPL",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "15000",
+  "ConstructorArguments": "0000000000000000000000001d8f8f00cfa6758d7be78336684788fb0ee0fa46000000000000000000000000b4efd85c19999d84251304bda99e90b92300bd93",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "/contracts/contract/RocketBase.sol",
+    "/contracts/interface/RocketStorageInterface.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "/contracts/contract/token/RocketTokenRPL.sol",
+    "/contracts/interface/RocketVaultInterface.sol",
+    "/contracts/interface/dao/protocol/settings/RocketDAOProtocolSettingsInflationInterface.sol",
+    "/contracts/interface/token/RocketTokenRPLInterface.sol"
+  ],
+  "address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f"
+}
