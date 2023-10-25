@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AUSD",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://04e327a4db376800f1cf8fb357f9a1addb8dd7b973f7aca43d086a8e69281caa",
+  "path": [
+    "AUSD.sol"
+  ],
+  "address": "0x64CFC7428621B2B118896670c0b4d52aB020Ee6a"
+}

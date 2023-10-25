@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FLEX",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000066b7220f12c15eaa7aec7ef61056c2edf5eb27790000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c19f66e310936fe3eeb10e4ae24e537ec772d3f3e777d7ee55f5466be934a9fd",
+  "path": [
+    "FLEX.sol"
+  ],
+  "address": "0xb076BDa1ABc154DdB4CCd9Be45542A823aEE290E"
+}
