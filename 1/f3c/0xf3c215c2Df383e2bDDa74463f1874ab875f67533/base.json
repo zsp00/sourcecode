@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "jjanggu",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://bf6e1cbf885eb4799d7a698706f2b29e40c6faab4e2f8386e08601ce3143cb25",
+  "path": [
+    "jjanggu.sol"
+  ],
+  "address": "0xf3c215c2Df383e2bDDa74463f1874ab875f67533"
+}

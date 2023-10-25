@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StorageChain",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://19c2025a7d50f9f84374a90a30cd58853028602863a716cfe221710cdded76d7",
+  "path": [
+    "StorageChain.sol"
+  ],
+  "address": "0x50B275a15E4F5004AA96F972a30E6A9C718b203f"
+}
