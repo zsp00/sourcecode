@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Chadstarz",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000fd6ab26eb2c97360147579f57737adc9bf1c9162",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5ab1af62b08fa15bb98b26061d325f916c557cfc608e84bdf33aac260b75c53c",
+  "path": [
+    "Chadstarz.sol"
+  ],
+  "address": "0xb0820DfA7228800551FF719ceb4490746deF29a7"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GOVI",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://96bebc48ee2bfdbe0de2d3570b24bfb602771001f3d24b3483acb58bacc4d3d1",
+  "path": [
+    "GOVI.sol"
+  ],
+  "address": "0xeEAA40B28A2d1b0B08f6f97bB1DD4B75316c6107"
+}
