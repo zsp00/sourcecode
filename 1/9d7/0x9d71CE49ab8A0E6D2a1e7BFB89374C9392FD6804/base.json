@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NvirWorldToken",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1845bd465ef477140dc8fb09022040623aafff09462049b91431178514414385",
+  "path": [
+    "NvirWorldToken.sol"
+  ],
+  "address": "0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804"
+}
