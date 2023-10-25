@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AlphashardToken",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9b00a1f362200b0709c91ee9515abd36e2a558609eeee5af070dcca3dba41f95",
+  "path": [
+    "AlphashardToken.sol"
+  ],
+  "address": "0x492441Bae7CbAA6Ed97f3Db2Ab61F63db06E0b1A"
+}
