@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC20Vinu",
+  "CompilerVersion": "v0.6.5+commit.f956cc89",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e5de7c4ffff4bdb45054e0bb30372604bba6aceb9ccc68dbeab4b66ee770498b",
+  "path": [
+    "ERC20Vinu.sol"
+  ],
+  "address": "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9"
+}

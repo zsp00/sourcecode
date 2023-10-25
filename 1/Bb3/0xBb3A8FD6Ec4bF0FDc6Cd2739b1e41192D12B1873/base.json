@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OBI",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000000000000000000000000000000000000000001200000000000000000000000000000000000000000000000000000000000000064f52424f4649000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000034f42490000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "lib/openzeppelin-contracts/contracts/access/AccessControl.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Strings.sol",
+    "lib/openzeppelin-contracts/contracts/utils/introspection/ERC165.sol",
+    "lib/openzeppelin-contracts/contracts/utils/math/Math.sol",
+    "lib/openzeppelin-contracts/contracts/utils/introspection/IERC165.sol",
+    "src/OBIToken.sol",
+    "lib/solmate/src/tokens/ERC20.sol",
+    "lib/openzeppelin-contracts/contracts/access/IAccessControl.sol"
+  ],
+  "address": "0xBb3A8FD6Ec4bF0FDc6Cd2739b1e41192D12B1873"
+}
