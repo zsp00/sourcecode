@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ECOTERRA",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://91abb0343db393c888536eab065eec5b40c4a0ca347826bcd94f25bf705c708c",
+  "path": [
+    "ECOTERRA.sol"
+  ],
+  "address": "0x982b50E55394641cA975a0eEc630b120b671391a"
+}
