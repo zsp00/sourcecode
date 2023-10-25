@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UNCX",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://832d164b7f6a1649b69e615e95e0f7425fd9d9a8d488956db130ed2a20986dc1",
+  "path": [
+    "IERC20.sol",
+    "Ownable.sol",
+    "SafeMath.sol",
+    "UNCX.sol",
+    "Address.sol",
+    "Context.sol",
+    "ERC20.sol"
+  ],
+  "address": "0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VIX",
+  "CompilerVersion": "v0.8.5+commit.a4f2e591",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9b6aac36dd47e4b9e99a4e981c8b62324dae0f2754103733d6206ba5c2e90f04",
+  "path": [
+    "VIX.sol"
+  ],
+  "address": "0xc0b68EB52c89e3fffa62D78012ac8b661bfAA323"
+}

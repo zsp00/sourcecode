@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Funded",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://926ab878c8b983c06c30beb313e786b1567f7683586d13458fffe53ddfd6b4da",
+  "path": [
+    "Funded.sol"
+  ],
+  "address": "0x83d4927d060A7A33ad838bD7ea0Ec128D58c9003"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WaxToken",
+  "CompilerVersion": "v0.4.13+commit.fb4cb1a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a733f2d998053434edade5052fe6a06775d3e771750fc75a7470a1c3672f0261",
+  "path": [
+    "WaxToken.sol"
+  ],
+  "address": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022"
+}
