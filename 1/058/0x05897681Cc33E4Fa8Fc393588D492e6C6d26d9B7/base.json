@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MAX",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fa11359bee060cd1da344ba680214d894459deb40cf2c098dc231bda76f3c256",
+  "path": [
+    "MAX.sol"
+  ],
+  "address": "0x05897681Cc33E4Fa8Fc393588D492e6C6d26d9B7"
+}
