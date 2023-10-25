@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HuptexToken",
+  "CompilerVersion": "v0.5.11+commit.c082d0b4",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000006487570746578000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000034854580000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ecfda70fc6f5edb897c87a12b691b32396c2287851e4b16d7d6a511f11f31ef1",
+  "path": [
+    "AccountFrozenBalances.sol",
+    "Pausable.sol",
+    "Whitelisted.sol",
+    "Mintable.sol",
+    "Ownable.sol",
+    "SafeMath.sol",
+    "TokenRecipient.sol",
+    "Burnable.sol",
+    "HuptexERC20.sol",
+    "Meltable.sol"
+  ],
+  "address": "0x38A0df9a08d18dc06CD91Fc7Ec94a0AcdF28D994"
+}

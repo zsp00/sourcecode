@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "THENODE",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://725ede317d7635386d345ea7bcce5f330a444a7cfaee347f21f7dfb437a65379",
+  "path": [
+    "THENODE.sol"
+  ],
+  "address": "0xB4a677B0E363c3815d46326954a4E4d2B1ACe357"
+}
