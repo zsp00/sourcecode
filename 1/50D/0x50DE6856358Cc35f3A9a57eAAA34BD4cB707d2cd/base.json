@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Razor",
+  "CompilerVersion": "v0.6.11+commit.5ef660b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000033b2e3c9fd0803ce8000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "openzeppelin-solidity/contracts/GSN/Context.sol",
+    "openzeppelin-solidity/contracts/math/SafeMath.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/IERC20.sol",
+    "/Users/skanda/Projects/token-contract/contracts/Razor.sol"
+  ],
+  "address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd"
+}

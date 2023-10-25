@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IlluminatiCoin",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000001a084c036d91512ab3240000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8506c636ccb99d2e745be77c694c9f82cff132bf3ff55ddf17ddcd0595c7654c",
+  "path": [
+    "IlluminatiCoin.sol"
+  ],
+  "address": "0x0B9aE6b1D4f0EEeD904D1CEF68b9bd47499f3fFF"
+}

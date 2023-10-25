@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EtxToken",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000dc1aaa785cde1dbf9996bb01ca86949d9862262c",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://28c523f3d85b68450a34f50e783104fa362ac502bc487143c8762724ffde5bc7",
+  "path": [
+    "EtxToken.sol"
+  ],
+  "address": "0x2a69219523A3c3372B26dE059352302A30EfE982"
+}
