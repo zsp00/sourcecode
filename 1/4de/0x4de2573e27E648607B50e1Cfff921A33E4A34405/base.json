@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LendroidSupportToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a2db8faf07e308aec5e3f6de1c7016b39ec89a3eadc5836bec1b6251bafc3acd",
+  "path": [
+    "LendroidSupportToken.sol"
+  ],
+  "address": "0x4de2573e27E648607B50e1Cfff921A33E4A34405"
+}
