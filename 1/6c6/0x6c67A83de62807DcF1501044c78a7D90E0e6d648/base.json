@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Estella",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://08c2813ad7a77e69bc2f999803bf0adc8154e19db7dad0b9695197c3b8c2dbdc",
+  "path": [
+    "Estella.sol"
+  ],
+  "address": "0x6c67A83de62807DcF1501044c78a7D90E0e6d648"
+}

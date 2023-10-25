@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "THREEHUNDRED",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d74a4ca51413e311d004f49964fca370c7e9ec69a8849fbffc2e3432f5cea22f",
+  "path": [
+    "THREEHUNDRED.sol"
+  ],
+  "address": "0x7567d006f6be77E3D87Aa831855CB4102E37b17D"
+}
