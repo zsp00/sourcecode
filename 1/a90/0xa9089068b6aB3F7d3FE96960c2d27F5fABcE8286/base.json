@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Railway",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d294eac4d534001dd381bf955b496f432eae57154d4adea1243c7c3ffb7aacab",
+  "path": [
+    "Railway.sol"
+  ],
+  "address": "0xa9089068b6aB3F7d3FE96960c2d27F5fABcE8286"
+}

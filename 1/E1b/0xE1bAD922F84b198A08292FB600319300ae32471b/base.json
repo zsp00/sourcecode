@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FCTV",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://59b517ce150e7744a8be399b1749e15efa4032752bd2c142a8b24bbbfef2aff3",
+  "path": [
+    "FCTV.sol"
+  ],
+  "address": "0xE1bAD922F84b198A08292FB600319300ae32471b"
+}

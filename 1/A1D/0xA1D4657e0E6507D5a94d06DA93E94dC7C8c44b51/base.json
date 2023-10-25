@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WebbLand",
+  "CompilerVersion": "v0.7.0+commit.9e61f92b",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://84c5d4d44abb206f75094622b0367965ea7ccaeb481f844d593173ea97c440f5",
+  "path": [
+    "WebbLand.sol"
+  ],
+  "address": "0xA1D4657e0E6507D5a94d06DA93E94dC7C8c44b51"
+}
