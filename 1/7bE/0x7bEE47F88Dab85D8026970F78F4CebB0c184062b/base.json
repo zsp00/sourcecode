@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "compound",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a7878e1601309a89c920808e02f12372ef33635f09195137acc2e00de9635a07",
+  "path": [
+    "compound.sol"
+  ],
+  "address": "0x7bEE47F88Dab85D8026970F78F4CebB0c184062b"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BETETF",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://045fced69a23baf70935e4233de0b55c1c194901e4b33f8a46de8256b72f1126",
+  "path": [
+    "BETETF.sol"
+  ],
+  "address": "0x667210a731447F8B385e068205759BE2311b86d4"
+}
