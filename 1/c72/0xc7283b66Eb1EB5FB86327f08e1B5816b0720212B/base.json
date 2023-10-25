@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Tribe",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000008d5ed43dca8c2f7dfb20cf7b53cc7e593635d7b900000000000000000000000080f17b512780f313f265dc4ceedb89d1079d67f4",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU AGPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4b5ab84c8ee5befcd5fba2745834ef385b0d07beb1f852bc25562eb10a137ac0",
+  "path": [
+    "./contracts/dao/Tribe.sol"
+  ],
+  "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B"
+}
