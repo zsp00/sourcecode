@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Dogether",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://abe7300d0854fd0e7def84abe334aa06424a2bf055e8912b1aae4806cd0f2247",
+  "path": [
+    "Dogether.sol"
+  ],
+  "address": "0x0Fff97298b9DD158d208deFDD46d66ed442f5665"
+}
