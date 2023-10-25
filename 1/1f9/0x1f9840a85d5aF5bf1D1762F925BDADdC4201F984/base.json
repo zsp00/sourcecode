@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Uni",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "00000000000000000000000041653c7d61609d856f29355e404f310ec4142cfb00000000000000000000000041653c7d61609d856f29355e404f310ec4142cfb0000000000000000000000000000000000000000000000000000000065920080",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://68d42e51eae03f461fed8d2db904ba521e900521e0a2199b4a57d733502ad3da",
+  "path": [
+    "Uni.sol"
+  ],
+  "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
+}

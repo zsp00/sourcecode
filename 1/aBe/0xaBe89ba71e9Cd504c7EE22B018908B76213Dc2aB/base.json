@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "COFCCash",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://05a5b452572e7f8bde5ff41c44fa79a18c9e767ccf19cc8b23377c1d3a2ceeef",
+  "path": [
+    "COFCCash.sol"
+  ],
+  "address": "0xaBe89ba71e9Cd504c7EE22B018908B76213Dc2aB"
+}

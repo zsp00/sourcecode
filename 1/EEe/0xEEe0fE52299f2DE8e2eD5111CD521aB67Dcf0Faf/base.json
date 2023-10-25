@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QwanCoin",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3a770003fd156ad01bfea4b0ba6ed8f35a944af9fe88102e451b55ae657579bb",
+  "path": [
+    "QwanCoin.sol"
+  ],
+  "address": "0xEEe0fE52299f2DE8e2eD5111CD521aB67Dcf0Faf"
+}
