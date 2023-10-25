@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MaziTokenProxy",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xf1e2708af21c7e442e5a7bbda16fd94d47751264",
+  "SwarmSource": "",
+  "path": [
+    "contracts/MaziTokenProxy.sol"
+  ],
+  "address": "0x5B8650Cd999B23cF39Ab12e3213fbC8709c7f5CB"
+}

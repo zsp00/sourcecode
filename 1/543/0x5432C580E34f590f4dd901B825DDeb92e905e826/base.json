@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TXH",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://19bd54ec5bf8a03b6059cb79d1819eff8e4c3c752eab90163967115ce4b5f732",
+  "path": [
+    "TXH.sol"
+  ],
+  "address": "0x5432C580E34f590f4dd901B825DDeb92e905e826"
+}

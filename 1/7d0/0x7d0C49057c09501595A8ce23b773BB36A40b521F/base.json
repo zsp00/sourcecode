@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PREME",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d000000000000000000000000bc87795e74107d2023f29ff024036d17ee1a364500000000000000000000000049685d5c5163d58f344d825912c4789bce42496c00000000000000000000000000000000000000000000000000000000119530b000000000000000000000000095ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2d6d831c978e19448f3a11beafdc8815dacea7e6d5e0689187046c200f2fd9d8",
+  "path": [
+    "PREME.sol"
+  ],
+  "address": "0x7d0C49057c09501595A8ce23b773BB36A40b521F"
+}
