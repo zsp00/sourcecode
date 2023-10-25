@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HER",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://70028c3c303a91f4a447248c88dec6fe871bb5713cb1703cce74a71a1f0e2dcb",
+  "path": [
+    "HER.sol"
+  ],
+  "address": "0x9cA967a00a11FB1120B1691321095a637016b6ea"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Zaigar",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a1235305ae451b9d87427c8e0adaafc727b0d9fe8399022e7d2ffbca7f055a92",
+  "path": [
+    "Zaigar.sol"
+  ],
+  "address": "0x4e9095A1B97933bf528B5C2Fa1e734f167C3aE12"
+}
