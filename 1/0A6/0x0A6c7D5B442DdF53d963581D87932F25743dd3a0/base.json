@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SIMPLEHUB",
+  "CompilerVersion": "v0.8.8+commit.dddeac2f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a9774f0b1d6388e937a85b51915060491d912c8838ca8a70a2b3298f643b2cb5",
+  "path": [
+    "SIMPLEHUB.sol"
+  ],
+  "address": "0x0A6c7D5B442DdF53d963581D87932F25743dd3a0"
+}
