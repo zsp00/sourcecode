@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XPAYPro",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://afccbabe364847fd95dc8095e2df62daf85a46e5574b0f3a71a0178c7ff47cf9",
+  "path": [
+    "XPAYPro.sol"
+  ],
+  "address": "0x565aC8639E53a4bFf4aFb34AC63A49D7bf01500E"
+}
