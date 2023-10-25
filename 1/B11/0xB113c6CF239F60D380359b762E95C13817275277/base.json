@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BMEX",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000008b0b1d6a3b46b676cd6da234cc1bf444fd2f6a3200000000000000000000000065a35599a063f3ca882b1550a328d8a543d28232",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a0b3fe13d728a02a88e1052f8fadea44d183ab5bf162238c2b95191e6f1a0cb6",
+  "path": [
+    "BMEX.sol"
+  ],
+  "address": "0xB113c6CF239F60D380359b762E95C13817275277"
+}

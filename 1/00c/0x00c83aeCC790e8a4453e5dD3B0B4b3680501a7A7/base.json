@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SkaleToken",
+  "CompilerVersion": "v0.6.10+commit.00c0fcaf",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000c04a10fd5e6513242558f47331568abd6185a31000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "petersburg",
+  "Library": "",
+  "LicenseType": "GNU AGPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7e5f1c2c6a420293c676e424c82885d0e98e0a21cd8c324df31173071dba01eb",
+  "path": [
+    "SkaleToken.sol"
+  ],
+  "address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7"
+}
