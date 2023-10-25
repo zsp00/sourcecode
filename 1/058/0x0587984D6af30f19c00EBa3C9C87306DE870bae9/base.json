@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AzwieToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000c71779c079680b47108e74fc19ad0326bce61948",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e359e6b1de36ff0987d20ba3a9b1b823f8635e3f3cf8f974e87927ee11c4b3eb",
+  "path": [
+    "AzwieToken.sol"
+  ],
+  "address": "0x0587984D6af30f19c00EBa3C9C87306DE870bae9"
+}

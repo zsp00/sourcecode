@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CIX",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000003aae94c45ca9b9020bc405bc1a4d76ab9bf1908f0000000000000000000000003aae94c45ca9b9020bc405bc1a4d76ab9bf1908f0000000000000000000000003aae94c45ca9b9020bc405bc1a4d76ab9bf1908f",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7892d3a88df8d65f9611b6505f0f78c8692332206425f96b38abe6f67ee26af7",
+  "path": [
+    "CIX.sol"
+  ],
+  "address": "0x6d60A8dFb16D09F67D46fcd36A0Cd310078257ca"
+}
