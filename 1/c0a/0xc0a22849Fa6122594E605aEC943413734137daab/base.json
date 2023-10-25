@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TheVault",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3e76f185537529fff264325d61e284161c544fbe655cb76c9b118db17c53692a",
+  "path": [
+    "TheVault.sol"
+  ],
+  "address": "0xc0a22849Fa6122594E605aEC943413734137daab"
+}
