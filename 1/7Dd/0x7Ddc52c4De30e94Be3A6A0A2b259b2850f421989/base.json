@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GoMiningToken",
+  "CompilerVersion": "v0.8.1+commit.df193b15",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000186a0",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://119f26b69a573e3d326c0506900cca230896dfca48ef305d2a74f1c342f3450e",
+  "path": [
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "Ownable.sol",
+    "Pausable.sol",
+    "SafeMath.sol",
+    "Context.sol",
+    "GoMiningToken.sol"
+  ],
+  "address": "0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989"
+}

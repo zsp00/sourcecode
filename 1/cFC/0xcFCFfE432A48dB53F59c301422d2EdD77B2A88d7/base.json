@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TEXAN",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bd4db68575faa397f8921486bf919774ac268e61c6330d36e646e3b79f1dc5d7",
+  "path": [
+    "StakableEndowmentToken.sol",
+    "TEXAN.sol",
+    "Context.sol",
+    "ERC20.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol"
+  ],
+  "address": "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7"
+}
