@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SAITABIT",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d73401ca0c97ef895ea88ab738853dbd33e234e3e0758b446183cf41487df6af",
+  "path": [
+    "SAITABIT.sol"
+  ],
+  "address": "0x927402ab67c0CDA3c187E9DFE34554AC581441f2"
+}
