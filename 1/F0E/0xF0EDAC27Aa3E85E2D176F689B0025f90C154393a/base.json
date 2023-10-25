@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LOVESNOOPYCoin",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://16260fee3886987eadee2d96a09cb2918d35fd118751cc20c34e87e5e666a1b5",
+  "path": [
+    "LOVESNOOPYCoin.sol"
+  ],
+  "address": "0xF0EDAC27Aa3E85E2D176F689B0025f90C154393a"
+}

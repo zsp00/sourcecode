@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HUBRIS",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a4e7348de38b6ef04b809856020376f1bcb046a561f6070036ea8d8dcae21133",
+  "path": [
+    "HUBRIS.sol"
+  ],
+  "address": "0x432555E5c898F83fC5F00dF631BD9c2801FeA289"
+}
