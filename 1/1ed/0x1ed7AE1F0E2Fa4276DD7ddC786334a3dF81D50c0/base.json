@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FSBToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f43f7f5e5ffa9617f5001557fe956859f89b6e8ad5ce6a025668c09e92d26929",
+  "path": [
+    "FSBToken.sol"
+  ],
+  "address": "0x1ed7AE1F0E2Fa4276DD7ddC786334a3dF81D50c0"
+}
