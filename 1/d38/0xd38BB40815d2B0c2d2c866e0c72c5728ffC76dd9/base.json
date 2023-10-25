@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Symbiosis",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "2000",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000006cdee00268faa9262c670a1d721e79db1ecd4119000000000000000000000000000000000000000000000000000000000000000953796d62696f736973000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000035349530000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20VotesComp.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol",
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "@openzeppelin/contracts/utils/math/SafeCast.sol",
+    "@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol",
+    "contracts/SymbiToken.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/math/Math.sol"
+  ],
+  "address": "0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9"
+}

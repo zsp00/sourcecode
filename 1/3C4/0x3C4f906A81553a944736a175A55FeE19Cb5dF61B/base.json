@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BackedToken",
+  "CompilerVersion": "v0.5.15+commit.6a57276f",
+  "OptimizationUsed": "1",
+  "Runs": "5000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/ownership/Ownable.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "contracts/BackedToken.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Detailed.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol"
+  ],
+  "address": "0x3C4f906A81553a944736a175A55FeE19Cb5dF61B"
+}

@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ClinTex",
+  "CompilerVersion": "v0.8.12+commit.f00d7308",
+  "OptimizationUsed": "1",
+  "Runs": "800",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000000000000000000000a56fa5b99019a5c8000000000000000000000000000000000000000000000000000000000000000000000b436c696e5465782043544900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000034354490000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/ClinTex.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Capped.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol"
+  ],
+  "address": "0xcB8fb2438A805664cD8c3e640b85AC473DA5BE87"
+}

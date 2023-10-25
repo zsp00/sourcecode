@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SavageNation",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000e0000000000000000000000000000000000000000000000000000000000000000d536176616765204e6174696f6e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000d536176616765204e6174696f6e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005868747470733a2f2f7361766167656e6174696f6e2e6d7970696e6174612e636c6f75642f697066732f516d5833517a6e36654c35484e374548413650657475735732324455776f756d524c31444e696d315153745147482f0000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol",
+    "contracts/interfaces/IERC165.sol",
+    "contracts/interfaces/IERC721Receiver.sol",
+    "contracts/utils/Whitelist_Merkle.sol",
+    "contracts/interfaces/IOperatorFilterRegistry.sol",
+    "contracts/interfaces/OperatorFilterer.sol",
+    "contracts/Reg_ERC721Batch.sol",
+    "contracts/SavageNation.sol",
+    "contracts/interfaces/DefaultOperatorFilterer.sol",
+    "contracts/interfaces/IERC721Enumerable.sol",
+    "contracts/interfaces/IERC721Errors.sol",
+    "contracts/interfaces/IERC721Metadata.sol",
+    "contracts/interfaces/IERC173.sol",
+    "contracts/interfaces/IERC721.sol",
+    "contracts/utils/ERC173.sol"
+  ],
+  "address": "0x61E3D1C26802DF805e9Fc22Dc26342e29eCFe860"
+}

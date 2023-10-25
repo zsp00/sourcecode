@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Berry",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000b3fe19147ac2dd39ebc4612b02d747664c6789ba00000000000000000000000000000000000000000000000000000002540be400",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://29402abc3fba6efc21402ac578218c9dfb383623e6a03e70b794372e7a791c8b",
+  "path": [
+    "Berry.sol"
+  ],
+  "address": "0x2d787D4f5005Bd66aC910c2E821241625c406ed5"
+}

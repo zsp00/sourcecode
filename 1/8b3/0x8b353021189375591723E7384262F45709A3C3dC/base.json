@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TomoCoin",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009b1356cc6213b5d93a9afb34804ba87bdff37ea6",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://52d4187afac8e2912ec2fabc2c8a17ecba268895603de5e019547060ebc0bc6f",
+  "path": [
+    "TomoCoin.sol"
+  ],
+  "address": "0x8b353021189375591723E7384262F45709A3C3dC"
+}

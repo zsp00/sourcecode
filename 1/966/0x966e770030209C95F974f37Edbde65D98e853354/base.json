@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Maxx",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "100",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://950c896a81945c0d2c391f14ee4dee0ec2d053c4cb104cd888a84bac1257f522",
+  "path": [
+    "Maxx.sol"
+  ],
+  "address": "0x966e770030209C95F974f37Edbde65D98e853354"
+}
