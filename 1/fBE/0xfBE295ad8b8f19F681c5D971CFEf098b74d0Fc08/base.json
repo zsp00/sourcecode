@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HypeHippos",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://806ddc4f0077f6a93b71bb7fa26372735d6d7f47a7b26b298882af42279b10ac",
+  "path": [
+    "HypeHippos.sol"
+  ],
+  "address": "0xfBE295ad8b8f19F681c5D971CFEf098b74d0Fc08"
+}
