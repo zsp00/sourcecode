@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HotLove",
+  "CompilerVersion": "v0.4.8+commit.60cc1668",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2aaae2e36dcd28b0ab99b10f3c3f9d12195eab084810f564055a0ba3d15c7467",
+  "path": [
+    "HotLove.sol"
+  ],
+  "address": "0xDfF991Af459d05175B3bb766b950aFC697B68dF0"
+}

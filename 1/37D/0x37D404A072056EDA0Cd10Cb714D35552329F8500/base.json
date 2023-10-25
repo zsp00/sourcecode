@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XRT",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://02ea39b0aac68b9ee57d7a22a7ebab630b962e785fc0297344f2c93e0989c976",
+  "path": [
+    "XRT.sol"
+  ],
+  "address": "0x37D404A072056EDA0Cd10Cb714D35552329F8500"
+}

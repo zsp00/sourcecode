@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Tento",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ce7d23218ed080d6cdfad1eaa14557f2eb801abbe8a554c29af6a51cef835f8f",
+  "path": [
+    "Tento.sol"
+  ],
+  "address": "0x1E1EDa01e352DF41Cd5a91EeFE192D25B38765bf"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SpookyShiba",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://590eabe2e1ff7bdacec5f5f58caed46ae344ea4557f50f5ed6abd44a211c8221",
+  "path": [
+    "SpookyShiba.sol"
+  ],
+  "address": "0x1e74467FD89bFDd47d0B311bD163f5940F0A3528"
+}
