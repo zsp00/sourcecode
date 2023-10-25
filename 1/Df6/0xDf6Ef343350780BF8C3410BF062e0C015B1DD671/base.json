@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BMCAssetProxy",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://96e8503227963f665ff5657bef2f0c19059b97428546c5fa910cf9fc0b6fcab5",
+  "path": [
+    "BMCAssetProxy.sol"
+  ],
+  "address": "0xDf6Ef343350780BF8C3410BF062e0C015B1DD671"
+}

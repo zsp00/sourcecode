@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Satoshi6900",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2919db2c49c9dfc2e379ccdfd0fbbad7ebcc1509c8a9eeeb3c9c3d9858ec66e9",
+  "path": [
+    "Satoshi6900.sol"
+  ],
+  "address": "0x5798552EeD8063B564A6A76691a9FEFbD4593509"
+}
