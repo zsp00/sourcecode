@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BYTES2",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "20",
+  "ConstructorArguments": "0000000000000000000000007d647b1a0dcd5525e9c6b3d14be58f27674f8c95000000000000000000000000b9951b43802dcf3ef5b14567cb17adf367ed1c0f0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ae6d7307fb3d07ce35a95857d34af19110f052c1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+    "lib/Bytes2.0/contracts/Staking/BYTES2.sol",
+    "lib/Bytes2.0/contracts/access/PermitControl.sol",
+    "lib/Bytes2.0/contracts/interfaces/IByteContract.sol",
+    "lib/Bytes2.0/contracts/interfaces/IStaker.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Address.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol"
+  ],
+  "address": "0xa19f5264F7D7Be11c451C093D8f92592820Bea86"
+}
