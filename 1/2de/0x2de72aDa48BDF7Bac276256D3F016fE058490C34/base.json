@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FLOKI",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8cbd457e09a5167ab6028a4717ebdeace3a124a335bac2bc275325619292b312",
+  "path": [
+    "FLOKI.sol"
+  ],
+  "address": "0x2de72aDa48BDF7Bac276256D3F016fE058490C34"
+}

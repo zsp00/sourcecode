@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RACAV2Token",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://80603e20615c2ec633a98a199e29a254be0fbefba57ac04a4a67ab0b00dde561",
+  "path": [
+    "RACAV2Token.sol"
+  ],
+  "address": "0x12BB890508c125661E03b09EC06E404bc9289040"
+}

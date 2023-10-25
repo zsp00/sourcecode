@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Wave",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://68c6394a121607bc94a713ac8afbece66adced5be324e6cac41cfd02d40ae688",
+  "path": [
+    "Wave.sol"
+  ],
+  "address": "0x2f7b88458f4E6D9AbB19396b5a08b8bA7f3d4b20"
+}
