@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Linkart",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000d80fa00202e952fdc2de8918ae808ba3c91fb19",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6193d9a378310c3a4a4dbeac0b147418083207c95097004077514bbf57eb95f6",
+  "path": [
+    "Linkart.sol"
+  ],
+  "address": "0x6226caA1857AFBc6DFB6ca66071Eb241228031A1"
+}
