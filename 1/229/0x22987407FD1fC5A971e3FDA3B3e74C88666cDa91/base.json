@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SRTToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000f65f6b8f94e6349b1105f24b610ff91cf093d645",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://79e2f3e189c87e2f15743373cd0571dd1f03af9944cce11b7ec2760ad3d535a1",
+  "path": [
+    "ERC20.sol",
+    "MintableToken.sol",
+    "SafeMath.sol",
+    "SRTToken.sol",
+    "MultiOwnable.sol",
+    "StandardToken.sol",
+    "BasicToken.sol",
+    "Blacklisted.sol",
+    "BurnableToken.sol",
+    "ERC20Basic.sol"
+  ],
+  "address": "0x22987407FD1fC5A971e3FDA3B3e74C88666cDa91"
+}
