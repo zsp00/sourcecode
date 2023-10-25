@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "map",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000382e574463ddf73ef46a8e94e99facbf68acc59d",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://33d6dc6a2b25ad3031696c1b747d835648d93fb843812c8f5fc757deb6214248",
+  "path": [
+    "map.sol"
+  ],
+  "address": "0x9E976F211daea0D652912AB99b0Dc21a7fD728e4"
+}

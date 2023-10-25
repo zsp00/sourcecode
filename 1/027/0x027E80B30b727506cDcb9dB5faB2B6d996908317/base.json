@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Controller",
+  "CompilerVersion": "v0.6.9+commit.3e3065ac",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000efa740dc2160da8127316cf9a3155eded648c8bd0000000000000000000000005497bc15265c33d59d1fc1f6064584d3f98eb79c",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://00ad2570562abba354ed08af9ff87edb893a92e7e9c1820234e0d3c1c8ec8a61",
+  "path": [
+    "Controller.sol"
+  ],
+  "address": "0x027E80B30b727506cDcb9dB5faB2B6d996908317"
+}
