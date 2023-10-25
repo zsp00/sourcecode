@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KryllToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d2d8fcb38d047ac5de6498f6aebf599403a0bab928953fcb6674d30c2ffb62b7",
+  "path": [
+    "KryllToken.sol"
+  ],
+  "address": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0"
+}

@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AliERC20v2",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000738f702d1a7364d356729cb8845701885c487a1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/interfaces/ERC1363Spec.sol",
+    "contracts/interfaces/EIP2612.sol",
+    "contracts/interfaces/ERC20Spec.sol",
+    "contracts/interfaces/ERC165Spec.sol",
+    "contracts/token/AliERC20v2.sol",
+    "contracts/interfaces/EIP3009.sol",
+    "contracts/utils/AccessControl.sol",
+    "contracts/lib/AddressUtils.sol",
+    "contracts/lib/ECDSA.sol"
+  ],
+  "address": "0x6B0b3a982b4634aC68dD83a4DBF02311cE324181"
+}
