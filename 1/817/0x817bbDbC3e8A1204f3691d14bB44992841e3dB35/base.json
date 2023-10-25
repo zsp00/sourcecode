@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CudosToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000efb546ec7babc97af3791033cc3ca1cc1f680993000000000000000000000000924a59d9ebe85e37ef9fd56714f00094395eaba3",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d0dca6a9f5cc81f626e9a766a769e447e98f03842dfea9c1d14a68c64648e851",
+  "path": [
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "contracts/CudosToken.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/utils/EnumerableSet.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "contracts/CudosAccessControls.sol"
+  ],
+  "address": "0x817bbDbC3e8A1204f3691d14bB44992841e3dB35"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IvyKoinContract",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a223855341832c086bd0914f61c7f17cd1116e72aee90f39f03e72a6c25343e5",
+  "path": [
+    "IvyKoinContract.sol"
+  ],
+  "address": "0xA4eA687A2A7F29cF2dc66B39c68e4411C0D00C49"
+}

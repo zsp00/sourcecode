@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SukuToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000c05ec5235ce6050375adce1f86bbec949c3c366f",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7028316fa29a58455a36d0eba490ed261e46186366c814db70b26a2eb654618b",
+  "path": [
+    "SukuToken.sol"
+  ],
+  "address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EX",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://86de7ec223ab4e4dea555dc7bfae5e40b66efb34d4359036808ce54cd406aff8",
+  "path": [
+    "EX.sol"
+  ],
+  "address": "0xF69709C4c6F3F2b17978280dCe8b7b7a2CbcbA8b"
+}

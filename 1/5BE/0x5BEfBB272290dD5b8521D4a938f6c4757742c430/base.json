@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Xfinance",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9fd1c1bacc0f008b6c406770b45378811af1755351a84151166a7b1d4f9cddc2",
+  "path": [
+    "Xfinance.sol"
+  ],
+  "address": "0x5BEfBB272290dD5b8521D4a938f6c4757742c430"
+}
