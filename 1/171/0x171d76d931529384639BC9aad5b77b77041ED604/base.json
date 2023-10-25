@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MOTGToken",
+  "CompilerVersion": "v0.5.4+commit.9549d8ff",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d21d2180257aa8e1de45ba17a8cf53c68c3f13bf9f12d97705ec7d57ec154cf8",
+  "path": [
+    "MOTGToken.sol"
+  ],
+  "address": "0x171d76d931529384639BC9aad5b77b77041ED604"
+}

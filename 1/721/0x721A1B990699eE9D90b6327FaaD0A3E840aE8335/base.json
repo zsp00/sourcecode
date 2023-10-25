@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LOOTToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4d72dd22a35a3d5905faf05cfb55d02597ddfbc21d6d87a36302d94f917f5973",
+  "path": [
+    "LOOTToken.sol"
+  ],
+  "address": "0x721A1B990699eE9D90b6327FaaD0A3E840aE8335"
+}

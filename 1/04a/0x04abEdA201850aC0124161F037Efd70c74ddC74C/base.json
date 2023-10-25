@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IBNEST",
+  "CompilerVersion": "v0.5.1+commit.c8a2cb62",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "byzantium",
+  "Library": "IterableMapping:03C513FfbDBdA34b4A66b3052fA5e0E6606e531b",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x03c513ffbdbda34b4a66b3052fa5e0e6606e531b",
+  "SwarmSource": "bzzr://caf1607933189193333093ae5321813a10ebc423ab81622940e9de7df6f4547b",
+  "path": [
+    "IBNEST.sol"
+  ],
+  "address": "0x04abEdA201850aC0124161F037Efd70c74ddC74C"
+}

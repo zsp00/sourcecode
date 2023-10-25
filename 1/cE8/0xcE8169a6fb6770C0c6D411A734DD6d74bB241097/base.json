@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ConvictionScrolls",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000004258809f470b79e909705178a9e7be276d3a418100000000000000000000000039a05220f543e6006ba6d42db27bada189c18d0e0000000000000000000000000000000000000000000000000000000000000012436f6e76696374696f6e205363726f6c6c73000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000075343524f4c4c5300000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/utils/math/SignedMath.sol",
+    "erc721a/IERC721A.sol",
+    "@openzeppelin/contracts/token/common/ERC2981.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/utils/math/Math.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/interfaces/IERC2981.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "erc721a/ERC721A.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "closedsea/OperatorFilterer.sol",
+    "src/ConvictionScrolls.sol"
+  ],
+  "address": "0xcE8169a6fb6770C0c6D411A734DD6d74bB241097"
+}
