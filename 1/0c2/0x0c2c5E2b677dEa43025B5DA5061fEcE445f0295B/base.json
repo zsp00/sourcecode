@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "COVIDToken",
+  "CompilerVersion": "v0.6.1+commit.e6f7d5a4",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a955665724414f690ae01ccc6e2090ed264bfe924eb3793f38520491114ae59d",
+  "path": [
+    "COVIDToken.sol"
+  ],
+  "address": "0x0c2c5E2b677dEa43025B5DA5061fEcE445f0295B"
+}
