@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC20Contract",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "5",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c000000000000000000000000000000000000000000000000000000000000f42400000000000000000000000006e25cfa7e590b0d2a86c3f3d60c78e2816b74df000000000000000000000000000000000000000000000000000000000000000085a6f72706865757800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000055a4f525048000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/ERC20Contract.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol"
+  ],
+  "address": "0x8962F7352eb3326c15d4820f9FAD214b9327714a"
+}
