@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VeniceSwap",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2adc8ae30249e47541966a284c99c39c1a6fa68a6b320a891167b9d4c923c00a",
+  "path": [
+    "VeniceSwap.sol"
+  ],
+  "address": "0xf6D4fBc3B86811df25d829A14daE0269a3EE5462"
+}
