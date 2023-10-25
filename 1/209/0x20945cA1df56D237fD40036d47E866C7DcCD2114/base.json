@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Nsure",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://610002a3925b7ad2327437ef6750b0301586307d618a9c7b0deeab090431af62",
+  "path": [
+    "Nsure.sol"
+  ],
+  "address": "0x20945cA1df56D237fD40036d47E866C7DcCD2114"
+}

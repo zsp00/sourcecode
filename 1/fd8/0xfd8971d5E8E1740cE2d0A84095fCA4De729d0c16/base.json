@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZillaToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5b75c93dfcf1fd428a3aec37e405d1d43d16082a369398a039807d6feb4228af",
+  "path": [
+    "ZillaToken.sol"
+  ],
+  "address": "0xfd8971d5E8E1740cE2d0A84095fCA4De729d0c16"
+}
