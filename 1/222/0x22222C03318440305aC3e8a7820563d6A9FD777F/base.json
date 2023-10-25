@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Clover",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f105fd7714243a7e426d503ba674f43d750568744f3102f0ecda7080618f727d",
+  "path": [
+    "Clover.sol"
+  ],
+  "address": "0x22222C03318440305aC3e8a7820563d6A9FD777F"
+}

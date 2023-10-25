@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "_0x",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://996402e9f7522bcdd2ecb11dec4e6e37442a7430959b58ab2b38badc2a22c2e6",
+  "path": [
+    "_0x.sol"
+  ],
+  "address": "0x8E9c3D1F30904E91764B7b8bBFDa3a429b886874"
+}
