@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YoungToken",
+  "CompilerVersion": "v0.5.1+commit.c8a2cb62",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000b8b541a6993dc238a18334ff18024aa38b98481b",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6e8867f79d1a9528fb2f0a78064a6f7d70353af46d325fca869788d9c4d4ad87",
+  "path": [
+    "Address.sol",
+    "IERC20.sol",
+    "Migrations.sol",
+    "PauserRole.sol",
+    "SafeMath.sol",
+    "TokenTimelock.sol",
+    "YoungToken.sol",
+    "Ownable.sol",
+    "Pausable.sol",
+    "Roles.sol",
+    "SafeERC20.sol"
+  ],
+  "address": "0xA26Cbb76156090f4B40A1799A220fc4C946aFB3c"
+}

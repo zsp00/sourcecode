@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KEK",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e081462b85b5b12e4c467bd9caee78edf687c90eb66607345641505ae1565773",
+  "path": [
+    "KEK.sol"
+  ],
+  "address": "0xf7168c8AbB0ff80116413a8d95396BBdC318A3fF"
+}

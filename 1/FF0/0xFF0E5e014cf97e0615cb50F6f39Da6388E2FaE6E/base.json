@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OrigoToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://edaf256a2d10bdf6e57e08b56689f572be8e715e00bb6ac43676d1d9d1e6a008",
+  "path": [
+    "OrigoToken.sol"
+  ],
+  "address": "0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E"
+}
