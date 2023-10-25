@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HoldOnForDearLife",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "5000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9f53ad246c0f2545e3a0fea08c647e9807d8c5c75b70dce705aa0f2607bc3bdf",
+  "path": [
+    "HoldOnForDearLife.sol"
+  ],
+  "address": "0xe2F98dd7506807EF82d1988aA77c320bC52F8df4"
+}

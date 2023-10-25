@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MeetToken",
+  "CompilerVersion": "v0.5.4+commit.9549d8ff",
+  "OptimizationUsed": "0",
+  "Runs": "500",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://84e9ba5ba7dceb499fa68de0a808ddd686a8c1cf13c491f70490538ef4fe821e",
+  "path": [
+    "MeetToken.sol"
+  ],
+  "address": "0xE54Bed429c033bAe5Cb0747EFA0f41bEEfD9e99a"
+}
