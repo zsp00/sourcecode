@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UChainToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3e9b37ed67be17b576c37fbad048e02425b63d53bc6ed6609ac4255a952c9177",
+  "path": [
+    "UChainToken.sol"
+  ],
+  "address": "0xAAf37055188Feee4869dE63464937e683d61b2a1"
+}

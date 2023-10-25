@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LockChain",
+  "CompilerVersion": "v0.4.11+commit.68ef5810",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4daa1249648271f158298c34a92029599cfbee2f097dc4156366b084cf53cfb7",
+  "path": [
+    "LockChain.sol"
+  ],
+  "address": "0x5e3346444010135322268a4630d2ED5F8D09446c"
+}
