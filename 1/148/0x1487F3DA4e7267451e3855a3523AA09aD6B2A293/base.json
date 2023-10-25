@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AixChatToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://142e13a3eab695760d45c211cd67950b88644aeac49a09413544af98a9da4b84",
+  "path": [
+    "AixChatToken.sol"
+  ],
+  "address": "0x1487F3DA4e7267451e3855a3523AA09aD6B2A293"
+}
