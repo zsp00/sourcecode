@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TateCoin",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007503683049d85c92a78942bf7d3c0d260375ca8b000000000000000000000000247f4a781341ab26963cc5df867553d42d3aa9c5000000000000000000000000e18aca438d2949069d47e1c8a8f70927c0b4f87b000000000000000000000000d04b58b3bea1112ae78327b22d76f70f241fb593",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://14470c3e220cdd1a98c4fbb07621a9783c504b51afb73b5f3a16eb54fd500354",
+  "path": [
+    "TateCoin.sol"
+  ],
+  "address": "0x77986a5ffAF9C66d5a2261C9858091864868BF1C"
+}

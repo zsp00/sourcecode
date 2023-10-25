@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SurpriseToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e504875820cd336f970561b2c0e979e1efa671f22ccf5b605de8fd237e95ba5d",
+  "path": [
+    "SurpriseToken.sol"
+  ],
+  "address": "0xd9A72fEc8683db0666769D841d6D127F350B4418"
+}

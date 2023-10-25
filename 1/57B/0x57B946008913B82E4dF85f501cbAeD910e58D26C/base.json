@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TokenProxy",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "0000000000000000000000009777be0b086c3cc24ef4ec8ce3bba3556b3ac31b000000000000000000000000a1438d4081827c337d6a90f525789fffd44375e2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "1",
+  "Implementation": "0x7c3eeb458732ccd34b0339edb34f1e340929290a",
+  "SwarmSource": "bzzr://a6f56351dbbc0d0b4182cc0742811aa02a1e1c5ed47f268611b819fad6213567",
+  "path": [
+    "TokenProxy.sol"
+  ],
+  "address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C"
+}
