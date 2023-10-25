@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NoahCoin",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://953ce9a2945449382b8206dc2c1c342adfadf925bea877ae06aa421f4120a5c5",
+  "path": [
+    "NoahCoin.sol"
+  ],
+  "address": "0x58a4884182d9E835597f405e5F258290E46ae7C2"
+}
