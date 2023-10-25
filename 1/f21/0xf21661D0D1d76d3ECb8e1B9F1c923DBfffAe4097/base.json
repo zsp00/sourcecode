@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RIOToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c9910b60cd5788c1fb640b9072bf1073156781efb67e38371b128bae6f1addae",
+  "path": [
+    "RIOToken.sol"
+  ],
+  "address": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097"
+}

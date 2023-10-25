@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ENJToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009b73d1779c41dca36314fb7c4d3309838e20c4e7000000000000000000000000d3e631b1bc19f0c6d0c036484111c70ff1fa3f08000000000000000000000000f165c483ac93e567f20d11727ffa3209adf5cbc90000000000000000000000002eb794f3e37ccaa5d893c67c32d1b94f9b71131c",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7bb2feff0059a73611a1816a6de5e46685b0dccd17782a95a4984add7ff96f1b",
+  "path": [
+    "ENJToken.sol"
+  ],
+  "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c"
+}

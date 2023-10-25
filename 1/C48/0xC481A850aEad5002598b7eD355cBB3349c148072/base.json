@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StarBlockToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000002540be400",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d1c6e8747bbfcb748cc08ffb85cde443f0034c31f5953e9afd7a3eb1da33aa6b",
+  "path": [
+    "StarBlockToken.sol"
+  ],
+  "address": "0xC481A850aEad5002598b7eD355cBB3349c148072"
+}
