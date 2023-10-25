@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CitizenCapitalOG",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "100",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000ca593143355d8e9c3107248778d31e56df9146df0000000000000000000000000000000000000000000000000000000000000035697066733a2f2f516d5541786d62656d656f74627379587774457064523279745039456e48566b6341646a46644a646838506b4d330000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC721/ERC721.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/CitizenCapitalOG.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol"
+  ],
+  "address": "0x5d0cBec362643f04fB7A37D04fFa8a66E0AdAa54"
+}

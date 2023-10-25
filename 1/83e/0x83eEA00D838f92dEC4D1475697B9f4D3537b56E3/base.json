@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VOISE",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8348cf32da0a216e5d491141e1bcc6162f7d7f587dcd72145d69017b754bcdc2",
+  "path": [
+    "VOISE.sol"
+  ],
+  "address": "0x83eEA00D838f92dEC4D1475697B9f4D3537b56E3"
+}

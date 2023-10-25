@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UtopiaBot",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://daa2c90f79832204af8f6c9b66dabbd7f3ef1b71947ef0fa6104d53171bd7401",
+  "path": [
+    "UtopiaBot.sol"
+  ],
+  "address": "0x1783d3979038D986F3959aDF7DBfC527F42C4269"
+}

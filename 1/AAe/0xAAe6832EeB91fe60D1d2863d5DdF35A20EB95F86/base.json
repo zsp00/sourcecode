@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Uranium",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://05f2d4e136331d595b2e29cce87da904945a887da8065f1547cc02497986d607",
+  "path": [
+    "Uranium.sol"
+  ],
+  "address": "0xAAe6832EeB91fe60D1d2863d5DdF35A20EB95F86"
+}

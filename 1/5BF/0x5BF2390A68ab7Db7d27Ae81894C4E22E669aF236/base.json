@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CoffeeToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0849ddce958bca2de35af65fee5f67ca8a6a94dd2af8469d35428836f95c7ed5",
+  "path": [
+    "CoffeeToken.sol"
+  ],
+  "address": "0x5BF2390A68ab7Db7d27Ae81894C4E22E669aF236"
+}

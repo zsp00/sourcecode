@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HEX",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3b947130ed2fcbdab884e6c95d8d3fd93905e9871723f625aeb50c49c579594e",
+  "path": [
+    "HEX.sol"
+  ],
+  "address": "0x3be90F3aC213a730d9091BdDa45a2F69AD98892B"
+}
