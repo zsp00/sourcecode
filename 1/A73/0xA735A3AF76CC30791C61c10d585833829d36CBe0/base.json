@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Imgnai",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://662c2cd14135ccce2b9a986111545aafccc0dceef6265a43e28cadba1a9134c3",
+  "path": [
+    "Imgnai.sol"
+  ],
+  "address": "0xA735A3AF76CC30791C61c10d585833829d36CBe0"
+}

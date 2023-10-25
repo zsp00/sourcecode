@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CheddaToken",
+  "CompilerVersion": "v0.8.5+commit.a4f2e591",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://639c4bee4c86b30268187d79e9105e8ccfc1133e843eec1f724aa533bc792c72",
+  "path": [
+    "CheddaToken.sol"
+  ],
+  "address": "0x16756EC1DEb89A2106C35E0B586a799D0A61837D"
+}

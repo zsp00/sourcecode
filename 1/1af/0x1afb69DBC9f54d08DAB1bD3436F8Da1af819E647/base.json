@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MELOS",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8216d018f524599aa88923a5e4a394c913e83ff424b25ffba0f98e0f3944b332",
+  "path": [
+    "MELOS.sol"
+  ],
+  "address": "0x1afb69DBC9f54d08DAB1bD3436F8Da1af819E647"
+}

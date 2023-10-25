@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IMBTC",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://14a1ffdbe46054ad16a0f14292981e1e42c6b1845e892779ddcf21a37e3b7ea6",
+  "path": [
+    "IMBTC.sol"
+  ],
+  "address": "0x3212b29E33587A00FB1C83346f5dBFA69A458923"
+}
