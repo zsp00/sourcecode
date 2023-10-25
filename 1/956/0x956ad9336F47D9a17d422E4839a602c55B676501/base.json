@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Amm0x",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d000000000000000000000000de359c8dfc3ba7785d4df81b42323673146cc1b9",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ccef9e3ae82ca62a1a97f976f2af001ffe06be5f970dbed0622a2ecd9b3dbe7a",
+  "path": [
+    "Amm0x.sol"
+  ],
+  "address": "0x956ad9336F47D9a17d422E4839a602c55B676501"
+}

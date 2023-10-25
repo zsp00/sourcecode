@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HILO",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "legit ca for launches/new usdc ca.sol"
+  ],
+  "address": "0xbb9FD9Fa4863C03c574007fF3370787B9cE65ff6"
+}

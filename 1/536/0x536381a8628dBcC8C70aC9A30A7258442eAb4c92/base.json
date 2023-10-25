@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PantosToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://103ab7a3a7fe1d180f2d47836ec4f5344f30bed3c6cbb56383e23d07fb75a433",
+  "path": [
+    "PantosToken.sol"
+  ],
+  "address": "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92"
+}

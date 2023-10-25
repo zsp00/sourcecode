@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Proxy",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007aac67b8cb7f39e080672ca6a32f5a6a964c26a4",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "1",
+  "Implementation": "0x7aac67b8cb7f39e080672ca6a32f5a6a964c26a4",
+  "SwarmSource": "ipfs://58e4247c8242205e2950c78510b35a7c7e85aaaa38c115e0254e305088e7da72",
+  "path": [
+    "Proxy.sol"
+  ],
+  "address": "0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b"
+}
