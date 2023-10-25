@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MyLiquidityPool",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000000000000000000000204fce5e3e25026110000000000000000000000000000000e589c5a972862e0799a73e945bbab7d0e7e0790d00000000000000000000000000000000000000000000000000000000000000124d794c6971756964697479506172746e6572000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000034d4c500000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "ERC20Capped.sol",
+    "AccessControl.sol",
+    "UniswapV2Library.sol",
+    "UniswapV3Library.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "Context.sol",
+    "IAccessControl.sol",
+    "Strings.sol",
+    "IERC165.sol",
+    "UsingLiquidityProtectionService.sol",
+    "ERC20.sol",
+    "token.sol",
+    "IPLPS.sol",
+    "ERC165.sol"
+  ],
+  "address": "0xE22020F47B7378dfedcedd2C81d4137c22fE1152"
+}
