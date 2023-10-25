@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RUGME",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://38c77029c3fea27eb029acfcf75f6a2bcdf945db1b5ff3c0d30fbf5dc573db6f",
+  "path": [
+    "RUGME.sol"
+  ],
+  "address": "0x535659CB81ad02f6b015050Df79E194F9eE66847"
+}
