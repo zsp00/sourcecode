@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Moontendo",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ce05305845aa4ab810140b1c4d0d84d780909436732bb167957aedea7b60dce3",
+  "path": [
+    "Moontendo.sol"
+  ],
+  "address": "0x41c18296a8eF0Ce89E7601749444C52c26745AC4"
+}

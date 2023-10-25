@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AllianceBlockToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "999",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a5b6990e7b9344e5e91b1443bd1eba8f404ed4f7203e7d3617bf6bfe48ae30fb",
+  "path": [
+    "AllianceBlockToken.sol"
+  ],
+  "address": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0"
+}
