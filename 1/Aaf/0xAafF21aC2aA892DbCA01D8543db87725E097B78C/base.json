@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KBHToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fe2cfde854fc018edeaf27de896e91eda4214d7a656dbacba5d9d7c0a42dc525",
+  "path": [
+    "KBHToken.sol"
+  ],
+  "address": "0xAafF21aC2aA892DbCA01D8543db87725E097B78C"
+}
