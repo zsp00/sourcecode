@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VibeToken",
+  "CompilerVersion": "v0.4.13+commit.fb4cb1a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6406c2eaa7b4162d9c2df93931e9b10319e7c73b52b75700b7bfab92b871f2f4",
+  "path": [
+    "VibeToken.sol"
+  ],
+  "address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724"
+}

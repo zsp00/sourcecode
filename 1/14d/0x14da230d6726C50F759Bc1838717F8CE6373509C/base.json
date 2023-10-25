@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KAT",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://47646cdb879b7349f08f4891b831fda7382dee2a01c9b1e79e364b684621d791",
+  "path": [
+    "KAT.sol"
+  ],
+  "address": "0x14da230d6726C50F759Bc1838717F8CE6373509C"
+}
