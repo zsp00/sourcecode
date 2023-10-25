@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CultPepeToken",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e783bf66c5daa7373cff6488cd179dcda842573faa2c702b8411d384ea0298db",
+  "path": [
+    "CultPepeToken.sol"
+  ],
+  "address": "0x4D43A3fB2628bdFe0127F98A494d37ECeB2adab9"
+}
