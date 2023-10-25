@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GhoToken",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ee56e2b3d491590b5b31738cc34d5232f378a8d5",
+  "EVMVersion": "london",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9563bae06a8378e42705a7745ae022ca532895a0d3b9c01ee9be6f64fe7fdcb5",
+  "path": [
+    "lib/gho-core/src/contracts/gho/GhoToken.sol",
+    "lib/openzeppelin-contracts/contracts/utils/structs/EnumerableSet.sol",
+    "lib/openzeppelin-contracts/contracts/utils/introspection/ERC165.sol",
+    "lib/openzeppelin-contracts/contracts/utils/math/Math.sol",
+    "lib/openzeppelin-contracts/contracts/access/AccessControl.sol",
+    "lib/gho-core/src/contracts/gho/ERC20.sol",
+    "lib/gho-core/src/contracts/gho/interfaces/IGhoToken.sol",
+    "lib/openzeppelin-contracts/contracts/access/IAccessControl.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Strings.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "lib/openzeppelin-contracts/contracts/utils/introspection/IERC165.sol"
+  ],
+  "address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f"
+}

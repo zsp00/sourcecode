@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WrappedBitcoin",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "",
+  "EVMVersion": "shanghai",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "lib/solmate/src/auth/Owned.sol",
+    "interfaces/IBitcoin.sol",
+    "src/DropBox.sol",
+    "src/WrappedBitcoin.sol",
+    "lib/solmate/src/tokens/ERC20.sol"
+  ],
+  "address": "0x476908D9f75687684CE3DBF6990e722129cDbCc6"
+}

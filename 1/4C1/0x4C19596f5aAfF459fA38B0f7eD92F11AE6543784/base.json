@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TimeOwnedUpgradeabilityProxy",
+  "CompilerVersion": "v0.5.13+commit.5b0b510c",
+  "OptimizationUsed": "1",
+  "Runs": "20000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0x095527f5bea113e9575b662c5ba01d990a280f2f",
+  "SwarmSource": "bzzr://f0711983683a8e75a5cebe0ba1e54123d11ff3519f1af44dd6984e8728864aba",
+  "path": [
+    "TimeOwnedUpgradeabilityProxy.sol"
+  ],
+  "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784"
+}
