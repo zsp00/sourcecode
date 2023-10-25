@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VocToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9b662fef01808c5f1773a6b963173b3bba707f115826f8b5e205d43b8b07ef05",
+  "path": [
+    "VocToken.sol"
+  ],
+  "address": "0xB1cfB2421F6F12EBdA4F9b8d0336518c82e63b2c"
+}

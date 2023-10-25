@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OMTokenV2",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000fa0e08b7e80e6e7eecad9800bc32ef19132da295",
+  "EVMVersion": "constantinople",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "openzeppelin-solidity/contracts/token/ERC20/IERC20.sol",
+    "openzeppelin-solidity/contracts/utils/Address.sol",
+    "/home/nicklatkovich/pixelplex/riochain/om-token-v2/contracts/OMTokenV2.sol",
+    "openzeppelin-solidity/contracts/GSN/Context.sol",
+    "openzeppelin-solidity/contracts/access/Ownable.sol",
+    "openzeppelin-solidity/contracts/math/SafeMath.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20Capped.sol"
+  ],
+  "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d"
+}

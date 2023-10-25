@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MintableERC20",
+  "CompilerVersion": "v0.6.8+commit.0bbfe453",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000e000000000000000000000000000000000000000000000000000003691d6afc00000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000011c37937e08000000000000000000000000000000000000000000000000000000000000000000c4861636b656e20546f6b656e000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000034841490000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/MintableERC20.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/ReentrancyGuard.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "contracts/IMintableERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63"
+}

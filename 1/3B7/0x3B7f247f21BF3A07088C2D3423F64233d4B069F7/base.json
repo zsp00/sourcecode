@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DYNAMITETOKEN",
+  "CompilerVersion": "v0.5.1+commit.c8a2cb62",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3369d32c170028f183bb5340cf467698ff28e0a48897fadff7b92fceb811c0ff",
+  "path": [
+    "DYNAMITETOKEN.sol"
+  ],
+  "address": "0x3B7f247f21BF3A07088C2D3423F64233d4B069F7"
+}

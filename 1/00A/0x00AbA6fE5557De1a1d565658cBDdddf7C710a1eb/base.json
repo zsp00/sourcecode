@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EasyToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f4824b2034b6a107f3241830c85e467328bab0cd12757f462f40a6cdc59c3184",
+  "path": [
+    "EasyToken.sol"
+  ],
+  "address": "0x00AbA6fE5557De1a1d565658cBDdddf7C710a1eb"
+}
