@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "JotaroToken",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://32be83c976f4c1c7c1cd52b0ed9162b90a9446707a013a2c8a78d956aa4ea14f",
+  "path": [
+    "JotaroToken.sol"
+  ],
+  "address": "0x4e8bC827197D03184f0E6Ac6D485B95317109b42"
+}
