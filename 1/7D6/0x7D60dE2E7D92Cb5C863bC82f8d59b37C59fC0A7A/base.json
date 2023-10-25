@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DeeLance",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ad32f48d0586b47a823947817df6cdd8d45391541dddb1cefa845206dcc402e8",
+  "path": [
+    "DeeLance.sol"
+  ],
+  "address": "0x7D60dE2E7D92Cb5C863bC82f8d59b37C59fC0A7A"
+}

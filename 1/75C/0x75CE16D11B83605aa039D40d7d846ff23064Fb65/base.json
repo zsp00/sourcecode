@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DUBX",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ec70d864eb03697637865fe95c3ce4430826c3506353003a7ca85571eefa83ad",
+  "path": [
+    "DUBX.sol"
+  ],
+  "address": "0x75CE16D11B83605aa039D40d7d846ff23064Fb65"
+}

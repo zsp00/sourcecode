@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DaricoEcosystemToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a6a50aac824a45953b0c2da0cb8439ed6ebbe570000000000000000000000006a22ac2c9560210afa70c82ece35cc0122a72855000000000000000000000000813a69f3426117cb7c142834817fec4dc6989c2d0000000000000000000000001662cfd33d6016b0d5d15e1fe2c9d0ba558e8dcf",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://afee11fbc7d1556d63a4f23cbae38f555b5f21dbf1e22443a45e844021eb0a3e",
+  "path": [
+    "DaricoEcosystemToken.sol"
+  ],
+  "address": "0x89c6c856a6db3e46107163D0cDa7A7FF211BD655"
+}
