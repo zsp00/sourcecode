@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Cratos_Token",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0cbfc05f8219ba44e0bf45a8982fa05114cb40d3034ebe2b3225e8597f38b917",
+  "path": [
+    "Cratos_Token.sol"
+  ],
+  "address": "0x678e840C640F619E17848045D23072844224dD37"
+}
