@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SHIBTECH",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a8d9af09916f3a6ba474dc5bfee701152fe9e2ec5847b3077765c85188b656f9",
+  "path": [
+    "SHIBTECH.sol"
+  ],
+  "address": "0x03b4bf2002811106690fD805435e1E229Ae233E2"
+}
