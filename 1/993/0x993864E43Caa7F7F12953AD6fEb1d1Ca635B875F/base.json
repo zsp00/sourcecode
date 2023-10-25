@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SingDao",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a60598889a76c997d72c94402fa9c8ee6a33eb00",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "/Users/js/Documents/agix-contracts-master/contracts/Context.sol",
+    "/Users/js/Documents/agix-contracts-master/contracts/Ownable.sol",
+    "/Users/js/Documents/agix-contracts-master/contracts/SingDao.sol"
+  ],
+  "address": "0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F"
+}

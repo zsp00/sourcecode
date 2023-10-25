@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OwnedUpgradeabilityProxy",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xb650eb28d35691dd1bd481325d40e65273844f9b",
+  "SwarmSource": "bzzr://66d4b5932adad66dd7b19bdf5b36c25e9e99e563f06c779eeef9427bb3c9c767",
+  "path": [
+    "OwnedUpgradeabilityProxy.sol"
+  ],
+  "address": "0x0000000000085d4780B73119b644AE5ecd22b376"
+}

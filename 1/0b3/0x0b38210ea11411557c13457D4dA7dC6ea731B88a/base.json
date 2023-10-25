@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Api3Token",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "000000000000000000000000e7af7c5982e073ac6525a34821fe1b3e8e43209900000000000000000000000024dd2870b2a1986f58b495848606ed93270ec6fb",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c64ade4ecf97caf9850c521312f559e401a4cc8882a00ac35a148f5e0fbdc4cf",
+  "path": [
+    "Api3Token.sol"
+  ],
+  "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
+}

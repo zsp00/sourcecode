@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SCATTER",
+  "CompilerVersion": "v0.5.12+commit.7709ece9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3aca3e9488bee6c15f523ce33a96ea743ae8b59426de04484ea713e325379fe7",
+  "path": [
+    "SCATTER.sol"
+  ],
+  "address": "0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd"
+}

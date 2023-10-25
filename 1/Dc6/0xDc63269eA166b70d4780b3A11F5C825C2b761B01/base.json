@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PAW",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4c74444969f601a40761fdb23f084c8fa2e186741bd8b60181dc18b3a12fd1ba",
+  "path": [
+    "PAW.sol"
+  ],
+  "address": "0xDc63269eA166b70d4780b3A11F5C825C2b761B01"
+}

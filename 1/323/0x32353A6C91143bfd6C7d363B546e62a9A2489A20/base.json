@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AdventureGold",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://18d345deda60bb8be6ec0c2ba2226db04e33cb88103206e8363649e23673249b",
+  "path": [
+    "AdventureGold.sol"
+  ],
+  "address": "0x32353A6C91143bfd6C7d363B546e62a9A2489A20"
+}

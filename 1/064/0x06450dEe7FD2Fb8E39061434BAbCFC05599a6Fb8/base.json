@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XENCrypto",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "20",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x4bba9b6b49f3dfa6615f079e9d66b0aa68b04a4d",
+  "SwarmSource": "",
+  "path": [
+    "/contracts/interfaces/IBurnableToken.sol",
+    "/contracts/interfaces/IBurnRedeemable.sol",
+    "abdk-libraries-solidity/ABDKMath64x64.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "/contracts/interfaces/IStakingToken.sol",
+    "/contracts/interfaces/IRankedMintingToken.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/interfaces/IERC165.sol",
+    "/contracts/XENCrypto.sol",
+    "/contracts/Math.sol"
+  ],
+  "address": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8"
+}

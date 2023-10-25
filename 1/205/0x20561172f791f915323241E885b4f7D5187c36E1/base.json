@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Calcium",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/calcium.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol"
+  ],
+  "address": "0x20561172f791f915323241E885b4f7D5187c36E1"
+}

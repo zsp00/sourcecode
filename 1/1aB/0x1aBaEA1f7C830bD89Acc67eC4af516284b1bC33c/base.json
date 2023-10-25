@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FiatTokenProxy",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "10000000",
+  "ConstructorArguments": "000000000000000000000000a2327a938febf5fec13bacfb16ae10ecbc4cbdcf",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xa2327a938febf5fec13bacfb16ae10ecbc4cbdcf",
+  "SwarmSource": "",
+  "path": [
+    "/Users/mgrant/Developer/centre-tokens/contracts/v1/FiatTokenProxy.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "/Users/mgrant/Developer/centre-tokens/contracts/upgradeability/UpgradeabilityProxy.sol",
+    "/Users/mgrant/Developer/centre-tokens/contracts/upgradeability/Proxy.sol",
+    "/Users/mgrant/Developer/centre-tokens/contracts/upgradeability/AdminUpgradeabilityProxy.sol"
+  ],
+  "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DAFIToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://37d9fc7f8786e09f70de1dd26ac48642913dfb3825862cc9ece99856f56c4840",
+  "path": [
+    "DAFIToken.sol"
+  ],
+  "address": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439"
+}

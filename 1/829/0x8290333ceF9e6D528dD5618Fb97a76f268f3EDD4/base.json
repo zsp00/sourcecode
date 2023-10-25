@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ANKRToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://471df723636b1824d37f6acf756afcde2b4f3cce1a47967f30587e73f5aa1564",
+  "path": [
+    "ANKRToken.sol"
+  ],
+  "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4"
+}

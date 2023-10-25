@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XPN",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4682ec02d50916b2d6da9c6e42cb1c2808bd357405529a73b16cbdb95b6f607e",
+  "path": [
+    "XPN.sol"
+  ],
+  "address": "0x3b9e094D56103611f0ACEfDAb43182347BA60dF4"
+}

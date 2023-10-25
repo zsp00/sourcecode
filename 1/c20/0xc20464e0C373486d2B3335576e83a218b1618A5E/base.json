@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DatariusToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000005a8FfA5f2Ce95B3A397Bda16aD84781B6FDe4f8b",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://857008d5c5c6ea1e8c4245ce7e5e64baf2e2ab3197c0bfa76f20d6663794ad92",
+  "path": [
+    "DatariusToken.sol"
+  ],
+  "address": "0xc20464e0C373486d2B3335576e83a218b1618A5E"
+}
