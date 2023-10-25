@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Decentr",
+  "CompilerVersion": "v0.6.10+commit.00c0fcaf",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000b76b2064b11a5fe03f60e77ce13ba8542fdd4b98",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d8e5f92123c54c92ba1936721a831e04999e78cdacfd789ee8f1e4c1fa8ea6f3",
+  "path": [
+    "Decentr.sol"
+  ],
+  "address": "0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3"
+}
