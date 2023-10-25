@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ThoreCoin",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://53acb57753f00f9a98e37af5f84cc4f2427b2b64b6f7b8e7251184003f18de06",
+  "path": [
+    "ThoreCoin.sol"
+  ],
+  "address": "0x1Cb3209D45B2a60B7fBCA1cCDBF87f674237A4aa"
+}

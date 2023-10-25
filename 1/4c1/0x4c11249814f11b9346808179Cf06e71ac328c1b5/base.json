@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OraiToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f6f510ae05a54ce98a37ee2e1ad7ad8a12f047cd4bca2b0d635db8a5e710c44f",
+  "path": [
+    "OraiToken.sol"
+  ],
+  "address": "0x4c11249814f11b9346808179Cf06e71ac328c1b5"
+}
