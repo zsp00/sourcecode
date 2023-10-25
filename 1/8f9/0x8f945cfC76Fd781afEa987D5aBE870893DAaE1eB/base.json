@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EVA",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000012a05f200",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7cf3fa4c4d022c2acc7cb818e7c67b6986852770b1603d8f22d4f2c409b04282",
+  "path": [
+    "EVA.sol"
+  ],
+  "address": "0x8f945cfC76Fd781afEa987D5aBE870893DAaE1eB"
+}

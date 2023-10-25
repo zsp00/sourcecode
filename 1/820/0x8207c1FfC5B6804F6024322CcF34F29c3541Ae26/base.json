@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OriginToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000033b2e3c9fd0803ce8000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a1f23bff07bb597b5589c638de2919d4ce0fbc00cabdca1bde3ce5d034fde43a",
+  "path": [
+    "OriginToken.sol"
+  ],
+  "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26"
+}

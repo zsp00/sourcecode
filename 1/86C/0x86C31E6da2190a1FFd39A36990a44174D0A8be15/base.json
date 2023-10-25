@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VianeX",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3662c5bcbbc913ed5149a8cac4dc5f4a766d18d2e496976506d5bc330219a4b2",
+  "path": [
+    "VianeX.sol"
+  ],
+  "address": "0x86C31E6da2190a1FFd39A36990a44174D0A8be15"
+}
