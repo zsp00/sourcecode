@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SENDToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000003b0cc3aa9b059f9c9f815dd021162c153d5dba0000000000000000000000000eb9b6eb069c8ac30b206db0fe30f3aa66673d098000000000000000000000000661fb84b9aadd365234fe33a125ff92962a7750f000000000000000000000000cc443f90a69424b318f9259335ce81416f174a360000000000000000000000002ea46c2a78a2ef1e70b89133d0dd699b72ffb9e20000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/SendToken.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/interfaces/draft-IERC6093.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x6D48206b97B164555C8fC7a40D59A7230E055166"
+}
