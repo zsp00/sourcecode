@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HBSVToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000338637a1431f42243ffb8c39807e8d7cda0478a000000000000000000000000095a6ebdacd70b37b4dabb3504e5d817580e6e76500000000000000000000000009eae35713306115b6f1f5361b0dfd65a0b81433",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ab04edae1a31f264b055ce77969bffa11e2a47b3fb6eccf03f315733218987f4",
+  "path": [
+    "HBSVStorage.sol",
+    "HBSVToken.sol",
+    "IERC20Token.sol",
+    "Pausable.sol",
+    "SafeMath.sol",
+    "Container.sol",
+    "HBSVAdmin.sol",
+    "HBSVLogic.sol"
+  ],
+  "address": "0x14007c545e6664C8370F27fa6B99DC830e6510a6"
+}
