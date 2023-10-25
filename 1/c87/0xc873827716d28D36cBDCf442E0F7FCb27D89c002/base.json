@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VDT",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f49c05256ef1eb3c00ec85f93ba4a44276c2fd2bb28658839384b4488aa72de0",
+  "path": [
+    "VDT.sol"
+  ],
+  "address": "0xc873827716d28D36cBDCf442E0F7FCb27D89c002"
+}

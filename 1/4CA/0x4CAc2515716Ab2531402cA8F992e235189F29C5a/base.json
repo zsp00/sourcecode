@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WinstexToken",
+  "CompilerVersion": "v0.4.22+commit.4cb486ee",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://02ab2f79938c1b11f545a7bbac8ebf3f726e54fd2254ba3ae7486bc72f861060",
+  "path": [
+    "WinstexToken.sol"
+  ],
+  "address": "0x4CAc2515716Ab2531402cA8F992e235189F29C5a"
+}
