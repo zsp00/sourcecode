@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FridgeFame",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "777",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000b4672696467652046616d6500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000024646000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/common/ERC2981.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "closedsea/src/OperatorFilterer.sol",
+    "erc721a/contracts/IERC721A.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "contracts/FridgeFame.sol",
+    "@openzeppelin/contracts/interfaces/IERC2981.sol",
+    "erc721a/contracts/ERC721A.sol"
+  ],
+  "address": "0x080c23415Bd7f11fd8CAea9D132a89E866028AF3"
+}

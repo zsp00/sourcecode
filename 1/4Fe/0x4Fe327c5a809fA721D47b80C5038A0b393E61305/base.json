@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IOTW",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "10000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f1f1f83bd1e29c45ae20f08d2bd83a52550fffbf853ec97be7f9e766bf9a6320",
+  "path": [
+    "IOTW.sol"
+  ],
+  "address": "0x4Fe327c5a809fA721D47b80C5038A0b393E61305"
+}

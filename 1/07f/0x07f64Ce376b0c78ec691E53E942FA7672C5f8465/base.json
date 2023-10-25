@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Stashy",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b317849bba5b2fda68649abb666ca4ec38ac7cc8c45196caa7fb7ee6264e834e",
+  "path": [
+    "Stashy.sol"
+  ],
+  "address": "0x07f64Ce376b0c78ec691E53E942FA7672C5f8465"
+}
