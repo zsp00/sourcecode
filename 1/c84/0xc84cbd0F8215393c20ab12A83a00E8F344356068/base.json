@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SMIRK",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c217a2e2fb164b7fa5e91c5b159febe882b3ef9ebca6377af43fc9911da12a24",
+  "path": [
+    "SMIRK.sol"
+  ],
+  "address": "0xc84cbd0F8215393c20ab12A83a00E8F344356068"
+}

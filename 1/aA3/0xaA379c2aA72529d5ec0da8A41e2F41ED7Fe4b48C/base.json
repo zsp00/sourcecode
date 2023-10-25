@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Vyper_contract",
+  "CompilerVersion": "vyper:0.3.3",
+  "OptimizationUsed": "0",
+  "Runs": "0",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU AGPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "Vyper_contract.sol"
+  ],
+  "address": "0xaA379c2aA72529d5ec0da8A41e2F41ED7Fe4b48C"
+}
