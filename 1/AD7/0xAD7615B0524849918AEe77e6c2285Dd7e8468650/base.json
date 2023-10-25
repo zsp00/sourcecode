@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Robocalls",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9735473264ed418585df08bec88a81c1d23624201ca4064cabdf71ec37b66a2e",
+  "path": [
+    "Robocalls.sol"
+  ],
+  "address": "0xAD7615B0524849918AEe77e6c2285Dd7e8468650"
+}
