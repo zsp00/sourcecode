@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PXPv2Token",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4e472ca2436eed28fd0045d7b7d00552f634e0b38af511aa5cdc09fad011ab57",
+  "path": [
+    "PXPv2Token.sol"
+  ],
+  "address": "0x95aA5d2DbD3c16ee3fdea82D5C6EC3E38CE3314f"
+}

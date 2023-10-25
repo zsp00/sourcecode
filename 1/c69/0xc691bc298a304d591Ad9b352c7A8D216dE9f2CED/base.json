@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "POLA",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://206d80bf3b301c14e2b7c0cadb3abb2c9eab02d579b0a09ea864d6b71db4e08a",
+  "path": [
+    "POLA.sol"
+  ],
+  "address": "0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED"
+}
