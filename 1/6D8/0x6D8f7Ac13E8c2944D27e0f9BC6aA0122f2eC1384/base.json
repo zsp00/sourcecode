@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SuperMarket",
+  "CompilerVersion": "v0.8.8+commit.dddeac2f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7dacfde8f621724a75ee7005b557fde51c92a685c8abd18ab575d37794d7eb36",
+  "path": [
+    "SuperMarket.sol"
+  ],
+  "address": "0x6D8f7Ac13E8c2944D27e0f9BC6aA0122f2eC1384"
+}

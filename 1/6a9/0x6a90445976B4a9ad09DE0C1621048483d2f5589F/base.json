@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZAI",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2f1263a9bea657df2778ceb8281130a88ffde6cc41d5aa739219ff2fea76433b",
+  "path": [
+    "ZAI.sol"
+  ],
+  "address": "0x6a90445976B4a9ad09DE0C1621048483d2f5589F"
+}
