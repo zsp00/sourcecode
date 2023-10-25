@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SDT",
+  "CompilerVersion": "v0.6.7+commit.b8d736ae",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "SDT.sol"
+  ],
+  "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F"
+}
