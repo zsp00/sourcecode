@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SafePalToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ee536f0aebb3dd278678bf61fbcd3d043dfdf834085c0a48a185626ec381f037",
+  "path": [
+    "SafePalToken.sol"
+  ],
+  "address": "0x12e2b8033420270db2F3b328E32370Cb5B2Ca134"
+}
