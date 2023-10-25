@@ -5,5 +5,5 @@ do
  git add .
  git commit -m "commit new code"
  git push origin main
- sleep 500
+ sleep 60
 done
