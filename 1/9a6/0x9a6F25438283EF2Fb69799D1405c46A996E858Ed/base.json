@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "pepe",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e7c502c9a59cf66205e843bfcaa8da5f11d64d56e641b5ccbc3f1caf86beaaf3",
+  "path": [
+    "pepe.sol"
+  ],
+  "address": "0x9a6F25438283EF2Fb69799D1405c46A996E858Ed"
+}

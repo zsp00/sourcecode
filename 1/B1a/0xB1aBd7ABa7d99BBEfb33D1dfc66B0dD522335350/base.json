@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EURST",
+  "CompilerVersion": "v0.6.10+commit.00c0fcaf",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000de0b6b3a76400000000000000000000000000005c0b9d76e8e985b58ffbf08c040f2f270baf78d6000000000000000000000000683e1d813f84b2ccf768c730333f6c88c0820520000000000000000000000000aab676b0d068435181c4e401935d1e4665f06628000000000000000000000000aa98feaf3c6118a91e0b0924f286aa1f77ab208d",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3f32e02f767c0ddd63a7fac2aae52dc0a65fa6399e3182a54df05d1c45f53f69",
+  "path": [
+    "EURST.sol"
+  ],
+  "address": "0xB1aBd7ABa7d99BBEfb33D1dfc66B0dD522335350"
+}

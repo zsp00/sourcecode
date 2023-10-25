@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ScrivToken",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000001000000000000000000000000cb00c73bab3746336387d0dd03946581e95417c4000000000000000000000000000000000000000000000000002b71bc2bbaa200",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6a9636259adb1b956b6ccbd3633046d807d9c406b544402adb42c0e50e7e72d5",
+  "path": [
+    "ScrivToken.sol"
+  ],
+  "address": "0xD76050f75627e508fa14b84036fbF40b8cC549BD"
+}
