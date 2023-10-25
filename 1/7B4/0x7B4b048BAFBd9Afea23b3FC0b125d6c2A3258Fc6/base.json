@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Kizuna",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d0f49a13961674f0c346443c628e47958acf1b62b5cb21ea5ff0a40f00276028",
+  "path": [
+    "Kizuna.sol"
+  ],
+  "address": "0x7B4b048BAFBd9Afea23b3FC0b125d6c2A3258Fc6"
+}
