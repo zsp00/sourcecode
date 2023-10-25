@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HACHI",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5a189c0dd8c152d5417b37e6047d770c6e378bb515668dfa086430792a5bedb8",
+  "path": [
+    "HACHI.sol"
+  ],
+  "address": "0x2a7e415C169cE3a580c6F374Dc26f6Aaad1EccFe"
+}
