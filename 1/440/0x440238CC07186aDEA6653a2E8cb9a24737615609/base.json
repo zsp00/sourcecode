@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Shibmerican",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f7e5d92bbbde7f67d7a30e24b054592263e9c340d64bb46482994ca57f1f91ff",
+  "path": [
+    "Shibmerican.sol"
+  ],
+  "address": "0x440238CC07186aDEA6653a2E8cb9a24737615609"
+}

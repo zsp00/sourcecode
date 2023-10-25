@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UCASH",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://349e6428dec52fff7be1a46decc1636072e1451828ac5d076b7b44bb0e7e723b",
+  "path": [
+    "UCASH.sol"
+  ],
+  "address": "0x92e52a1A235d9A103D970901066CE910AAceFD37"
+}

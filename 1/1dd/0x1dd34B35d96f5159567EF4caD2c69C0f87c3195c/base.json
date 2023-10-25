@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VaultToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2e2e377697bd4c0a982479e809515c8ec58fa963b30814405a1a266a883514a6",
+  "path": [
+    "VaultToken.sol"
+  ],
+  "address": "0x1dd34B35d96f5159567EF4caD2c69C0f87c3195c"
+}

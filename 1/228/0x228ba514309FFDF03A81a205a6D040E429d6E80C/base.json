@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GSCToken",
+  "CompilerVersion": "v0.4.20-nightly.2018.1.6+commit.2548228b",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://66d9acead4d4b5a397054525cdf6340d34ccc56530e4d5a84344ec80a7ccec00",
+  "path": [
+    "GSCToken.sol"
+  ],
+  "address": "0x228ba514309FFDF03A81a205a6D040E429d6E80C"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "InsightProtocol",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://22508343e85c295481b99fefb8ad04ddf2560bb01015e1559bc41f043252057f",
+  "path": [
+    "InsightProtocol.sol"
+  ],
+  "address": "0x84fE25f3921f3426395c883707950d0c00367576"
+}
