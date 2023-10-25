@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Vabble",
+  "CompilerVersion": "v0.8.5+commit.a4f2e591",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9130fd551389d8ac2006ed2f24702bdb9d1176c5d77319c4e57290cdc5ad8503",
+  "path": [
+    "Vabble.sol"
+  ],
+  "address": "0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04"
+}
