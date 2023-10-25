@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MonethaToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000027bcc0275ed76e0b338a42e7e08dec36d256780000000000000000000000000000000000000000000000000000000059cfa360",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1ece16a4849d6f063ac16d4723492df94b137bb9f49ec010ea71aa0475f8a1f8",
+  "path": [
+    "MonethaToken.sol"
+  ],
+  "address": "0xaF4DcE16Da2877f8c9e00544c93B62Ac40631F16"
+}

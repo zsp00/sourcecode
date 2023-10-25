@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "APBToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d3b931b3818889251af2a319645f3b66a8c8f0710adda444eabcef60f2faf7b3",
+  "path": [
+    "APBToken.sol"
+  ],
+  "address": "0x23Da77203EEad71e72d7326654c431ef563567A4"
+}
