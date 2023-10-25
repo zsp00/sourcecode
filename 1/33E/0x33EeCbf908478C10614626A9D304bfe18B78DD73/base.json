@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ecliptic",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a5b6109ad2d35191b3bc32c00e4526be56fe321f000000000000000000000000223c067f8cf28ae173ee5cafea60ca44c335fecb0000000000000000000000007fecab617c868bb5996d99d95200d2fa708218e40000000000000000000000001df4ea30e0b1359c9692a161c5f30cd1a6b64ebf0000000000000000000000003e1efda147ec9309e1e47782ecafede1d04b45e5",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b87afd7c657151e426eea5cfcc143c5b743516abd4d41bb11369080f92a81e5e",
+  "path": [
+    "Ecliptic.sol"
+  ],
+  "address": "0x33EeCbf908478C10614626A9D304bfe18B78DD73"
+}

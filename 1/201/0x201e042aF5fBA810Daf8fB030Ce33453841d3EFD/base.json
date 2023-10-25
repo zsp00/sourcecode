@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SETH",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000005fe17d0fa46d52f70be4be1184b8060bab6c507f",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0663db9e6b059a5c86f66f0e589499c97752c183f5c2fb4afa03abf0613001da",
+  "path": [
+    "SETH.sol"
+  ],
+  "address": "0x201e042aF5fBA810Daf8fB030Ce33453841d3EFD"
+}
