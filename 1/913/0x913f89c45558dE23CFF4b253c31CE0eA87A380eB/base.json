@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PREMETokenGoldNFTs",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000006c3c3224350ad7d1e2855339c2f509aa91c4dca2000000000000000000000000000000000000000000000000000000000000000a",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f761f2794de85ee6cdb3190cbb929077fdd35b016b62d17d9bc3893b01e40452",
+  "path": [
+    "PREMETokenGoldNFTs.sol"
+  ],
+  "address": "0x913f89c45558dE23CFF4b253c31CE0eA87A380eB"
+}

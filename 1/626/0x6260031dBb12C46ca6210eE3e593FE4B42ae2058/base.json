@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "INFINITELOOP",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5069c479971077759a31f72714958cee9d23f54b3a861408d435d068317da75c",
+  "path": [
+    "INFINITELOOP.sol"
+  ],
+  "address": "0x6260031dBb12C46ca6210eE3e593FE4B42ae2058"
+}
