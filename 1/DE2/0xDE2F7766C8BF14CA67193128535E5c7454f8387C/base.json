@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Metadium",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://eea1680c67aad8438611220483d3c1e049cc87688f956512471069dfaf9ad3de",
+  "path": [
+    "Metadium.sol"
+  ],
+  "address": "0xDE2F7766C8BF14CA67193128535E5c7454f8387C"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "xDNA",
+  "CompilerVersion": "v0.6.0+commit.26b70077",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d3ec7943d7f39e7c05aa6a878cc6350d5d546e90754e93a9274a2127b5e83ede",
+  "path": [
+    "xDNA.sol"
+  ],
+  "address": "0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB"
+}
