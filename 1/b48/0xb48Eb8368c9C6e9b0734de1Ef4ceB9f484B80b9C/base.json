@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VMPX",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "20",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000010ce43f",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "/contracts/VMPX.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Capped.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0xb48Eb8368c9C6e9b0734de1Ef4ceB9f484B80b9C"
+}
