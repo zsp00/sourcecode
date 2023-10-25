@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PayToken",
+  "CompilerVersion": "v0.4.11+commit.68ef5810",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c6bc746495bfdc249c3c265cc1ae5765577b1a245e6ec2967219cc197d800c9b",
+  "path": [
+    "PayToken.sol"
+  ],
+  "address": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"
+}
