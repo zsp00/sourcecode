@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Hater",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b579d531c3baffd0ca3dd628e5008b6f6a12121975a71fe1b0513359e11307de",
+  "path": [
+    "Hater.sol"
+  ],
+  "address": "0xC9C16568fC3B39E01b6dD390Fd5e6BA7Ea193bd1"
+}
