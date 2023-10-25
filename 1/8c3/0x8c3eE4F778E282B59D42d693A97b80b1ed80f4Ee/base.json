@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SatoPay",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f34da8141e710279c453a42682e65871f33d7d07ace4c3728a18ca8ef0540e1d",
+  "path": [
+    "SatoPay.sol"
+  ],
+  "address": "0x8c3eE4F778E282B59D42d693A97b80b1ed80f4Ee"
+}
