@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StakeToken",
+  "CompilerVersion": "v0.5.5+commit.47a71e8f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "petersburg",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20Pausable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/access/roles/MinterRole.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/lifecycle/Pausable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Detailed.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Mintable.sol",
+    "/Users/lex/guarda/eth-staking-contrancts/contracts/StakeToken.sol",
+    "@openzeppelin/contracts/access/Roles.sol",
+    "@openzeppelin/contracts/access/roles/PauserRole.sol"
+  ],
+  "address": "0x9ad03c34aAb604A9e0Fde41dbF8E383E11c416c4"
+}
