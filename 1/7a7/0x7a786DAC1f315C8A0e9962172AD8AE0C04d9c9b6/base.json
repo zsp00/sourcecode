@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MEMDToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000107c89d000000000000000000000000000000000000000000000000000000000107c93300000000000000000000000000000000000000000000000000000246139ca800",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8268879f0560fa3e399cb0296d7ddef1d5d1bc1064d93b3ca2e699f5d9cdcb78",
+  "path": [
+    "MEMDToken.sol"
+  ],
+  "address": "0x7a786DAC1f315C8A0e9962172AD8AE0C04d9c9b6"
+}

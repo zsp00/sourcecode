@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Kelpie",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e5a8684be6698b18eb4e69e5969ddb22bdd319a9b876dc3483ab2c318ea40c31",
+  "path": [
+    "Kelpie.sol"
+  ],
+  "address": "0x672D7b3333d0F069a28b73A268bC6eAeC65F2E1a"
+}
