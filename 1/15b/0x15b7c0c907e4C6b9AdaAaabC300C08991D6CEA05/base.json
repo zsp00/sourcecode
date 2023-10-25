@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Gel",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "000000000000000000000000163407fda1a93941358c1bfda39a868599553b6d000000000000000000000000163407fda1a93941358c1bfda39a868599553b6d000000000000000000000000000000000000000000000000000000006501dc80",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ae3be6162d2054573dccc375b0b450b5b83cf372927a9fe3c1e4fc7e596963b0",
+  "path": [
+    "Gel.sol"
+  ],
+  "address": "0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05"
+}

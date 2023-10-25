@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CIFDToken",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1cc76a303ff3edd4e96ddcb8cd8cb5588736a26ff9479b3879f93e03287f9fb4",
+  "path": [
+    "CIFDToken.sol"
+  ],
+  "address": "0x3ec3056eAdb46b12C93D34b1e9CD5Aea335a223c"
+}
