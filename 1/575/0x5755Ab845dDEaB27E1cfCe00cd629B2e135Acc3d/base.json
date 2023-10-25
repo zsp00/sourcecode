@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LarvaLads",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://751e2223928166e6c366430224c4872b56fb8ef9463b06e19669c5f205a48ef1",
+  "path": [
+    "LarvaLads.sol"
+  ],
+  "address": "0x5755Ab845dDEaB27E1cfCe00cd629B2e135Acc3d"
+}
