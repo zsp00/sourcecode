@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LOVELY",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://28df66521c1de5a280b20e80e236d0afe156ee52d481643d43e06ae9bb4e0ff7",
+  "path": [
+    "LOVELY.sol"
+  ],
+  "address": "0x9E24415d1e549EBc626a13a482Bb117a2B43e9CF"
+}

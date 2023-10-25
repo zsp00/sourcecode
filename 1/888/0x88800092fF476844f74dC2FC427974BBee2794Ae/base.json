@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WALLETToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a07d75aacefd11b425af7181958f0f85c312f143",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c9cddc5e39b8d3e99df64b58dd61ca264e52b191b2d89e0cd79f665d81c2a98a",
+  "path": [
+    "WALLETToken.sol"
+  ],
+  "address": "0x88800092fF476844f74dC2FC427974BBee2794Ae"
+}
