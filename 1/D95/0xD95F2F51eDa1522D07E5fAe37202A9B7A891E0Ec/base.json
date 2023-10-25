@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MACO",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9e0d81b83bed70b6db458c561564d9692b564a8159378355d97e8d7aeb2ac62d",
+  "path": [
+    "MACO.sol"
+  ],
+  "address": "0xD95F2F51eDa1522D07E5fAe37202A9B7A891E0Ec"
+}
