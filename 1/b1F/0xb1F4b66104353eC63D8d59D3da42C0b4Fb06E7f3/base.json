@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Floki",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007ef60c3c2f0c8c6e0489bea897c44e44111c4e840000000000000000000000007ef60c3c2f0c8c6e0489bea897c44e44111c4e84",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5590b578fbc6834c309e94f22e757e16f87372819a84e91462a562d8550bf376",
+  "path": [
+    "Floki.sol"
+  ],
+  "address": "0xb1F4b66104353eC63D8d59D3da42C0b4Fb06E7f3"
+}
