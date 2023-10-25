@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Nothing",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "2000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "erc721a/contracts/IERC721A.sol",
+    "contracts/Nothing.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/interfaces/IERC2981.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol"
+  ],
+  "address": "0x8b634B2ae70E338865BF9741b4ae935adf2b4C55"
+}

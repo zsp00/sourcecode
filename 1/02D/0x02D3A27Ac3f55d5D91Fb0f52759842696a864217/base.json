@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ionx",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "erc20permit/contracts/ERC20Permit.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "contracts/lib/BlackholePrevention.sol",
+    "erc20permit/contracts/IERC2612.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/token/ERC20/SafeERC20.sol",
+    "contracts/tokens/Ionx.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/introspection/IERC165.sol"
+  ],
+  "address": "0x02D3A27Ac3f55d5D91Fb0f52759842696a864217"
+}
