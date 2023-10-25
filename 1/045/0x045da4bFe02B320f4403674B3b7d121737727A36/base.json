@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DCHFToken",
+  "CompilerVersion": "v0.8.14+commit.80d49f37",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000202fbff035188f9f0525e144c8b3f8249a74ad21",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Interfaces/IStabilityPoolManager.sol",
+    "contracts/DCHFToken.sol",
+    "contracts/Interfaces/IDCHFToken.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "contracts/Interfaces/IStabilityPool.sol",
+    "contracts/Interfaces/IDeposit.sol",
+    "@openzeppelin/contracts/utils/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "contracts/Dependencies/ERC20Permit.sol",
+    "contracts/Dependencies/CheckContract.sol",
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0x045da4bFe02B320f4403674B3b7d121737727A36"
+}

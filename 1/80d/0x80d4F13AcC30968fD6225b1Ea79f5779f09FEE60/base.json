@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GERA",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3ad949ea65f7aaa84ccb9370022439f665608702471600d8d073e54fbf12f395",
+  "path": [
+    "GERA.sol"
+  ],
+  "address": "0x80d4F13AcC30968fD6225b1Ea79f5779f09FEE60"
+}

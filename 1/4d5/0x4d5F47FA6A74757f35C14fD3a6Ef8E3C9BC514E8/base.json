@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "InitializableImmutableAdminUpgradeabilityProxy",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "100000",
+  "ConstructorArguments": "0000000000000000000000002f39d218133afab8f2b819b1066c7e434ad94e9e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU AGPLv3",
+  "Proxy": "1",
+  "Implementation": "0x7effd7b47bfd17e52fb7559d3f924201b9dbff3d",
+  "SwarmSource": "",
+  "path": [
+    "@aave/core-v3/contracts/protocol/libraries/aave-upgradeability/InitializableImmutableAdminUpgradeabilityProxy.sol",
+    "@aave/core-v3/contracts/dependencies/openzeppelin/contracts/Address.sol",
+    "@aave/core-v3/contracts/dependencies/openzeppelin/upgradeability/BaseUpgradeabilityProxy.sol",
+    "@aave/core-v3/contracts/dependencies/openzeppelin/upgradeability/InitializableUpgradeabilityProxy.sol",
+    "@aave/core-v3/contracts/dependencies/openzeppelin/upgradeability/Proxy.sol",
+    "@aave/core-v3/contracts/protocol/libraries/aave-upgradeability/BaseImmutableAdminUpgradeabilityProxy.sol"
+  ],
+  "address": "0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8"
+}

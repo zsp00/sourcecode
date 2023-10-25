@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Shibnobiv2",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://708d966861dd75438f87dc4cc5028c0d5a9bf9e235104ec99a3cd5a81e81392d",
+  "path": [
+    "Shibnobiv2.sol"
+  ],
+  "address": "0x7DAc25b1A665e1c70F25F1fC37d88C99274984ed"
+}
