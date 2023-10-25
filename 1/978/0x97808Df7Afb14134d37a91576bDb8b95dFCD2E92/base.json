@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Frengate",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000073cfcad68c40d0f09bbc0fd3d200a9f4d5465bea000000000000000000000000827f5a7c54de1c00071aea4211b5faade415e08e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://77dfa445cce35284c386afc1cda3a74688478df9403f513939d2ad3c83389b8e",
+  "path": [
+    "Frengate.sol"
+  ],
+  "address": "0x97808Df7Afb14134d37a91576bDb8b95dFCD2E92"
+}
