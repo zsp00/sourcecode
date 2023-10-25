@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ARTHUR",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bd70109c429e1a9935b349abb0d14a9e3f14a9fef638a88cf17de5b54fc534a8",
+  "path": [
+    "ARTHUR.sol"
+  ],
+  "address": "0xdD0B109fC8a1d989F567D59bDB27D0eD407D9871"
+}

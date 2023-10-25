@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LTOToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000022a392c68f600000000000000000000000000035c666ddefedfa19ea433f3b8e5e34428b223fc300000000000000000000000000000000000000000000000000a0c2a2a0162000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2b6a80f41919ede7112a0a8bc1698cbd9d20c4f16377ef5d36cfcb525548aebe",
+  "path": [
+    "LTOToken.sol"
+  ],
+  "address": "0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D"
+}

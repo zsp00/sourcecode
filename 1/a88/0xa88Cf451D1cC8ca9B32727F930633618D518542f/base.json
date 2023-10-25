@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FinkToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://82e3f2274ae62699c4b63ac3dfd73701ea80554ef80b2c3e68534283cd1f6309",
+  "path": [
+    "FinkToken.sol"
+  ],
+  "address": "0xa88Cf451D1cC8ca9B32727F930633618D518542f"
+}
