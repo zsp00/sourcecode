@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LitecoinToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3b0baeb37dc5a324e1f2d360c0616502a661819bed6cf97e81af864ee9a65f7f",
+  "path": [
+    "LitecoinToken.sol"
+  ],
+  "address": "0x8A732BC91c33c167F868E0af7e6f31e0776d0f71"
+}

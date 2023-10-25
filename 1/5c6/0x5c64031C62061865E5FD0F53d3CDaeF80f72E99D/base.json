@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HashGardToken",
+  "CompilerVersion": "v0.4.24-nightly.2018.4.23+commit.c7ee2ca0",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ebba4e1af072c3ca47d5b4758cfb092ed34e1485264227e42207c17d9c8bcb6f",
+  "path": [
+    "HashGardToken.sol"
+  ],
+  "address": "0x5c64031C62061865E5FD0F53d3CDaeF80f72E99D"
+}
