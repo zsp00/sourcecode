@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ProxyERC20",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ccf1242cb1d7d56b428dac2bd68a5cace1b067e7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f4b49c5795540963e7dbce406d43ed9f5f8ec6390c1ef12755adb14845c0d4cf",
+  "path": [
+    "ProxyERC20.sol"
+  ],
+  "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51"
+}

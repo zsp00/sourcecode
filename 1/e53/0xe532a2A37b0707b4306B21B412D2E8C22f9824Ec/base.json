@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CustomToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a4ad72781fe574901e31938a08dcacd5b238bca0b29d11488027fcd363c09814",
+  "path": [
+    "CustomToken.sol"
+  ],
+  "address": "0xe532a2A37b0707b4306B21B412D2E8C22f9824Ec"
+}
