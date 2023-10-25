@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZapEx",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ee65d017cbb22d4442b66976e7f5715a7e3464cd2b83ad3819a02e340844d42c",
+  "path": [
+    "ZapEx.sol"
+  ],
+  "address": "0x396De8bb0a1745B531Bf5cD5952539A1b5FE66E0"
+}

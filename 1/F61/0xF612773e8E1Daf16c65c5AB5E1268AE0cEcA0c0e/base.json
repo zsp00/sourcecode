@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GNCCrowdsale",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000c7be5caa4dc9fd5cbb27a76d828404f85018568f000000000000000000000000b4abbec258fc273505df3729d831008a4b763f8c",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://154f66b63c15067d993d8a5b89ee3117282ae78f47113d47617df726ac8a850c",
+  "path": [
+    "GNCCrowdsale.sol"
+  ],
+  "address": "0xF612773e8E1Daf16c65c5AB5E1268AE0cEcA0c0e"
+}
