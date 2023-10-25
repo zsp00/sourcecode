@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Chappie",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://efcab367f10778439f71e3f612dc30f22a4293fd7fbac414cded2601cf860a4d",
+  "path": [
+    "Chappie.sol"
+  ],
+  "address": "0x414cbF31c62D99515bfD66497B495a585b52F703"
+}
