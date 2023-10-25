@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Hamster",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fe90129be57ebed316035b940e97e157b9f050e8a45abd8f4797fb71093306ca",
+  "path": [
+    "Hamster.sol"
+  ],
+  "address": "0x260BeaB49Ce54F8AbD9E8977acE61F0bFAaE6cd9"
+}
