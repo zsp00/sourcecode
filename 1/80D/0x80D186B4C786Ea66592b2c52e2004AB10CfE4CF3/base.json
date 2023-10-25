@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Lynx",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a3fd551884d62d6fd6d95d4900beff89cbe45a8d000000000000000000000000d6f758ba6c169f50a6a6eff1e74559b134647b51",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6013a253850af0bc5f0413345c258f0b15cbd1b877c8275d5fa7aece0257a4ff",
+  "path": [
+    "Lynx.sol"
+  ],
+  "address": "0x80D186B4C786Ea66592b2c52e2004AB10CfE4CF3"
+}

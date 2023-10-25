@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ClassyCoin",
+  "CompilerVersion": "v0.4.17+commit.bdeb9e52",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://98e0d75fee43031f481e73032047c273fd85d476987706bdc5a7cbf8b697ad63",
+  "path": [
+    "ClassyCoin.sol"
+  ],
+  "address": "0x30CC0e266cF33B8eaC6A99cBD98E39b890cfD69b"
+}
