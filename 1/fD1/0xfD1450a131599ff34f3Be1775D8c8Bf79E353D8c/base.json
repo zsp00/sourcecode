@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SHIBA",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3c982c1b969520e55fbae99318994a31bbcc03b0782145ca66a823cd333aa48c",
+  "path": [
+    "SHIBA.sol"
+  ],
+  "address": "0xfD1450a131599ff34f3Be1775D8c8Bf79E353D8c"
+}
