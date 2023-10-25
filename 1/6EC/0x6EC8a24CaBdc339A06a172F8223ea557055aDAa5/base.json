@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GNX",
+  "CompilerVersion": "v0.4.13+commit.fb4cb1a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000af5b37a3f0947c5eee60909ef0b60d1caf54b971",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1e177e95fc066f168c7417151be7f8f195969d5d07701dade53781d95565a3fb",
+  "path": [
+    "GNX.sol"
+  ],
+  "address": "0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5"
+}

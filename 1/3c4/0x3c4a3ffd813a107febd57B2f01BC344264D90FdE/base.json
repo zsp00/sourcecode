@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EnergiToken",
+  "CompilerVersion": "v0.4.15-nightly.2017.7.31+commit.93f90eb2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7173a1dab7b365e24aae7a66be4be9a8d011db43679e678078ca8ea117e9f03d",
+  "path": [
+    "EnergiToken.sol"
+  ],
+  "address": "0x3c4a3ffd813a107febd57B2f01BC344264D90FdE"
+}

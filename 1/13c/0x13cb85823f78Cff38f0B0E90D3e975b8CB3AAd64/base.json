@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RemiToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000003077b58d5d37839198000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://71863e276d36231c1afde282ff78a56a0e9190efc912a36d682c44824be53218",
+  "path": [
+    "RemiToken.sol"
+  ],
+  "address": "0x13cb85823f78Cff38f0B0E90D3e975b8CB3AAd64"
+}
