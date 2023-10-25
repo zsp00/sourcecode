@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RECFToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://234bcb42297068e9840f83945db6def0f5d2c4e759342d4f5fd1c630091c4918",
+  "path": [
+    "RECFToken.sol"
+  ],
+  "address": "0x6FF2c628d0bb24d42Cf09DF61f6E0997b9eEe0F8"
+}
