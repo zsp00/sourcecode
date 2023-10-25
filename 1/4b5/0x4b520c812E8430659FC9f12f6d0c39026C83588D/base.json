@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DGLight",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ee06a81a695750e71a662b51066f2c74cf4478a0",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7a3b5b0c330f51eeab5b8ff04f4ca87febbd8f73b5aa2ec84c3d195ab39158d2",
+  "path": [
+    "DGLightToken.sol",
+    "ERC20.sol"
+  ],
+  "address": "0x4b520c812E8430659FC9f12f6d0c39026C83588D"
+}
