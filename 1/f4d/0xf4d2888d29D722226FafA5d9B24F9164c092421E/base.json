@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LooksRareToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "888888",
+  "ConstructorArguments": "000000000000000000000000b5ea630070d885160323576db6bc86856e40462c000000000000000000000000000000000000000000a56fa5b99019a5c80000000000000000000000000000000000000000000000033b2e3c9fd0803ce8000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "contracts/interfaces/ILooksRareToken.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "contracts/tokenStaking/LooksRareToken.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E"
+}

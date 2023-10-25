@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WrappedEthereumDydxToken",
+  "CompilerVersion": "v0.7.5+commit.eb77ed08",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000092d6c1e31e14520e676a687f0a93788b716beff5",
+  "EVMVersion": "berlin",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/dependencies/open-zeppelin/SafeMath.sol",
+    "contracts/interfaces/IGovernancePowerDelegationERC20.sol",
+    "contracts/dependencies/open-zeppelin/Address.sol",
+    "contracts/dependencies/open-zeppelin/Context.sol",
+    "contracts/dependencies/open-zeppelin/ERC20.sol",
+    "contracts/governance/token/GovernancePowerDelegationERC20Mixin.sol",
+    "contracts/interfaces/IERC20.sol",
+    "contracts/dependencies/open-zeppelin/SafeERC20.sol",
+    "contracts/governance/bridge/IBridge.sol",
+    "contracts/governance/bridge/WrappedEthereumDydxToken.sol"
+  ],
+  "address": "0x46b2DeAe6eFf3011008EA27EA36b7c27255ddFA9"
+}
