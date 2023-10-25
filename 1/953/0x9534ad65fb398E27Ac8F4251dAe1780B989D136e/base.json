@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PYRToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000b4ad3a44356240a21ed4cf2e2a9e8632d0351430",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://85cee725bcacd3c725bba5bebcc422d4a64a9ed379a4ba9399f5a554b5898c09",
+  "path": [
+    "PYRToken.sol"
+  ],
+  "address": "0x9534ad65fb398E27Ac8F4251dAe1780B989D136e"
+}

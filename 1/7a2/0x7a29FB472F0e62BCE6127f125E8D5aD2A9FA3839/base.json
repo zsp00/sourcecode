@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "rebirth",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1232fef48ec99da79650d5324e00099208f0623aa06f68c9545eae23e0647ab3",
+  "path": [
+    "rebirth.sol"
+  ],
+  "address": "0x7a29FB472F0e62BCE6127f125E8D5aD2A9FA3839"
+}
