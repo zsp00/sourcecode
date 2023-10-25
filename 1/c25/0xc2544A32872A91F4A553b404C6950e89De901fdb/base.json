@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FPIS",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "100000",
+  "ConstructorArguments": "000000000000000000000000234d953a9404bf9dbc3b526271d440cd2870bcd20000000000000000000000008412ebf45bac1b340bbe8f318b928c466c4e39ca00000000000000000000000076c8cef5b18994a85bc2be1991e5b9c716626767",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv2",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://03b78d1d83766f8d8c61ceccc789a72c926960c38ac0354561bf1347a8cc7b6a",
+  "path": [
+    "FPIS.sol"
+  ],
+  "address": "0xc2544A32872A91F4A553b404C6950e89De901fdb"
+}

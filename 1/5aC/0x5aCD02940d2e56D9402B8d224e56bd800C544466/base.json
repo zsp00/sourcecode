@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AppleCat",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://444e2ba248726c4959e22ed0a194926d3a7616ab259d76ca4700015c49d2c191",
+  "path": [
+    "AppleCat.sol"
+  ],
+  "address": "0x5aCD02940d2e56D9402B8d224e56bd800C544466"
+}

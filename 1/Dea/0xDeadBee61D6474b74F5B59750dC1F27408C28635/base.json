@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WisdomToken",
+  "CompilerVersion": "v0.7.4+commit.3f05b770",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a63370db0e46853c3c3424bb5f0d59ac7c956227989dfe2394d13ef228a8cb3b",
+  "path": [
+    "WisdomToken.sol"
+  ],
+  "address": "0xDeadBee61D6474b74F5B59750dC1F27408C28635"
+}
