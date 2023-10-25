@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RaiFinance",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5c3d19444772d3851560ba3ded1c94a11ab5585f3f74510e34d6248ca8f45ebd",
+  "path": [
+    "RaiFinance.sol"
+  ],
+  "address": "0xB49fa25978abf9a248b8212Ab4b87277682301c0"
+}
