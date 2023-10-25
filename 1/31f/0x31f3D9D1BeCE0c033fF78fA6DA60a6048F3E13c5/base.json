@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EBCoinToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://661bbedbd56cf0b997ae3e7f210fc6411220bc1b6b5246c0ba1fe38dc5cef077",
+  "path": [
+    "EBCoinToken.sol"
+  ],
+  "address": "0x31f3D9D1BeCE0c033fF78fA6DA60a6048F3E13c5"
+}
