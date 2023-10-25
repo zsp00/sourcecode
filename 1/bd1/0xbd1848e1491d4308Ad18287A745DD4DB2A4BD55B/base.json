@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MOMA",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a3dd79b9109e62cc3ecdabdd7f40f23a57d2d61c",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0282652f8f7b8e9c6d926c7b066428d40b319fa5993dd81dc24d7a46766f8f7f",
+  "path": [
+    "MOMA.sol"
+  ],
+  "address": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B"
+}

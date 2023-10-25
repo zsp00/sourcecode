@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ABL",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000031d2d0f8180c3300e4f19271af5403225fe4cf24000000000000000000000000857fa0e10f70593a7d2505361a03505e9be1f935",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7737d3063d0ff68d91a2cdd66897d2499dba767101d30d3edbb5397ea5274506",
+  "path": [
+    "ABL.sol"
+  ],
+  "address": "0xf8b358b3397a8ea5464f8cc753645d42e14b79EA"
+}
