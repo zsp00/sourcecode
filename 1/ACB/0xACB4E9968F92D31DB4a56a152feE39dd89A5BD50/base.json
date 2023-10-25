@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WihdToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://950151225ea89627f517dd0f0f795547312f32a062a1cf97270cb850362a9481",
+  "path": [
+    "WihdToken.sol"
+  ],
+  "address": "0xACB4E9968F92D31DB4a56a152feE39dd89A5BD50"
+}

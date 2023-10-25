@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FRR",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5f8683dad25593f2fe2afc6f97fdbafcafca879806b87cd0c150f92eb1b8cb6d",
+  "path": [
+    "FRR.sol"
+  ],
+  "address": "0xe6602B34D8510B033E000975B3322537c7172441"
+}

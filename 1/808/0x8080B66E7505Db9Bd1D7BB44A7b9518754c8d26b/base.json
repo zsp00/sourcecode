@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Yanu",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e4d7df7fa935e3247c4cb5eeb5a976b56d1f86840509889fbce8df36bc2f68c5",
+  "path": [
+    "Yanu.sol"
+  ],
+  "address": "0x8080B66E7505Db9Bd1D7BB44A7b9518754c8d26b"
+}
