@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MorpherToken",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000001f426c51f0ef7655a6f4c3eb58017d2f1c381bff000000000000000000000000b7528959e991f949e02d27ef133b99cfc85d737e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv2",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a7de4f3b8e725261694d2debd3a506855f61f930ec7af26c0f1885d0f1f3329e",
+  "path": [
+    "MorpherState.sol",
+    "MorpherToken.sol",
+    "Ownable.sol",
+    "SafeMath.sol",
+    "IERC20.sol",
+    "IMorpherToken.sol"
+  ],
+  "address": "0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38"
+}
