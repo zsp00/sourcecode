@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QuestCoin",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d0000000000000000000000003fd8086d40bfa97d944b3d5621f8b4d31ca4fc0d0000000000000000000000003fd8086d40bfa97d944b3d5621f8b4d31ca4fc0d",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f0eedee2ab3269c6006ce25f21f6e9d4739d906562da4d561042193e96f1e59f",
+  "path": [
+    "QuestCoin.sol"
+  ],
+  "address": "0x3Be49dE62c30CB373aDf3ADf6142489CfCBBF499"
+}

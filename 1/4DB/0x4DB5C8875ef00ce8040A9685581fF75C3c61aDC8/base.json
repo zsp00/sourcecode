@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "REEYToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2998665d1e4b702f2936a4df9f1fa625a2eabb7cb95aacaaa476fbc22fd0989b",
+  "path": [
+    "REEYToken.sol"
+  ],
+  "address": "0x4DB5C8875ef00ce8040A9685581fF75C3c61aDC8"
+}
