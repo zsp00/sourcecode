@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "INC",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4165ba4eec4ff8c216037662c4e2809339967128bd6ff72e5b55c2533a959f4b",
+  "path": [
+    "INC.sol"
+  ],
+  "address": "0x4BFFC9B4d4DcF730820a2EdCAD48Ff5D7E0Ae807"
+}
