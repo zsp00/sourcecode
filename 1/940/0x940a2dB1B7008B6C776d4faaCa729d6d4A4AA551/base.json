@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DuskToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "0",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3265544925541170d9f8a404ad24a4953289d756255b232e3fbf4c052a8ec140",
+  "path": [
+    "DuskToken.sol"
+  ],
+  "address": "0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551"
+}

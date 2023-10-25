@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Chonker",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://efcc1ed573b4afcc2ac40bdfb1ac4c11515a7a763028ef435333b9c92e4231a7",
+  "path": [
+    "Chonker.sol"
+  ],
+  "address": "0x84679bc467DC6c2c40ab04538813AfF3796351f1"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HoteliumToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://baba10a98091f894fb56e643d9e651627e28538e25112934e109b24b14b74462",
+  "path": [
+    "HoteliumToken.sol"
+  ],
+  "address": "0xFD1C027190418982eEade3A8A091556aE8F0a8c9"
+}

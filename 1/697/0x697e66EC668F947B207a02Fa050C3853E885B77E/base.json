@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Metacrypt_B_NC_X",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000003980a73f4159f867e6eec7555d26622e53d356b9000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000000000000000314dc6448d9338c15b0a0000000000000000000000000000000000000000000000000000000000000000000000084d65746120496e7500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044d45544100000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/tokens/Metacrypt_B_NC_X.sol",
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/tokens/helpers/ERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IERC20.sol",
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/service/MetacryptHelper.sol"
+  ],
+  "address": "0x697e66EC668F947B207a02Fa050C3853E885B77E"
+}
