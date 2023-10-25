@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RAWR",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000b28ebdd23e18690f9365a7c4b1651ece7bdc13a8",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4415ac3c9dc539d6f234736a397dab4a896e6368d86e6019b231904af9c67d13",
+  "path": [
+    "RAWR.sol"
+  ],
+  "address": "0xc9E6f8EB127666e138a9c33e792FC0309A861Eba"
+}

@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SaitoToken",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000800000000000000000000000000000000000000000000000000000000000000005534149544f0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005534149544f000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/home/clay/projects/saito-evm-token/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "/home/clay/projects/saito-evm-token/node_modules/@openzeppelin/contracts/utils/Context.sol",
+    "/home/clay/projects/saito-evm-token/contracts/SaitoToken.sol",
+    "/home/clay/projects/saito-evm-token/node_modules/@openzeppelin/contracts/math/SafeMath.sol",
+    "/home/clay/projects/saito-evm-token/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol"
+  ],
+  "address": "0xFa14Fa6958401314851A17d6C5360cA29f74B57B"
+}

@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GRACY",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000f8277896582678ac000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://dfda0402868e3fe0a69a19420fc053985657a7c9ac27b7583dadd15169dde1e8",
+  "path": [
+    "Ownable.sol",
+    "Context.sol",
+    "ERC20.sol",
+    "GRACY.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol"
+  ],
+  "address": "0x7C95e7AD2B349dc2f82d0f1117a44B561fA2699a"
+}
