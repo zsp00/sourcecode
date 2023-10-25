@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "X7DAO",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007da05d75f51056f3b83b43f397668cf6a5051cda0000000000000000000000007da0a524d323cddaf3d465ba617230f6b91d3ebb",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5e6a3b7cf2688c7761bf6ddf69f3eb9a40ffb49d2f0bd6125d3f451133e5311b",
+  "path": [
+    "X7DAO.sol"
+  ],
+  "address": "0x7105E64bF67ECA3Ae9b123F0e5Ca2b83b2eF2dA0"
+}

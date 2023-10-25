@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GNO",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://aa7a9ff7ebb4c29e94f707984c7365a830007c4a100ad1e8c70d6e65674a0b68",
+  "path": [
+    "GNO.sol"
+  ],
+  "address": "0x3ECcd352439d3579839126Eb981ee9fe571748d8"
+}

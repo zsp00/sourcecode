@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WibxToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000004261cdfea93118677c04f880380d9b86b79c9b6a000000000000000000000000194d1ba9edb4bd849ca844870c05ac5cfb632b14",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f4c60f3b74af162468605d129d54c8af6949074691d71eacc3cbdef1ab67698d",
+  "path": [
+    "WibxToken.sol"
+  ],
+  "address": "0xbB97e381F1d1e94ffa2A5844F6875e6146981009"
+}

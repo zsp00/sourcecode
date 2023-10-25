@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UNITRADE",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000295be96e64066972000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://28e2baac3c34bf5fcb2797a20c0aa2e04a1e94b0fbda11cc10c20446d2ef66cb",
+  "path": [
+    "UNITRADE.sol"
+  ],
+  "address": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1"
+}
