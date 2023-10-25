@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BKchain",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000b2d05e00",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b015372d5b2a6a4f3fdd387da9989b11e7d870ce0bcab7453d9143c63db6f4eb",
+  "path": [
+    "BKchain.sol"
+  ],
+  "address": "0x6682195E2a0048CE38B727A3711802d58244606E"
+}

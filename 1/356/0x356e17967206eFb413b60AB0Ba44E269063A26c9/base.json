@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Elon",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3686b8847d1f6dc7cb9cd18c7f27d182a8dcfae93cad12bd6f5049fc67451170",
+  "path": [
+    "Elon.sol"
+  ],
+  "address": "0x356e17967206eFb413b60AB0Ba44E269063A26c9"
+}
