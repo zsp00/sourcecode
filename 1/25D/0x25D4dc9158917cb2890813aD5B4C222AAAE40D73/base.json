@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AdvancedToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f49545244e50549f3342cddef9a94aebfe29df22ed82525a3d1491384562158e",
+  "path": [
+    "AdvancedToken.sol"
+  ],
+  "address": "0x25D4dc9158917cb2890813aD5B4C222AAAE40D73"
+}

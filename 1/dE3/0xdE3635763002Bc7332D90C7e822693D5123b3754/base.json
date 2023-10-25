@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "smurfpepe",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fa27b6e262c95f074176ca8087d9c8bde7217ab400c12293cfc804eb517d8156",
+  "path": [
+    "smurfpepe.sol"
+  ],
+  "address": "0xdE3635763002Bc7332D90C7e822693D5123b3754"
+}
