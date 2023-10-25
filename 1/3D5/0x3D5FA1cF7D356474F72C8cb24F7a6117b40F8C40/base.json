@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Saintbot",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "src/Saintbot.sol"
+  ],
+  "address": "0x3D5FA1cF7D356474F72C8cb24F7a6117b40F8C40"
+}
