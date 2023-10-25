@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ply",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "3000",
+  "ConstructorArguments": "000000000000000000000000c86ed20c7b8a95aebd102e60e686f363f70d4938",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e781ef015064e63f6c67ce9e0e6df5b55b82150fd3d9b9bd26142dc3fd2bbeb3",
+  "path": [
+    "Ply.sol"
+  ],
+  "address": "0x1aB43204a195a0fD37EdeC621482AFd3792ef90b"
+}

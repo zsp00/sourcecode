@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ConvexToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000989aeb4d175e16225e39e87d0d97a3360524ad80",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5643a0714c66ebf867e7b640553c03469fb8be409a5429524c6762d39e6826ee",
+  "path": [
+    "ConvexToken.sol"
+  ],
+  "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B"
+}

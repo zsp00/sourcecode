@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AFG",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a4d1ee1d5553fd523b1872a0a6002e38e15e0acf1e2cf1c772eb975df55daea4",
+  "path": [
+    "AFG.sol"
+  ],
+  "address": "0x026aDe9bA164881C80De6D49580193C3528303db"
+}
