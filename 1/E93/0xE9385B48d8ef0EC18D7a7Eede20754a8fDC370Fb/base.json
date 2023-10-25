@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MONEY",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://dfc915f9d636e3b83d60d65f0430714404934440351625898ec1af8821dc1cab",
+  "path": [
+    "MONEY.sol"
+  ],
+  "address": "0xE9385B48d8ef0EC18D7a7Eede20754a8fDC370Fb"
+}
