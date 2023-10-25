@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MetaPrediction",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6e5255a9716ed888159d8181180e0552fcf3f450745ec61d7f989fda9bc5a013",
+  "path": [
+    "MetaPrediction.sol"
+  ],
+  "address": "0x108D27F9c4b2A98C025c94c76Ca78c6Ce6C7A4eB"
+}

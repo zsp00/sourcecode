@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ethercards",
+  "CompilerVersion": "v0.7.3+commit.9bfce1f6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000005638bf5c73d8aa7f7926954f7415e52230efe9bd0000000000000000000000000000000000000000000000000000000060534ed000000000000000000000000000000000000000000000000000000000606efe500000000000000000000000006a80d451135720c51af81ecb4334a1a94b3a6055000000000000000000000000a218b55ec696cc32b388fc97334db41dab48d8e1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d8ff33e2b85e68f29135427088442bda3fcc302afb136b99bbe51c0735e31776",
+  "path": [
+    "ethercards.sol"
+  ],
+  "address": "0x97CA7FE0b0288f5EB85F386FeD876618FB9b8Ab8"
+}
