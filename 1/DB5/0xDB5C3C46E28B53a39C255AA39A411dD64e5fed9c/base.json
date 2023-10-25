@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NeosCredits",
+  "CompilerVersion": "v0.4.22+commit.4cb486ee",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://28435a3d77e81392cce25a9d3bc86884595f0da01101af93ba395799b26a56ca",
+  "path": [
+    "NeosCredits.sol"
+  ],
+  "address": "0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c"
+}

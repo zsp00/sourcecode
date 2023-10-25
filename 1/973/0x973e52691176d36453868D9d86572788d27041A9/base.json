@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DxToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d3b75c69eae1c17e645215e49564d0d9e17b40b93fe4380f0ec26627dee31602",
+  "path": [
+    "DxToken.sol"
+  ],
+  "address": "0x973e52691176d36453868D9d86572788d27041A9"
+}
