@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BananaToken",
+  "CompilerVersion": "v0.5.6+commit.b259423e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5330cf6e0c426c4680fe4f6e2fe61dd69861c0a78b6a7e3e049f724912f9cc7e",
+  "path": [
+    "BananaToken.sol"
+  ],
+  "address": "0x20910e5b5f087f6439DFcB0ddA4e27d1014Ac2b8"
+}
