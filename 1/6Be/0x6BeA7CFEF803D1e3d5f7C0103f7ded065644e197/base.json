@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Gamma",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "800",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000012000000000000000000000000000000000000000000000000000000000000000547616d6d61000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000547414d4d41000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/drafts/ERC20Permit.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Snapshot.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/drafts/IERC20Permit.sol",
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "@openzeppelin/contracts/drafts/EIP712.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/Gamma.sol",
+    "@openzeppelin/contracts/utils/Arrays.sol",
+    "@openzeppelin/contracts/math/Math.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol"
+  ],
+  "address": "0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197"
+}

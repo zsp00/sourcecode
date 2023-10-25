@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XRPCHAIN",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e05ee8ea83f013e07585c826c5422b793f535e3916899f9721b4e5b54d31f257",
+  "path": [
+    "XRPCHAIN.sol"
+  ],
+  "address": "0xBB703412D47B681646f5b241A937B8136d9A2bC8"
+}
