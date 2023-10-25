@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AlienToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2cf2b73845c7cc0b6dc67028ae072126636d166bc3170dd17b5fcdf0eff0ff15",
+  "path": [
+    "AlienToken.sol"
+  ],
+  "address": "0x8497Fb4996f353571a3E2919085b8f1005Df4A40"
+}
