@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BarnBridgeToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "0000000000000000000000006a897e57ff051a2f713f90db4f010d117042cfc7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/AragonDepositor.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "contracts/BarnBridgeToken.sol",
+    "contracts/mocks/FinanceMock.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "contracts/IFinance.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol"
+  ],
+  "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f"
+}

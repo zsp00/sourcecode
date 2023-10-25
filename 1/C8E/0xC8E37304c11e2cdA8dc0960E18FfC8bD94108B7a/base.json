@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "stSpillWays",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://58da2ce34eee2c18355a2a39715b2d142b2b42608ab269b30205c6bdc250646b",
+  "path": [
+    "stSpillWays.sol"
+  ],
+  "address": "0xC8E37304c11e2cdA8dc0960E18FfC8bD94108B7a"
+}
