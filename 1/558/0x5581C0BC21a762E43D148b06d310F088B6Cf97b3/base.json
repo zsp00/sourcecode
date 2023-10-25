@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SE",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://21121e9eeb979f32c4bddddf1889cb435ee538c9ab432d230375a690fee4dc91",
+  "path": [
+    "SE.sol"
+  ],
+  "address": "0x5581C0BC21a762E43D148b06d310F088B6Cf97b3"
+}

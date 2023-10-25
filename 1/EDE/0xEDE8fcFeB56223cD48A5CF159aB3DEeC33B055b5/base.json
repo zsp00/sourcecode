@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GatToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e281358df9ade3ba7ce0c4477c4371317ff5d851144abe59e511f422e634c2b0",
+  "path": [
+    "GatToken.sol"
+  ],
+  "address": "0xEDE8fcFeB56223cD48A5CF159aB3DEeC33B055b5"
+}
