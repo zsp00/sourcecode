@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SigilToken",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://77b4fb23070d75cdf3465ebe0313a65ba3ea9accbd877098b12d2c446f77842d",
+  "path": [
+    "SigilToken.sol"
+  ],
+  "address": "0xF029Fd6b5ED35C825Dd02B7A02952C30002840E4"
+}
