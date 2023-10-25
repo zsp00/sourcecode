@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RocketTokenRETH",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "15000",
+  "ConstructorArguments": "0000000000000000000000001d8f8f00cfa6758d7be78336684788fb0ee0fa46",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/contracts/interface/token/RocketTokenRETHInterface.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "/contracts/contract/RocketBase.sol",
+    "/contracts/contract/token/RocketTokenRETH.sol",
+    "/contracts/interface/deposit/RocketDepositPoolInterface.sol",
+    "/contracts/interface/RocketStorageInterface.sol",
+    "/contracts/interface/dao/protocol/settings/RocketDAOProtocolSettingsNetworkInterface.sol",
+    "/contracts/interface/network/RocketNetworkBalancesInterface.sol"
+  ],
+  "address": "0xae78736Cd615f374D3085123A210448E74Fc6393"
+}
