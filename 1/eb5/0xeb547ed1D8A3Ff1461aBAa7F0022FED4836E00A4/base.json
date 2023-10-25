@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CoinvestToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://07d68a1f18f53f5415f82453c99a6cc161c73a3b065d675f85b492b37322b807",
+  "path": [
+    "CoinvestToken.sol"
+  ],
+  "address": "0xeb547ed1D8A3Ff1461aBAa7F0022FED4836E00A4"
+}
