@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GainsToken",
+  "CompilerVersion": "v0.6.0+commit.26b70077",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2adccc3ffe6d9d462fc54024f7cc1fe499fee24243b0f2d90f7d2f4dfb16e43e",
+  "path": [
+    "GainsToken.sol"
+  ],
+  "address": "0xd9b312D77Bc7BEd9B9CecB56636300bED4Fe5Ce9"
+}

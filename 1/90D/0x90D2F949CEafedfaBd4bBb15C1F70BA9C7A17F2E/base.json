@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CURESToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cf62c510669edeaefc55363efa1a111059494488682890c03849ec2af8b1096e",
+  "path": [
+    "CURESToken.sol"
+  ],
+  "address": "0x90D2F949CEafedfaBd4bBb15C1F70BA9C7A17F2E"
+}
