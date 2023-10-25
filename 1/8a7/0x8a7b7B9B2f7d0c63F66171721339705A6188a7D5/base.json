@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EtherDoge",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000059e2ab99",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6117477e4485c948c2ae2a1714f694438e19fda8c323490bda5e3b895ccf2855",
+  "path": [
+    "EtherDoge.sol"
+  ],
+  "address": "0x8a7b7B9B2f7d0c63F66171721339705A6188a7D5"
+}
