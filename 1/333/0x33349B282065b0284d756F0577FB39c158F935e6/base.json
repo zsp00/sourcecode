@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MapleToken",
+  "CompilerVersion": "v0.6.11+commit.5ef660b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48000000000000000000000000000000000000000000000000000000000000000b4d61706c6520546f6b656e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000034d504c0000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "lib/openzeppelin-contracts/contracts/token/ERC20/SafeERC20.sol",
+    "lib/openzeppelin-contracts/contracts/math/SafeMath.sol",
+    "contracts/maple-token/IERC2222.sol",
+    "contracts/maple-token/math/UintSafeMath.sol",
+    "contracts/maple-token/math/IntSafeMath.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "contracts/maple-token/MapleToken.sol",
+    "contracts/maple-token/ERC2222.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
+    "lib/openzeppelin-contracts/contracts/math/SignedSafeMath.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Address.sol",
+    "lib/openzeppelin-contracts/contracts/GSN/Context.sol"
+  ],
+  "address": "0x33349B282065b0284d756F0577FB39c158F935e6"
+}

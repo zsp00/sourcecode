@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Dragon",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1ee9014d3f893f87c43edddc4c0ea0898f83d1fd9b652787bc942aefa2734dfa",
+  "path": [
+    "Dragon.sol"
+  ],
+  "address": "0x9944EB95B38d945Eeeb7539B06f9b84F8Fa1058E"
+}
