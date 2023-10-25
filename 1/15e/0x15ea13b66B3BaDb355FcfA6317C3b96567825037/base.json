@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TwelveAnonymousTournaments",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "erc721a/contracts/extensions/IERC721AQueryable.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "erc721a/contracts/IERC721A.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/TAT.sol",
+    "hardhat/console.sol",
+    "erc721a/contracts/extensions/ERC721AQueryable.sol"
+  ],
+  "address": "0x15ea13b66B3BaDb355FcfA6317C3b96567825037"
+}
