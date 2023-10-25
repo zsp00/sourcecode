@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ConvergenceToken",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "000000000000000000000000f01001c3da4e861610a5e37430751475aff6f659",
+  "EVMVersion": "istanbul",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0e2f67bc404eabe39de4bbcbb99a4f008fb23cd3962c75ad6da5b9668def2db0",
+  "path": [
+    "ConvergenceToken.sol"
+  ],
+  "address": "0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50"
+}
