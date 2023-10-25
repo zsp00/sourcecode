@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FaradCryptoken",
+  "CompilerVersion": "v0.4.12+commit.194ff033",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5b460ef952616fb15bcb7cda2d08cf0272a9180657b3bdda02fc4f17ca629f3a",
+  "path": [
+    "FaradCryptoken.sol"
+  ],
+  "address": "0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4"
+}
