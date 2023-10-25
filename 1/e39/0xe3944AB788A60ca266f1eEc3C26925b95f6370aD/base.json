@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PrecipitateAI",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts@4.9.2/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts@4.9.2/token/ERC20/IERC20.sol",
+    "contract-df7a8e5a63.sol",
+    "@openzeppelin/contracts@4.9.2/access/Ownable.sol",
+    "@openzeppelin/contracts@4.9.2/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts@4.9.2/utils/Context.sol"
+  ],
+  "address": "0xe3944AB788A60ca266f1eEc3C26925b95f6370aD"
+}

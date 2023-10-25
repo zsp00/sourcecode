@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "P2PS",
+  "CompilerVersion": "v0.5.7+commit.6da8b019",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://09ff4aea33bde53404102ef9d1d7e07477aeca1f1195a7b7f4df03fc95f11419",
+  "path": [
+    "P2PS.sol"
+  ],
+  "address": "0x4527a3B4A8A150403090a99b87efFC96F2195047"
+}

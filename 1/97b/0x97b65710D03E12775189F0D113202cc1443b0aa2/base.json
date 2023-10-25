@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AstroElon",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9de1eaeb0d3e339ee2ea8d0c5ed59563f0f567cfbdd428e5bd8727adcc0114a9",
+  "path": [
+    "AstroElon.sol"
+  ],
+  "address": "0x97b65710D03E12775189F0D113202cc1443b0aa2"
+}
