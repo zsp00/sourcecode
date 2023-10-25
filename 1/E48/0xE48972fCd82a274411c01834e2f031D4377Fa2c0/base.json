@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TwoKeyEconomy",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000060ece4a5be3fd7594e9f24c2948cce5ce3c6dde7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://df9b9dc4412acba270941a56bc664c6d33cefe954947abfdfd24ad49ccecb161",
+  "path": [
+    "TwoKeyEconomy.sol"
+  ],
+  "address": "0xE48972fCd82a274411c01834e2f031D4377Fa2c0"
+}

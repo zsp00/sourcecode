@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DEXLIONS",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "lion.sol"
+  ],
+  "address": "0xD045120193Df76261F5E10d5b0729a6e9137a426"
+}

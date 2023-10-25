@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DSToken",
+  "CompilerVersion": "v0.4.11+commit.68ef5810",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "454f530000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4432a84cfe06a995bd95935559d84003b39a006720c2eabd96115f376347f9b8",
+  "path": [
+    "DSToken.sol"
+  ],
+  "address": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0"
+}

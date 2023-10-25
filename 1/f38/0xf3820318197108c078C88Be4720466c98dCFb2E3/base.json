@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Photon",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://099f12415cd82cbed907475a2613e8b0e22e0531c594d07511c28daae7e7cda1",
+  "path": [
+    "Photon.sol"
+  ],
+  "address": "0xf3820318197108c078C88Be4720466c98dCFb2E3"
+}
