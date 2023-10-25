@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "INV",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000003fcb35a1cbfb6007f9bc638d388958bc4550cb28",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/token/INV.sol",
+    "contracts/token/SafeMath.sol"
+  ],
+  "address": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FixedSupplyBurnableToken",
+  "CompilerVersion": "v0.5.2+commit.1df8f40c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7b5494e16b2d8da9949e35d39551abd77d2be80f813bb54a0e8146f3376c755b",
+  "path": [
+    "FixedSupplyBurnableToken.sol"
+  ],
+  "address": "0xE65ee7c03Bbb3C950Cfd4895c24989afA233EF01"
+}
