@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XaurumToken",
+  "CompilerVersion": "v0.3.3+commit.4dc1cb1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ed3f8c4c63524a376833b0f687487182c9f9bbf8",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "XaurumToken.sol"
+  ],
+  "address": "0x4DF812F6064def1e5e029f1ca858777CC98D2D81"
+}
