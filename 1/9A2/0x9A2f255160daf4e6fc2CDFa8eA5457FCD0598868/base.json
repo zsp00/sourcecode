@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HamletTheGreatDane",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://801b13c3c9747fe03b67aadb93a65128500c3eff3d4ce79fc42b1c4776cdb070",
+  "path": [
+    "HamletTheGreatDane.sol"
+  ],
+  "address": "0x9A2f255160daf4e6fc2CDFa8eA5457FCD0598868"
+}
