@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC20_Game_Currency",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c000000000000000000000000000000000000000001027e72f1f1281308800000000000000000000000000000057af1e8eafb173254c6b39ccbd207064ac4ec6a2000000000000000000000000000000000000000000000000000000000000000457524c4400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000457524c4400000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "contracts/Currency/IERC20_Game_Currency.sol",
+    "contracts/common/ERC2771Context_Upgradeable.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/access/IAccessControl.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "contracts/Currency/ERC20_Game_Currency.sol",
+    "contracts/common/Roles.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0xFF2d6934fb49e3e883Dc03871D081a1C21ad7984"
+}
