@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MigrationAgent",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://77cc7b69011eb80e53f0e34759b720ef3b68fff3d3438477b7f1d036c3d86fca",
+  "path": [
+    "MigrationAgent.sol"
+  ],
+  "address": "0xB79FC5505eA4F3b920EE7E3349dE064226692717"
+}
