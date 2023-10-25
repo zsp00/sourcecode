@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Bitcoinist",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6f45fecceee7a1ec92b369a5ae3ad3262a23d2aae577e7933640b0a7c93b7e81",
+  "path": [
+    "Bitcoinist.sol"
+  ],
+  "address": "0x2F3c7015d7d840005bd874D1393A961ec18E687d"
+}

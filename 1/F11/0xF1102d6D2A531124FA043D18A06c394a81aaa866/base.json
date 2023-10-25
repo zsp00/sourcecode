@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SHIBC",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6e406729fa52dd1f5706a4050f6dc6c7ae77b85ce917e7a406212aabfa64fade",
+  "path": [
+    "SHIBC.sol"
+  ],
+  "address": "0xF1102d6D2A531124FA043D18A06c394a81aaa866"
+}
