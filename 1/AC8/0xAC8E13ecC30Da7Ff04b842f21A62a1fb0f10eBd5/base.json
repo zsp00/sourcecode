@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BABYDOGECOIN",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d5eebfb91e5184c81046721052ce2a4cd394419d333476e2f6147e2b40a54f69",
+  "path": [
+    "BABYDOGECOIN.sol"
+  ],
+  "address": "0xAC8E13ecC30Da7Ff04b842f21A62a1fb0f10eBd5"
+}
