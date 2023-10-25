@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MATHToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8e9685f7e6a94df09373acbf620c178cc0acf6a9ad02c156bf720147b0e3a09f",
+  "path": [
+    "MATHToken.sol"
+  ],
+  "address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30"
+}
