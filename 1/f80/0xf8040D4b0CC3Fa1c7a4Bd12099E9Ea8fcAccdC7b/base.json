@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Z2PAYCOIN",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3f85e6c83f0fcd1c7a690f690d5c4dbd943f660e332b0cc685c1649e3203e2cf",
+  "path": [
+    "Z2PAYCOIN.sol"
+  ],
+  "address": "0xf8040D4b0CC3Fa1c7a4Bd12099E9Ea8fcAccdC7b"
+}

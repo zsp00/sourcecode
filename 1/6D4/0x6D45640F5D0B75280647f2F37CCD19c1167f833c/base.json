@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FLExToken",
+  "CompilerVersion": "v0.5.11+commit.c082d0b4",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8953c451774f58a5a56c3b62d2066fc78dd9b8fd7828467bb7344ae35c0d54c5",
+  "path": [
+    "FLExToken.sol"
+  ],
+  "address": "0x6D45640F5D0B75280647f2F37CCD19c1167f833c"
+}
