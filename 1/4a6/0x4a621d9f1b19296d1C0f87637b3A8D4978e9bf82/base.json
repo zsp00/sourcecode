@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DeflationToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU LGPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e1a44354ad3735bfb2e4c557fb147984cd63dd825f0304409da5e7c916da285c",
+  "path": [
+    "DeflationToken.sol"
+  ],
+  "address": "0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82"
+}
