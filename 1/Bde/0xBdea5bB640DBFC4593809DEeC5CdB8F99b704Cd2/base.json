@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Direwolf",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://53d017e9934dff73b3243fe8d4690791a17f22ddc89b4fae8201989d2122cbab",
+  "path": [
+    "Direwolf.sol"
+  ],
+  "address": "0xBdea5bB640DBFC4593809DEeC5CdB8F99b704Cd2"
+}

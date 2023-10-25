@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "USH",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000d88e7d30f7548b7a7c6bfe513629724916449e6d000000000000000000000000d88e7d30f7548b7a7c6bfe513629724916449e6d0000000000000000000000000000000000000000000000000000000000000010756e7368455448696e675f546f6b656e0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000035553480000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "lib/Math/SafeMath.sol",
+    "lib/Staking/Owned.sol",
+    "src/USH.sol",
+    "lib/Common/Context.sol",
+    "lib/ERC20/ERC20Custom.sol",
+    "lib/ERC20/IERC20.sol",
+    "lib/Governance/AccessControl.sol",
+    "lib/Utils/Address.sol",
+    "lib/Utils/EnumerableSet.sol"
+  ],
+  "address": "0xE60779CC1b2c1d0580611c526a8DF0E3f870EC48"
+}
