@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RedneckMountainDew",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c799c2760276924b07e1a9113df94cd0bdc7660079a4ff0f61c8dd551d28b4fa",
+  "path": [
+    "RedneckMountainDew.sol"
+  ],
+  "address": "0xe0e51a3F1D9c65Bba1326e4a0B1d99B737eFC2c0"
+}

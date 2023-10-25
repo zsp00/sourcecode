@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Conan",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f6a7302ff560294afecac3ea2498794f8536647e780974e331d7df3db9cc97e7",
+  "path": [
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "ReentrancyGuard.sol",
+    "vllc.sol",
+    "Context.sol",
+    "ERC20.sol"
+  ],
+  "address": "0xE6502CEE5B040d813d0A9D8CBA60C096a22E3eC9"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "coineth3d3d",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000017e9d8602b400",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://449d1594f159e58e843124fd30d01cc773efae92dd70fdc54e94e31704218966",
+  "path": [
+    "coineth3d3d.sol"
+  ],
+  "address": "0xFE60FbA03048EfFB4aCf3f0088Ec2f53d779D3BB"
+}
