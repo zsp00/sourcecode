@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HFILToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000338637a1431f42243ffb8c39807e8d7cda0478a000000000000000000000000095a6ebdacd70b37b4dabb3504e5d817580e6e76500000000000000000000000009eae35713306115b6f1f5361b0dfd65a0b81433",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://28dc67043e81ac5778b3ae59599e5d3ffece616828c4f3e1a4fe56d27c754b64",
+  "path": [
+    "Pausable.sol",
+    "SafeMath.sol",
+    "Container.sol",
+    "HFILAdmin.sol",
+    "HFILLogic.sol",
+    "HFILStorage.sol",
+    "HFILToken.sol",
+    "IERC20Token.sol"
+  ],
+  "address": "0x9AFb950948c2370975fb91a441F36FDC02737cD4"
+}

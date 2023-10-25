@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CoinwebToken",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "2000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "openzeppelin-solidity/contracts/utils/Context.sol",
+    "openzeppelin-solidity/contracts/utils/Address.sol",
+    "openzeppelin-solidity/contracts/token/ERC777/IERC777Sender.sol",
+    "openzeppelin-solidity/contracts/token/ERC777/IERC777Recipient.sol",
+    "openzeppelin-solidity/contracts/token/ERC777/IERC777.sol",
+    "openzeppelin-solidity/contracts/token/ERC777/ERC777.sol",
+    "/contracts/CoinwebToken.sol",
+    "/contracts/TokenReleaser.sol",
+    "openzeppelin-solidity/contracts/utils/introspection/IERC1820Registry.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x505B5eDa5E25a67E1c24A2BF1a527Ed9eb88Bf04"
+}

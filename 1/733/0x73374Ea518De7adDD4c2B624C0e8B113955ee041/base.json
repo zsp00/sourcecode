@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "JuggernautToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d063073092e40ac3fc8ad33424fdcc720a5c600b52db7c2ea5c7fff71f8bf425",
+  "path": [
+    "JuggernautToken.sol"
+  ],
+  "address": "0x73374Ea518De7adDD4c2B624C0e8B113955ee041"
+}
