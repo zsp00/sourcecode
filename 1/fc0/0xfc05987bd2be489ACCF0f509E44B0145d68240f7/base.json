@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ESSENTIA",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fd444220d983e3af62d838388db14153f5ed58f657d4fd9efb5b71bb93cda382",
+  "path": [
+    "ESSENTIA.sol"
+  ],
+  "address": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7"
+}

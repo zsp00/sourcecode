@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FreyrCoin",
+  "CompilerVersion": "v0.4.11+commit.68ef5810",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0a38cdcb98955529f7e7b9879d666280851ffc834a3c619f54be642e92021a92",
+  "path": [
+    "FreyrCoin.sol"
+  ],
+  "address": "0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64"
+}
