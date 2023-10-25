@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BTCPrinter",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://788cd622323aea2e0999cd293f447f4b0e9232aff7d1d757b06a8d1b4084efd3",
+  "path": [
+    "BTCPrinter.sol"
+  ],
+  "address": "0x3Fa3E65695F54D96A88e06904e0a8c4B7ac65609"
+}
