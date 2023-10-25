@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ANON",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f45dcad4370a43b40bdde992f30d68f1600d4f9cc8db4bc194ebdf964ea6ee7d",
+  "path": [
+    "ANON.sol"
+  ],
+  "address": "0x55e9a31Ad55b69109045DEb9B1a45CF357D41037"
+}
