@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Capp",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000a4341505020546f6b656e0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044341505000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fd3ec68d7048e4d240c3a7d8009d95f3ac54cb8d48ba3ffa2277e77e1b7058c7",
+  "path": [
+    "@openzeppelin/contracts/utils/EnumerableSet.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/utils/Pausable.sol",
+    "evm/contracts/capp-2/Capp.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Pausable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Capped.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x11613b1f840bb5A40F8866d857e24DA126B79D73"
+}

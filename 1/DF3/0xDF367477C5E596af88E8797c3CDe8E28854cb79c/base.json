@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EIP173Proxy",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "1",
+  "ConstructorArguments": "00000000000000000000000068c68fdb1d2deaf58295008099e061b1749f94cf000000000000000000000000075d3764edd5cc68193dc4a55baef3640fde705100000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xd68b055fb444d136e3ac4df023f4c42334f06395",
+  "SwarmSource": "",
+  "path": [
+    "contracts/vendor/proxy/EIP173Proxy.sol",
+    "contracts/vendor/proxy/Proxy.sol"
+  ],
+  "address": "0xDF367477C5E596af88E8797c3CDe8E28854cb79c"
+}
