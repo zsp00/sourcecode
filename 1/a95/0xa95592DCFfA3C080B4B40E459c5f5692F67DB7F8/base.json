@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ElyToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000008148613d63a4f9620c2c659754ba2abf85d142420000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4ec07e679d5ceb3c571c280a0aa3938a66a0093f904ddf9735e0311b37f880c3",
+  "path": [
+    "ElyToken.sol"
+  ],
+  "address": "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8"
+}
