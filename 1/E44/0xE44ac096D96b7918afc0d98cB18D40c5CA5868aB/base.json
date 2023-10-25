@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OSMO",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "OSMO.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0xE44ac096D96b7918afc0d98cB18D40c5CA5868aB"
+}

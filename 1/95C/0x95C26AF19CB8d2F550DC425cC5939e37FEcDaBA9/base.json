@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DEADMIGOS",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2a33f9e364c96907235ab9d36ecf1a06a991d4d041ad446d124f99dadac81eb5",
+  "path": [
+    "DEADMIGOS.sol"
+  ],
+  "address": "0x95C26AF19CB8d2F550DC425cC5939e37FEcDaBA9"
+}
