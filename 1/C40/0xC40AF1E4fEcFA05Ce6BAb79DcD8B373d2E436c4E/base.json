@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HokkaiduInu",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6ed48329b0dc46317daf74469c2e97e0fcf8492d611a232095fe1aa4443d1057",
+  "path": [
+    "HokkaiduInu.sol"
+  ],
+  "address": "0xC40AF1E4fEcFA05Ce6BAb79DcD8B373d2E436c4E"
+}
