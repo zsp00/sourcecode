@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Gifto",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://28550519de6b92c153df0e1238e0c64fb6b7fcd6602017e074ab41f07bd77753",
+  "path": [
+    "Gifto.sol"
+  ],
+  "address": "0xC5bBaE50781Be1669306b9e001EFF57a2957b09d"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AME",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e2b3d37257a8a3c62fadc0d97a7e34011e2efd0ee214c2f261715795dcb32125",
+  "path": [
+    "AME.sol"
+  ],
+  "address": "0x12513335ffD5DAfc2334e98625d27c1CA84bff86"
+}

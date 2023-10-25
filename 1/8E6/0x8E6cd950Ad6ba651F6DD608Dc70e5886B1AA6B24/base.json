@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StarLink",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c017c76a215c919811a5d6b012af6f3ca64e81a9d836b91785894ad984215366",
+  "path": [
+    "StarLink.sol"
+  ],
+  "address": "0x8E6cd950Ad6ba651F6DD608Dc70e5886B1AA6B24"
+}

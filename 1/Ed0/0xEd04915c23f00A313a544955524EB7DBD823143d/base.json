@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ACH",
+  "CompilerVersion": "v0.5.2+commit.1df8f40c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5a7c048297c1394779bb6bd6ec1ce17bbd621e9900b1a716df8da4f4fdb4d408",
+  "path": [
+    "ACH.sol"
+  ],
+  "address": "0xEd04915c23f00A313a544955524EB7DBD823143d"
+}

@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FLOKI",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "888",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000f8ae3d6243519646ac6b47257b7fd0d1bf6dc7d4000000000000000000000000323c36348936370aaa625fabd175f6fd3ce4ba1d000000000000000000000000000000000000000000000000000000000000000d4e48414d2d44414f2d5465737400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000d4e48414d2d44414f2d5465737400000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/governance/IGovernanceToken.sol",
+    "contracts/tax/ITaxHandler.sol",
+    "contracts/treasury/ITreasuryHandler.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/Floki.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E"
+}

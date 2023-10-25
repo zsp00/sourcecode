@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StargateToken",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000e000000000000000000000000066a71dcef29a0ffbdbe3c6a460a3b5bc225cd67500000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000033b2e3c9fd0803ce8000000000000000000000000000000000000000000000000000000000000000000000d5374617267617465546f6b656e0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000035354470000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/OmnichainFungibleToken.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@layerzerolabs/contracts/contracts/interfaces/ILayerZeroEndpoint.sol",
+    "@layerzerolabs/contracts/contracts/interfaces/ILayerZeroReceiver.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "contracts/StargateToken.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@layerzerolabs/contracts/contracts/interfaces/ILayerZeroUserApplicationConfig.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol"
+  ],
+  "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6"
+}

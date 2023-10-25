@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XUSDPrime",
+  "CompilerVersion": "v0.7.5+commit.eb77ed08",
+  "OptimizationUsed": "1",
+  "Runs": "400",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000f58555344205072696d6520436f696e000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000055855534450000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "petersburg",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f0b8493b1209c7f8d300f2227c6c5c761f203fb060db2e947d1f204db940d806",
+  "path": [
+    "./ERC20Pausable.sol",
+    "./Pausable.sol",
+    "./Ownable.sol",
+    "./XUSDPrime.sol",
+    "./ERC20.sol",
+    "./Context.sol",
+    "./IERC20.sol",
+    "./SafeMath.sol",
+    "./Address.sol",
+    "./ERC20Burnable.sol",
+    "./TokenRecover.sol"
+  ],
+  "address": "0xA1F7C9c6d19e2D0BF20729CB0BF03338A90bEd9b"
+}

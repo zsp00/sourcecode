@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200000",
+  "ConstructorArguments": "0000000000000000000000005f59b322eb3e16a0c78846195af1f588b77403fc000000000000000000000000603d50bad151da8becf405e51a8c4abc8ba1c95e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/PositionManager.flattened.sol"
+  ],
+  "address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21"
+}

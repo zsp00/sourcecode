@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TransparentUpgradeableProxy",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "20000",
+  "ConstructorArguments": "00000000000000000000000086f0cf42ad673b3d666d103e009ec142d1298a170000000000000000000000005613af0474eb9c528a34701a5b1662e3c8fa067800000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xad0c361ef902a7d9851ca7dcc85535da2d3c6fc7",
+  "SwarmSource": "",
+  "path": [
+    "node_modules/@openzeppelin/contracts/interfaces/draft-IERC1822.sol",
+    "node_modules/@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol",
+    "node_modules/@openzeppelin/contracts/proxy/ERC1967/ERC1967Upgrade.sol",
+    "node_modules/@openzeppelin/contracts/proxy/Proxy.sol",
+    "node_modules/@openzeppelin/contracts/proxy/beacon/IBeacon.sol",
+    "node_modules/@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol",
+    "node_modules/@openzeppelin/contracts/utils/Address.sol",
+    "node_modules/@openzeppelin/contracts/utils/StorageSlot.sol"
+  ],
+  "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1"
+}
