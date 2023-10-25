@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "USDTv2",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://00383e4b47daa6f5e09b6a2befaea23520e85ddcafbcfe54726b2312ec5aaf26",
+  "path": [
+    "USDTv2.sol"
+  ],
+  "address": "0x4577940b7CB25D26a9D978D5CD7CeA67e1A7C25A"
+}
