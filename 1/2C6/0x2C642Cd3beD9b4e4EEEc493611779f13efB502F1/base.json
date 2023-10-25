@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Carbon21",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/Carbon21.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol"
+  ],
+  "address": "0x2C642Cd3beD9b4e4EEEc493611779f13efB502F1"
+}
