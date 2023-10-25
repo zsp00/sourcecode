@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AssembleToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3de27618c1ab52f8385f2f451fa546f9abb8d8495b74d6c5c2147fced1a3c2db",
+  "path": [
+    "AssembleToken.sol"
+  ],
+  "address": "0x2565ae0385659badCada1031DB704442E1b69982"
+}

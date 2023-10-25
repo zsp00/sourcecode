@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BondlyToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "byzantium",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/C/xampp/htdocs/bondly/BONDV2/contracts/BondlyToken.sol",
+    "/C/xampp/htdocs/bondly/BONDV2/node_modules/@openzeppelin/contracts/GSN/Context.sol",
+    "/C/xampp/htdocs/bondly/BONDV2/node_modules/@openzeppelin/contracts/math/SafeMath.sol",
+    "/C/xampp/htdocs/bondly/BONDV2/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "/C/xampp/htdocs/bondly/BONDV2/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9"
+}

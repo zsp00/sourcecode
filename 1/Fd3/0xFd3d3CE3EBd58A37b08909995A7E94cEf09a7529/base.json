@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ConstellationChainToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts@4.8.0/utils/Context.sol",
+    "@openzeppelin/contracts@4.8.0/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts@4.8.0/token/ERC20/IERC20.sol",
+    "contract-fb2031e04d.sol",
+    "@openzeppelin/contracts@4.8.0/access/Ownable.sol",
+    "@openzeppelin/contracts@4.8.0/token/ERC20/ERC20.sol"
+  ],
+  "address": "0xFd3d3CE3EBd58A37b08909995A7E94cEf09a7529"
+}
