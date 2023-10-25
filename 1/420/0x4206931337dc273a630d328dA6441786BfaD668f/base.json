@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Dogecoin",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e339e9a7d3b9f0aa7491fc9390f9a8c9ed67e7f2dfaa963e986f116efdd93255",
+  "path": [
+    "IDogecoin.sol",
+    "IERC20.sol",
+    "ISafelyOwned.sol",
+    "SafeERC20.sol",
+    "SafelyOwned.sol",
+    "Address.sol",
+    "Dogecoin.sol",
+    "ERC20.sol"
+  ],
+  "address": "0x4206931337dc273a630d328dA6441786BfaD668f"
+}
