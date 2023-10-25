@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Bitcoin",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ad338180b47a92f409b74a1ed4b3747b61e9d43d8ff864b2169e2abbd44ee335",
+  "path": [
+    "Bitcoin.sol"
+  ],
+  "address": "0xAE0031058100A64e5E33b77459f53A584018Fc65"
+}
