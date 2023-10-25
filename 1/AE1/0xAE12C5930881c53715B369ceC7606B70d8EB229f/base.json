@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Coin98",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5ae3e34a2ab7a8ace991d481b802969ef4d15ef65121c5a8292ba109342c3340",
+  "path": [
+    "Coin98.sol"
+  ],
+  "address": "0xAE12C5930881c53715B369ceC7606B70d8EB229f"
+}
