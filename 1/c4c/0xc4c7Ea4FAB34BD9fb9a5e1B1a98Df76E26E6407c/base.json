@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CocosToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://89af3d494921bd45f9d2ceffcb10114c5b2402e7c5c30e3d7587779b140b0511",
+  "path": [
+    "CocosToken.sol"
+  ],
+  "address": "0xc4c7Ea4FAB34BD9fb9a5e1B1a98Df76E26E6407c"
+}

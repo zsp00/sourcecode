@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VOLT",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6ce330c0eb0d4ebdeaea383b08d9de5f29f022569fd0ef0b55e65e1e97b40a98",
+  "path": [
+    "VOLT.sol"
+  ],
+  "address": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac"
+}
