@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PIXL",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9e069effc9c6181c7f4859e6f1bdc31ffdcaf9898b231f6585020bc4ef339b64",
+  "path": [
+    "PIXL.sol"
+  ],
+  "address": "0x427A03Fb96D9A94A6727fbcfbBA143444090dd64"
+}
