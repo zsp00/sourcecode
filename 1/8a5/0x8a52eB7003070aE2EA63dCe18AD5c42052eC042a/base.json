@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CONUTToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://46f66c8bbc61bbf252d8d575ea60fea89cf88ac0f235a6df884cfd82420b05fe",
+  "path": [
+    "CONUTToken.sol"
+  ],
+  "address": "0x8a52eB7003070aE2EA63dCe18AD5c42052eC042a"
+}

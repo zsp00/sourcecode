@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FixedToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0d302b19684c310621c6a2c3b08dda4f534f6f41b37fe29762005dcf779f6ad3",
+  "path": [
+    "FixedToken.sol"
+  ],
+  "address": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921"
+}
