@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BoraToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000044803a9ed5aa9ea4d000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9cb79491128f14e07a7fccf7f1d985d60e4414139e4a060dbde5219fe2b2cc39",
+  "path": [
+    "BoraToken.sol"
+  ],
+  "address": "0x26fb86579e371c7AEdc461b2DdEF0A8628c93d3B"
+}
