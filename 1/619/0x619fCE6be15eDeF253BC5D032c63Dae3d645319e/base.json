@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MULTIX",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cc739c672b866ed7cfb672a5c1d334509ed2425786c0f6446404103b99ca7354",
+  "path": [
+    "MULTIX.sol"
+  ],
+  "address": "0x619fCE6be15eDeF253BC5D032c63Dae3d645319e"
+}

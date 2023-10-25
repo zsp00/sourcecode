@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PoofToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000995f2de133e2c8bd2c17a1fddfd3570e624a0d5900000000000000000000000081252e081f4335e3b766ad5c6c4038076a444994000000000000000000000000828ffc43f245c293ebe6f75a9fb4a8c54c5e5356000000000000000000000000b08981501f6af6c3018e024d0d4f74c91c4f02ce",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://aa3440f7e00f061a3b03291c9798b1948f6978cf54c1c21d306a71da36f03770",
+  "path": [
+    "PoofToken.sol"
+  ],
+  "address": "0x888ceA2BBDD5D47a4032cf63668D7525C74af57A"
+}
