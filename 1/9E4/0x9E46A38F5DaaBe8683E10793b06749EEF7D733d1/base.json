@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NectarToken",
+  "CompilerVersion": "v0.4.19-nightly.2017.11.30+commit.f5a2508e",
+  "OptimizationUsed": "0",
+  "Runs": "0",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fe54c2a9c594ff01b9af5425b8f2dc854e61440a959c8e59f10636f311c5f52c",
+  "path": [
+    "NectarToken.sol"
+  ],
+  "address": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1"
+}
