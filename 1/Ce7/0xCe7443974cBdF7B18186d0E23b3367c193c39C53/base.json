@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PepeETF",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4394f57e4f7f0c8bb0113b1929816f0715bc8fca643cebf92ffee69857ed40aa",
+  "path": [
+    "PepeETF.sol"
+  ],
+  "address": "0xCe7443974cBdF7B18186d0E23b3367c193c39C53"
+}

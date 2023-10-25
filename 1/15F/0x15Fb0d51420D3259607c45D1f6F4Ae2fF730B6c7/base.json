@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BOI",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a1c44a72f026b038d04989d822bceac7fd6ed1159979c6bbb017cd888f4c3808",
+  "path": [
+    "BOI.sol"
+  ],
+  "address": "0x15Fb0d51420D3259607c45D1f6F4Ae2fF730B6c7"
+}
