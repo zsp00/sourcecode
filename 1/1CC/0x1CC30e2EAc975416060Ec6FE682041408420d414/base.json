@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KollectToken",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "00000000000000000000000006d6e9fd10e53faa37ae1ebfff1813260997ffac",
+  "EVMVersion": "istanbul",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://da268c79f83338112ad06dfa7bdfcedfe47772fff8205f02cf2b4b914239be21",
+  "path": [
+    "KollectToken.sol"
+  ],
+  "address": "0x1CC30e2EAc975416060Ec6FE682041408420d414"
+}
