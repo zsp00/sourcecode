@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OxO",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://45632bcaceac7875ef2881f22d45cd3e436b1eef8fab68eb74339bf535c098dc",
+  "path": [
+    "OxO.sol"
+  ],
+  "address": "0x5a3e6A77ba2f983eC0d371ea3B475F8Bc0811AD5"
+}
