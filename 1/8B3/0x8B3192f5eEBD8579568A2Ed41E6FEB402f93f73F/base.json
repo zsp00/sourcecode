@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SaitamaInu",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0c7b17a6f3fb46d7cb0c09a29b17d72801b0b1274e5377e84b1b6b9e23daf93f",
+  "path": [
+    "SaitamaInu.sol"
+  ],
+  "address": "0x8B3192f5eEBD8579568A2Ed41E6FEB402f93f73F"
+}
