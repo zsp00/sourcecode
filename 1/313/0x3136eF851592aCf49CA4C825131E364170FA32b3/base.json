@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CoinFiToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://bb67a0d368128a0d35db065631c0c9d4da2c3ecaa521370d91d0ab2b66c56ebb",
+  "path": [
+    "CoinFiToken.sol"
+  ],
+  "address": "0x3136eF851592aCf49CA4C825131E364170FA32b3"
+}
