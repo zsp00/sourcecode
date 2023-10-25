@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AtariToken",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5e9f2c37d1d69da5013aa4c80c17ec407c06d4351779b9425c6216cc3e9735ef",
+  "path": [
+    "AtariToken.sol"
+  ],
+  "address": "0xdacD69347dE42baBfAEcD09dC88958378780FB62"
+}
