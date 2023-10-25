@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Blox",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f40d72a0290ac7919c6b7dac422dd91227f29644448bc586bd2f427e398cd8d3",
+  "path": [
+    "Blox.sol"
+  ],
+  "address": "0xE62D891Db1540E9eEDA2a2BA50a9d1758ee53fA5"
+}

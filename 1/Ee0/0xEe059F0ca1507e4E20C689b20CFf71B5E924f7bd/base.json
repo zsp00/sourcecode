@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Litecoin_SV",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://95be9ea0212afbd19b88effda6083aad1f28d4fb9034e88df8e6a16bfbe48b35",
+  "path": [
+    "Litecoin_SV.sol"
+  ],
+  "address": "0xEe059F0ca1507e4E20C689b20CFf71B5E924f7bd"
+}
