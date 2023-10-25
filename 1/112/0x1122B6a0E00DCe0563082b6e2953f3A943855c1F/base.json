@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CentralityToken",
+  "CompilerVersion": "v0.4.21-nightly.2018.2.28+commit.ac5485a2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3d21f6b1f0f2eaa8bcecd4f77431163749f8696ce0025035fe9c76ca197403a6",
+  "path": [
+    "CentralityToken.sol"
+  ],
+  "address": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F"
+}
