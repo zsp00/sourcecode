@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Infernals",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4a539fc25e493f97b7158fce04f20f0e97c3e7ee9a61219e092e0609c2c29b30",
+  "path": [
+    "Infernals.sol"
+  ],
+  "address": "0xDD56A4131fb1B54E1C7054957Ce1291782838efd"
+}
