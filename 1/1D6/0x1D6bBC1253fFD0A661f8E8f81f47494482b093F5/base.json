@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OneOneOne",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://115947fd8aa5c1ed0e8b9b0951b5bf4c382cec165c491f75f26015b60e329809",
+  "path": [
+    "OneOneOne.sol"
+  ],
+  "address": "0x1D6bBC1253fFD0A661f8E8f81f47494482b093F5"
+}

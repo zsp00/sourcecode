@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Truck",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000e00000000000000000000000000000000000000000000000000000000000ac748700000000000000000000000062a138fd873851b800ebaf36376e29ace3b3fbdf000000000000000000000000ddfee2d92c53f98d66f725b35cde068db5242ca00000000000000000000000000000000000000000000000000000000000000005547275636b0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005547275636b000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "london",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "/contracts/Truck.sol",
+    "/contracts/base/SwapV2.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0x3F48cCE3EAbb02304F7Cc16FD7a35F3A2df7BE8e"
+}
