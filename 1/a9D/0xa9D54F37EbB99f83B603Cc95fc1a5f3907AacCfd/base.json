@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PIKA",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000014bddab3e51a57cff87a50000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d17aecfe807ab673539220ea7cd2ea632a91454cff22de87a68b86c64c271114",
+  "path": [
+    "PIKA.sol"
+  ],
+  "address": "0xa9D54F37EbB99f83B603Cc95fc1a5f3907AacCfd"
+}
