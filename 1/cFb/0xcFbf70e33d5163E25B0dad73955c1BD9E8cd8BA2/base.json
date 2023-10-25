@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WINSToken",
+  "CompilerVersion": "v0.5.9+commit.e560f70d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7ceee917a141972bf5e26be2b07de16f87d89f31b5d5cd42418789a4641e848f",
+  "path": [
+    "WINSToken.sol"
+  ],
+  "address": "0xcFbf70e33d5163E25B0dad73955c1BD9E8cd8BA2"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Break",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bdd4a442e9a64f9649d77c8daa8eb50828ce9d6643cf02e43a2048f2d1cffad9",
+  "path": [
+    "Break.sol"
+  ],
+  "address": "0xC963C6A583EC96a0F3703E4269F305Af487a6154"
+}
