@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YOOBAToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000008d66f5196fcb64503819d4a80f8c43bb1541ea38000000000000000000000000e3fe2b07fdd23bd530164f33fd8dc104ae5519f5000000000000000000000000e0930424d7503ba53d77e1813c930e251f7e1eb5000000000000000000000000829423e43b9bf417da9e91a437bc0f69d4a9eece000000000000000000000000c0ebea4505019a9a5ff58ecf304d1e037b5546a7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://36cacabf707cca6d28db68feb5d2fa867dcb9762f3862cd7472ca6327db4f446",
+  "path": [
+    "YOOBAToken.sol"
+  ],
+  "address": "0x1D4105534dA120DA243281cfC3f26Aaf038E2D6f"
+}

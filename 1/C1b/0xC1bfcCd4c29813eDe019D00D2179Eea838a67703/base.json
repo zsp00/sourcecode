@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LuffyInu",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5df6d51379ff91b69ce8a4f70a12f386d16d928e22a1504ba2d8de1de775bbce",
+  "path": [
+    "LuffyInu.sol"
+  ],
+  "address": "0xC1bfcCd4c29813eDe019D00D2179Eea838a67703"
+}
