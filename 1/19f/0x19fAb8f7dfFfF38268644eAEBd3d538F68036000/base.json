@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ChronicToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c98846e1881945b937971efcd1c4f371e1271c85d1f4617a96053a90632fa912",
+  "path": [
+    "ChronicToken.sol"
+  ],
+  "address": "0x19fAb8f7dfFfF38268644eAEBd3d538F68036000"
+}

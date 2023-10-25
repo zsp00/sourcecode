@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VNT",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3a08a95f508ada77fcc0be2ca871e028876eab742376b32d12eab761fa49497b",
+  "path": [
+    "VNT.sol"
+  ],
+  "address": "0x69d2779533a4D2c780639713558B2cC98c46A9b7"
+}

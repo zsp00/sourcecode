@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PiccoloInu",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://77dd32b6e94c46339e90c9ac8804b9925d5cc1d3c70f2c062d5f38f2db4fd698",
+  "path": [
+    "PiccoloInu.sol"
+  ],
+  "address": "0x3a1311B8C404629E38f61D566cefEFed083B9670"
+}

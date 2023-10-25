@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Sidus",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000001bdd9e43de4e22b90564380be779bd8b543fa144",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "SidusERC20.sol",
+    "ERC20.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "Context.sol"
+  ],
+  "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102"
+}
