@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OysterPearl",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b75989bfaa699eb7c7bce4f08a57b908d266e9f535c2d4c7d4c7b86a1ff28a04",
+  "path": [
+    "OysterPearl.sol"
+  ],
+  "address": "0x1844b21593262668B7248d0f57a220CaaBA46ab9"
+}
