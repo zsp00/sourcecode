@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DieProtocol",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "600",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://02e11cb67f7a9af66a09dafcc10584e18453ce4c1d5a4df259ce2e8b8755c285",
+  "path": [
+    "DieProtocol.sol"
+  ],
+  "address": "0x6Ef6610d24593805144d73b13d4405E00A4E4aC7"
+}
