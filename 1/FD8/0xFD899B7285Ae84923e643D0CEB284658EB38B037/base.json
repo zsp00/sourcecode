@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LaCosaOstra",
+  "CompilerVersion": "v0.8.8+commit.dddeac2f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a5409ec958c83c3f309868babaca7c86dcb077c1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://015c94b4fa4f3d306f8e58f547471e4b11e22acc1726061288adc1e4692181f1",
+  "path": [
+    "LaCosaOstra.sol"
+  ],
+  "address": "0xFD899B7285Ae84923e643D0CEB284658EB38B037"
+}
