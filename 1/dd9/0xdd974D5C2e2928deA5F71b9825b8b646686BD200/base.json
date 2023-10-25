@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KyberNetworkCrystal",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000baf15c8c90e9c8220000000000000000000000000000000000000000000000000000000000000059bb6c600000000000000000000000000000000000000000000000000000000059C749E0000000000000000000000000346fbe5d02c89fb4599f33bdce987981d573740a",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7caf63297f1744c81dc22b3fcc78ec19977d0bb4d5160ae1fd8cb6aca1957bcc",
+  "path": [
+    "KyberNetworkCrystal.sol"
+  ],
+  "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"
+}
