@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BlockchainBets",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c63fd7638b8181d6240fbeaac683d91850b5d6831332d4113ca31bdbc82b2367",
+  "path": [
+    "BlockchainBets.sol"
+  ],
+  "address": "0x2d886570A0dA04885bfD6eb48eD8b8ff01A0eb7e"
+}
