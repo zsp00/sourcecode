@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FKX",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3d0be0aea6eb225795095d01f16d8be4be250898817b9b9e5ba8850e74916ffc",
+  "path": [
+    "FKX.sol"
+  ],
+  "address": "0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33"
+}

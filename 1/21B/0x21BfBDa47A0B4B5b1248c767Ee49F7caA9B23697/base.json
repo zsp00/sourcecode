@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RewardToken",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "1",
+  "Runs": "1",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000034f5652000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000034f56520000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Address.sol",
+    "/Users/dave/ovr/DAOMAIN2/smart-contracts/contracts/RewardToken.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697"
+}

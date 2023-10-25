@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MyEther",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://824f8b628ed174676df3211a96de3f5dec1bd3ee1151a956c5195f637d9b8e72",
+  "path": [
+    "MyEther.sol"
+  ],
+  "address": "0xFED8075b53948B972aD6F21793804aa973F442e1"
+}
