@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AoraCoin",
+  "CompilerVersion": "v0.5.2+commit.1df8f40c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://44d50cd3d442e16648152eb97433309fd04f104ab47028771084ed743a96e6ae",
+  "path": [
+    "AoraCoin.sol"
+  ],
+  "address": "0x971D42406b8Ff73fBeDbaaCc9E65BF9F37169B98"
+}
