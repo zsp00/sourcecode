@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UltraSuperfuckingDementedgreendildoretardstrengthCoin",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6d4ddbd0b468d6b637e6ca4a9007a17e3ee826eb67e2cd51cd8fd19f827c37c3",
+  "path": [
+    "UltraSuperfuckingDementedgreendildoretardstrengthCoin.sol"
+  ],
+  "address": "0x9abC68B33961268A3Ea4116214d7039226de01E1"
+}

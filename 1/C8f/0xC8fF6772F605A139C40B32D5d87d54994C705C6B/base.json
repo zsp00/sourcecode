@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LION",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6775416ec660532ac049cd5a436c2d7d8ca5408ada3630c0e7c694f8416f15ba",
+  "path": [
+    "LION.sol"
+  ],
+  "address": "0xC8fF6772F605A139C40B32D5d87d54994C705C6B"
+}

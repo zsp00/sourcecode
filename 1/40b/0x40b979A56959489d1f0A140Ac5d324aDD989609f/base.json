@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BITCHIP",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a45a57c454999b04f4fbe37a288720b50e3d31b74ffc886bac11a24f3a4f17d6",
+  "path": [
+    "BITCHIP.sol"
+  ],
+  "address": "0x40b979A56959489d1f0A140Ac5d324aDD989609f"
+}
