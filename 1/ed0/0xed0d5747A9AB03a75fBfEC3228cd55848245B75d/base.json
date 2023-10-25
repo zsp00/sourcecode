@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NGM",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://69a50cc803c71c58d9947ec60afd768ff3f922fba343313796064132e7992a01",
+  "path": [
+    "NGM.sol"
+  ],
+  "address": "0xed0d5747A9AB03a75fBfEC3228cd55848245B75d"
+}
