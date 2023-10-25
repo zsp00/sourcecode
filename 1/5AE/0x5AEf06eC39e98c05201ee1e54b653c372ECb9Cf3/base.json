@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FALCON",
+  "CompilerVersion": "v0.4.25-nightly.2018.5.21+commit.e97f9b6b",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ba974490c34537f4271224017360e7d968a48c928496a839db17879f5781a0ae",
+  "path": [
+    "FALCON.sol"
+  ],
+  "address": "0x5AEf06eC39e98c05201ee1e54b653c372ECb9Cf3"
+}
