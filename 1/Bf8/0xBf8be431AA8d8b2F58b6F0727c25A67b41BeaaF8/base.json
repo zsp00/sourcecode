@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ElamaCoinToken",
+  "CompilerVersion": "v0.4.17+commit.bdeb9e52",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b88426374ed1f7d1850cf9e91661ed33b0501c087d95130bc8e71ae2f66e2670",
+  "path": [
+    "ElamaCoinToken.sol"
+  ],
+  "address": "0xBf8be431AA8d8b2F58b6F0727c25A67b41BeaaF8"
+}

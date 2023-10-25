@@ -1,0 +1,21 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WODToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://13001f2c904b379527aaf5843c4663a5cbf5a0410f7523c872a7f4e6e4580ab2",
+  "path": [
+    "IERC20.sol",
+    "SafeMath.sol",
+    "WODToken.sol"
+  ],
+  "address": "0xDDf6C38481002c6811566838739E61bcF82eFeff"
+}
