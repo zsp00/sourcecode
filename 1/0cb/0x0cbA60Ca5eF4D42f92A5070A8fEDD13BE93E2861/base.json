@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "THEPROTOCOL",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://25a9a31068f28c4bc40018a77f1dbec472c7f08709f79e4a5cd2bdabe32750dc",
+  "path": [
+    "THEPROTOCOL.sol"
+  ],
+  "address": "0x0cbA60Ca5eF4D42f92A5070A8fEDD13BE93E2861"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ShiryoInu",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4cafcd707d8e6e42047900a141aa61d847c34620949bf930e4fe30db7a597499",
+  "path": [
+    "ShiryoInu.sol"
+  ],
+  "address": "0x1E2F15302B90EddE696593607b6bD444B64e8F02"
+}
