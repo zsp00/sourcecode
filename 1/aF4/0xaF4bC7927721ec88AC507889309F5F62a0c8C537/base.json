@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BHC",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://332b3b227d2bd19afd3f1d8a2f4662e46a038563bc4ba9707220759edcce1fd5",
+  "path": [
+    "BHC.sol"
+  ],
+  "address": "0xaF4bC7927721ec88AC507889309F5F62a0c8C537"
+}

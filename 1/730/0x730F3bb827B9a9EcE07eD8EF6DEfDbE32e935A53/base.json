@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "uSwapFX",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ee913a63e69f48047b7d52cddc1a4432ec5b43401f2ff780d2ff815119439396",
+  "path": [
+    "uSwapFX.sol"
+  ],
+  "address": "0x730F3bb827B9a9EcE07eD8EF6DEfDbE32e935A53"
+}

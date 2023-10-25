@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DAOToken",
+  "CompilerVersion": "v0.4.20+commit.3155dd80",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://323ce1d23e703a08bb12d29ce331dfc66c40c18f5845505c477c056d9ab066da",
+  "path": [
+    "DAOToken.sol"
+  ],
+  "address": "0x92E78dAe1315067a8819EFD6dCA432de9DCdE2e9"
+}

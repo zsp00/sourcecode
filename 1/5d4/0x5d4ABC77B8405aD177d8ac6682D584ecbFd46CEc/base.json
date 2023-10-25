@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PrimasToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000022cf403005a1cd50a854",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ba0e4c6bef917fd3844fdbbc2b8f1592cfb850417b49257418cae2d0323ed9fa",
+  "path": [
+    "PrimasToken.sol"
+  ],
+  "address": "0x5d4ABC77B8405aD177d8ac6682D584ecbFd46CEc"
+}

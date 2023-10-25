@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HBTToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://28a97ef82c1939d40a6cfc727439a25a69be4eeee11974d9468b95c338c0758d",
+  "path": [
+    "HBTToken.sol"
+  ],
+  "address": "0x32fd949E1953b21b7a8232EF4259Cd708B4e0847"
+}
