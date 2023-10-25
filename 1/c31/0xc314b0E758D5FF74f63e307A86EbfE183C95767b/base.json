@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AdappterToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a7d0da9a0acbb3cf57764af1088e207b0b3c9e4e459e6086c33a485c5f02c3e1",
+  "path": [
+    "AdappterToken.sol",
+    "ERC20Burnable.sol",
+    "ERC20Detailed.sol",
+    "IERC20.sol",
+    "ERC20.sol",
+    "ERC20Pausable.sol",
+    "Ownable.sol",
+    "Pausable.sol",
+    "SafeMath.sol"
+  ],
+  "address": "0xc314b0E758D5FF74f63e307A86EbfE183C95767b"
+}

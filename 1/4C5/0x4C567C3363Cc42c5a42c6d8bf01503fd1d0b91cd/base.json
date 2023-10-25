@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ElementhToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0e70819dc0c48a3f36b5998e9744587be610d0d2ba74c21420d91d2208a523c6",
+  "path": [
+    "ElementhToken.sol"
+  ],
+  "address": "0x4C567C3363Cc42c5a42c6d8bf01503fd1d0b91cd"
+}

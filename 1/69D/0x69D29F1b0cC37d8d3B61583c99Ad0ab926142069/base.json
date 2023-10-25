@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "invertedpepe",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://15d2877656be69cf5f1935d184d63f1be1d28d10c8cf084ef03c6c9dabd8dd93",
+  "path": [
+    "invertedpepe.sol"
+  ],
+  "address": "0x69D29F1b0cC37d8d3B61583c99Ad0ab926142069"
+}
