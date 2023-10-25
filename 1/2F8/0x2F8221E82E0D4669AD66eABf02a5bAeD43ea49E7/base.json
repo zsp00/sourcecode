@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NewslyToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "800",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d0000000000000000000000000000000000000000000000000000000000000005",
+  "EVMVersion": "paris",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bafc9f057fe6792e82b4d09609fb528f4947fe120bc70476905c4e82423212fb",
+  "path": [
+    "lib/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "lib/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+    "lib/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "src/NewslyToken.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
+    "lib/openzeppelin-contracts/contracts/access/Ownable.sol"
+  ],
+  "address": "0x2F8221E82E0D4669AD66eABf02a5bAeD43ea49E7"
+}
