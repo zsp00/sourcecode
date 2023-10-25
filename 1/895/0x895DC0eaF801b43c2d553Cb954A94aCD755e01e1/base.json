@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FGUYS",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://277af584b917b2c6961673c075a8cf43ebee842dc102824959693047ed5ac34e",
+  "path": [
+    "FGUYS.sol"
+  ],
+  "address": "0x895DC0eaF801b43c2d553Cb954A94aCD755e01e1"
+}
