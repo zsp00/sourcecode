@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Voken2",
+  "CompilerVersion": "v0.5.11+commit.c082d0b4",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4e26dd44b55a6a43ffa435fee457b7473bdf9e5207a533c9bf8b7c7dac94d4cc",
+  "path": [
+    "Voken2.sol"
+  ],
+  "address": "0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB"
+}

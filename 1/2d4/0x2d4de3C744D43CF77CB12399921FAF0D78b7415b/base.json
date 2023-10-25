@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MainToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://30996e633f9f663c5836c1a3b247fb89fa36c7a1bb5dc29f3c6e44c7ea998b27",
+  "path": [
+    "MainToken.sol"
+  ],
+  "address": "0x2d4de3C744D43CF77CB12399921FAF0D78b7415b"
+}
