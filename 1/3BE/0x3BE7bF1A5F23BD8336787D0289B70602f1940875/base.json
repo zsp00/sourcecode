@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VIDT",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c41500a12d9d48bb5f4d99896fad9a24935b73c61b830a1c51279a7d3cde8012",
+  "path": [
+    "VIDT.sol"
+  ],
+  "address": "0x3BE7bF1A5F23BD8336787D0289B70602f1940875"
+}
