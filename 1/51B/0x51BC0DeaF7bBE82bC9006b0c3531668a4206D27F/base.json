@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RakunCoin",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d1074d7c4b0ee7f578e92f025190d1bdad780d3848b5e31679ba58b087e04b02",
+  "path": [
+    "RakunCoin.sol"
+  ],
+  "address": "0x51BC0DeaF7bBE82bC9006b0c3531668a4206D27F"
+}

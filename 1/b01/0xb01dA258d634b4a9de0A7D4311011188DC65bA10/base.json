@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UNCLOG",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://41304eb2164e6baf5cbcee2545d618b1f0394dc102f465b92c62a195c080980d",
+  "path": [
+    "UNCLOG.sol"
+  ],
+  "address": "0xb01dA258d634b4a9de0A7D4311011188DC65bA10"
+}
