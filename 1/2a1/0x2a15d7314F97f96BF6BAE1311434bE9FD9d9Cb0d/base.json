@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MASKTOKEN",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ca6514232d971d9d92c4e1f73276f0a84580bda11299c512e8a28897cc3d8740",
+  "path": [
+    "MASKTOKEN.sol"
+  ],
+  "address": "0x2a15d7314F97f96BF6BAE1311434bE9FD9d9Cb0d"
+}
