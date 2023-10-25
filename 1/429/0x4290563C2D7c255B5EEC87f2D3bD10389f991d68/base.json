@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UnlimitedIPToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://60039bd37481611d91a082e8002f47c2beb65bed5d71d921c28568f6b9871829",
+  "path": [
+    "UnlimitedIPToken.sol"
+  ],
+  "address": "0x4290563C2D7c255B5EEC87f2D3bD10389f991d68"
+}

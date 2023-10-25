@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RINGX",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://bb6e92d8a6cc5c7b478042d242f1d5b43f9952b1c59b7da71a5c8326e7223f70",
+  "path": [
+    "RINGX.sol"
+  ],
+  "address": "0x7F86C782EC802ac402e0369d2E6d500256F7abC5"
+}
