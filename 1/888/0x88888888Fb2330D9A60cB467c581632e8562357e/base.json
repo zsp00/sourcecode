@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Pepeland",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "20000",
+  "ConstructorArguments": "000000000000000000000000587534e31637b38624d107f9cf2b5eed028820050000000000000000000000003b2b28739421e0833072d98309eb7b2eb1ce4f810000000000000000000000003b2b28739421e0833072d98309eb7b2eb1ce4f81",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/ERC20UniswapV2InternalSwaps.sol",
+    "contracts/Pepeland.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol"
+  ],
+  "address": "0x88888888Fb2330D9A60cB467c581632e8562357e"
+}

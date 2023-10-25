@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Rbx",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000097872eafd79940c7b24f7bcc1eadb1457347adc9",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c98e137b1dbd925c26365a6a1bc02a2aa5bff15f1b44826eff626c573549bcfb",
+  "path": [
+    "Rbx.sol"
+  ],
+  "address": "0x3Ba925fdeAe6B46d0BB4d424D829982Cb2F7309e"
+}
