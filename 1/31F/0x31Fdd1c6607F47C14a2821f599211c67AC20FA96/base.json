@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BUY",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9f48d230c34ac1ceae8b497ab1c37b5d464053764b140314150bbcf1ef5f3191",
+  "path": [
+    "BUY.sol"
+  ],
+  "address": "0x31Fdd1c6607F47C14a2821f599211c67AC20FA96"
+}

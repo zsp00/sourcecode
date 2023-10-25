@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DataToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://12029d144dd9d20a347b891f62e0c857faabc19fabca0c3421a2d1299254765e",
+  "path": [
+    "DataToken.sol"
+  ],
+  "address": "0x69b148395Ce0015C13e36BFfBAd63f49EF874E03"
+}
