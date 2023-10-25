@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FML",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f869cc36db78a058f0e5a1d93cd767322e345c46798e9435f442e71adfd01bd0",
+  "path": [
+    "FML.sol"
+  ],
+  "address": "0xdE522a2778E4554707E6a8Df36a4871ce9967BB5"
+}

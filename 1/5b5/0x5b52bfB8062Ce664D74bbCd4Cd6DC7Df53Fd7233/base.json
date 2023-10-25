@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZENIQToken",
+  "CompilerVersion": "v0.8.2+commit.661d1103",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5a607577b50ecf36c4eb931c48d20f4faa8a1666aba078522b21bab03d5ba55c",
+  "path": [
+    "ZENIQToken.sol"
+  ],
+  "address": "0x5b52bfB8062Ce664D74bbCd4Cd6DC7Df53Fd7233"
+}

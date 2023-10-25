@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KcashToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7e3742ff2a13c33f6e5f138fbbc5307cc10be14f4c47a5d2cde089fdc7c941b6",
+  "path": [
+    "KcashToken.sol"
+  ],
+  "address": "0x32d74896f05204D1b6Ae7B0a3CEBd7FC0Cd8F9C7"
+}
