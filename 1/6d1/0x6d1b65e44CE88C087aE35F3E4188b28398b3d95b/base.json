@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MEGATOKEN",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://997072111cff71f6686e3aa1fa851a8a10da88ee6045e95beec7ff8d6175156d",
+  "path": [
+    "MEGATOKEN.sol"
+  ],
+  "address": "0x6d1b65e44CE88C087aE35F3E4188b28398b3d95b"
+}

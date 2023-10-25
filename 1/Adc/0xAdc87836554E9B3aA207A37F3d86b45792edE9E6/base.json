@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DTR",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://93360a10f0231f897f64f586039b10b4d461b1e2c57cc7636389dd72016e0720",
+  "path": [
+    "DTR.sol"
+  ],
+  "address": "0xAdc87836554E9B3aA207A37F3d86b45792edE9E6"
+}
