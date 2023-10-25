@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RAFFLE",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5a9005b41ec73f7679a9c9879abe6a83dbe21492d11db42cc50adb32c8fad988",
+  "path": [
+    "RAFFLE.sol"
+  ],
+  "address": "0x168148361893527f2a6Da53DEe1FBADd31c70930"
+}
