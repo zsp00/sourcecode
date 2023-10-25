@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CyOpProtocol",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000051936b72932bd221f1338cb725ae7756721b895f0000000000000000000000005f3a51f3650cf43d43543aa5b408b73a2ebb75ec",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://563bf9ef5eacf037509fa48cebcbf4cc308a8608f486468047f27b2f2dff92bc",
+  "path": [
+    "CyOpProtocol.sol"
+  ],
+  "address": "0xddaC9C604BA6Bc4ACEc0FBB485B83f390ECF2f31"
+}
