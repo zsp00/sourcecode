@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Flash",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b4a47abcd135bda25a9d351f0a0c530a42b9cb91e99c1737b32d1b7d757406cf",
+  "path": [
+    "Flash.sol"
+  ],
+  "address": "0x4727a02269943b225A7de9ef28496f36d454B983"
+}
