@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "B91Token",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://33f11d142ee58af1d8713df2fa8f2078f80607a4a1ac784afbad1ae4e517af55",
+  "path": [
+    "B91Token.sol"
+  ],
+  "address": "0x1519AFf03b3E23722511D2576c769A77Baf09580"
+}
