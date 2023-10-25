@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BDTToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000bea06978502475309a675f350292005969a5be0c000000000000000000000000000000000000000006765c793fa10079d0000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://60195aa1821ec6528fb8f3bf0e30e6ecbd0ff189eb04d5ef5850b79fb8d470ef",
+  "path": [
+    "BDTToken.sol"
+  ],
+  "address": "0x216e9D8A521d93EC769635859c57938119fE5369"
+}
