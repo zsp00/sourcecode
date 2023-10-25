@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HalfBitcoin",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://39ce4796c24ce6e4311edf0e5b28309471f2d3c290e3227eea90db22e4ec33d8",
+  "path": [
+    "HalfBitcoin.sol"
+  ],
+  "address": "0x871407d1630cE22a831BB74f0C94aee2E6AF7dDF"
+}

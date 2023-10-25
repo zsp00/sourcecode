@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ScomCoin",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "300",
+  "ConstructorArguments": "",
+  "EVMVersion": "paris",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Shitcoins/Scom.sol"
+  ],
+  "address": "0xf8212179CE95b8237Ae8BDc7280288Bb349F78e5"
+}
