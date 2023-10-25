@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FriendChips_SoFi",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "ERC20.sol",
+    "Ownable.sol",
+    "IUniswapV2Pair.sol",
+    "IUniswapV2Router02.sol",
+    "IUniswapV2Router01.sol",
+    "Context.sol",
+    "Token.sol",
+    "ERC20Burnable.sol",
+    "Initializable.sol",
+    "IUniswapV2Factory.sol"
+  ],
+  "address": "0x8A74Bc4C2a9d4855cbd2A8cead9FE1d1418c800F"
+}
