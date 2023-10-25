@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KryxiviaCoin",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000d4b7279786976696120436f696e0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000034b58410000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/erc20/utils/Context.sol",
+    "contracts/erc20/ERC20Burnable.sol",
+    "contracts/erc20/utils/math/Math.sol",
+    "contracts/erc20/interfaces/IERC20.sol",
+    "contracts/erc20/extensions/IERC20Metadata.sol",
+    "contracts/KryxiviaCoin.sol",
+    "contracts/erc20/ERC20.sol",
+    "contracts/erc20/interfaces/IAccessControl.sol",
+    "contracts/erc20/utils/Strings.sol",
+    "contracts/erc20/utils/ERC165.sol",
+    "contracts/erc20/utils/interfaces/IERC165.sol",
+    "contracts/erc20/AccessControl.sol"
+  ],
+  "address": "0x2223bF1D7c19EF7C06DAB88938EC7B85952cCd89"
+}
