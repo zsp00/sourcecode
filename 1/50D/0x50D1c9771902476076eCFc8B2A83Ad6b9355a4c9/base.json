@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FTT",
+  "CompilerVersion": "v0.5.7+commit.6da8b019",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fbe1c50d01b744b1c960bbd407ad9f1de33bb719f816f38781a6a6ee5d1e0305",
+  "path": [
+    "FTT.sol"
+  ],
+  "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9"
+}

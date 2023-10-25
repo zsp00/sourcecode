@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TronToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009ea145606c4F694c28Cf2A5a021F526A6764E1BA",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a17a4d0d7c5057421200f6c2edf0f0b8597554f0871e24147362dd783b42d7fc",
+  "path": [
+    "TronToken.sol"
+  ],
+  "address": "0xf230b790E05390FC8295F4d3F60332c93BEd42e2"
+}

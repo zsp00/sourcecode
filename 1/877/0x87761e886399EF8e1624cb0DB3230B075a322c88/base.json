@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CBK",
+  "CompilerVersion": "v0.6.0+commit.26b70077",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://69cfaef5f3d0fe2e0770c64e1b90a769326f2095e9eeec93b063dabf5531035b",
+  "path": [
+    "CBK.sol"
+  ],
+  "address": "0x87761e886399EF8e1624cb0DB3230B075a322c88"
+}

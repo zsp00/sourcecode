@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MintBot",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3c8981e8f7364a239f0420fe5f5ee90f74c5fe5ec2f274f6cc7b6e64fd8025d8",
+  "path": [
+    "MintBot.sol"
+  ],
+  "address": "0xA0bA78Fb692F4fAe30015BCc146fB360C6506be0"
+}
