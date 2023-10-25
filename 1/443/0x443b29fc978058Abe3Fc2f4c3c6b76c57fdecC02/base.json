@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IDEAS",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5670de63498586bc5eb365a50b283998a0f5dc3e0cdf7197155c93064fbff966",
+  "path": [
+    "IDEAS.sol"
+  ],
+  "address": "0x443b29fc978058Abe3Fc2f4c3c6b76c57fdecC02"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NFTY",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6250ad630003e7455e55e8c56180a899b55e5a6579dee451e3a6e12adc60d61e",
+  "path": [
+    "NFTY.sol"
+  ],
+  "address": "0xE1D7C7a4596B038CEd2A84bF65B8647271C53208"
+}

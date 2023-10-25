@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DATAv2",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7575873777af048c081d0e4286d7edcec2b516036f5d1588d0183b4cff006727",
+  "path": [
+    "DATAv2.sol"
+  ],
+  "address": "0x8f693ca8D21b157107184d29D398A8D082b38b76"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PGF500Token",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000eaeb56d96b579e9c000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://553aebb9c14a85f357bdf0a4be2b2bf7a89e623eace87407d87a8c200cc9dde6",
+  "path": [
+    "PGF500Token.sol"
+  ],
+  "address": "0x9FadeA1aFF842D407893e21DBD0E2017b4C287b6"
+}

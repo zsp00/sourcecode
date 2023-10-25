@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PolybiusToken",
+  "CompilerVersion": "v0.4.8+commit.60cc1668",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://68b932daed52b9142f1ac235e033d83e0bd30d3955dd57e19342e5f2708084bf",
+  "path": [
+    "PolybiusToken.sol"
+  ],
+  "address": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02"
+}
