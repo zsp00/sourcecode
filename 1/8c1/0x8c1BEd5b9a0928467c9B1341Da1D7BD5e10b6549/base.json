@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TUPProxy",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "100",
+  "ConstructorArguments": "000000000000000000000000660bd93e6c149e2e0af1963e2bdf3620877928240000000000000000000000008ee3fc0bcd7b57429203751c5be5fdf1ab8409f300000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000124281a312200000000000000000000000000000000219ab540356cbb839cbe05303d7705fa0000000000000000000000007d16d2c4e96bcfc8f815e15b771ac847ecbdb48b0100000000000000000000000afd81862eea47322cf85db39d3d07e8a3c25154000000000000000000000000895a57ed71025d51fe4080530a3489d92e230683000000000000000000000000d745a68c705f5aa75dff528540678288ed2ad9ee000000000000000000000000ebc83bb472b2816ec5b5de8d34f0efc9088bb2ce0000000000000000000000001235f1b60df026b2620e48e735c422425e06b725000000000000000000000000e3208aa9d1186c1d1c8a5b76e794b2b68e6cb3a500000000000000000000000000000000000000000000000000000000000005dc00000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "BSL 1.1",
+  "Proxy": "1",
+  "Implementation": "0x48d93d8c45fb25125f13cdd40529bbeaa97a6565",
+  "SwarmSource": "ipfs://b8f0cd6ca7df19ced64d8e8119e0dae0c4fe20a0dee0b6018f6fbacae4ff5256",
+  "path": [
+    "contracts/src/TUPProxy.sol",
+    "openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Upgrade.sol",
+    "openzeppelin-contracts/contracts/proxy/transparent/TransparentUpgradeableProxy.sol",
+    "openzeppelin-contracts/contracts/interfaces/draft-IERC1822.sol",
+    "openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Proxy.sol",
+    "openzeppelin-contracts/contracts/proxy/Proxy.sol",
+    "openzeppelin-contracts/contracts/proxy/beacon/IBeacon.sol",
+    "openzeppelin-contracts/contracts/utils/Address.sol",
+    "openzeppelin-contracts/contracts/utils/StorageSlot.sol"
+  ],
+  "address": "0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549"
+}
