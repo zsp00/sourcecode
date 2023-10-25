@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Zhey_ERC20",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2bb63a27061acf10ba5c32dec17f9e03d2a30b1af5ae7b8cb161cc7b8928b801",
+  "path": [
+    "Zhey_ERC20.sol"
+  ],
+  "address": "0x31126416F0dbC1283DC5295EE6ea04Ff83eE3531"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DollarSqueeze",
+  "CompilerVersion": "v0.8.12+commit.f00d7308",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c999a8a079c99f06e84b8b0abb5ae947e4a89e4f841312a0932b141ef5cfa900",
+  "path": [
+    "DollarSqueeze.sol"
+  ],
+  "address": "0x7340eA46360576DC46Ef49bcE99Bc5072c32421d"
+}

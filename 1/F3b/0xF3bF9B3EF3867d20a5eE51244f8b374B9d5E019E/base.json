@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EFOLIO",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cc912d5c586fdfb31b95ed18a46a51759edaffdd059b2542cdefa615e5fe3030",
+  "path": [
+    "EFOLIO.sol"
+  ],
+  "address": "0xF3bF9B3EF3867d20a5eE51244f8b374B9d5E019E"
+}

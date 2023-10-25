@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Socks",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ae0ec0e9334520c217e957d0ebeba7c440a81d87fa9ffabe28d157d31a479e6e",
+  "path": [
+    "Socks.sol"
+  ],
+  "address": "0x05A758EA3a48881Cf17451Cca985762bf849E979"
+}
