@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "A2AToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "0",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a6369e45f246da662b23c0053a5af5f6c0aebff3461297155754e7a034f83351",
+  "path": [
+    "A2AToken.sol"
+  ],
+  "address": "0x11C039f368606D91664BFd10137B00eEE13CdE77"
+}

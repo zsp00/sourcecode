@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Shibnobi",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://477c04cbca814c199ef610636c0d9592d9a5f0c0caa759d8dc5b4976fe68a2a6",
+  "path": [
+    "Shibnobi.sol"
+  ],
+  "address": "0xab167E816E4d76089119900e941BEfdfA37d6b32"
+}

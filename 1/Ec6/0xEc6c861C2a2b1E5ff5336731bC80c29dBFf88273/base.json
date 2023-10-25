@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ElacToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ff75d28ab5e433a4ae538beae391a1da731dd1b6a2f2a0aa4420d2caaf7db821",
+  "path": [
+    "ElacToken.sol"
+  ],
+  "address": "0xEc6c861C2a2b1E5ff5336731bC80c29dBFf88273"
+}
