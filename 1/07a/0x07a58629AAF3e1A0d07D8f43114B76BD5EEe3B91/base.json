@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "insChainToken",
+  "CompilerVersion": "v0.4.20+commit.3155dd80",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5adf17e766a0a8cd917e17c8aacd9e2a40fb548084b1f7b6f36a25a3f387ae07",
+  "path": [
+    "insChainToken.sol"
+  ],
+  "address": "0x07a58629AAF3e1A0d07D8f43114B76BD5EEe3B91"
+}
