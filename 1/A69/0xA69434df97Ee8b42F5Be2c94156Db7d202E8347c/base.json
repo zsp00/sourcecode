@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "iPepe",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ae6f394558af9721496c1645de57819f7353a0199befc1f5e56411153facc253",
+  "path": [
+    "iPepe.sol"
+  ],
+  "address": "0xA69434df97Ee8b42F5Be2c94156Db7d202E8347c"
+}
