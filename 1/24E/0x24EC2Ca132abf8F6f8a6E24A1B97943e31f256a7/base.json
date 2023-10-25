@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DotmoovsToken",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a7b5f3ecad9267f0d049df8ffaa2bac8b3a4634d",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b9afff0722b1837f740bfa35b1df714fa720df0456c92f2d77058b7dbf756023",
+  "path": [
+    "DotmoovsToken.sol"
+  ],
+  "address": "0x24EC2Ca132abf8F6f8a6E24A1B97943e31f256a7"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FixedSupplyToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f6ba84785d7300827db94cb5f6901f1b247a786c1aaea9f6fe3aac2551d71f9b",
+  "path": [
+    "FixedSupplyToken.sol"
+  ],
+  "address": "0x0Ed024d39d55e486573EE32e583bC37Eb5A6271f"
+}
