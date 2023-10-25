@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CoinMetroToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://003e1c494ad15ecd8bd5d449193875a2799936dc419986e50e50b06ba4a697b4",
+  "path": [
+    "CoinMetroToken.sol"
+  ],
+  "address": "0x36ac219f90f5A6A3C77f2a7B660E3cC701f68e25"
+}
