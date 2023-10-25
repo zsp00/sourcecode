@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AlphaWolves",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "contracts/AlphaWolves.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
+    "@openzeppelin/contracts/token/ERC721/ERC721.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol"
+  ],
+  "address": "0xdcd6d4a557ff208f01D4c2b5Bf829078622C37c5"
+}

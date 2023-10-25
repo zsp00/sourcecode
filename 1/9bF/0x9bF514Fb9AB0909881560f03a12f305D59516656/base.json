@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OMEGA",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1df40c110aeceb10f8d101a471c1debd4d6c8e5a2e13493f02976b9a8aaa6228",
+  "path": [
+    "OMEGA.sol"
+  ],
+  "address": "0x9bF514Fb9AB0909881560f03a12f305D59516656"
+}
