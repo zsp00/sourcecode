@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DGPT",
+  "CompilerVersion": "v0.5.11+commit.c082d0b4",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d14b1ee445ef13a84fffe400825e788b2de2b1e175f0938ee770f9b13b9c815c",
+  "path": [
+    "DGPT.sol"
+  ],
+  "address": "0x8F9Be283Ee660B18e78cB47213876AA2fd955bD7"
+}

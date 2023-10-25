@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HuskyToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://df9cf9685ae14f2e663788089863f6e70f3642d53dbf95adb0d32c021289ffa4",
+  "path": [
+    "HuskyToken.sol"
+  ],
+  "address": "0xd5281BB2d1eE94866B03A0fcCDd4e900c8Cb5091"
+}

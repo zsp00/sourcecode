@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SUP8EMEToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7ff13b20c08cceb1aefbb2b4589f1ebda482661ec5126ef059dd03be98dc5afa",
+  "path": [
+    "SUP8EMEToken.sol"
+  ],
+  "address": "0x47935Edfb3CDd358C50F6c0Add1Cc24662e30F5f"
+}
