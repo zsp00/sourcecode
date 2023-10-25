@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VEROX",
+  "CompilerVersion": "v0.6.0+commit.26b70077",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ce96ea739c3c5f25bdab44fabd171fd348c33a6a9ef4d27fb22ef753b1b22073",
+  "path": [
+    "VEROX.sol"
+  ],
+  "address": "0x87DE305311D5788e8da38D19bb427645b09CB4e5"
+}
