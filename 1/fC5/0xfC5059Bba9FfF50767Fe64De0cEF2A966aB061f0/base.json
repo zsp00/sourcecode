@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Andy",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0e4f908179a0ceed09d0a31726773f9cb9a9d5ead5104e1da3827f7c1c015c55",
+  "path": [
+    "Andy.sol"
+  ],
+  "address": "0xfC5059Bba9FfF50767Fe64De0cEF2A966aB061f0"
+}
