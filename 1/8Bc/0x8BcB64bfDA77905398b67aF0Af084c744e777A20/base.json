@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GameCell",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://95e45b49d0a3261ed8a9088ed501d6110393611238410e15546ec8dcaab250c2",
+  "path": [
+    "GameCell.sol"
+  ],
+  "address": "0x8BcB64bfDA77905398b67aF0Af084c744e777A20"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WATCHAI",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a45f09f2ad8714299cf34a8483ed724bb7c09dcbabdb08246e633e260915486e",
+  "path": [
+    "WATCHAI.sol"
+  ],
+  "address": "0x15F84Bfb8Ed86fAf8455cF6C9D88908ea89f92b6"
+}

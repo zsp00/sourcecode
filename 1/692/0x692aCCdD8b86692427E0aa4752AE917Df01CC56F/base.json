@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SuncToken",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1bd4a83a77ee82dad3b695543d2e165372042448f96d9004c9d4959efe43ac57",
+  "path": [
+    "SuncToken.sol"
+  ],
+  "address": "0x692aCCdD8b86692427E0aa4752AE917Df01CC56F"
+}

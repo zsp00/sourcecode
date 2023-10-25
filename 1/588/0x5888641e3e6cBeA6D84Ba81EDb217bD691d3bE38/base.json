@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BOBO",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c657dfe5810ff451fbe1eb8e99661505d89fc2abc27c6485fe5a1ebdff5da76b",
+  "path": [
+    "BOBO.sol"
+  ],
+  "address": "0x5888641e3e6cBeA6D84Ba81EDb217bD691d3bE38"
+}
