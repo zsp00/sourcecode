@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WiskersToken",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "5000",
+  "ConstructorArguments": "000000000000000000000000db5a70c21f0c4f8ddd315c41f3567e56bbb5856f000000000000000000000000000000000000000000000000000000000000002800000000000000000000000000000000000000000000000000000000000000500000000000000000000000000000000000000000000000000000000000000050",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7eb95a4c1c2bca8052cec9d64b6c5fc081ddf4fa1c9fcd9401874041be335933",
+  "path": [
+    "WiskersToken.sol"
+  ],
+  "address": "0xfD4Ca4a692f14d88af3E7Ae13Cf00D5095213B25"
+}

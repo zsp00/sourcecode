@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CDTToken",
+  "CompilerVersion": "v0.4.8+commit.60cc1668",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000033b2e3c9fd0803ce8000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cda948482ca91b403feb47c3d04aa6b66f868fe80ea247b0dbf908d9ad4e61f3",
+  "path": [
+    "CDTToken.sol"
+  ],
+  "address": "0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af"
+}

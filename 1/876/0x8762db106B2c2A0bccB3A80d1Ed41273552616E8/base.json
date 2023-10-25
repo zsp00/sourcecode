@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ReserveRightsToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "000000000000000000000000c2646eda7c2d4bf131561141c1d5696c4f01eb53000000000000000000000000fa3bd0b2ac6e63f16d16d7e449418837a8a3ae27",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c0d53ccd20cfefd077b56e38eda2288a4b78d4f7e506527797d19f665aa3c3f7",
+  "path": [
+    "ReserveRightsToken.sol"
+  ],
+  "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MemeFi",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://75c70c110f629e8574fe99e514f18bb2710b2d2f6cacf4b2db8fb286007c3365",
+  "path": [
+    "MemeFi.sol"
+  ],
+  "address": "0x7da7a60087Dea3145dDfE9df4824ccBc65B65BeB"
+}
