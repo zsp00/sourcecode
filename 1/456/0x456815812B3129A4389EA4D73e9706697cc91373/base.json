@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZeroXShibarium",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ba5b4d2ac5e13dfcafc5418dfa0c01ee595174cf000000000000000000000000e27cf06b1df3d129921b2d5516b2a2e35f4ed620000000000000000000000000eb7f0be32c87a55205cb0d2bffb21f4fbeac8f1e0000000000000000000000000937af884cba1a4cd6e68f733047dadb0bec52fa00000000000000000000000000000000000000000000000000000000000000640000000000000000000000000000000000000000000000000000000000015180",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol",
+    "OxShib.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Permit.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0x456815812B3129A4389EA4D73e9706697cc91373"
+}
