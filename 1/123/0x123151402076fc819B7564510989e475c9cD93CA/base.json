@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "wrapped_DGLD",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ce049b2fe1632b7b4162ea74dbf5b5b51422a3dfc4a5e91e21109a5add2f5c43",
+  "path": [
+    "SafeMath.sol",
+    "ERC20Mintable.sol",
+    "Roles.sol",
+    "ERC20Detailed.sol",
+    "IERC20.sol",
+    "Migrations.sol",
+    "MinterRole.sol",
+    "wrapped-DGLD.sol",
+    "Context.sol",
+    "ERC20.sol"
+  ],
+  "address": "0x123151402076fc819B7564510989e475c9cD93CA"
+}
