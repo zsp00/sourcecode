@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UFragments",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://110045ddcdac3081ec4b21e9a876fdccd4adf815653a0e5d4c02bb33047c487c",
+  "path": [
+    "UFragments.sol"
+  ],
+  "address": "0x27C70Cd1946795B66be9d954418546998b546634"
+}

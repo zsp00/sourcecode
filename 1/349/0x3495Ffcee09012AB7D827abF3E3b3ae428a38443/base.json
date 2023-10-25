@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BecToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0854dbf6d224858d743f3e77582e1cfa08d1783c02583e06126e12d16302f486",
+  "path": [
+    "BecToken.sol"
+  ],
+  "address": "0x3495Ffcee09012AB7D827abF3E3b3ae428a38443"
+}

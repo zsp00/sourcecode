@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Bookiebot",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4dd120d9c0a7003f3bd4c2de67787ded3d60f65f9d13d027c98ecb7fe801a8de",
+  "path": [
+    "Bookiebot.sol"
+  ],
+  "address": "0x562e12e1E792643d168C1fa01c1b7198a0f83C9F"
+}
