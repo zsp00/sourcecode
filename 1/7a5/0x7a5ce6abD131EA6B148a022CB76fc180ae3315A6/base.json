@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "bAlphaToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000498f9f1740c991cf8028a213e35221c781d6d3f2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fb9ee98852c53de8d5a713fb2c1366fe177fe65c32ca06e594a4baedd5eb3820",
+  "path": [
+    "bAlphaToken.sol"
+  ],
+  "address": "0x7a5ce6abD131EA6B148a022CB76fc180ae3315A6"
+}

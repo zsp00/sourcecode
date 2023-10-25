@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HerosV2",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "5",
+  "ConstructorArguments": "000000000000000000000000bc59499c8f677f43ce81593f7e571f8ea6fca84b00000000000000000000000099bd1f147482d88d424127bb7a1a0547f6f3460e0000000000000000000000001437f8a610a189365af3fc440ed67d78b7a3fe330000000000000000000000006df940052995798ab819acc750bd9ea371849b45",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2a412f3db0489cccfe0cff451fd3d016822a339400fc0c3f3cb0a406ad332d65",
+  "path": [
+    "HerosV2.sol"
+  ],
+  "address": "0xb622400807765e73107B7196F444866D7EdF6f62"
+}

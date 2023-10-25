@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OLAS",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/OLAS.sol",
+    "lib/solmate/src/tokens/ERC20.sol"
+  ],
+  "address": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0"
+}

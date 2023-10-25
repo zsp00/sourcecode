@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TetherUSD",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2a6dda192e21ba72a5eab353123e7117ea488287ac5cf0d52e2df483a7fd8b24",
+  "path": [
+    "TetherUSD.sol"
+  ],
+  "address": "0x5450f8e9f5b6De436c0653bA9c9Bf46a50cF3540"
+}

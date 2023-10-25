@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Talken",
+  "CompilerVersion": "v0.7.1+commit.f4a555be",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://207395bf42996ca61793fabf4d09c1ec687ee9b5ea8cffd6f12f4ad968662c08",
+  "path": [
+    "Talken.sol"
+  ],
+  "address": "0xCAabCaA4ca42e1d86dE1a201c818639def0ba7A7"
+}
