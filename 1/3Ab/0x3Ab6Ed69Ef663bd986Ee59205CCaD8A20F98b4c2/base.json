@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DrepToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://481f1ee0fcd05b418073bb6c53ca10fcdbab235766d2d94378cc1e4015c3329d",
+  "path": [
+    "DrepToken.sol"
+  ],
+  "address": "0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2"
+}

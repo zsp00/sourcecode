@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "INRD",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000003c68c3a0f0665283dead458f86c8896beb41554b",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2940e3031085baea31b877ca3d076059a1fea7c5d81dbf9946b56fcb3fdac39c",
+  "path": [
+    "INRD.sol"
+  ],
+  "address": "0xC6DfBE173A9E6aBB1ac7b1e9d9d774a7E831299C"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GateChainToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3376b5fb9cb619b95708cf99dfc17bb9e5743146a58d73211406e16dd71846ba",
+  "path": [
+    "GateChainToken.sol"
+  ],
+  "address": "0xE66747a101bFF2dBA3697199DCcE5b743b454759"
+}

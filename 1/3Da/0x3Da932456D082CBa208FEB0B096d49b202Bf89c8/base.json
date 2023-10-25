@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DegoTokenV2",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a9f99ce829f30e1746774573657acd04b3e1da540b70e46ea2c03e8772827dba",
+  "path": [
+    "DegoTokenV2.sol"
+  ],
+  "address": "0x3Da932456D082CBa208FEB0B096d49b202Bf89c8"
+}
