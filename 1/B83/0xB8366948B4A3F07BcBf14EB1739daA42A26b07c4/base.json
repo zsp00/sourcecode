@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VALOBIT",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6877fd901b44e7352d04cdbe9b4380086d0e422ae4d6c8e3b344ebadb310c8e0",
+  "path": [
+    "VALOBIT.sol"
+  ],
+  "address": "0xB8366948B4A3F07BcBf14EB1739daA42A26b07c4"
+}

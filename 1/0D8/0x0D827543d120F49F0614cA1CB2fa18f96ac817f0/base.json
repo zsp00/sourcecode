@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SAMBO",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000054fc96b9da9fbdc4eaa4c62226041fb0037b937800000000000000000000000076e8ced6a92d4aabd51edfa4114eaad9c1d19c130000000000000000000000002b9ab6ed51775f774c0a033fe1c447f4d4ef31a4000000000000000000000000023886bdeb2a654320d20067117781f7c352fca90000000000000000000000002fc297f638021aa912714b7afbe39923e55b030b",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Permit.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "Samurai Bot.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/interfaces/draft-IERC6093.sol"
+  ],
+  "address": "0x0D827543d120F49F0614cA1CB2fa18f96ac817f0"
+}

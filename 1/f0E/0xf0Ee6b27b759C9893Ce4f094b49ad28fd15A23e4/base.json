@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EnigmaToken",
+  "CompilerVersion": "v0.4.13+commit.fb4cb1a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ad1b7730c0a3364d220df1436d36ce47fa7086dd7068e61d8200f2f02ea05397",
+  "path": [
+    "EnigmaToken.sol"
+  ],
+  "address": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4"
+}
