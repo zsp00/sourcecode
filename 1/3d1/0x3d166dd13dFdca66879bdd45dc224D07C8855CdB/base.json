@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CreaEther",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://30bee7ce32d828870501049de72e4931671021337b62ea33c7e7dc1057e29437",
+  "path": [
+    "CreaEther.sol"
+  ],
+  "address": "0x3d166dd13dFdca66879bdd45dc224D07C8855CdB"
+}
