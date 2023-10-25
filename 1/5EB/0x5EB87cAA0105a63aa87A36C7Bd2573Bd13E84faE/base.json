@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BQT",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9a8d702ddd7e03fe96fdf11af3260ffb4623a1d347d57646b02a9659125bef22",
+  "path": [
+    "BQT.sol"
+  ],
+  "address": "0x5EB87cAA0105a63aa87A36C7Bd2573Bd13E84faE"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Fluid",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8fe50e07843a99f263794ad409870ffda31ecc091f3430448634ed18dbededaa",
+  "path": [
+    "Fluid.sol"
+  ],
+  "address": "0x4E47951508Fd4A4126F8ff9CF5E6Fa3b7cC8E073"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BobaCat",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ecba3c644b08acfba4aad6e9fe63fdf60630f53833ecb2220a25f25c782807d1",
+  "path": [
+    "BobaCat.sol"
+  ],
+  "address": "0x03049b395147713ae53C0617093675B4b86dDE78"
+}
