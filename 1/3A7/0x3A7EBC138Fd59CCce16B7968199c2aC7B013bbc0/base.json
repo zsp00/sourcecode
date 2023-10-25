@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NewToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://79303d08c26b95215c28a3f11e8a444453c22dda5abf2e6ef557af9687182e08",
+  "path": [
+    "NewToken.sol"
+  ],
+  "address": "0x3A7EBC138Fd59CCce16B7968199c2aC7B013bbc0"
+}

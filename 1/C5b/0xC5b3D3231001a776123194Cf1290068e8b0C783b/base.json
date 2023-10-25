@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LIT",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b0c748a8f2ed25638d702e9b068b90391e50f761c49b12b45d2396bf9ab63876",
+  "path": [
+    "LIT.sol"
+  ],
+  "address": "0xC5b3D3231001a776123194Cf1290068e8b0C783b"
+}

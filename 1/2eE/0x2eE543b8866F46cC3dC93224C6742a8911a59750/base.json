@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MetaverseDog",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cbe7494e3ca88af5468309f4ced6581818c83acdc947b1c25991cf7045432aab",
+  "path": [
+    "MetaverseDog.sol"
+  ],
+  "address": "0x2eE543b8866F46cC3dC93224C6742a8911a59750"
+}

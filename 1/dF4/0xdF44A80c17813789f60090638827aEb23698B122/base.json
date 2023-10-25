@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Core",
+  "CompilerVersion": "v0.5.7+commit.6da8b019",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://91d00fbea16b59c4b56969b2678dac2ee166091d3d6d4e63ac7afa410a972cca",
+  "path": [
+    "Core.sol"
+  ],
+  "address": "0xdF44A80c17813789f60090638827aEb23698B122"
+}
