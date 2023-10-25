@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MVLToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5dd49555474c98573ddd7cef43659333526af524a4a837fd22600e9a49a9a254",
+  "path": [
+    "MVLToken.sol"
+  ],
+  "address": "0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71"
+}

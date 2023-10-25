@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UTNP",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://664588c96d34e5a74eaad24b1388f142ca884acdcabe989c3f0cfe99ef788900",
+  "path": [
+    "UTNP.sol"
+  ],
+  "address": "0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7"
+}
