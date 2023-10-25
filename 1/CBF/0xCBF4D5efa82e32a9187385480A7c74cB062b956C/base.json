@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Satoshi",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://04b5a3cbe947a402bb0969ba6dfd9a269f4f95bc61f66e09070d6aa36cd51507",
+  "path": [
+    "Satoshi.sol"
+  ],
+  "address": "0xCBF4D5efa82e32a9187385480A7c74cB062b956C"
+}

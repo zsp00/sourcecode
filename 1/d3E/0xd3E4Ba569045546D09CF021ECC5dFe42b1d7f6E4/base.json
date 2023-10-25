@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MNW",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5f3fd6ea2e81230d926201494cd4b047640da202fa4a088a3d1abc3b0aafbac2",
+  "path": [
+    "MNW.sol"
+  ],
+  "address": "0xd3E4Ba569045546D09CF021ECC5dFe42b1d7f6E4"
+}

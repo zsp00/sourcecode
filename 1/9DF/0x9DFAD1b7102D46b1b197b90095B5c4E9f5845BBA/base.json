@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BOTTO",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000052b7d2dcc80cd4000000000000000000000000000000000000000000000000000000000000000000000005426f74746f0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005424f54544f000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/home/orlando/sdk/projects/botto/botto-smart-contracts/contracts/BOTTO.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol"
+  ],
+  "address": "0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA"
+}
