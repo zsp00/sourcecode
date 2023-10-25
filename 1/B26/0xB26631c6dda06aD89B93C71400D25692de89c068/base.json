@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MindsToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://26974080fc75303b21a35ea08cac8a9e77a192dcd60ccb9f4de16d369d5cf723",
+  "path": [
+    "MindsToken.sol"
+  ],
+  "address": "0xB26631c6dda06aD89B93C71400D25692de89c068"
+}
