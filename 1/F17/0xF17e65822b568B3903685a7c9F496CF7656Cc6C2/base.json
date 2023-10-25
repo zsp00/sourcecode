@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BicoTokenProxy",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000054ea46e513dc406417aafb169a7b9d2efac31ffe0000000000000000000000002a2d6e4919ff1519e3d7ede8e44164025654bce3",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0x95cc3a10636c5bdffe4045d7bf00efb787e1bbe1",
+  "SwarmSource": "ipfs://020c310151a09db3d7f1457eb36ae99c6caf6930261aa09f3c33a69f74e3f320",
+  "path": [
+    "BicoTokenProxy.sol"
+  ],
+  "address": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2"
+}

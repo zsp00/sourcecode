@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RealSmurfDog",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a588fe20e5f2a66aa03b660842e50ac08676f315cf064f5b502b29ce762de1b7",
+  "path": [
+    "RealSmurfDog.sol"
+  ],
+  "address": "0xcd35e55D57e6fe2e98071F44B8FEEA3E15E65926"
+}

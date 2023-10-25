@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CND",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000013ba3b63268ec5d4fac9ad1b2dffffd0b3697fd8",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://59cb00184ccce912d20c6ce89bc5d7c046591dd620cfaed9f4766dd69351fc74",
+  "path": [
+    "CND.sol"
+  ],
+  "address": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa"
+}

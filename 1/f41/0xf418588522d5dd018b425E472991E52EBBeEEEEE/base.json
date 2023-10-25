@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EPNS",
+  "CompilerVersion": "v0.6.11+commit.5ef660b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000057fcd7bd66e0b0e7cbf387d12b2a49a20d30922",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/token/EPNS.sol"
+  ],
+  "address": "0xf418588522d5dd018b425E472991E52EBBeEEEEE"
+}

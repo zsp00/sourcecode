@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UniPower",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://49b0c65e8fa28013e20bf89e84cdb730a679208d43e7262e99b40a25ad6e3600",
+  "path": [
+    "UniPower.sol"
+  ],
+  "address": "0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509"
+}
