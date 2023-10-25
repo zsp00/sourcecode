@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MetaDoge",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://03fa6eb7031e02023ab9bd5d0323190fb0349cedd080d89b6fc95e2c5ba6d4dd",
+  "path": [
+    "MetaDoge.sol"
+  ],
+  "address": "0x8530b66ca3DDf50E0447eae8aD7eA7d5e62762eD"
+}

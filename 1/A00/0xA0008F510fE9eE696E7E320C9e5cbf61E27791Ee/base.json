@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GambioToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000001e0c66def9faca90b2664378dd8aa9755b3127000000000000000000000000000000000000000001027e72f1f12813088000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://bf8b6e3dfaac69241d439c9687bc29856d41630deaa0dd9e6cdad681147ec72e",
+  "path": [
+    "GambioToken.sol"
+  ],
+  "address": "0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee"
+}

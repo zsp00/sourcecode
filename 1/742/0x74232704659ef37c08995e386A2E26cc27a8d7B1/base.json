@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "STRK",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000135f03f89c6b2d8d1bd0181526ef18258b5e5516",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://23251a27d99881d2c0556fffd9fd269e2ab12f654951b9e58ac687b4ec199e6c",
+  "path": [
+    "STRK.sol"
+  ],
+  "address": "0x74232704659ef37c08995e386A2E26cc27a8d7B1"
+}

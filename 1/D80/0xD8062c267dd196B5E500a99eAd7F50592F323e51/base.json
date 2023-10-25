@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BidaCoin",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000f8277896582678ac000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://37ed0848117e3f061a931b57122993862cf6d71e72b347e3a7ed0999a9a3f073",
+  "path": [
+    "BidaCoin.sol"
+  ],
+  "address": "0xD8062c267dd196B5E500a99eAd7F50592F323e51"
+}
