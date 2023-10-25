@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GOLCOIN",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://202030905529ca65af30a9e71914841b4b02959ce5c2982ff92a874327a369e4",
+  "path": [
+    "GOLCOIN.sol"
+  ],
+  "address": "0x095797FD4297fb79883cC912a5Ba6313B15c445d"
+}
