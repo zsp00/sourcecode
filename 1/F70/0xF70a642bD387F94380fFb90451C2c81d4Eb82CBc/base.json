@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StarbaseToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000006c9e70d6682ea36ff340153d574b2c523671b107000000000000000000000000c03ab1fc46c6d01238707426c929e9eed3e7f9b3000000000000000000000000ed9d813c4a82a9d76eba8ea666a7a0ab95f7bb29",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://80d59bed20a206aac3d8c04eef71a72c349854b90471633196e79ea1aca9f0e4",
+  "path": [
+    "StarbaseToken.sol"
+  ],
+  "address": "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc"
+}

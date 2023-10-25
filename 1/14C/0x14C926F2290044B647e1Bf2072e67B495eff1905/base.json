@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BethereumToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://553ceef02edfa96310a6b4d21ebefb1d14ca8c7fc79123b65bfe5c92dcf047e4",
+  "path": [
+    "BethereumToken.sol"
+  ],
+  "address": "0x14C926F2290044B647e1Bf2072e67B495eff1905"
+}
