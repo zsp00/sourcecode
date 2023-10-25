@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EVERYBODY",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cecbbc723ed209d76fed138523ed00538a9ed47413a1688f9678b0a8ed78e1dd",
+  "path": [
+    "EVERYBODY.sol"
+  ],
+  "address": "0x68B36248477277865c64DFc78884Ef80577078F3"
+}

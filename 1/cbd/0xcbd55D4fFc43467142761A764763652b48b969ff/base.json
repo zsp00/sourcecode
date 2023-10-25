@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Astro",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://337aa5b93db02d51ced78a617fa524aa7ade9e556d43334aac37e349ad6597da",
+  "path": [
+    "Astro.sol"
+  ],
+  "address": "0xcbd55D4fFc43467142761A764763652b48b969ff"
+}
