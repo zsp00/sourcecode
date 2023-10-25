@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "USDD",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000009277a463a508f45115fdeaf22ffeda1b163524330000000000000000000000000000000000000000000000000000000000000011446563656e7472616c697a65642055534400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000045553444400000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/common/EIP712Base.sol",
+    "contracts/common/AccessControlMixin.sol",
+    "contracts/root/RootToken/USDD.sol",
+    "contracts/common/NativeMetaTransaction.sol",
+    "contracts/common/ContextMixin.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "contracts/common/Initializable.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "contracts/root/RootToken/IMintableERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/EnumerableSet.sol"
+  ],
+  "address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6"
+}
