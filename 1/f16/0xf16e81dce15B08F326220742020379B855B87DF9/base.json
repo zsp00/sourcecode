@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IceToken",
+  "CompilerVersion": "v0.8.3+commit.8d00100c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0e0270a309bfa85d1894431a2d1d25a16ff6ef215069c3e68b3300364ef47ad2",
+  "path": [
+    "IceToken.sol"
+  ],
+  "address": "0xf16e81dce15B08F326220742020379B855B87DF9"
+}

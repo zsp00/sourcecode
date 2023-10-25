@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EchoLinkToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e26434607227f6adcf0b3113b378f81625e2a342",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8d744226303f3fdd79060341aa79aa8287e957f4179fac1ce3e507de97e2e8df",
+  "path": [
+    "EchoLinkToken.sol"
+  ],
+  "address": "0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE"
+}
