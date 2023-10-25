@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC721Pool",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "800",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "contracts/ERC-721/ERC721Pool.sol",
+    "@ensdomains/ens-contracts/contracts/registry/IReverseRegistrar.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "contracts/ERC-721/IERC721Pool.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "contracts/ERC-721/IERC20Wnft.sol",
+    "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
+    "contracts/ERC-721/ERC20Wnft.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol"
+  ],
+  "address": "0xc2bc2320D22D47D1e197E99D4a5dD3261ccf4A68"
+}
