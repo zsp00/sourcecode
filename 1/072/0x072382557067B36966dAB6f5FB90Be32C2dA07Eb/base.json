@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SolidX",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://47674cccf80b356c2b0bf25b17f545ddf30e876fe6efb7399863f9aff3213339",
+  "path": [
+    "SolidX.sol"
+  ],
+  "address": "0x072382557067B36966dAB6f5FB90Be32C2dA07Eb"
+}
