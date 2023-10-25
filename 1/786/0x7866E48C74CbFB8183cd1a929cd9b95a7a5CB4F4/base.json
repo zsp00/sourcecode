@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DexKit",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "DexKit.sol"
+  ],
+  "address": "0x7866E48C74CbFB8183cd1a929cd9b95a7a5CB4F4"
+}
