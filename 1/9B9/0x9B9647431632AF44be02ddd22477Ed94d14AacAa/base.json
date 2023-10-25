@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KOKContract",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://66c7d505ce5ffd7b920fa142b9bbba1924af5945431e74cd44d4fa537cd603a7",
+  "path": [
+    "KOKContract.sol"
+  ],
+  "address": "0x9B9647431632AF44be02ddd22477Ed94d14AacAa"
+}

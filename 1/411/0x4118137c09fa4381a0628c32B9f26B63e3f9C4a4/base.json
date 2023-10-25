@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IBTC",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c4ce7241aab0b12dbf8b48f5ab42f3d3f537807ade6439c64187ca2e1c88c674",
+  "path": [
+    "IBTC.sol"
+  ],
+  "address": "0x4118137c09fa4381a0628c32B9f26B63e3f9C4a4"
+}
