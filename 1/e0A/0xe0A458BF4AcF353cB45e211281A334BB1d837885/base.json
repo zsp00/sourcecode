@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FourChan",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d96f54529a83449dddc382b65ff2cd4a7bddfe5a0f1a4ed139faebd3794076fd",
+  "path": [
+    "FourChan.sol"
+  ],
+  "address": "0xe0A458BF4AcF353cB45e211281A334BB1d837885"
+}
