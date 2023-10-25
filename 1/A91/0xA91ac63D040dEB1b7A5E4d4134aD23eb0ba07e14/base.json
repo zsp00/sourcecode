@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Bella",
+  "CompilerVersion": "v0.6.10+commit.00c0fcaf",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e07950151918e20bbc791a80d959f948323c7f0f",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0ed0d28d0878f0ba79daacceaf5072940e040ffed103562feb6d8fb8880df7eb",
+  "path": [
+    "Bella.sol"
+  ],
+  "address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14"
+}
