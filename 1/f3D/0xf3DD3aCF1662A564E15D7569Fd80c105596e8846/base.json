@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ALP",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7ca2065c680c28a23151192ef65c40e3e572676abe23689e6710a88bee97ae9b",
+  "path": [
+    "ALP.sol"
+  ],
+  "address": "0xf3DD3aCF1662A564E15D7569Fd80c105596e8846"
+}
