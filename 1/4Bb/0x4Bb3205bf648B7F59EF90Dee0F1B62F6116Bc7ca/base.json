@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BYN",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1dca88e490d562adf519dd25d76d10ffc710722dc1c9cedbf9ea56f288ffb7c2",
+  "path": [
+    "BYN.sol"
+  ],
+  "address": "0x4Bb3205bf648B7F59EF90Dee0F1B62F6116Bc7ca"
+}
