@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AGBToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f94b0e52b11ef3b6b4f86841bad0dcee1789f502a0ddc8051c0ea087d7521b09",
+  "path": [
+    "AGBToken.sol"
+  ],
+  "address": "0xBddF903F43dC7d9801F3F0034bA306169074EF8e"
+}

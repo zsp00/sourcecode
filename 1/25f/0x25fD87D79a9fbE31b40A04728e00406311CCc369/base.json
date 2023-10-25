@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EURO",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://206f852ee32b7101ef9c4c07e168a9497b7776620ba41f3d87590e700c2df37b",
+  "path": [
+    "EURO.sol"
+  ],
+  "address": "0x25fD87D79a9fbE31b40A04728e00406311CCc369"
+}

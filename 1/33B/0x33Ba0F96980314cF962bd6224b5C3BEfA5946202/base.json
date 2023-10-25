@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "N",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d000000000000000000000000a576463273e4a459b39a518be7fc79ebecf6b7c7000000000000000000000000a576463273e4a459b39a518be7fc79ebecf6b7c7000000000000000000000000a576463273e4a459b39a518be7fc79ebecf6b7c7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://814cc869f2b30a08a66f1f4d23423c8980f21e19f6416210ca1f131b3cdd3eac",
+  "path": [
+    "N.sol"
+  ],
+  "address": "0x33Ba0F96980314cF962bd6224b5C3BEfA5946202"
+}
