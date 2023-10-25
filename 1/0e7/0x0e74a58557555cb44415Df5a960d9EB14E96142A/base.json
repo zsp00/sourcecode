@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Vegasbot",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8046db879d86b35cee6e1c2c0e891aa60e810b8adc3cd76ab85394673abff92d",
+  "path": [
+    "Vegasbot.sol"
+  ],
+  "address": "0x0e74a58557555cb44415Df5a960d9EB14E96142A"
+}

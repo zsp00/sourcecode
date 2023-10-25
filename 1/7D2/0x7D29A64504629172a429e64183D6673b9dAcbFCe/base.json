@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VXV",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://275a644f34b70305ae151279642715ac71953b70d5059331e610d62138976c23",
+  "path": [
+    "VXV.sol"
+  ],
+  "address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe"
+}
