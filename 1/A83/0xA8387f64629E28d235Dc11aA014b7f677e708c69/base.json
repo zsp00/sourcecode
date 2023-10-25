@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QUBY",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000fd75689ec4a9c79b5a11096cdbed5e87daf2c3a5",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c7d2838bb373da3a78a0ac6b1887282d4bebf20705378b8c7a427dcb569e4adf",
+  "path": [
+    "contract/ERC20.sol",
+    "contract/Context.sol",
+    "contract/IUniswapV2Router02.sol",
+    "contract/IUniswapV2Router01.sol",
+    "contract/IUniswapV2Pair.sol",
+    "contract/IUniswapV2Factory.sol",
+    "contract/IERC20.sol",
+    "contract/Ownable.sol",
+    "contract/CA.sol",
+    "contract/SafeMath.sol",
+    "contract/IERC20Metadata.sol"
+  ],
+  "address": "0xA8387f64629E28d235Dc11aA014b7f677e708c69"
+}
