@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DADBOT",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fab0f1c7fe1595720f4fee22e7984794fb7e383012fb34640d34e5883318e601",
+  "path": [
+    "DADBOT.sol"
+  ],
+  "address": "0xB40D8a91CAa9022074c09C3F1798c4FDc2f2803c"
+}
