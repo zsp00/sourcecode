@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "COVER",
+  "CompilerVersion": "v0.7.4+commit.3f05b770",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Migrator.sol",
+    "contracts/COVER.sol",
+    "contracts/ERC20/IERC20.sol",
+    "contracts/ERC20/SafeERC20.sol",
+    "contracts/interfaces/IBlacksmith.sol",
+    "contracts/utils/MerkleProof.sol",
+    "contracts/ERC20/ERC20.sol",
+    "contracts/Blacksmith.sol",
+    "contracts/utils/SafeMath.sol",
+    "contracts/interfaces/ICOVER.sol",
+    "contracts/Vesting.sol",
+    "contracts/utils/Address.sol",
+    "contracts/interfaces/IMigrator.sol",
+    "contracts/utils/Ownable.sol",
+    "contracts/utils/ReentrancyGuard.sol"
+  ],
+  "address": "0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286"
+}
