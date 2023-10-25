@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "schrodinger",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1f9249bd72c6f9b202e55c03956fcc67a47c80cb06f5705d9dd9e808dc0af322",
+  "path": [
+    "schrodinger.sol"
+  ],
+  "address": "0x2C33B28527A63Cdf13C0B24Ce4cf5BF9C9fB3BC6"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ParkgeneToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8d4a47f8202e5fc17aae28910f14b06fa8c923f98ab9f907e2880f05e8ded54f",
+  "path": [
+    "ParkgeneToken.sol"
+  ],
+  "address": "0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D"
+}

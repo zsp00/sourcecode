@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "USDTOKEN",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000039e7139a8c08fa0600000000000000000000000000000000000000000000000000003635c9adc5dea000000000000000000000000000003e7d1eab13ad0104d2750b8863b489d65364e32d",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5369f1cebb12a196916a9ac7412f7075942839f63b026a99c29dc50d28017b51",
+  "path": [
+    "USDTOKEN.sol"
+  ],
+  "address": "0xd31D2C3c4619e6bDde0f6248aDD5E3FADd494Aa9"
+}
