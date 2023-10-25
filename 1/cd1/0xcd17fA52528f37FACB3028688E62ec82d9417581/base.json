@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Materium",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Address.sol",
+    "contracts/SafeMath.sol",
+    "contracts/Materium.sol",
+    "contracts/MinterRole.sol",
+    "contracts/Roles.sol",
+    "contracts/ERC20.sol",
+    "contracts/Context.sol",
+    "contracts/IERC20.sol",
+    "contracts/ERC20Burnable.sol"
+  ],
+  "address": "0xcd17fA52528f37FACB3028688E62ec82d9417581"
+}

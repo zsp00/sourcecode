@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PolyToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000105b2b74fe6de95b68d435f3a3bc8ace03cf1658",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://66d6bfd4160d6f7960286626b40454fca2af2fdb811c33b18c3989cf0e43ca67",
+  "path": [
+    "PolyToken.sol"
+  ],
+  "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC"
+}
