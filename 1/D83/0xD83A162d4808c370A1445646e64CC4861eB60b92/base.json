@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OXY",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://90fa38fe0ec7b7d95d8ca47078730e67779f89b2c28fc09c1c25636580fcc4d4",
+  "path": [
+    "OXY.sol"
+  ],
+  "address": "0xD83A162d4808c370A1445646e64CC4861eB60b92"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SillyPineappleClub",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2b5bd2ccd7e5183c54e07c693a276b5afad658ef565f974e0c360cb54f8265c0",
+  "path": [
+    "SillyPineappleClub.sol"
+  ],
+  "address": "0x1cE044c5Fc52Ca40a125e0d9094d7d0D2C491FE4"
+}
