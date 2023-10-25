@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LGE",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d0000000000000000000000005c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f0000000000000000000000004ce0f83f94c90cda1f99ed8b349619eb4d8ee803000000000000000000000000b70dcbc907c2c5d19f43537ca76f956ba7312a76000000000000000000000000b70dcbc907c2c5d19f43537ca76f956ba7312a76000000000000000000000000b70dcbc907c2c5d19f43537ca76f956ba7312a76000000000000000000000000b70dcbc907c2c5d19f43537ca76f956ba7312a76",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bc99162447bde0f2ed4b23e1742398199b47329b97e4a88bc9e7eb3e835955d2",
+  "path": [
+    "LGE.sol"
+  ],
+  "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768"
+}
