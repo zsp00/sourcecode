@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ROCKET",
+  "CompilerVersion": "v0.8.5+commit.a4f2e591",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6aed3a5fdca325d573ddceb2701ca28064677ff4bb5d6673f61394cd39b26001",
+  "path": [
+    "ROCKET.sol"
+  ],
+  "address": "0x4571005aB048cfF260A1dc39391a531d400EbB9d"
+}
