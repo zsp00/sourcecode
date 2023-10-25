@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Pepechain",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4406ce622fc43b69df10d1f4acda5cc6d427e52e8d0c6fd460c5d884460effc1",
+  "path": [
+    "Pepechain.sol"
+  ],
+  "address": "0x4F311C430540db1d64e635EB55f969F1660B2016"
+}
