@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QuickToken",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "00000000000000000000000041dd65795c24273a3e3b910ea3e2d7866f5afdda00000000000000000000000041dd65795c24273a3e3b910ea3e2d7866f5afdda0000000000000000000000000000000000000000000000000000000066fb3b80",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://93543cd90ba404ed9ffb10a69fec42c4fe177b3b957e35a8a567ff6fadd2041a",
+  "path": [
+    "QuickToken.sol"
+  ],
+  "address": "0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368"
+}

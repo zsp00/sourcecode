@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BananaTok",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009c3b8273e8fcfd545fe1f261c701f0940facb3d1000000000000000000000000000000000000000000000000000000006b49d200",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2a2dbb98f3ce9650af328d68983c7a42f703070a12606eef77fc902808fb3a41",
+  "path": [
+    "BananaTok.sol"
+  ],
+  "address": "0x07EEF7c8Db33b69B7A541829BB988c745E3Ca16c"
+}
