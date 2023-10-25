@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MoedaToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8e25c43bf76f8938a3227efe2a86ea148c0c8748566fd8f8806419f8373e72b1",
+  "path": [
+    "MoedaToken.sol"
+  ],
+  "address": "0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd"
+}
