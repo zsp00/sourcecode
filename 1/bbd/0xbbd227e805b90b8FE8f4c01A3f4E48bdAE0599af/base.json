@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PhoneumToken",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cd0cfacc211e9bb596af4a364cedce50ad0f962d43d90ccebad66b4d8b2e3824",
+  "path": [
+    "PhoneumToken.sol"
+  ],
+  "address": "0xbbd227e805b90b8FE8f4c01A3f4E48bdAE0599af"
+}

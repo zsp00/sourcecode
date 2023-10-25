@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GearToken",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000fff3037b1de9d7b013fc62ccd36bcaeaf33c614c",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/tokens/GearToken.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol"
+  ],
+  "address": "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D"
+}
