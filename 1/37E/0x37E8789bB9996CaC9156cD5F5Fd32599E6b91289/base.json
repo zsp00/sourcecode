@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AidCoin",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c25480654fb5e2f8bf068dfd6f4342d1726c5881d9707a01d8de98deefe20642",
+  "path": [
+    "AidCoin.sol"
+  ],
+  "address": "0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289"
+}

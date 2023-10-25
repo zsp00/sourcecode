@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PkfToken",
+  "CompilerVersion": "v0.5.11+commit.22be8592",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000d955a52f310ffda8766fd671fb78cdca15deaa3e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://195526f0313a3f01324776401630fbb634287800405e1e0f8a949a23a733e83f",
+  "path": [
+    "PkfToken.sol"
+  ],
+  "address": "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb"
+}
