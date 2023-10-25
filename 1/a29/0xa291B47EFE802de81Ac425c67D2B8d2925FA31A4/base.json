@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MoveRich",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://caddbb08cc37536bf252ddddfa1bf3de988f5509786331bbf4a35fbfd96503e5",
+  "path": [
+    "MoveRich.sol"
+  ],
+  "address": "0xa291B47EFE802de81Ac425c67D2B8d2925FA31A4"
+}

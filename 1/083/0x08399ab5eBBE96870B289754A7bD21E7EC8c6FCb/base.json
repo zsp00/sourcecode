@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Token",
+  "CompilerVersion": "v0.5.12+commit.7709ece9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000071195df596ea6636ac1594aa8ff4c3e1de1b231f0000000000000000000000001505432fcf9daef743ddcef6d09965d13c2113cd",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0a0b0acfdbe296e39c250025ddf6db817cea12e6dcbe2745e13a1cc011353930",
+  "path": [
+    "Token.sol"
+  ],
+  "address": "0x08399ab5eBBE96870B289754A7bD21E7EC8c6FCb"
+}
