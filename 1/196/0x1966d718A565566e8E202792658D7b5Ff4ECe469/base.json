@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "nDEX",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b2695cbb7304845853d36aa77f16308ea66c3f66f2cd6dec0b3741cc69e1ac03",
+  "path": [
+    "nDEX.sol"
+  ],
+  "address": "0x1966d718A565566e8E202792658D7b5Ff4ECe469"
+}

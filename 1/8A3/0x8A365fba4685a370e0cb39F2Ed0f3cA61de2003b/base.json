@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NGI",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://293064ab0673fd67eb96b0f462fcf62e8a35564e2f0de272286d864efbdaba14",
+  "path": [
+    "NGI.sol"
+  ],
+  "address": "0x8A365fba4685a370e0cb39F2Ed0f3cA61de2003b"
+}

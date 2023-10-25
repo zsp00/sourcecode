@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PeppaPigPortal",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://69d2dc3a3d0dee2bf44dd1914003efe4304d090b3e2cd695945965c97ce70648",
+  "path": [
+    "PeppaPigPortal.sol"
+  ],
+  "address": "0x29f3bE9954e404c597cBEC285d9E0868Be3d8A7E"
+}
