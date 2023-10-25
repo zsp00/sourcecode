@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WrappedCK",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d363973b5673f94e494be90b2ab90cee20544398819174d7024fdd5c61c862e4",
+  "path": [
+    "WrappedCK.sol"
+  ],
+  "address": "0x09fE5f0236F0Ea5D930197DCE254d77B04128075"
+}
