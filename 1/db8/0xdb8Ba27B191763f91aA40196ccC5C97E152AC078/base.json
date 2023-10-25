@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StrawberryElephant",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000d6ce88f083330ceb9092a4ee4f9811c9a5557bea",
+  "EVMVersion": "paris",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "src/StrawberryElephant.sol",
+    "src/IERC20.sol"
+  ],
+  "address": "0xdb8Ba27B191763f91aA40196ccC5C97E152AC078"
+}

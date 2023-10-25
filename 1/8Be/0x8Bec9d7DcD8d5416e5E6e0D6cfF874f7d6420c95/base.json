@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Condorito",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3dd58489f0d9876792e1970333ff82f9d43e9ef68f89df5a49c69280b6716295",
+  "path": [
+    "Condorito.sol"
+  ],
+  "address": "0x8Bec9d7DcD8d5416e5E6e0D6cfF874f7d6420c95"
+}

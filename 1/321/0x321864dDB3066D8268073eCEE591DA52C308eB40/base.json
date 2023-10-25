@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CSO",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://214dcb4e1781fc28e52749a111217696511f921888ea5bf964509278417df7a4",
+  "path": [
+    "CSO.sol"
+  ],
+  "address": "0x321864dDB3066D8268073eCEE591DA52C308eB40"
+}
