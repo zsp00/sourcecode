@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ABAToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0e941a6e989bfe56cf743931da35188c0938f91c13254415aa79b106daaa4a08",
+  "path": [
+    "ABAToken.sol"
+  ],
+  "address": "0x7C2AF3a86B4bf47E6Ee63AD9bde7B3B0ba7F95da"
+}

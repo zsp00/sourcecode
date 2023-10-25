@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EMPR",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6d651396edf616eb5aaa5868411fa8f4427c55c8eab3b171ea9d50143add980a",
+  "path": [
+    "EMPR.sol"
+  ],
+  "address": "0xe7D7b37e72510309Db27C460378f957B1B04Bd5d"
+}

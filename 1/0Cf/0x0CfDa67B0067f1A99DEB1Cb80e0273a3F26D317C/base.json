@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TrekChain",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://51574b9d130ac72f774fd11a4fc0b08eb1eadf7f15811a790b9c89d16408af4d",
+  "path": [
+    "TrekChain.sol"
+  ],
+  "address": "0x0CfDa67B0067f1A99DEB1Cb80e0273a3F26D317C"
+}

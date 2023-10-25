@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OCoin",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4f1c1d267a1aa9556263bb9bb77ab55ad9c69e31ed4085a393fec72a7f7d498c",
+  "path": [
+    "OCoin.sol"
+  ],
+  "address": "0x4092678e4E78230F46A1534C0fbc8fA39780892B"
+}
