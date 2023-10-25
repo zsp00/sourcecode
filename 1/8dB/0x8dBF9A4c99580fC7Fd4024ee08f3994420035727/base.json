@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ForwardProxy",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "000000000000000000000000fa4bf0c3669bfda1b7afae7495a323fd0bf07adb",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xe70812cecf8768f4dc6ff09ee1c3d121d5f23eb3",
+  "SwarmSource": "",
+  "path": [
+    "contracts/proxy/ForwardProxy.sol",
+    "contracts/proxy/ForwardTarget.sol"
+  ],
+  "address": "0x8dBF9A4c99580fC7Fd4024ee08f3994420035727"
+}
