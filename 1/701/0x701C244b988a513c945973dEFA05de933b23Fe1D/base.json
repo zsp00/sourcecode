@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OpenANXToken",
+  "CompilerVersion": "v0.4.11+commit.68ef5810",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000002b3b67c6dffc2bcdda2315491eac9bbe868fbcdd",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1ebf78c948e9b064875413e10729508a8cb3f4fc7b2decd423f81a4a0a420b80",
+  "path": [
+    "OpenANXToken.sol"
+  ],
+  "address": "0x701C244b988a513c945973dEFA05de933b23Fe1D"
+}

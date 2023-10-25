@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Nameless",
+  "CompilerVersion": "v0.4.4+commit.4633f3de",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "Nameless.sol"
+  ],
+  "address": "0xC2B1216a8f0D065bCca1aC9C544bd7FbFc14651c"
+}
