@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ubricoin",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1c5731f585faeaa66f531489bc95cdf75f22b95e03a38f5a224e307089b0f054",
+  "path": [
+    "Ubricoin.sol"
+  ],
+  "address": "0xDB13025b219dB5e4529f48b65Ff009a26B6Ae733"
+}

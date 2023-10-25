@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EthLendToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000fe1a6056ee03235f30f7a48407a5673bbf25ed48000000000000000000000000a8eb8ee66e94f883d764ee55df9da2b3d517a6620000000000000000000000003533f9798c34e3971888043871e0b4fc1702adea",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://25066eabfa9413d8752db7d4acc6c8054605ea0ac7f076c15b3057e7254c46a6",
+  "path": [
+    "EthLendToken.sol"
+  ],
+  "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03"
+}
