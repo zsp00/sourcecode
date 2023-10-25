@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BOMBXToken",
+  "CompilerVersion": "v0.5.3+commit.10d17f24",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://63c354004679fd6b8650bf3075bf784b7d1ce2066bdff26e8bc9a341a2ab19f6",
+  "path": [
+    "BOMBXToken.sol"
+  ],
+  "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704"
+}

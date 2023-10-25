@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PEPE80",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://30bcd26ea7766d6f312cf3f93073dba4d999e6b3ce44cc6abdb901edb0c80e06",
+  "path": [
+    "PEPE80.sol"
+  ],
+  "address": "0x3162D6415741a92cCEA91B13B870a5291CE74F65"
+}
