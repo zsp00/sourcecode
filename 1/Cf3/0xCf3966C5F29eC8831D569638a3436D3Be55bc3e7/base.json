@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ProfitMate",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b1e6af4ac1585edb83e76a67cdd1be8ca370a91884e518c7bec35ec820ccdeb6",
+  "path": [
+    "ProfitMate.sol"
+  ],
+  "address": "0xCf3966C5F29eC8831D569638a3436D3Be55bc3e7"
+}
