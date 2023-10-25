@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RflexCoin",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8e1d171ab16be4f9f1baddb1f94ba0c53418ac8fb372277670430812f5fd1076",
+  "path": [
+    "RflexCoin.sol"
+  ],
+  "address": "0x777860247bD50f124e11b86E1d7327F77099b0e4"
+}
