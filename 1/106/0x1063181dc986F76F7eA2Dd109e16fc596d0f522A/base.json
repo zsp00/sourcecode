@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CYBRIA",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://30180f10ecb63a50b08634d67bf0eb3f2f64665ccdeedd2695564bfc2c4949f8",
+  "path": [
+    "CYBRIA.sol"
+  ],
+  "address": "0x1063181dc986F76F7eA2Dd109e16fc596d0f522A"
+}

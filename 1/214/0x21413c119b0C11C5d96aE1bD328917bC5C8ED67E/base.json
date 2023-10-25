@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FixedToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/OpenZeppelin/GSN/Context.sol",
+    "contracts/OpenZeppelin/math/SafeMath.sol",
+    "contracts/interfaces/IERC20.sol",
+    "contracts/OpenZeppelin/utils/Context.sol",
+    "contracts/Tokens/FixedToken.sol",
+    "contracts/Tokens/ERC20.sol",
+    "contracts/interfaces/IMisoToken.sol"
+  ],
+  "address": "0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E"
+}
