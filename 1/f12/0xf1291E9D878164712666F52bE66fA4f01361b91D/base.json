@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KIKI",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://36ee60ddf403d2f3c5307cc04572ba35b317324dd586731495c06c1323e9bcd7",
+  "path": [
+    "KIKI.sol"
+  ],
+  "address": "0xf1291E9D878164712666F52bE66fA4f01361b91D"
+}

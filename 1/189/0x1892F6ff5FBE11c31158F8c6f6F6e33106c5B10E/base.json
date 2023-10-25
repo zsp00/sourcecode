@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MWT",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://76261f7301f7ef000cb9b0987889bf9ed7967f57fa15cbcf5549e642c26f2221",
+  "path": [
+    "MWT.sol"
+  ],
+  "address": "0x1892F6ff5FBE11c31158F8c6f6F6e33106c5B10E"
+}
