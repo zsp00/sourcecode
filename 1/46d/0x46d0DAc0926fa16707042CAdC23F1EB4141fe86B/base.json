@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SONM",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4257f59625475a3269c19fc2d409cfcb6a94146012c6a723995846643be6b168",
+  "path": [
+    "SONM.sol"
+  ],
+  "address": "0x46d0DAc0926fa16707042CAdC23F1EB4141fe86B"
+}
