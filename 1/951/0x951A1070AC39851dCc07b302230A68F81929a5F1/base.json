@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GTS",
+  "CompilerVersion": "v0.4.12+commit.194ff033",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://70a9a74ec4aeddb5f8a251fe0024511a0700c13768a7b4f818626a268e5961d3",
+  "path": [
+    "GTS.sol"
+  ],
+  "address": "0x951A1070AC39851dCc07b302230A68F81929a5F1"
+}

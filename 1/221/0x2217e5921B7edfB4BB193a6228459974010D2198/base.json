@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Qmall",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://83a722f7137b3aa7b1e9d782ed5902e0018f48d4c3c529f685dcb239765b6c98",
+  "path": [
+    "Qmall.sol"
+  ],
+  "address": "0x2217e5921B7edfB4BB193a6228459974010D2198"
+}

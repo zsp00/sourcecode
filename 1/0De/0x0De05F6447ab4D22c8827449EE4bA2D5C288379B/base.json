@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OokiTokenProxy",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000005a06e8b21c8362720f6fc5587b22c07c957718e3",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "1",
+  "Implementation": "0x5a06e8b21c8362720f6fc5587b22c07c957718e3",
+  "SwarmSource": "ipfs://757e7ec6ce5df149aa288328f60b1df7ae1ec5a524255b756926fecf253b94ad",
+  "path": [
+    "OokiTokenProxy.sol"
+  ],
+  "address": "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B"
+}
