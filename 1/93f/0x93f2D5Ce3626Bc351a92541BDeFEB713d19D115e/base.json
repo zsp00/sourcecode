@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UNISWAP",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7f0ee83a8a4907fdccead17e5e5de439e59c43d5884e97dfd1b182e0703d1001",
+  "path": [
+    "UNISWAP.sol"
+  ],
+  "address": "0x93f2D5Ce3626Bc351a92541BDeFEB713d19D115e"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Combustion",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://89b69c18e64cb72d165fb2cdfa51a868d09d08c096e764aa83313a44f57d2401",
+  "path": [
+    "Combustion.sol"
+  ],
+  "address": "0x9B81686140e85d28C2236c307Dd49b422A663eDf"
+}
