@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VianeXGold",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://532bcfc631f45930e84da96a9d0506974ea9a2b36a1db36d1b7208fcddd9f9f7",
+  "path": [
+    "VianeXGold.sol"
+  ],
+  "address": "0x566fF8D8bD6dE69d2af4e3cf9153E2Cc77c7972f"
+}

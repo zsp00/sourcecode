@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SuperSkyNet",
+  "CompilerVersion": "v0.4.24-nightly.2018.4.25+commit.81cca26f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c92340b4e1d54964142be03a2c061d1ca22804e8b291d3584ba732d26e9c2e32",
+  "path": [
+    "SuperSkyNet.sol"
+  ],
+  "address": "0xA5b46FF9a887180C8FB2d97146398Ddfc5FEF1Cd"
+}
