@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RepToken",
+  "CompilerVersion": "v0.4.11+commit.68ef5810",
+  "OptimizationUsed": "1",
+  "Runs": "0",
+  "ConstructorArguments": "00000000000000000000000048c80f1f4d53d5951e5d5438b54cba84f29f32a50000000000000000000000000000000000000000000000000de0b6b3a7640000000000000000000000000000e1e212c353f7a682693c198ba5ff85849f8300cc",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6e98be0ec21aa3ed0779e909a929dbf521053a9c0f6f4fc25da39419d4a747ca",
+  "path": [
+    "RepToken.sol"
+  ],
+  "address": "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6"
+}
