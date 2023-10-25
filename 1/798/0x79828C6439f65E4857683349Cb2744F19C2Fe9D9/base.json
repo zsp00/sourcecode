@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WhyPump",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6d42bc8cad5d776d05527d588775f925b65efbe3727e03492b8ca059b60594a1",
+  "path": [
+    "WhyPump.sol"
+  ],
+  "address": "0x79828C6439f65E4857683349Cb2744F19C2Fe9D9"
+}

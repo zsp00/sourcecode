@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TolarToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://979d7b2a70ed1bebaba81b8bab5fdc5f428d9070f95d6b50c88608fbd1575df4",
+  "path": [
+    "TolarToken.sol"
+  ],
+  "address": "0xd07D9Fe2d2cc067015E2b4917D24933804f42cFA"
+}

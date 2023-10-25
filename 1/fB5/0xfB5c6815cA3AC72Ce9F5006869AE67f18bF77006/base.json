@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "pStake",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000092febab0073d48aa600d95d19e579d4a667a2c5000000000000000000000000068d28564226567151d2389e2a6fdd167e31cdb79",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://83f7a00e989e916b7fcbb902d9221b6f7141afdfc931c10cd90d95008c08c890",
+  "path": [
+    "contracts/pStake.sol",
+    "@openzeppelin/contracts/proxy/utils/Initializable.sol",
+    "@openzeppelin/contracts/utils/math/Math.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "contracts/Orchestrator.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "contracts/StepVesting.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol"
+  ],
+  "address": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
+}
