@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Blaze",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9e6255b0f82706f9b6fc8df6de2ac25a8813dd6edf2d37e0b4a5028ac89d9d2d",
+  "path": [
+    "Blaze.sol"
+  ],
+  "address": "0x1831186e1cBd4FA7F4F23D8453a68969067e34e1"
+}
