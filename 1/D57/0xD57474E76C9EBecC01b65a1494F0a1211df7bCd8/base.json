@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DevDiamond",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "99999",
+  "ConstructorArguments": "00000000000000000000000009b34e69363d37379e1c5e27fc793fdb5aca893d000000000000000000000000cb0da433790ccec9e9157e08ea4e781bad68eb18000000000000000000000000b591adcb70c980f06f7dc9d96d1353838c3668e2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://556f6ee723a54cde862bfaa9d1c8524bd821adc488cdf63bae4b1f8300ba7412",
+  "path": [
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "contracts-starter/contracts/facets/DiamondLoupeFacet.sol",
+    "contracts-starter/contracts/interfaces/IDiamondCut.sol",
+    "@openzeppelin/contracts/interfaces/IERC165.sol",
+    "contracts-starter/contracts/interfaces/IERC165.sol",
+    "contracts-starter/contracts/interfaces/IERC173.sol",
+    "erc721a-upgradeable/contracts/extensions/IERC721AQueryableUpgradeable.sol",
+    "src/DevDiamond.sol",
+    "contracts-starter/contracts/Diamond.sol",
+    "contracts-starter/contracts/interfaces/IDiamondLoupe.sol",
+    "@openzeppelin/contracts/interfaces/IERC2981.sol",
+    "contracts-starter/contracts/facets/DiamondCutFacet.sol",
+    "contracts-starter/contracts/libraries/LibDiamond.sol",
+    "erc721a-upgradeable/contracts/IERC721AUpgradeable.sol"
+  ],
+  "address": "0xD57474E76C9EBecC01b65a1494F0a1211df7bCd8"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VTK6900I",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0b4570fdce6567fd08fc2c6d511a103b0c0ec9fb34b1fcebb04c9161e1246c98",
+  "path": [
+    "VTK6900I.sol"
+  ],
+  "address": "0x333f4bCDC2800C1f76d64721475E3aAB9D10E36D"
+}

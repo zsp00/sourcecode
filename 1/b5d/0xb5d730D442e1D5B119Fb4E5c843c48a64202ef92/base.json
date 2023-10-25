@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SabaiToken",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "github/Sabai-Ecoverse/contracts/Sabai%20Token/Token/IERC20Metadata.sol",
+    "github/Sabai-Ecoverse/contracts/Sabai%20Token/Token/IERC20.sol",
+    "github/Sabai-Ecoverse/contracts/Sabai%20Token/Token/SabaiToken.sol",
+    "github/Sabai-Ecoverse/contracts/Sabai%20Token/Token/IAntisnipe.sol",
+    "github/Sabai-Ecoverse/contracts/Sabai%20Token/Token/Ownable.sol",
+    "github/Sabai-Ecoverse/contracts/Sabai%20Token/Token/AERC20Burnable.sol",
+    "github/Sabai-Ecoverse/contracts/Sabai%20Token/Token/AERC20.sol",
+    "github/Sabai-Ecoverse/contracts/Sabai%20Token/Token/Context.sol"
+  ],
+  "address": "0xb5d730D442e1D5B119Fb4E5c843c48a64202ef92"
+}
