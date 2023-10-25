@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UpgradeBeaconProxy",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "0000000000000000000000008ca56e6235d83ff2f4e779f0b35a6c856d5a2fb200000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x4ad6444b55729f657a71a82a5448f85ac8aa47ba",
+  "SwarmSource": "",
+  "path": [
+    "@nomad-xyz/nomad-core-sol/contracts/upgrade/UpgradeBeaconProxy.sol",
+    "@openzeppelin/contracts/utils/Address.sol"
+  ],
+  "address": "0x93581991f68DBaE1eA105233b67f7FA0D6BDeE7b"
+}

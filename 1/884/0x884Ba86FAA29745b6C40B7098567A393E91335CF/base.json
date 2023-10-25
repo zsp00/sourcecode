@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SavedSouls",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "00000000000000000000000069ec82a7682168322316408d772164ba5f8e1fda",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/token/common/ERC2981.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "contracts/SavedSouls.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "erc721a/contracts/IERC721A.sol",
+    "erc721a/contracts/extensions/ERC721ABurnable.sol",
+    "erc721a/contracts/extensions/IERC721ABurnable.sol",
+    "@openzeppelin/contracts/interfaces/IERC2981.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "closedsea/src/OperatorFilterer.sol",
+    "erc721a/contracts/extensions/ERC721AQueryable.sol",
+    "erc721a/contracts/extensions/IERC721AQueryable.sol"
+  ],
+  "address": "0x884Ba86FAA29745b6C40B7098567A393E91335CF"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Instantily",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5d4b0868af00c3f1995e032a7f736dbf049884ff97586596782f796a93fbac44",
+  "path": [
+    "Instantily.sol"
+  ],
+  "address": "0x834625F5D8B006D70a6CaAEeF73C29442F156dAF"
+}
