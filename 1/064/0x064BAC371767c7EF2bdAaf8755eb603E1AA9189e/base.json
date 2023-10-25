@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TetheRUSD",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a5e072485e0b3e803833fe145e0b96124faa3ebf1327e343336689fd7789cb7c",
+  "path": [
+    "TetheRUSD.sol"
+  ],
+  "address": "0x064BAC371767c7EF2bdAaf8755eb603E1AA9189e"
+}

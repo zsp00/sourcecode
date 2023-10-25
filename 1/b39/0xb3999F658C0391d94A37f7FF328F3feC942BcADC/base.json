@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HFT",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "2000",
+  "ConstructorArguments": "000000000000000000000000ff830ce17d39bbd6a4fef9683308d793df8e34fc000000000000000000000000ff830ce17d39bbd6a4fef9683308d793df8e34fc0000000000000000000000000000000000000000000000000000000069dafd37",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://39840fd33b6c0f40588ce6f70f58be5ce1cf8c8fa79a676880dd051e5e73bb16",
+  "path": [
+    "HFT.sol"
+  ],
+  "address": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC"
+}
