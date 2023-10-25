@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Melt",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://64f88cf69c52c027629a92dd9d13f34cc5c87b0451e0cdc5a0f2f407f711932f",
+  "path": [
+    "Melt.sol"
+  ],
+  "address": "0x6f72b14383f5eCDAcDD2F761a5C4B070F91C2806"
+}
