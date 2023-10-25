@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BlurToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "800",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": ""
+}

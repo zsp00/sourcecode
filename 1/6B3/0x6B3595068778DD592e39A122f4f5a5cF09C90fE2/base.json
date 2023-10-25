@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SushiToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7222bf6e3fd928cd5e7e6e0279d2a6c7da05d8fc70620e124350277499f9d015"
+}

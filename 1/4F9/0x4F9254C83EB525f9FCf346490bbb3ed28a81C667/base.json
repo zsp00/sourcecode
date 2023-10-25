@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CelerToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://bc8479e030f6bef1917746ec04a0472d3ea373d8518296c6fa6de081cef85000"
+}

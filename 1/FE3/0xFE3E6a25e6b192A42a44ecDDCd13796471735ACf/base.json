@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ReefToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://de5486f55932149234f5678b269fdd85e2c7ade56950ad08a1c69743f550350a"
+}

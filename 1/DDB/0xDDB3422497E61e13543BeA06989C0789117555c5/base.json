@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Coti",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8875cea1e9a3a7976f8b351ae849e2f19372590167d0ae319eec9e355c561017"
+}

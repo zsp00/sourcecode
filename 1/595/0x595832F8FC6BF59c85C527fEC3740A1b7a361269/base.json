@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PowerLedger",
+  "CompilerVersion": "v0.4.11+commit.68ef5810",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000d66873c0d33e27a1fd902eea663c285aecd192c1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://437a4f89695f8cec76d48a22802a2973d3f180f2eb416dd2f4911ede8c4f5c06"
+}

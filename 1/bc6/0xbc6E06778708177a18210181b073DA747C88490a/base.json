@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SyndicateERC20",
+  "CompilerVersion": "v0.8.1+commit.df193b15",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a71692d3dc79b0f5843cdb16b0eafb0b54e4dd0d00000000000000000000000000000000000000000000000000000002540be4000000000000000000000000008e75aee46961019a66a88670ec18f022b8ef815e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": ""
+}

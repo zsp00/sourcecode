@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UnleashToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000204fce5e3e25026110000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://86db1af0fd68cab754f0632ad23d8d284e56ca2e744104ead159ab89e80617a2"
+}

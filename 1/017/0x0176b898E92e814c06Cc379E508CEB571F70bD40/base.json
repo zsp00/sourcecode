@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Tip",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "000000000000000000000000902d9627f7ca78eb6a8cd5368b899ee934998915",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": ""
+}

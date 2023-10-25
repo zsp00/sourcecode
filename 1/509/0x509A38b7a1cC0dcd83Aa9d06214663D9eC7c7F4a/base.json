@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BlocksquareToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://87a1ffe23b99f58d03c1cced6bc8917cd5eb32a4166d97ac5728cb731829c356"
+}

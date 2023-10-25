@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Flux",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://673ae665d6faa9279acc347adad3b12b2b873ec111e9229225a9a3b5b714de93"
+}

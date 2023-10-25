@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AlkimiExchangeToken",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://055840d91b98a8026cccec255ed7f4f74e9498b92d4f455dbb62f36f48c56cf4"
+}

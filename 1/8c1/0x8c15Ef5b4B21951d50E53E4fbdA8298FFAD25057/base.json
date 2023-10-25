@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FunctionXToken",
+  "CompilerVersion": "v0.4.20+commit.3155dd80",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7198cd91387946e0741658ed58471aa275c7ad1c03850393f03de5c2cb713e39"
+}

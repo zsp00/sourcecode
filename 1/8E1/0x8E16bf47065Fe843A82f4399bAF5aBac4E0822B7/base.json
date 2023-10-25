@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AdminUpgradeabilityProxy",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009F344834752cb3a8C54c3DdCd41Da4042b10D0b9",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "1",
+  "Implementation": "0x9f344834752cb3a8c54c3ddcd41da4042b10d0b9",
+  "SwarmSource": "bzzr://e4a5892948c65d23f1d741fe07987e124bcf54f5df03405b4bb6dce4e3f1a656"
+}

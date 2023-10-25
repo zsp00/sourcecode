@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WRLD_Token_Ethereum",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": ""
+}

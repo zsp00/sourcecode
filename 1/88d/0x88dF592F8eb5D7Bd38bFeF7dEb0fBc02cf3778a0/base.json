@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TellorMaster",
+  "CompilerVersion": "v0.7.4+commit.3f05b770",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "00000000000000000000000004b5129735b5d9b1b54109f2c4c06ea23b506a950000000000000000000000000ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xd3b9a1dcabd16c482785fd4265cb4580b84cded7",
+  "SwarmSource": ""
+}
