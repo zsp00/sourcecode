@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PepeTwo",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5bfac12cfa4a05f97a467af56443934f1f1c70158e84775d630e7eabd33147c0",
+  "path": [
+    "PepeTwo.sol"
+  ],
+  "address": "0x8278B06683bB621cA50f2Fc2e5deD0b5dA6bb246"
+}

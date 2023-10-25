@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BrinkCoin",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b2515d8a79486df9259e437058fa410ef639ddc1b240c5878cb2706cad1e8060",
+  "path": [
+    "BrinkCoin.sol"
+  ],
+  "address": "0xdd230803C087aa54F3793f925c33a385E473C9D1"
+}
