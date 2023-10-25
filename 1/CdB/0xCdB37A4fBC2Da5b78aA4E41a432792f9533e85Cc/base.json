@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CheckDot",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "1",
+  "ConstructorArguments": "000000000000000000000000961a14beabd590229b1c68a21d7068c8233c8542",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/Users/jeremyguyet/project/ERC20contract/CheckDot.EthereumERC20Contract/contracts/utils/Context.sol",
+    "/Users/jeremyguyet/project/ERC20contract/CheckDot.EthereumERC20Contract/contracts/interfaces/IHoldingTime.sol",
+    "/Users/jeremyguyet/project/ERC20contract/CheckDot.EthereumERC20Contract/contracts/interfaces/IERC20.sol",
+    "/Users/jeremyguyet/project/ERC20contract/CheckDot.EthereumERC20Contract/contracts/interfaces/IBurnable.sol",
+    "/Users/jeremyguyet/project/ERC20contract/CheckDot.EthereumERC20Contract/contracts/erc20/ERC20.sol",
+    "/Users/jeremyguyet/project/ERC20contract/CheckDot.EthereumERC20Contract/contracts/CheckDot.sol"
+  ],
+  "address": "0xCdB37A4fBC2Da5b78aA4E41a432792f9533e85Cc"
+}

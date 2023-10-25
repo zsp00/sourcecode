@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZeroxZeroToken",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ba0910e8739be6a5c8455545a4c32880993a9a6a000000000000000000000000c88a9584b73bf6c417865abf7370f727f3c11e3c000000000000000000000000ba0910e8739be6a5c8455545a4c32880993a9a6a",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "contracts/BoringMath.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "contracts/ZeroxZeroToken.sol"
+  ],
+  "address": "0xB8fda5AEe55120247F16225feFf266dfdB381D4C"
+}
