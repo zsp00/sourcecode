@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MarshallInu",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://de6a666c82a4129e9dafc135c382669427c0ed442b10c63d212620ab99b9944f",
+  "path": [
+    "MarshallInu.sol"
+  ],
+  "address": "0xf10b8b6dC146616b86e14eb811e49A7cc64dFd5A"
+}

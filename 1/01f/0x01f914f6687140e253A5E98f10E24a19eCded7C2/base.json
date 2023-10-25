@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PTCToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9f2633d5d5e34f4d0d55a27659a9e02ed74813401efae9db24f1b5d9d9804fab",
+  "path": [
+    "PTCToken.sol"
+  ],
+  "address": "0x01f914f6687140e253A5E98f10E24a19eCded7C2"
+}

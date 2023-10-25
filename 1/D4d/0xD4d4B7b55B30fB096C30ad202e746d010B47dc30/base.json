@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AlphaBotCalls",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d35332b4eae18929ccb676b11cc4be2a166535218abaf4ea6db984b02a2fe7c3",
+  "path": [
+    "AlphaBotCalls.sol"
+  ],
+  "address": "0xD4d4B7b55B30fB096C30ad202e746d010B47dc30"
+}
