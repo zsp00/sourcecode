@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UniverseGalaxy",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cc930dfb63da67c2f11234443ecfc4eb23d21eebbbcec6ea66063eba28a673cb",
+  "path": [
+    "UniverseGalaxy.sol"
+  ],
+  "address": "0x06a6a7aF298129E3a2AB396c9C06F91D3C54aBA8"
+}

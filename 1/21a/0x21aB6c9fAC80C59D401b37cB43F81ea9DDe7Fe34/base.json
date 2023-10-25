@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BRC",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fc6a5a1216f99ce597766845e76df0ef8641259e4bd5fe11a5ec3c4e95722436",
+  "path": [
+    "BRC.sol"
+  ],
+  "address": "0x21aB6c9fAC80C59D401b37cB43F81ea9DDe7Fe34"
+}
