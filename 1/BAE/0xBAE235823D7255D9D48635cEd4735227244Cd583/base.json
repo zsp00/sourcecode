@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Staker",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b8bfc7ab980326a01601bc1a362edb3304460f6df43ea43abca6185209e5dcbf",
+  "path": [
+    "Staker.sol"
+  ],
+  "address": "0xBAE235823D7255D9D48635cEd4735227244Cd583"
+}

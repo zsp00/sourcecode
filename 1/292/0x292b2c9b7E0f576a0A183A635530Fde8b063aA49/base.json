@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Dogelon",
+  "CompilerVersion": "v0.7.1+commit.f4a555be",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cfbb961b4da3af105d72ac0738e255f9c7f3c4f45914fea2689b72af96c9717c",
+  "path": [
+    "Dogelon.sol"
+  ],
+  "address": "0x292b2c9b7E0f576a0A183A635530Fde8b063aA49"
+}
