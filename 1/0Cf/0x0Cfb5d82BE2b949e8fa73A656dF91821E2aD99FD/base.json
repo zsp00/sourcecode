@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC1967Proxy",
+  "CompilerVersion": "v0.8.2+commit.661d1103",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a0217f66ad72a34471d578383c59df76ba6174d3000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000048129fc1c00000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9b8470f06e8a3960c912103fc2be177edaad69584ee3c7d2809ee737e79408e7",
+  "path": [
+    "ERC1967Proxy.sol"
+  ],
+  "address": "0x0Cfb5d82BE2b949e8fa73A656dF91821E2aD99FD"
+}
