@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Luffy",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e630eba82bdecb80e2dd0f48a14bcda4eb805f59f7d712517ca452cc226da4d6",
+  "path": [
+    "Luffy.sol"
+  ],
+  "address": "0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8"
+}
