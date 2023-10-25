@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MoonRaptors",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bbedbd5be4f7010122967bf2a736085154275259759fe368dc53aa185aeb65ce",
+  "path": [
+    "MoonRaptors.sol"
+  ],
+  "address": "0x713D83Cb05aA0d48Cd162eA2DCA44a3435bb3392"
+}
