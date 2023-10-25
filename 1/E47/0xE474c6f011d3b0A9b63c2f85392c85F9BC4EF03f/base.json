@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "POCBGHToken",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b0dc7c5f502763d3af659564eadf3a34add3decd41ec21147dc986bd2bb8ffee",
+  "path": [
+    "POCBGHToken.sol"
+  ],
+  "address": "0xE474c6f011d3b0A9b63c2f85392c85F9BC4EF03f"
+}
