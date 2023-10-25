@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FiatTokenProxy",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "10000000",
+  "ConstructorArguments": "0000000000000000000000006566af96bbee42e511ef7eed344f10353b87ad84",
+  "EVMVersion": "istanbul",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0x6566af96bbee42e511ef7eed344f10353b87ad84",
+  "SwarmSource": "ipfs://f93f7a49f28675e65bde5f2eeff16014eeef1c53c0ec8bc5c2070846b6bf51b7",
+  "path": [
+    "project:/contracts/upgradeability/UpgradeabilityProxy.sol",
+    "project:/contracts/v1/FiatTokenProxy.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "project:/contracts/upgradeability/AdminUpgradeabilityProxy.sol",
+    "project:/contracts/upgradeability/Proxy.sol"
+  ],
+  "address": "0x7C72f41342d485D59A890528880a210ee7BFBb73"
+}
