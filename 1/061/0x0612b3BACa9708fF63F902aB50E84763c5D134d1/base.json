@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PEPELOWEEN",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5a45e557215c0cd0d887586c5e54114b7042f2ee76f50e2b4235a865bbeb2c7f",
+  "path": [
+    "PEPELOWEEN.sol"
+  ],
+  "address": "0x0612b3BACa9708fF63F902aB50E84763c5D134d1"
+}

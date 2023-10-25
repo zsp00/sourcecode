@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IxsToken",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "000000000000000000000000000000000000000000240a9be6252f511c7400000000000000000000000000008ffd92e1b27a0a48b272e60a841f0ca4fd4991c2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://769dd0a3d1ba1e3a012dd62fa13f356e34f64e6e8625b104d3c4a8ef9f7da067",
+  "path": [
+    "IxsToken.sol"
+  ],
+  "address": "0x73d7c860998CA3c01Ce8c808F5577d94d545d1b4"
+}
