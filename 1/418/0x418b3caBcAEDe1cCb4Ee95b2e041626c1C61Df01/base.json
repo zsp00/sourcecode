@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Illuminati",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e09c14f63a578b14888369a231bd62ada4cbbc2cec2dc0bc2709be4a78f162c6",
+  "path": [
+    "Illuminati.sol"
+  ],
+  "address": "0x418b3caBcAEDe1cCb4Ee95b2e041626c1C61Df01"
+}

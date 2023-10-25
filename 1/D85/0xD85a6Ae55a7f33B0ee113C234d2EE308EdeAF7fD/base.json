@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CBK",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f87ab0ed2748ed20b95f714f81edf247aa0af23edc635713e3e0d6d26ba1feda",
+  "path": [
+    "CBK.sol"
+  ],
+  "address": "0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD"
+}
