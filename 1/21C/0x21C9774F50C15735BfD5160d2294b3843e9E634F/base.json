@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FRIEDRICE",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://624e86c319fdb72acc2c177e3b2744daa613cffeba1cbc2f7242c711c5b43f5f",
+  "path": [
+    "FRIEDRICE.sol"
+  ],
+  "address": "0x21C9774F50C15735BfD5160d2294b3843e9E634F"
+}

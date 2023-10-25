@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DexGame",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/DexGame.sol",
+    "@openzeppelin/contracts/security/Pausable.sol",
+    "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/access/IAccessControlEnumerable.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/access/IAccessControl.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/access/AccessControlEnumerable.sol",
+    "@openzeppelin/contracts/utils/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x66F73D0fD4161cfad4302DC145Ff994375c13475"
+}

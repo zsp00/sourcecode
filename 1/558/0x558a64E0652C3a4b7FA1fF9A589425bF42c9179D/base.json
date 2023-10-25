@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HouseOfDegenerates",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000073c46c363a53263e0f983c921273b6b1d9c84c120000000000000000000000008d0b19fbec68d3939e1d28b98f7b30fb844a8e38000000000000000000000000822f451613ee861c6d5ebdce782d04315d8ac76b",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://797be68fd0c5dcba8feb227e3f921fe0d4a307c0fe6b19c5c367b6a5dd30a842",
+  "path": [
+    "HouseOfDegenerates.sol"
+  ],
+  "address": "0x558a64E0652C3a4b7FA1fF9A589425bF42c9179D"
+}
