@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CrowdSale",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007ddc1cb801e17c4b27c41bef58deb65144977d79",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://dcd70409d53d21d173ed44546c2928fa8a1f2a5dc902d94493971863cd648b96",
+  "path": [
+    "CrowdSale.sol"
+  ],
+  "address": "0x68350d30D9F58C81aaaA41929f1bfC52FFf4Ea49"
+}

@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OrionToken",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f80ab6aa2644f388569754795385a72725551b422d66a049549c8f8b8756ed13",
+  "path": [
+    "MinterRole.sol",
+    "Context.sol",
+    "ERC20.sol",
+    "ERC20Capped.sol",
+    "ERC20Mintable.sol",
+    "IERC20.sol",
+    "ERC20Detailed.sol",
+    "Math.sol",
+    "OrionToken.sol",
+    "Roles.sol",
+    "SafeMath.sol"
+  ],
+  "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a"
+}

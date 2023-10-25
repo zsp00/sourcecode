@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GameCredits",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://59b2f161fb565df3de098e17041856adb29475dc29d79c6974f781c1c63ba6fb",
+  "path": [
+    "GameCredits.sol"
+  ],
+  "address": "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BEP20USDT",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://699aff2119fcfbf099909ca170165fdbb5f67558415f3ba6562eba61717fc862",
+  "path": [
+    "BEP20USDT.sol"
+  ],
+  "address": "0x7afe4D54a60798b1F0c4dB49727A117d21D994fF"
+}

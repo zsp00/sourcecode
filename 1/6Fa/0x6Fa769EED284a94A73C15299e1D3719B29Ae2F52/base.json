@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BFHUnit",
+  "CompilerVersion": "v0.5.12+commit.7709ece9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000aa06e5c117dbe8bc52dbaa18aaf447eda556b13c",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d506f9fe37bed5f8efb64a109452c51bea04c52ee8ee21e051ae1d8d9d4d8201",
+  "path": [
+    "BFHUnit.sol"
+  ],
+  "address": "0x6Fa769EED284a94A73C15299e1D3719B29Ae2F52"
+}

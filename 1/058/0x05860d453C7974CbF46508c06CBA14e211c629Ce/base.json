@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EdenCoin",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5d943c575be8a2aee2bb7737a765fdd2c6e49b74cd2c92ab0fa8e4282d1a75ae",
+  "path": [
+    "EdenCoin.sol"
+  ],
+  "address": "0x05860d453C7974CbF46508c06CBA14e211c629Ce"
+}

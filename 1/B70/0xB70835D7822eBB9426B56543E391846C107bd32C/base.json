@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GameICO",
+  "CompilerVersion": "v0.4.17+commit.bdeb9e52",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://934d1cfda3c822f253dd58812bb886ab39e7762df7e7c24bdc2fc778ddb813ff",
+  "path": [
+    "GameICO.sol"
+  ],
+  "address": "0xB70835D7822eBB9426B56543E391846C107bd32C"
+}
