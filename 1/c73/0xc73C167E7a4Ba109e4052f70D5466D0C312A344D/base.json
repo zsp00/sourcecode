@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SanshuInu",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://490d81ae4f44f237022527bd76894a731d8540161853ffbffd9586bc92e05943",
+  "path": [
+    "SanshuInu.sol"
+  ],
+  "address": "0xc73C167E7a4Ba109e4052f70D5466D0C312A344D"
+}

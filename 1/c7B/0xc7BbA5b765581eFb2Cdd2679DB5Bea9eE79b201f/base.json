@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GemsToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c8c9dca1dc5eaec1ae85db8252d8a2855ea84dc489d9cbc5a0e8a76ea478580d",
+  "path": [
+    "GemsToken.sol"
+  ],
+  "address": "0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f"
+}

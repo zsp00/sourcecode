@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Lumerin",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://dc23ae83f3e45bcecbf1851b46068b4087509f414e1fff1d1588e2f123155f39",
+  "path": [
+    "Lumerin.sol"
+  ],
+  "address": "0x4b1D0b9F081468D780Ca1d5d79132b64301085d1"
+}

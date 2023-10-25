@@ -1,0 +1,21 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Pond0x",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "5000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Pond0x.sol",
+    "solady/src/auth/Ownable.sol",
+    "solady/src/tokens/ERC20.sol"
+  ],
+  "address": "0x1d4214081985ad20aa3cA93A2206aE792635cBec"
+}

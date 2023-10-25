@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NahmiiToken",
+  "CompilerVersion": "v0.5.13+commit.5b0b510c",
+  "OptimizationUsed": "1",
+  "Runs": "0",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://67b65be887c78aa65ed120e4b140c9a6a0c1873d1defde40257327911fecf065",
+  "path": [
+    "NahmiiToken.sol"
+  ],
+  "address": "0x7c8155909cd385F120A56eF90728dD50F9CcbE52"
+}
