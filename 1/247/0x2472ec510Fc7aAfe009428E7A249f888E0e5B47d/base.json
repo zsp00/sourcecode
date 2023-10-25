@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Kakubi",
+  "CompilerVersion": "v0.8.14+commit.80d49f37",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000005322018ec595d1c5d68de9348613484ac0468293000000000000000000000000cba2dc6caf74327104a2d2d2eb8d716873a6a124000000000000000000000000c23a2548261b4dfd6ff705ee3add8804911da563",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8ee2b82d07b5522b7cf467b1d005115bb415bd29aaa53ee242d0de483fabd048",
+  "path": [
+    "Kakubi.sol"
+  ],
+  "address": "0x2472ec510Fc7aAfe009428E7A249f888E0e5B47d"
+}

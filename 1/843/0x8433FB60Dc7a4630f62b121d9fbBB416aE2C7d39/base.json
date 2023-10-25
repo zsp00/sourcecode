@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "",
+  "CompilerVersion": "",
+  "OptimizationUsed": "",
+  "Runs": "",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unknown",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    ".sol"
+  ],
+  "address": "0x8433FB60Dc7a4630f62b121d9fbBB416aE2C7d39"
+}
