@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BlitzToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c666e3b3451df06c04b01b7bef552416e32639299c17ce2ce0fdf96f256f4cad",
+  "path": [
+    "BlitzToken.sol"
+  ],
+  "address": "0x881AA254a93EFA96396931D76056301911F2eA56"
+}
