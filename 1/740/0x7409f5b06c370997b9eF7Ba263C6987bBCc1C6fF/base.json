@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StarNFTV4",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "istanbul",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e5000363c77d4f39bc54684f60cc2bf853be6c4aaf08492300912dc4294166b9",
+  "path": [
+    "IERC165.sol",
+    "IERC721Receiver.sol",
+    "Address.sol",
+    "Strings.sol",
+    "IStarNFT.sol",
+    "StarNFTV4.sol",
+    "IERC721.sol",
+    "Context.sol",
+    "ERC165.sol",
+    "IERC721Metadata.sol",
+    "Ownable.sol"
+  ],
+  "address": "0x7409f5b06c370997b9eF7Ba263C6987bBCc1C6fF"
+}

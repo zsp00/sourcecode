@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BANKSOCIAL",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6f5aafc6453bfc6fc748ca0b2f5e5b63d7bdd935e1e0f5ce7ff7c0c128b07c70",
+  "path": [
+    "BANKSOCIAL.sol"
+  ],
+  "address": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac"
+}

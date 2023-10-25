@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC721DropProxy",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "5000",
+  "ConstructorArguments": "0000000000000000000000007c74dfe39976dc395529c14e54a597809980e01c00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0x5eb5babcefea846b220c82f222f00df95934f5f0",
+  "SwarmSource": "ipfs://0a1f515908eca720d0626de55050e57ca7f3f77dc588a1e49ecd89e037bc5482",
+  "path": [
+    "ERC721DropProxy.sol"
+  ],
+  "address": "0x6339e5E072086621540D0362C4e3Cea0d643E114"
+}

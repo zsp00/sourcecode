@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OPCT",
+  "CompilerVersion": "v0.7.2+commit.51b20bc0",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000006b88921f0410abc2000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5ac59eaea1ab349a8a7bbbbfcd1b2926ea1ee5eb6d5f548a072f52376c477f63",
+  "path": [
+    "OPCT.sol"
+  ],
+  "address": "0xDb05EA0877A2622883941b939f0bb11d1ac7c400"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FIRE",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2ed2df9bef24b25fcf96762a3bb9d5a1687261063863a68458e37f412e5c9b1f",
+  "path": [
+    "FIRE.sol"
+  ],
+  "address": "0xF921ae2DAC5fa128DC0F6168Bf153ea0943d2D43"
+}
