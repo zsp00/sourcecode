@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TIME",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000c9f2c9cd04674edea40000000",
+  "EVMVersion": "london",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "lib/openzeppelin-contracts/contracts/interfaces/draft-IERC6093.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+    "src/TIME/TIME.sol"
+  ],
+  "address": "0xEf89c37fe9E5c906b404cd7Edae4a2992b5d25Fa"
+}

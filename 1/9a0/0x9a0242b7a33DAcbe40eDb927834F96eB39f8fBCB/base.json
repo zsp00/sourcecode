@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BaxToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://40fdfeb56254353b327963d912999f6ba826faf3785e3b7bc6b247738df43c96",
+  "path": [
+    "BaxToken.sol"
+  ],
+  "address": "0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB"
+}
