@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SamToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000810c5fca78cadfb1407c8bf48783d2edd39c1aa2000000000000000000000000ed836ca8d2f23a3ba7d549d152b0a83a37405f7e000000000000000000000000000000000000000000000000000000003b9aca0000000000000000000000000085c933eaebc6a4318b2d9466b45db03df42e956c000000000000000000000000d2fcdcf4cf02f7c04f12e4130b4b829edff28909",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2aadb2472bbd75c4a28c9d99973924b49d2763e9a4317da22f3cd0cf40e18efb",
+  "path": [
+    "SamToken.sol"
+  ],
+  "address": "0xE05Dccf448F2f0dC0257Fe5F507D22f9f0D5BbF1"
+}
