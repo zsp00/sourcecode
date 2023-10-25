@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GoMoney2",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://660fad27def02d85ae714f5f9053da89ffaf0f86997a96859f3a5b445f48f2f7",
+  "path": [
+    "GoMoney2.sol"
+  ],
+  "address": "0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LOOT",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ae70709ecf3c80a2a9f54e864b1c0b56d0d8294f72164509c73c22d8976f7336",
+  "path": [
+    "LOOT.sol"
+  ],
+  "address": "0x4d138BEC0F79B729BE475443a1Eeb8557294d536"
+}

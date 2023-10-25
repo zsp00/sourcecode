@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DigiWill",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://26a52f902789a7ffaf7fd40612bdb0d1a484868f1a4e83102fa4554417d3b97a",
+  "path": [
+    "DigiWill.sol"
+  ],
+  "address": "0x87B87A7583D8d8F15b58Bdd290318386Ac8eE174"
+}

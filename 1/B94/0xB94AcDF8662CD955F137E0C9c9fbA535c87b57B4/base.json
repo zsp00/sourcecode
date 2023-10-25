@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MONATOKEN",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e5e98d1ff7a4b35f4bafd37c4bf91da4ae0517af3bbe14c2e03a08bb206f33ed",
+  "path": [
+    "MONATOKEN.sol"
+  ],
+  "address": "0xB94AcDF8662CD955F137E0C9c9fbA535c87b57B4"
+}

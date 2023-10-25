@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KeyboardToken",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8ae26f9463972f7392b05361987edbd2418e128dd9054ba73345677077f45550",
+  "path": [
+    "ERC20.sol",
+    "ERC20Detailed.sol",
+    "IERC20.sol",
+    "KeyboardToken.sol",
+    "SafeMath.sol"
+  ],
+  "address": "0xcE13aBCE0DB5A8224616ef24D3979d466F19CF90"
+}
