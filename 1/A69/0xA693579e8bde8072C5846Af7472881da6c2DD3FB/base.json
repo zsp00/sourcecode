@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BRBToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3d13ea8a9ba3a4963e21d614e327913b6af64cefb29bf9dceb691c507c395e01",
+  "path": [
+    "BRBToken.sol"
+  ],
+  "address": "0xA693579e8bde8072C5846Af7472881da6c2DD3FB"
+}

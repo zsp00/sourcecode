@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PLEBToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000612084467888296a95ff6ec0000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f0fb9fcc6d374969feaaf73c295f6d3dfa1aaae3ba691febefa1b23aa2753e7e",
+  "path": [
+    "PLEBToken.sol"
+  ],
+  "address": "0xe19f85c920B572cA48942315B06D6cAc86585c87"
+}

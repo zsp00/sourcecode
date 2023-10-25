@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HPWS69420i",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://90bb9ca1a34926bb6d2c2ec8df87225892de2adaf321b5bfacdda622d1c60f06",
+  "path": [
+    "HPWS69420i.sol"
+  ],
+  "address": "0xe55F6E90Cab3775cccC2658Fa7c30349274FbDAe"
+}

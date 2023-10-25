@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WIGGER",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://318728d49961d6ede074e2a7280ea1e4edfc1ae94052efe927dd516343ba522b",
+  "path": [
+    "WIGGER.sol"
+  ],
+  "address": "0x170dEC83C7753AaAD20c01a0016b5A2E143990d4"
+}
