@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GOB",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000411b4cc78c0cba9e2f1310bae2b976798b8759ee0000000000000000000000000000000000000000026c62ad77dc602dae0000000000000000000000000000000000000000000000000000000000000000000012476f6f6e73206f662042616c6174726f6f6e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003474f420000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/CustomERC20.sol",
+    "contracts/GOB.sol"
+  ],
+  "address": "0x830eB1204380E9c44434Db8700257025358707c6"
+}
