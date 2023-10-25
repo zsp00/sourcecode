@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Awkward_Monkey_Puppet",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "ERC20.sol",
+    "Ownable.sol",
+    "Initializable.sol",
+    "IUniswapV2Factory.sol",
+    "Context.sol",
+    "IERC20Metadata.sol",
+    "Token.sol",
+    "ERC20Burnable.sol",
+    "TokenRecover.sol",
+    "IUniswapV2Pair.sol",
+    "IUniswapV2Router01.sol",
+    "IUniswapV2Router02.sol",
+    "IERC20.sol"
+  ],
+  "address": "0x03B9e120007E69771373248298B2ee941fd08138"
+}
