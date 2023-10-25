@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CaiToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://06c049203a5bec2be7459159079c4d9e6308a315a576b17fa2f795ffea57d5a0",
+  "path": [
+    "CaiToken.sol"
+  ],
+  "address": "0x4FE9f52Ec23f6805F2Fd0332a34Da4F1c135b024"
+}
