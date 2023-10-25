@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CATLAND",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a10dc647decdbf40ed3aef419c65d73abb2dd215bdf6593735f76f2c6c56af0b",
+  "path": [
+    "CATLAND.sol"
+  ],
+  "address": "0x6E3092288F5Db9DD2e420B54f40a8bf9D2D72b66"
+}
