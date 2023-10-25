@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QredoToken",
+  "CompilerVersion": "v0.6.11+commit.5ef660b1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000e0000000000000000000000000000000000000000000000000000000000000000800000000000000000000000000000000000000000000000002c68af0bb140000000000000000000000000000000000000000000000000000016345785d8a0000000000000000000000000000000000000000000000000000000000000000000b517265646f20546f6b656e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000045152444f00000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/home/venimir/Venimir/qredo-token/contracts/utils/Context.sol",
+    "/home/venimir/Venimir/qredo-token/interfaces/IAuthorizable.sol",
+    "/home/venimir/Venimir/qredo-token/interfaces/IERC20.sol",
+    "/home/venimir/Venimir/qredo-token/libraries/SafeMath.sol",
+    "/home/venimir/Venimir/qredo-token/contracts/QredoToken.sol",
+    "/home/venimir/Venimir/qredo-token/contracts/ownable/Ownable.sol",
+    "/home/venimir/Venimir/qredo-token/contracts/utils/Authorizable.sol"
+  ],
+  "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463"
+}

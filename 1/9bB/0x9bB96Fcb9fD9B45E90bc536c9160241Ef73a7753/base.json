@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ECIA",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://36290fd4bb841f62af1d30f604d8b36eef32eabc587a8747dcb4132d9b937155",
+  "path": [
+    "ECIA.sol"
+  ],
+  "address": "0x9bB96Fcb9fD9B45E90bc536c9160241Ef73a7753"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OneInch",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "0000000000000000000000005E89f8d81C74E311458277EA1Be3d3247c7cd7D1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fd77525d5811b0476c6aa859e8c0f6389de71d2535d9fc3cd235877d1b836943",
+  "path": [
+    "OneInch.sol"
+  ],
+  "address": "0x111111111117dC0aa78b770fA6A738034120C302"
+}
