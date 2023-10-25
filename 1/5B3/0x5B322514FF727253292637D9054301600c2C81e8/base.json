@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DAD",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://66aa0032011f2aaaa500aa5ec4f252d14b526d21297526486d998be8015fd2e9",
+  "path": [
+    "ERC20Detailed.sol",
+    "IERC20.sol",
+    "SafeMath.sol",
+    "dad_token.sol",
+    "ERC20.sol"
+  ],
+  "address": "0x5B322514FF727253292637D9054301600c2C81e8"
+}

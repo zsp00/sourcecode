@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EthereumPro",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7c0d5ca1c223c8b8690e322ea2572e135bde54768f96de50e53a3ad512f87641",
+  "path": [
+    "EthereumPro.sol"
+  ],
+  "address": "0xBa630d3BA20502BA07975B15c719BEECc8e4EBB0"
+}

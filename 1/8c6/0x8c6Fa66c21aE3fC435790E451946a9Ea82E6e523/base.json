@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MetaFabric",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts@4.4.0/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts@4.4.0/utils/Counters.sol",
+    "@openzeppelin/contracts@4.4.0/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts@4.4.0/utils/Strings.sol",
+    "contract-da3c5e30e5.sol",
+    "@openzeppelin/contracts@4.4.0/token/ERC20/extensions/draft-ERC20Permit.sol",
+    "@openzeppelin/contracts@4.4.0/utils/cryptography/draft-EIP712.sol",
+    "@openzeppelin/contracts@4.4.0/token/ERC20/extensions/draft-IERC20Permit.sol",
+    "@openzeppelin/contracts@4.4.0/utils/Context.sol",
+    "@openzeppelin/contracts@4.4.0/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts@4.4.0/token/ERC20/extensions/ERC20Burnable.sol",
+    "@openzeppelin/contracts@4.4.0/utils/cryptography/ECDSA.sol"
+  ],
+  "address": "0x8c6Fa66c21aE3fC435790E451946a9Ea82E6e523"
+}

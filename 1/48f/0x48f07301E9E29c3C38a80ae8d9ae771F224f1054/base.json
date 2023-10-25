@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XZARToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ebaa5ca074d11b4d723af895570725ff5e7655485326bc1a20e97161a7177c16",
+  "path": [
+    "XZARToken.sol"
+  ],
+  "address": "0x48f07301E9E29c3C38a80ae8d9ae771F224f1054"
+}
