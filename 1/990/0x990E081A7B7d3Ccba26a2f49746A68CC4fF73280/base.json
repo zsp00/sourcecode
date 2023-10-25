@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KStarCoin",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b35a1bd1a5a3dc92bc14f0ce2e27c5990c0013605b49adb54315e36894bc6c5e",
+  "path": [
+    "KStarCoin.sol"
+  ],
+  "address": "0x990E081A7B7d3Ccba26a2f49746A68CC4fF73280"
+}

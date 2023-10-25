@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TeleportToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://96ea4bb0a78d8d74e167250f466bd38d23273f80f65efe9a80cd7a330d9a5134",
+  "path": [
+    "TeleportToken.sol"
+  ],
+  "address": "0x888888848B652B3E3a0f34c96E00EEC0F3a23F72"
+}

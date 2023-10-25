@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "$DOGECOINX69",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8d3825f7e354a3d6030ed74f76c0b70b17f887cd78d9be4d6a951fcfc057ac69",
+  "path": [
+    "$DOGECOINX69.sol"
+  ],
+  "address": "0x695193031621157f7eAF73a70121A7Ed0eBA68E2"
+}
