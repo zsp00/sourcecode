@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VCore",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "1",
+  "ConstructorArguments": "000000000000000000000000aee73e567f2866623ebe5c8ce2764a4a2033408e000000000000000000000000aee73e567f2866623ebe5c8ce2764a4a2033408e000000000000000000000000aee73e567f2866623ebe5c8ce2764a4a2033408e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/access/AccessControlEnumerable.sol",
+    "contracts/vcore.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/access/IAccessControlEnumerable.sol",
+    "@openzeppelin/contracts/access/IAccessControl.sol"
+  ],
+  "address": "0x733B5056a0697e7a4357305FE452999a0C409feb"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "APED",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f7bdddea1bb6255088010b9d7e99cb364ed57067551cd03a524b6bbd0a36bba9",
+  "path": [
+    "APED.sol"
+  ],
+  "address": "0xE0151763455A8a021e64880C238ba1cff3787fF0"
+}

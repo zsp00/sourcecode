@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AXS",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cbcfa5f7da41e27fee5b65b07df67173550f4e0075611e75c5c320917891b248",
+  "path": [
+    "AXS.sol"
+  ],
+  "address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA"
+}

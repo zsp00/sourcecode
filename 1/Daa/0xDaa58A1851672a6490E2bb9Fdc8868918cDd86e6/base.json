@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StarToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000c9d198089d6c31d0ca5cc5b92c97a57a97bbfde2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://62d384acda37df5710313d1ae2af35fbcd555129af3f26547defc4db166b8c85",
+  "path": [
+    "StarToken.sol"
+  ],
+  "address": "0xDaa58A1851672a6490E2bb9Fdc8868918cDd86e6"
+}

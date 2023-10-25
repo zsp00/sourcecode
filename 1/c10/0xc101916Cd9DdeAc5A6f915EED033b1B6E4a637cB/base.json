@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZombieMobSecretSociety",
+  "CompilerVersion": "v0.8.12+commit.f00d7308",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000036697066733a2f2f516d63584e6376504c4234564c70694d786a63774575446a31697961424a6e5578597669696f73506a5833747a322f00000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3a71d14da9a5041e340d2d3c1f3e4c585f142b23db178208c3ba9a408462beeb",
+  "path": [
+    "ZombieMobSecretSociety.sol"
+  ],
+  "address": "0xc101916Cd9DdeAc5A6f915EED033b1B6E4a637cB"
+}

@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SaninInu",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts@4.5.0/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts@4.5.0/utils/Context.sol",
+    "@openzeppelin/contracts@4.5.0/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts@4.5.0/token/ERC20/IERC20.sol",
+    "Sanin Inu.sol",
+    "@openzeppelin/contracts/utils/math/SafeMath.sol",
+    "@openzeppelin/contracts@4.5.0/access/Ownable.sol"
+  ],
+  "address": "0x4521C9aD6A3D4230803aB752Ed238BE11F8B342F"
+}
