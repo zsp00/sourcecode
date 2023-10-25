@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FutouristToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e87a5b21403709a0b46172852a6c74f45e057d26762349dae53835bd1901f267",
+  "path": [
+    "FutouristToken.sol"
+  ],
+  "address": "0x2023DCf7c438c8C8C0B0F28dBaE15520B4f3Ee20"
+}
