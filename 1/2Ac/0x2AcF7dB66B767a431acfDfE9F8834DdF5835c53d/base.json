@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GlobalCoin",
+  "CompilerVersion": "v0.5.11+commit.c082d0b4",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fceecfa300ead19aaad1268222ea89c342401083c86774bf726ceb392d28c0e8",
+  "path": [
+    "GlobalCoin.sol"
+  ],
+  "address": "0x2AcF7dB66B767a431acfDfE9F8834DdF5835c53d"
+}

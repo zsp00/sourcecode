@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Lambda",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e71699e392853efa3f12da2e772f439454104c0e869cce1e056509aac303a4db",
+  "path": [
+    "Lambda.sol"
+  ],
+  "address": "0x8971f9fd7196e5cEE2C1032B50F656855af7Dd26"
+}
