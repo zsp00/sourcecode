@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XDOGE",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://031465c064c48464e318f6894ace11629f14309d343a487861dc999187bc85c7",
+  "path": [
+    "XDOGE.sol"
+  ],
+  "address": "0xd2b274CfBf9534f56b59aD0FB7e645e0354f4941"
+}
