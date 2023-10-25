@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PLAAS",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://efcd8ed6830e2af0db3c25cf7b27f719d74920cd7d5ef8727a5196fab713cf85",
+  "path": [
+    "PLAAS.sol"
+  ],
+  "address": "0x8d9626315e8025B81c3BDb926Db4C51DDE237f52"
+}
