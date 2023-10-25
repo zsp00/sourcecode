@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DINGER",
+  "CompilerVersion": "v0.8.5+commit.a4f2e591",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e0e6a460ae7c8f640d37fc31973d957faad53df700000000000000000000000013c2e5215692987dbcc639b7db70f1d6ef5f77a1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e851631ae02db21e1b87adac8c622e4d9187a5473ad99086fdacbedb41a3c64f",
+  "path": [
+    "DINGER.sol"
+  ],
+  "address": "0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68"
+}

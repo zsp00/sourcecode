@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Dede",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://708332eae18596bf10f798abc5879eed61289e256bb509218e48ab168f8bc9ec",
+  "path": [
+    "Dede.sol"
+  ],
+  "address": "0x9D7b68970d2be6dc93124477b4E2e1C9A6b180aA"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LibertyEcoToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://bbdf26549a28d61efd8ce385cc0fc5835ef1495728011d182795e98650f4db35",
+  "path": [
+    "LibertyEcoToken.sol"
+  ],
+  "address": "0x94BEC329E51dAb8b6253Fcf8c09ce95606d513B6"
+}

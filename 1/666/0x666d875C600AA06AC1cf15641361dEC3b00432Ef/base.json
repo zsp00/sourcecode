@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BTSE",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b413092c3a0cf1c6f7ff6a237de37dcff11462f912a9055654c66dd782736436",
+  "path": [
+    "BTSE.sol"
+  ],
+  "address": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef"
+}
