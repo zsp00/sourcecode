@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "STQToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000003000000000000000000000000af9eca973ba1bf87923d45dce471181f77de301e000000000000000000000000c21afa07ce196500d45cd13b835645a2b05760e70000000000000000000000007e71a0514d727a2828209cf74f05686f382e545d",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://806aac597cf63a0e8500f39bd70c0bc9a6bdededd0b02717d9e0cf89c8e3956a",
+  "path": [
+    "STQToken.sol"
+  ],
+  "address": "0x5c3a228510D246b78a3765C20221Cbf3082b44a4"
+}
