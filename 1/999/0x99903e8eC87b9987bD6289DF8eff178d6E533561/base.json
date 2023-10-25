@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ThePolacy",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "40ac16d7527836533fbb75a3dc8e42ee62bcfd4bdd89a91f418c5a495b365604000000000000000000000000000000000000000000000000000000006305f6a0",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "erc721a/contracts/IERC721A.sol",
+    "contracts/ThePolacy.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0x99903e8eC87b9987bD6289DF8eff178d6E533561"
+}

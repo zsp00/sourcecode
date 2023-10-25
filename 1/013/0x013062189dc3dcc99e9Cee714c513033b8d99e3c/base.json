@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC20PresetFixedSupply",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "100",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c000000000000000000000000000000000000000000052b7d2dcc80cd2e4000000000000000000000000000000d4c30b4be019dd435d4a69a4c1c1ba3fc417ebfd000000000000000000000000000000000000000000000000000000000000000542776172650000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005494e465241000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/presets/ERC20PresetFixedSupply.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol"
+  ],
+  "address": "0x013062189dc3dcc99e9Cee714c513033b8d99e3c"
+}

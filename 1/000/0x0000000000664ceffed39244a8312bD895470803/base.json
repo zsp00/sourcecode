@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FundropPass",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "250000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "lib/openzeppelin-contracts/contracts/token/ERC721/IERC721.sol",
+    "lib/openzeppelin-contracts/contracts/utils/introspection/IERC165.sol",
+    "lib/solady/src/utils/ECDSA.sol",
+    "src/Fundrop/IMetadataRenderer.sol",
+    "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+    "src/Fundrop/FundropPass.sol",
+    "src/Fundrop/IERC4906.sol",
+    "src/Fundrop/IFundropRewards.sol",
+    "src/Fundrop/NonTransferrableERC721.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/IERC721Metadata.sol"
+  ],
+  "address": "0x0000000000664ceffed39244a8312bD895470803"
+}
