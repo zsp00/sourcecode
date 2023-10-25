@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Keep3rV1",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000b41772890c8b1564c5015a12c0dc6f18b0af955e",
+  "EVMVersion": "Default",
+  "Library": "Keep3rV1Library:fc38b6eba9d47cbfc8c7b4ffffd142b78996b6f1",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://99d32823e8a2a23b2a85c8bbc6d1879b0ee2d2054f895919dac4f543a1390dc3",
+  "path": [
+    "Keep3rV1.sol"
+  ],
+  "address": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44"
+}
