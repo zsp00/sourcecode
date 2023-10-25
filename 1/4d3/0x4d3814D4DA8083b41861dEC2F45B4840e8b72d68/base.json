@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CSCNFTFactory",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7ba6d647dfc4c3d9f9692264302bcbfa1c1e96a6ec11a5a43f31a91efd079d65",
+  "path": [
+    "CSCNFTFactory.sol"
+  ],
+  "address": "0x4d3814D4DA8083b41861dEC2F45B4840e8b72d68"
+}

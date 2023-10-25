@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EligmaTokenContract",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f58b26277632cb25bffa270085ce7312c763b859190bbf10b0c100ccd45f7f97",
+  "path": [
+    "EligmaTokenContract.sol"
+  ],
+  "address": "0xc7C03B8a3FC5719066E185ea616e87B88eba44a3"
+}

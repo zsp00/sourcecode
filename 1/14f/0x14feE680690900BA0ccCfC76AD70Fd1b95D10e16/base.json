@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PAALAI",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://202a724c17493630d4613ec102ea9cb7d903ca33dce5d818196e814f2bac465a",
+  "path": [
+    "PAALAI.sol"
+  ],
+  "address": "0x14feE680690900BA0ccCfC76AD70Fd1b95D10e16"
+}

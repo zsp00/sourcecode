@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TypeToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4adf49a1d8f4591771435bf62c8d91bedb2041043a7b304b0684555e298754ca",
+  "path": [
+    "TypeToken.sol"
+  ],
+  "address": "0xeaf61FC150CD5c3BeA75744e830D916E60EA5A9F"
+}
