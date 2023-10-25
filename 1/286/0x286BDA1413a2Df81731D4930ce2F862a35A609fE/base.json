@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WaBi",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://70bc61013f2ba9be3f25f52784228212304e7d690f1f222e0fe5d803e213e6bc",
+  "path": [
+    "WaBi.sol"
+  ],
+  "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE"
+}
