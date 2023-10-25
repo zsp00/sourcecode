@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BananaV2",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "Context.sol",
+    "SafeMath.sol",
+    "Address.sol",
+    "Banana.sol",
+    "IERC20.sol",
+    "ERC20.sol"
+  ],
+  "address": "0x94e496474F1725f1c1824cB5BDb92d7691A4F03a"
+}

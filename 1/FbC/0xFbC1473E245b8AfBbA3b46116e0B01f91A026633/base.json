@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ETH",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://58ab4ee2e272575c01c950d33eb3ec2e353b361b19d7bab6564d2cd3d3bf1bdf",
+  "path": [
+    "ETH.sol"
+  ],
+  "address": "0xFbC1473E245b8AfBbA3b46116e0B01f91A026633"
+}

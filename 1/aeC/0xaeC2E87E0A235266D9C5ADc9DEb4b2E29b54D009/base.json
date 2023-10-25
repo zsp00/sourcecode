@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SingularDTVToken",
+  "CompilerVersion": "v0.3.5+commit.5f97274",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "SingularDTVToken.sol"
+  ],
+  "address": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009"
+}
