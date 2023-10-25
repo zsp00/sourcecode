@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Tracto",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f5a901b7c617001162e3a79d55f8c604ac1d9c40bb5616393b4260a0f5a30642",
+  "path": [
+    "Tracto.sol"
+  ],
+  "address": "0x30ceCB5461A449A90081F5a5F55db4e048397BAB"
+}

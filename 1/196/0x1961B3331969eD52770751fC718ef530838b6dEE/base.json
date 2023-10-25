@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BitDegreeToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fb9b03732be0e133318fb6017842b223d9ff612f0a3b8a76a55da61644388e7d",
+  "path": [
+    "BitDegreeToken.sol"
+  ],
+  "address": "0x1961B3331969eD52770751fC718ef530838b6dEE"
+}

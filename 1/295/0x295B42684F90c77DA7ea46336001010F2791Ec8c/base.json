@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XiToken",
+  "CompilerVersion": "v0.5.5+commit.47a71e8f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/XiToken.sol"
+  ],
+  "address": "0x295B42684F90c77DA7ea46336001010F2791Ec8c"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RedPanda",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://341d5ecd0d047e142b18ec2faa5225dcc53d861e159efe73bd46d8e7fac9981f",
+  "path": [
+    "RedPanda.sol"
+  ],
+  "address": "0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548"
+}

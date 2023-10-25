@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EvoToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000957390acd6efef7187ecf67bd48204b217ea8f0b",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8cbb3002d0458f3ad24c30a749d9c120f57b0ce16db6e5018c80c4e3fdf1d14b",
+  "path": [
+    "EvoToken.sol"
+  ],
+  "address": "0xefBd6D7deF37ffae990503EcdB1291B2f7E38788"
+}
