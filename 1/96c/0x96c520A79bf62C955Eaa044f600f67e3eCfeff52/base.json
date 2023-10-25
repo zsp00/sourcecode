@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LandToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://71132868daf119dd0b38d9d7a56b4b2d46ac436b494f122507894e1893830b9d",
+  "path": [
+    "LandToken.sol"
+  ],
+  "address": "0x96c520A79bf62C955Eaa044f600f67e3eCfeff52"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NFAi",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4bbfc278dc195bd5259a3aaae47dd0b6952ded2a5921b43976d5f7daaedfc3ea",
+  "path": [
+    "NFAi.sol"
+  ],
+  "address": "0x8eEcaad83a1Ea77bD88A818d4628fAfc4CaD7969"
+}
