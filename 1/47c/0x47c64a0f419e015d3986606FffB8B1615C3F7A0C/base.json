@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GONDOLA",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8eefa3706e319ed9c72af51e2c7b6a166428d71f38e5808c3c80a3baa485e1c5",
+  "path": [
+    "GONDOLA.sol"
+  ],
+  "address": "0x47c64a0f419e015d3986606FffB8B1615C3F7A0C"
+}
