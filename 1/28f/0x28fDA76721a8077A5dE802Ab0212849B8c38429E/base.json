@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Artemis",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000b469a455b5b356a7dd29143c3c03f81d73e1d6d60000000000000000000000006a2316ed9a4c9b83c019c77f9c39deb93d334234000000000000000000000000e24d3e354373fa9b1f32f0951a733bae9929165f00000000000000000000000091f79ab6d8c6115f132d0f3fa3d870298d277ec90000000000000000000000007f77d5aecc16eabf1f2b831bc68b2c0d546ac001",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://31a3cb69f47f51885a90ff30eac44f5e6958c1814992dd9f0d4db1be42fd9dd0",
+  "path": [
+    "Artemis.sol"
+  ],
+  "address": "0x28fDA76721a8077A5dE802Ab0212849B8c38429E"
+}
