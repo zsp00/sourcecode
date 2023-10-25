@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AZBI",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ba6dcffecfb197a14d0c7f8750d09169d56efe65b6fee6cf3c9c284174668f74",
+  "path": [
+    "AZBI.sol"
+  ],
+  "address": "0x82f39cD08A942f344CA7E7034461Cc88c2009199"
+}
