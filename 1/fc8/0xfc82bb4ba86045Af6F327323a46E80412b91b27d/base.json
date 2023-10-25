@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PROMToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://213bae1d430f9290b55174d45f9d44e1a07cc51995935a67673bb53556c5f6a1",
+  "path": [
+    "PROMToken.sol"
+  ],
+  "address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d"
+}
