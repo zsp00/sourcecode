@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BitScreenerToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000010000000000000000000000004db84fdbff9ad2eeb00e75d8c0c5e138760e0f1f",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8d6cc1a85a56a082ceec0568009c2fff823541516987b24bac93f1776742d365",
+  "path": [
+    "BitScreenerToken.sol"
+  ],
+  "address": "0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007"
+}

@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Deri",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000eb9f3ac220871dc050a033e8a31a00f49c604738",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Deri.sol",
+    "contracts/SafeMath.sol"
+  ],
+  "address": "0xA487bF43cF3b10dffc97A9A744cbB7036965d3b9"
+}

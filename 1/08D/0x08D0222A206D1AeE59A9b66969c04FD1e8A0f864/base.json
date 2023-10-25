@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MOMOToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://22e3e9505372b7fb9535313655ed2c0c317f27eeb1eb04f5d3e892715cc8a066",
+  "path": [
+    "MOMOToken.sol"
+  ],
+  "address": "0x08D0222A206D1AeE59A9b66969c04FD1e8A0f864"
+}
