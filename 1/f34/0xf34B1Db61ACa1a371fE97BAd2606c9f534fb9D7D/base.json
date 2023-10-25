@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RBIS",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://56cdb9aa3375902cf9c93bf9586282f8f417fce1839f98628ebf825e109d56f7",
+  "path": [
+    "RBIS.sol"
+  ],
+  "address": "0xf34B1Db61ACa1a371fE97BAd2606c9f534fb9D7D"
+}
