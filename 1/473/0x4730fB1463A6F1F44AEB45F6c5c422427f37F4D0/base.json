@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FourToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://555f1c0362e4ccf64eeb196f7742ac1c659927355b109b412b452404298ef800",
+  "path": [
+    "FourToken.sol"
+  ],
+  "address": "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0"
+}

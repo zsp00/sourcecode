@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FiatTokenProxy",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000523177fbe442afb70b401d06bb11ec7b8684ecee",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0xfe928a7d8be9c8cece7e97f0ed5704f4fa2cb42a",
+  "SwarmSource": "ipfs://8dd9a68264bac6c1cdf2815114fb359d824c9f3d5fdab16ecd5fb51ad3fcc628",
+  "path": [
+    "FiatTokenProxy.sol"
+  ],
+  "address": "0xa2E3356610840701BDf5611a53974510Ae27E2e1"
+}
