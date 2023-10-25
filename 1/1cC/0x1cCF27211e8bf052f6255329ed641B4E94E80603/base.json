@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MetaBabyToken",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000083448dd72b11ff89fa9e6d555a2e1d0933d4964c",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://66bef1fc8727a8ccac617a8f82ec2a200cc86a13e0e2d7bb98715534e9779073",
+  "path": [
+    "MetaBabyToken.sol"
+  ],
+  "address": "0x1cCF27211e8bf052f6255329ed641B4E94E80603"
+}
