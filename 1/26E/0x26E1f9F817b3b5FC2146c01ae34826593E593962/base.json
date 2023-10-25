@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QiibeeTokenV2",
+  "CompilerVersion": "v0.4.13+commit.0fb4cb1a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000cee02eb2e63a3cb6baa449d2aa131ef90b48e550",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1a0bab7c4e48cb85a02b7de2b5c282d2a79498c959ed6dd753af72457ca58c8c",
+  "path": [
+    "QiibeeTokenV2.sol"
+  ],
+  "address": "0x26E1f9F817b3b5FC2146c01ae34826593E593962"
+}

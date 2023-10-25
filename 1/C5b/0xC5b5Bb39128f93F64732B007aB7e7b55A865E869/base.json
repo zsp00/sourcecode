@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "POKEBETS",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://285fe7325307909941a1d2300df0a3e5eafd9bf2ab4e1934f65e029eb797d355",
+  "path": [
+    "POKEBETS.sol"
+  ],
+  "address": "0xC5b5Bb39128f93F64732B007aB7e7b55A865E869"
+}

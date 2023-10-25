@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "hiDollar",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ce12adaf0d090edb251750fa6ae72572054f4a0324261e70aff60efca9ca4bd4",
+  "path": [
+    "hiDollar.sol",
+    "SafeMath.sol"
+  ],
+  "address": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC"
+}

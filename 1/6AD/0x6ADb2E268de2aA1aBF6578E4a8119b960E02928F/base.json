@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ShibaDoge",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fdf0b4be6f2b05964dc4d854c154ac76de1c98dabef66f7fc2ae51b931ded452",
+  "path": [
+    "ShibaDoge.sol"
+  ],
+  "address": "0x6ADb2E268de2aA1aBF6578E4a8119b960E02928F"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KangarooHeroesV2",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000963cddb2ed2c387c4904be883b2f1db2f367c913",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0f4cc1ac09ab4729a75bd28be756ecd2958ba62a44f9467e01765a54b18a3b74",
+  "path": [
+    "KangarooHeroesV2.sol"
+  ],
+  "address": "0x895bBc29f74dF77279Bf585116Caa24CE33ed0bA"
+}

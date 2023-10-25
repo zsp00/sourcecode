@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BabyShibaInu",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://04452c88caceb3871e71c6a7be7435f35900f2a9c52ef8667fa99602a6e24873",
+  "path": [
+    "BabyShibaInu.sol"
+  ],
+  "address": "0x00000000051b48047bE6DC0Ada6DE5c3de86A588"
+}
