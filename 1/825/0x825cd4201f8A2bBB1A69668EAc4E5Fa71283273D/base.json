@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZortCoin",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://58b831cc81a9f3b2c70ee72890e61d5f0e2efd6ee8322cec84c379abc5fcf460",
+  "path": [
+    "ZortCoin.sol"
+  ],
+  "address": "0x825cd4201f8A2bBB1A69668EAc4E5Fa71283273D"
+}
