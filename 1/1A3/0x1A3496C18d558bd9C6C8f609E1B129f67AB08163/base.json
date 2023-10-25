@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DEAPCoin",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000219f650fb33166573bc9b9628811b3c4c0c7d56b0000000000000000000000000f4f0f112c1c2857fc11021ebeaa82ad6586bbcf0000000000000000000000005d10d86de4071eb92fdee172e7933d631d196e34",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ee7cac4ea53bf5c12ef605eb88bd54afa00b81febf81df80df693129f0a91519"
+}
