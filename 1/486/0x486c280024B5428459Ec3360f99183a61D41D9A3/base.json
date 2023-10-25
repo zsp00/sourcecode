@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EthLinQ",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/interfaces/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "contracts/EthLinQ.sol",
+    "contracts/libraries/SafeMath.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/interfaces/ILPDiv.sol",
+    "contracts/LPDiv.sol"
+  ],
+  "address": "0x486c280024B5428459Ec3360f99183a61D41D9A3"
+}
