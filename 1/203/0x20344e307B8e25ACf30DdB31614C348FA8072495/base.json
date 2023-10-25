@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OneMillionPixelToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://15b7f9f9624b753796697c190c56570cce0a1b22de99ea3666795b6d31ca2fb6",
+  "path": [
+    "OneMillionPixelToken.sol"
+  ],
+  "address": "0x20344e307B8e25ACf30DdB31614C348FA8072495"
+}

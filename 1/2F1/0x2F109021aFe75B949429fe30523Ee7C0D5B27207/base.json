@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OCC",
+  "CompilerVersion": "v0.7.0+commit.9e61f92b",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000052b7d2dcc80cd2e4000000000000000000000000000000865d9eb17d84167745a4931f9b254b0764fdd0f6",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5db83f43bb28559af064cb2239ff4ba21354bdfff5a3ed86a2f89a6d52d04106",
+  "path": [
+    "OCC.sol"
+  ],
+  "address": "0x2F109021aFe75B949429fe30523Ee7C0D5B27207"
+}

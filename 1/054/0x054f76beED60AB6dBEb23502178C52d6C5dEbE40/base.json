@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FINToken",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000008af7623fb67bf1a8000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://528f081f16759afa77da93ee26db56e1f63dc6b881514919ab80ed59b4037f78",
+  "path": [
+    "FINToken.sol"
+  ],
+  "address": "0x054f76beED60AB6dBEb23502178C52d6C5dEbE40"
+}

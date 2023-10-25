@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MetaMonopoly",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "contracts/MetaMonopoly.sol",
+    "@openzeppelin/contracts/utils/math/SafeCast.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/math/Math.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol",
+    "@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol"
+  ],
+  "address": "0x7d4A7be025652995364E0E232063abd9e8d65e6E"
+}
