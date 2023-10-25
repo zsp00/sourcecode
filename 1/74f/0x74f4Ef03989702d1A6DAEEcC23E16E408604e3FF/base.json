@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PGDToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://79e893c9a72c55a7a25038896567248c8176b440b1e8158decd47bf4e5772dad",
+  "path": [
+    "PGDToken.sol"
+  ],
+  "address": "0x74f4Ef03989702d1A6DAEEcC23E16E408604e3FF"
+}
