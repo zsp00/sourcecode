@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BosonToken",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000cfdb8659a6557612071686cddd3738bc23171022000000000000000000000000000000000000000000000000000000000000000b426f736f6e20546f6b656e0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005424f534f4e000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "/home/user/Documents/wrk/deployment_script/token-contract-migration-script/contracts/ERC20Permit.sol",
+    "/home/user/Documents/wrk/deployment_script/token-contract-migration-script/contracts/IERC20Permit.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/utils/EnumerableSet.sol",
+    "@openzeppelin/contracts/utils/Pausable.sol",
+    "/home/user/Documents/wrk/deployment_script/token-contract-migration-script/contracts/BosonToken.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/utils/Address.sol"
+  ],
+  "address": "0xC477D038d5420C6A9e0b031712f61c5120090de9"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BEP20Token",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000246139ca80000000000000000000000000000a1dfde5d363fe2b50b56091c4e4b0d7e0ae5f90f",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8abf8e792cbc307bbb9197570a16dbceaeedb0d2ca41fb42366b491c3e6b7159",
+  "path": [
+    "BEP20Token.sol"
+  ],
+  "address": "0x081131434f93063751813C619Ecca9C4dC7862a3"
+}
