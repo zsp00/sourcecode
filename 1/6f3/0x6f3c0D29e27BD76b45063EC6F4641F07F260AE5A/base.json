@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TrueStealth",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b2379d5e331fa7519302f9d7b2bca26ac42e045e5a6bffa402e3b914af17a650",
+  "path": [
+    "TrueStealth.sol"
+  ],
+  "address": "0x6f3c0D29e27BD76b45063EC6F4641F07F260AE5A"
+}
