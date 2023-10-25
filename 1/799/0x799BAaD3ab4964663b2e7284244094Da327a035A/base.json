@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OwlOfAthenaERC",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ced4f0a07403b97f6d414c9c2200d9324047452e7ba2bd7439845d2bbcfb8736",
+  "path": [
+    "OwlOfAthenaERC.sol"
+  ],
+  "address": "0x799BAaD3ab4964663b2e7284244094Da327a035A"
+}
