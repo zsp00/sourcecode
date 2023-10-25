@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BtzToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4cd69173da01a4bbb165d993d31f13746d7b5bf1dbd3b42162451262ed6ff267",
+  "path": [
+    "BtzToken.sol"
+  ],
+  "address": "0xE5f867dE1EA81346df5181b8b48DD6B0BB3357B0"
+}
