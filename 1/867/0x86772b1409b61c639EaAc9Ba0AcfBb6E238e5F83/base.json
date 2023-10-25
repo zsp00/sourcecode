@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ndx",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000236eccab8cdcfedb099de85c4060024ba3ce4d46000000000000000000000000236eccab8cdcfedb099de85c4060024ba3ce4d460000000000000000000000000000000000000000000000000000000060b57880",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "temp-contracts/governance/Ndx.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol"
+  ],
+  "address": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83"
+}
