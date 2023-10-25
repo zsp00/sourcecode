@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ducks",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d3973eed5161092fe61cab5ce762b6ed69713374c9cd87609fb7d0bdce0fa7b3",
+  "path": [
+    "Ducks.sol"
+  ],
+  "address": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20"
+}
