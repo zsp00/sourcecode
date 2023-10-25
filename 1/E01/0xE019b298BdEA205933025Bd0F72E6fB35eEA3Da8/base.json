@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Tether",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://16a7a085fae7a152719952062a68016c9406963854ec87c7efffb5c876a3eaa4",
+  "path": [
+    "Tether.sol"
+  ],
+  "address": "0xE019b298BdEA205933025Bd0F72E6fB35eEA3Da8"
+}

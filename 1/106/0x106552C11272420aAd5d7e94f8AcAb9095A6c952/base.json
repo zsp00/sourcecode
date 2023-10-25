@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KeanuInu",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://22ab0c7744b0ac161670a4784a8f2560d8d738d50977595aa11762dd87df69be",
+  "path": [
+    "KeanuInu.sol"
+  ],
+  "address": "0x106552C11272420aAd5d7e94f8AcAb9095A6c952"
+}
