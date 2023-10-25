@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ShpingCoin",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://71321fce1d3b000927054aaab1c62affdf21c8207d865df6cf1c2c49af74c9ad",
+  "path": [
+    "ShpingCoin.sol"
+  ],
+  "address": "0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC"
+}

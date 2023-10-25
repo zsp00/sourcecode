@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DVPToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8870fe43a1cc112a5e970352931483b4b5af67f3c3250ef1fc11b8aa6b920fcc",
+  "path": [
+    "DVPToken.sol"
+  ],
+  "address": "0x8E30ea2329D95802Fd804f4291220b0e2F579812"
+}
