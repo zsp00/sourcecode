@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SquidGrow",
+  "CompilerVersion": "v0.8.14+commit.80d49f37",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://792dd7bcb4cf8e10e6d3112f3b3858d5a7b0ac95b1756a3f8f9c9681b8215aad",
+  "path": [
+    "SquidGrow.sol"
+  ],
+  "address": "0xd8Fa690304D2B2824D918C0c7376e2823704557A"
+}

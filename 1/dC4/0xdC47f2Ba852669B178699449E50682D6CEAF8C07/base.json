@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StonToken",
+  "CompilerVersion": "v0.6.10+commit.00c0fcaf",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000003cfdddf82eef46f6436c214e849942460eb13c08",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2de792290c2f971a80bd7228209d1802abffbffe307f07fc884e004821a9ad39",
+  "path": [
+    "StonToken.sol"
+  ],
+  "address": "0xdC47f2Ba852669B178699449E50682D6CEAF8C07"
+}
