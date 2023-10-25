@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TRONCLASSIC",
+  "CompilerVersion": "v0.4.24-nightly.2018.5.7+commit.6db7e09a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9583846b44127f11792cade285d01ac45d8dfe7a1d89cee0f54af9acd30ab8fe",
+  "path": [
+    "TRONCLASSIC.sol"
+  ],
+  "address": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e"
+}

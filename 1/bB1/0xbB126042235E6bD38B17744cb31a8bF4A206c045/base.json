@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FANC",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://27eb1a0492cb79ae2d66933b7d3de972db164d7489e55f16178df41b2ed32107",
+  "path": [
+    "PauserRole.sol",
+    "ERC20.sol",
+    "ERC20Burnable.sol",
+    "ERC20Detailed.sol",
+    "ERC20Pausable.sol",
+    "fanCToken.sol",
+    "Ownable.sol",
+    "Pausable.sol",
+    "Roles.sol",
+    "IERC20.sol",
+    "SafeMath.sol"
+  ],
+  "address": "0xbB126042235E6bD38B17744cb31a8bF4A206c045"
+}

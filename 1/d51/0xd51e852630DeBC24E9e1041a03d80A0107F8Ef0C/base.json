@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ORIUMCOIN",
+  "CompilerVersion": "v0.4.11+commit.68ef5810",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fcdcf865564e97f73e44d3b3986e185c0ab8e1f83eb2aa308e398043b0c595b5",
+  "path": [
+    "ORIUMCOIN.sol"
+  ],
+  "address": "0xd51e852630DeBC24E9e1041a03d80A0107F8Ef0C"
+}
