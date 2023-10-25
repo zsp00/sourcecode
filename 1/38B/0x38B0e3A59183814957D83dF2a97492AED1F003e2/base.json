@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Animal",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv2",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7c544ac8c2e3cd1fc25bfa5384f5caab981d6884564998924fe2f04f0e2a7e4a",
+  "path": [
+    "Animal.sol"
+  ],
+  "address": "0x38B0e3A59183814957D83dF2a97492AED1F003e2"
+}

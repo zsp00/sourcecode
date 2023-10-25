@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EURSToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000070250fcFEf983C9b912c8EEFB7021B4b7baE836e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x25d772b21b0e5197f2dc8169e3aa976b16be04ac",
+  "SwarmSource": "bzzr://27e03fc3f414023826a7fb6fd321bb5c5ba610cbb273a99d307095a1b3d0b811",
+  "path": [
+    "EURSToken.sol"
+  ],
+  "address": "0xdB25f211AB05b1c97D595516F45794528a807ad8"
+}

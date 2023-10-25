@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KylinToken",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b476c514235002ae03fd60b0340dcdea852cf76372f6b37460b13f82f053ebcb",
+  "path": [
+    "KylinToken.sol"
+  ],
+  "address": "0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C"
+}
