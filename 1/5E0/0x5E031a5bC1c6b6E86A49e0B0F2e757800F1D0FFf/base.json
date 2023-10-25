@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DAFIN",
+  "CompilerVersion": "v0.5.6+commit.b259423e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3340060a54283b0e72c8f7e5510ca54c94d9e018feb0d37ff12fda262acdb989",
+  "path": [
+    "DAFIN.sol"
+  ],
+  "address": "0x5E031a5bC1c6b6E86A49e0B0F2e757800F1D0FFf"
+}

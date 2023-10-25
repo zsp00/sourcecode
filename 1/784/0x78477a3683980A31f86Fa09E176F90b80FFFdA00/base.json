@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BitcoinDiamond",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b4d6a9be030bc4bfd9e4f41d713b9c218d80a0e0a814c5475d47e460936207fa",
+  "path": [
+    "BitcoinDiamond.sol"
+  ],
+  "address": "0x78477a3683980A31f86Fa09E176F90b80FFFdA00"
+}
