@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NHT",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000204fce5e3e25026110000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d953b98d5791c71789ed516c056bf428b63dbf537563ccd15b3a4c236207c246",
+  "path": [
+    "ERC20.sol",
+    "ERC20Basic.sol",
+    "Ownable.sol",
+    "SafeMath.sol",
+    "StandardToken.sol",
+    "CapToken.sol",
+    "CappedToken.sol",
+    "MintableToken.sol",
+    "BasicToken.sol"
+  ],
+  "address": "0x815c43CAe68c51fb9C79aCD2c5D5fBD7a4a3a9eA"
+}
