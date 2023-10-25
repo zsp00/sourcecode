@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TANTAN",
+  "CompilerVersion": "v0.5.11+commit.c082d0b4",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5a9c5c98743d13f3ef7280a2450404bd69452559156cd05eb403efb0e5088b38",
+  "path": [
+    "TANTAN.sol"
+  ],
+  "address": "0x2121a1B68E9C2Cc8fF4Bfd8bCD0F891ece331c51"
+}
