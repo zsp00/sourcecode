@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NeuroniAI",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://dee1094e34294ea839b72410c4eb0b66574eb8a52d3921e7b270f1fd8dda9770",
+  "path": [
+    "Burnable.sol",
+    "Interfaces.sol",
+    "Libraries.sol",
+    "Taxable.sol",
+    "TaxDistributor.sol",
+    "_Neuroni.sol",
+    "AntiSniper.sol",
+    "BaseErc20.sol"
+  ],
+  "address": "0x922e2708462c7a3d014D8344F7C4d92b27ECf332"
+}

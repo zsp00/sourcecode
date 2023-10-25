@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OptaToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8955b8b8691c20c5cd094495c8b5705abd5405beacad82a46a098a3baf7898e8",
+  "path": [
+    "OptaToken.sol"
+  ],
+  "address": "0x3fE2eF1DFb1595195768627d16751D552586dce8"
+}
