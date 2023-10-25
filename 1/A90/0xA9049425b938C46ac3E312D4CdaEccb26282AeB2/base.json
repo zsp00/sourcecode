@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WICKEDBET",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://385359b57e6a6a64455b8226418ecc011665e0bfc111bba0dd77fc488c5d762f",
+  "path": [
+    "WICKEDBET.sol"
+  ],
+  "address": "0xA9049425b938C46ac3E312D4CdaEccb26282AeB2"
+}

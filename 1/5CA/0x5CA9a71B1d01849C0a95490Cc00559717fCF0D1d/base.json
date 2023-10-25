@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AEToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "1",
+  "Runs": "0",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5ebd14f97c410ac1edf4f45aa6b5c02b7b09942cbf3f0c650001c1ec54b17b10",
+  "path": [
+    "AEToken.sol"
+  ],
+  "address": "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d"
+}

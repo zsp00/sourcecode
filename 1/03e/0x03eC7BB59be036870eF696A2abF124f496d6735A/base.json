@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SancojTokenContract",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://25b5baecc854d1e3e89cfb041c4d26899a147fc7b9219b50d0e11986466350e7",
+  "path": [
+    "SancojTokenContract.sol"
+  ],
+  "address": "0x03eC7BB59be036870eF696A2abF124f496d6735A"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Chainback",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://aed64505fdcbd524174fabb28294004a18c2e9cdef8c38e3f4ecd3ba2ebbb65d",
+  "path": [
+    "Chainback.sol"
+  ],
+  "address": "0xC7f950271d118A5bdF250dFfc39128DCCED8472C"
+}
