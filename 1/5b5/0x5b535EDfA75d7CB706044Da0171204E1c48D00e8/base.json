@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Token808TA",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://25731daedd5a26f6709b4ca3658805fb05676e48284258abf571578a6158ebc4",
+  "path": [
+    "Token808TA.sol"
+  ],
+  "address": "0x5b535EDfA75d7CB706044Da0171204E1c48D00e8"
+}
