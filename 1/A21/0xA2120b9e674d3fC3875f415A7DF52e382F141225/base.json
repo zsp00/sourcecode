@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ATAToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000033b2e3c9fd0803ce8000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/ATA_ETH.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225"
+}
