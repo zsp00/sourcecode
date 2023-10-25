@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FuelToken",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000014adf4b7320334b900000000000000000000000000000004b29444d24d30de6ce16616b32538224b3c41c7c0000000000000000000000009c48850a6e5b9742ed78fe4c0b820ec15d108ad6",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b2995f1a78bb5169fc4ad07ec9ca8b17f4248c7fd2b66690eb9e67d4c2f639a6",
+  "path": [
+    "FuelToken.sol"
+  ],
+  "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7"
+}
