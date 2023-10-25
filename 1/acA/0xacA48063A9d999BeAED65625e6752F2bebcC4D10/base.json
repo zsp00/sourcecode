@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IMOSToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4a7110b73f005ab353e3923ac50ff24890b8ef88c1080dfc16cf568d1644cfa9",
+  "path": [
+    "IMOSToken.sol"
+  ],
+  "address": "0xacA48063A9d999BeAED65625e6752F2bebcC4D10"
+}
