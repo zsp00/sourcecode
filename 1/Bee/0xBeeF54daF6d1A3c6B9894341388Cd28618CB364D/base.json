@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ABE",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://facbe2560ea4a9516ed672db0372baec4af3e867b03e33c6c452eb30e3565f08",
+  "path": [
+    "ABE.sol"
+  ],
+  "address": "0xBeeF54daF6d1A3c6B9894341388Cd28618CB364D"
+}
