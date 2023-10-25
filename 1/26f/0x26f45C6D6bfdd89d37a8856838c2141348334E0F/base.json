@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MASYA",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c127151474a23434db43d726d101bfba830225ca63560a1b79ea8ef3c89f8e56",
+  "path": [
+    "MASYA.sol"
+  ],
+  "address": "0x26f45C6D6bfdd89d37a8856838c2141348334E0F"
+}
