@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MAGA",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0f378175c9337a72dcdd44102d9081505a6fa7d76f54f84cbb63be33b16031c2",
+  "path": [
+    "MAGA.sol"
+  ],
+  "address": "0x576e2BeD8F7b46D34016198911Cdf9886f78bea7"
+}

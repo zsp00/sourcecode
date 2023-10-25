@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UniBrightToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "10000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1b3565aca8ba7bf32fcc7d4cee78cd9e0f699da21898253f0acefb787aebb47e",
+  "path": [
+    "UniBrightToken.sol"
+  ],
+  "address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e"
+}

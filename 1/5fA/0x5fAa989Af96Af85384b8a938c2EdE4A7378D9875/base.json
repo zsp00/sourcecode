@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GAL",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000783c330a7a4968a08ce100a16ac27ff2ccfaebdf000000000000000000000000783c330a7a4968a08ce100a16ac27ff2ccfaebdf",
+  "EVMVersion": "istanbul",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://63fbf3dc513e4193334a0395c03ba9ea8494aa27c7f80225c2a814964ca86267",
+  "path": [
+    "Ownable.sol",
+    "ERC20.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "Strings.sol",
+    "GAL.sol",
+    "Context.sol",
+    "draft-ERC20Permit.sol",
+    "draft-IERC20Permit.sol",
+    "draft-EIP712.sol",
+    "ECDSA.sol",
+    "Counters.sol"
+  ],
+  "address": "0x5fAa989Af96Af85384b8a938c2EdE4A7378D9875"
+}

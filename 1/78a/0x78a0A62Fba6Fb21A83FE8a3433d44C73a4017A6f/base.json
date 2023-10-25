@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OpenExchangeToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000005f0c6669bb3619bf732ab805695414d5832257ab",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "src/OpenExchangeToken.sol",
+    "lib/superallowlist/src/SuperallowlistERC20.sol",
+    "lib/superallowlist/lib/solmate/src/tokens/ERC20.sol",
+    "lib/superallowlist/lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+    "lib/superallowlist/lib/openzeppelin-contracts/contracts/utils/Context.sol"
+  ],
+  "address": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f"
+}

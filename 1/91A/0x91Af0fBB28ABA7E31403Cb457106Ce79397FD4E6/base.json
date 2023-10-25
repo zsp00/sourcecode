@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AergoErc20",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a93176f1402d3ca94b19e2caf320046624ae11a5dfe9ef298641d6c688f1c2e7",
+  "path": [
+    "AergoErc20.sol"
+  ],
+  "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6"
+}
