@@ -1,0 +1,15 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Dai",
+  "CompilerVersion": "v0.5.12+commit.7709ece9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000001",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c0ae2c29860c0a59d5586a579abbcddfe4bcef0524a87301425cbc58c3e94e31"
+}
