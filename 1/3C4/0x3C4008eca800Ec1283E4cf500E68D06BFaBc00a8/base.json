@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HistoryDaoToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://11482941c6314a6fd05d14a5b158b8e3ee5be58fffb8ee8bdd29db0a57100b6a",
+  "path": [
+    "HistoryDaoToken.sol"
+  ],
+  "address": "0x3C4008eca800Ec1283E4cf500E68D06BFaBc00a8"
+}
