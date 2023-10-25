@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "wNXM",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000d7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2b40a804d878b37534645a522456aa40eeee8f592195296103ebb27d8ea5312b",
+  "path": [
+    "wNXM.sol"
+  ],
+  "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE"
+}

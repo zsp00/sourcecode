@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "POG",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000299f8a0d5f0edfc5be17250a3d90a47b330d3dac",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3b0487a05ea272ec4c0ebd3c27c95f630993d622836a9ba04e9132db95a087d1",
+  "path": [
+    "POG.sol"
+  ],
+  "address": "0x0a693a301215aad39D83A32A5b5279f2D238851b"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PepeGains",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://64167e4eb16d47bc6833713187bd081ee01822ae116558a4fd2f7135e669f3c1",
+  "path": [
+    "PepeGains.sol"
+  ],
+  "address": "0x8c44b722EDe8D6cC9f7b2372cBe10a935E5092b1"
+}

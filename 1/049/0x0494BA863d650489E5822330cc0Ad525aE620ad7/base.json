@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HEART",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://406bd8619dffd1b78598ca92a542338317623576a6e864dff8c8e221213406eb",
+  "path": [
+    "HEART.sol"
+  ],
+  "address": "0x0494BA863d650489E5822330cc0Ad525aE620ad7"
+}

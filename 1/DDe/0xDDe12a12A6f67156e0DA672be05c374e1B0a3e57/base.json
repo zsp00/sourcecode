@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "JoyToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000c640b901a529c58fb6f6c53665768e2d5c835421",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://562199ec0ca13b3150a82964741a42c16097ee4e031d379cfb5b57df206286a3",
+  "path": [
+    "JoyToken.sol"
+  ],
+  "address": "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57"
+}
