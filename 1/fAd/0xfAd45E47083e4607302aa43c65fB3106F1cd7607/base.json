@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HOGE",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1ded351e4ec3c1fbea9d3e067f68ab429c8359fd723373c9223dbc485d5785eb",
+  "path": [
+    "HOGE.sol"
+  ],
+  "address": "0xfAd45E47083e4607302aa43c65fB3106F1cd7607"
+}

@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RADA",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fc524553a8356b1088d907d3b523dcccc4a15bad79fa643a88a9bf2637431c59",
+  "path": [
+    "Ownable.sol",
+    "Whitelist.sol",
+    "erc20.sol",
+    "IERC20.sol"
+  ],
+  "address": "0x7AA2f174fBC4D0a17B34adFB9b3E1DC029B46d76"
+}
