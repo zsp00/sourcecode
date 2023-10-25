@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SecretSocietyToken",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5cf705f8f744aaf48a802209aa3879eb9be0ed8d19e36b07e1672bd8978da136",
+  "path": [
+    "SecretSocietyToken.sol"
+  ],
+  "address": "0xe4b4C008Ff36E3C50c4299c223504a480DE9C833"
+}

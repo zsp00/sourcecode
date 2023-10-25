@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PEW",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a8711bf77d49dcde7b61cdd6fb368f63e57384003b515f1adddcc14929f3514e",
+  "path": [
+    "PEW.sol"
+  ],
+  "address": "0x01DfD1534e5e87277d999C79ADc4CA68B41C564E"
+}
