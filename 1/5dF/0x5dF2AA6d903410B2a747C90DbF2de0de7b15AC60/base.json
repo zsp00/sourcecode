@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OxGAMBIT",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ff5cc7db6be6122b4fac34eec082b62301f36a23",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "0xgambit.sol"
+  ],
+  "address": "0x5dF2AA6d903410B2a747C90DbF2de0de7b15AC60"
+}

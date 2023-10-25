@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HBTCToken",
+  "CompilerVersion": "v0.5.11+commit.c082d0b4",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000003cb0efa4fab108e2406bfb9afd82c636fcd1d758000000000000000000000000167e3b1b844faff53ed46378337cfd21e96feed00000000000000000000000003f94d59473fef0537c50ed71bd41dce9bcf513c7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d8d46d203e04bf8dcd287bf533e28887bd4432856e7b208f559d4486d229eef5",
+  "path": [
+    "HBTCAdmin.sol",
+    "HBTCLogic.sol",
+    "HBTCStorage.sol",
+    "HBTCToken.sol",
+    "IERC20Token.sol",
+    "SafeMath.sol",
+    "Container.sol",
+    "Pausable.sol",
+    "Migrations.sol"
+  ],
+  "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380"
+}

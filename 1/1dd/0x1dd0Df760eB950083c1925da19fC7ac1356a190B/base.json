@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TokenProxy",
+  "CompilerVersion": "v0.5.12+commit.7709ece9",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "000000000000000000000000e9e10a5de4a4920d9a5fd6f0c2f205eb575fd7d6",
+  "EVMVersion": "petersburg",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://528a1ff6e1fc8954db9aeaf5ea43e529e11d0ac02bd87e4fbe9808de4e78374c",
+  "path": [
+    "TokenProxy.sol"
+  ],
+  "address": "0x1dd0Df760eB950083c1925da19fC7ac1356a190B"
+}

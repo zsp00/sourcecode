@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PATPAT",
+  "CompilerVersion": "v0.4.4+commit.4633f3de",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "PATPAT.sol"
+  ],
+  "address": "0xe58801bb83236e84E29E3B550717F80B7569E21F"
+}
