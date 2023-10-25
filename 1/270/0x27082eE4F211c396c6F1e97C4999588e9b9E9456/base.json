@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BitCraft",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://52b39c11ac32800da3cab42f33ddffb9c0a0c97aa1ce03036f21f7f1ccb015f3",
+  "path": [
+    "BitCraft.sol"
+  ],
+  "address": "0x27082eE4F211c396c6F1e97C4999588e9b9E9456"
+}
