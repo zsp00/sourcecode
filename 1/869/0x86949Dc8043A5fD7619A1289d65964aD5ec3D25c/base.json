@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GCSToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c23d56c58324f5f16eb5eca09120bc4bcbfb1774a7faf60202d178edb80eb327",
+  "path": [
+    "GCSToken.sol"
+  ],
+  "address": "0x86949Dc8043A5fD7619A1289d65964aD5ec3D25c"
+}
