@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BitWPPToken",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9591ede47cf8d869bdceb806d54ade027ea9b3e464ea81ee9a9c906443a18885",
+  "path": [
+    "BitWPPToken.sol"
+  ],
+  "address": "0x1955d744F9435522Be508D1Ba60E3c12D0690B6A"
+}

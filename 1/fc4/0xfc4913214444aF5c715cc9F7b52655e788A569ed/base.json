@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Icosa",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6fae9180e5bc3b2fe969c2964f1e17e80de1e312a7226fdda5ba630a8a9e27fc",
+  "path": [
+    "Icosa.sol"
+  ],
+  "address": "0xfc4913214444aF5c715cc9F7b52655e788A569ed"
+}

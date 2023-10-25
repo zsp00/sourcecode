@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZildFinanceCoin",
+  "CompilerVersion": "v0.5.4+commit.9549d8ff",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000105f7e95a94047224e63947a522864bfbae04beb000000000000000000000000fc96e922f8e73a2effecee10c30c2d82c47d7e44",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e6fd4002a5984c22bde21a7c9b84330841d0b32b169895279b8dfd458969c211",
+  "path": [
+    "IERC20.sol",
+    "Ownable.sol",
+    "SafeMath.sol",
+    "ZildFinance.sol"
+  ],
+  "address": "0x006699d34AA3013605d468d2755A2Fe59A16B12B"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WAVES",
+  "CompilerVersion": "v0.6.8+commit.0bbfe453",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://15806b87b46c722b54f5f8f50de4114610e92b1d2f590ccf5f0071b72431c678",
+  "path": [
+    "WAVES.sol"
+  ],
+  "address": "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a"
+}

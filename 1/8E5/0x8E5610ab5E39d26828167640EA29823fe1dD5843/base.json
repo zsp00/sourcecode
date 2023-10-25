@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KanadeCoin",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ff6a30ca35f57674d0675c63bbb7bd049fa0734b4bd88e39159952c48ef4d8ee",
+  "path": [
+    "KanadeCoin.sol"
+  ],
+  "address": "0x8E5610ab5E39d26828167640EA29823fe1dD5843"
+}
