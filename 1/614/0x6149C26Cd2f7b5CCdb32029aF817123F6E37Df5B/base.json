@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LaunchPoolToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000084595161401484a000000000000000000000000000000f477f4a37893bc36fbc7e5be0603407cc7f011f4",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://99a3ad263e64aaf613d72a7b80cad2951a99676a057a69cf168b82ee8621ac0d",
+  "path": [
+    "contracts/LaunchPoolToken.sol"
+  ],
+  "address": "0x6149C26Cd2f7b5CCdb32029aF817123F6E37Df5B"
+}
