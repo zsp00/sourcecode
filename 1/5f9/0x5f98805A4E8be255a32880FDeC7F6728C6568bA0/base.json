@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LUSDToken",
+  "CompilerVersion": "v0.6.11+commit.5ef660b1",
+  "OptimizationUsed": "1",
+  "Runs": "100",
+  "ConstructorArguments": "000000000000000000000000a39739ef8b0231dbfa0dcda07d7e29faabcf4bb200000000000000000000000066017d22b0f8556afdd19fc67041899eb65a21bb00000000000000000000000024179cd81c9e782a4096035f7ec97fb8b783e007",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Dependencies/CheckContract.sol",
+    "contracts/Dependencies/console.sol",
+    "contracts/Dependencies/IERC20.sol",
+    "contracts/Dependencies/IERC2612.sol",
+    "contracts/LUSDToken.sol",
+    "contracts/Interfaces/ILUSDToken.sol",
+    "contracts/Dependencies/SafeMath.sol"
+  ],
+  "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
+}

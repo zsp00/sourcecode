@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CoinealToken",
+  "CompilerVersion": "v0.4.24-nightly.2018.4.20+commit.f328431",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7f00a3d66a9342dff7254b0e5de3405aa086b646dfe10bb5975b631b272a358b",
+  "path": [
+    "CoinealToken.sol"
+  ],
+  "address": "0xAcCe88F5A63A5e65DB9AA7303720bE16b556E751"
+}

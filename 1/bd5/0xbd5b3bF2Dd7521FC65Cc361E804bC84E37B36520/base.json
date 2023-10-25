@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UltimateTokenOwnable",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "100",
+  "ConstructorArguments": "",
+  "EVMVersion": "paris",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "none://164736f6c6343000813000a",
+  "path": [
+    "contracts/core/interfaces/IERC20Metadata.sol",
+    "contracts/core/libraries/Address.sol",
+    "contracts/core/Ownable.sol",
+    "contracts/core/Pausable.sol",
+    "contracts/UltimateTokenOwnable.sol",
+    "contracts/core/ERC20.sol",
+    "contracts/core/Initializable.sol",
+    "contracts/core/interfaces/IERC20.sol"
+  ],
+  "address": "0xbd5b3bF2Dd7521FC65Cc361E804bC84E37B36520"
+}

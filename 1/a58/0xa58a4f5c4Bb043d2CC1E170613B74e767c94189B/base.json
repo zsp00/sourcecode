@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UTUToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000033b2e3c9fd0803ce8000000000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000004000000000000000000000000f4760e54f5b5a9fc472b752fdeacd86951f330bf0000000000000000000000003f5d87f59bb411730235f4b65844a6937e2e651f000000000000000000000000ee0e833ac9227171e9febf3f665fdec57595660f0000000000000000000000006510a1e08c721f379cf8f0f7c62f6ee640ed8a9c0000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000ff390aa18e3973295c0000000000000000000000000000000000000000000000f8277896582678ac000000000000000000000000000000000000000000000000f8277896582678ac0000000000000000000000000000000000000000000000000108b2a2c2802909400000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/UTUToken.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Capped.sol",
+    "@openzeppelin/contracts/token/ERC20/SafeERC20.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/utils/EnumerableSet.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/math/Math.sol"
+  ],
+  "address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B"
+}

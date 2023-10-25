@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Psyop",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000091364516d3cad16e1666261dbdbb39c881dbe9ee",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://21a0feaa9371ea9957724cb96d94f9ee398deb4e5d7075507466421facfdc05f",
+  "path": [
+    "@openzeppelin/contracts/security/Pausable.sol",
+    "./contracts/Psyop.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0x3007083EAA95497cD6B2b809fB97B6A30bdF53D3"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RadicleToken",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000006838f63899728816f602b3e9bf73952e2bd6dc35",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1e9fe306fe53be7e6d22e3455d0139cd5e870299dbf219ba35fee5276c0dddd2",
+  "path": [
+    "RadicleToken.sol"
+  ],
+  "address": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3"
+}
