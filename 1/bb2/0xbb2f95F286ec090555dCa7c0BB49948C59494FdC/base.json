@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IDRC",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d4e79d0634a48b54d462efce52bf5250eb9341791c00e8714d1bbcaa2761a40d",
+  "path": [
+    "IDRC.sol"
+  ],
+  "address": "0xbb2f95F286ec090555dCa7c0BB49948C59494FdC"
+}

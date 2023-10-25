@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MESH",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ab1504e26f1ad9c00ce370c6aa1937ea33f0dbb08d24a5ee89e560ed258c838f",
+  "path": [
+    "MESH.sol"
+  ],
+  "address": "0xcF9fBFfEC9e0e5BbC62E79bf1965f5Db76955661"
+}

@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Hifi",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "800",
+  "ConstructorArguments": "000000000000000000000000d3297c6ab8b7c2d9175a38e3e7f669b286a3296f000000000000000000000000d3297c6ab8b7c2d9175a38e3e7f669b286a3296f",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Hifi.sol",
+    "@prb/contracts/token/erc20/IERC20.sol"
+  ],
+  "address": "0x4b9278b94a1112cAD404048903b8d343a810B07e"
+}

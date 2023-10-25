@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KeepToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a726793da76351b37f8753c04efb10abc8678bec060f6d9905a3c26006c3f005",
+  "path": [
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20Burnable.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20Detailed.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/IERC20.sol",
+    "openzeppelin-solidity/contracts/GSN/Context.sol",
+    "openzeppelin-solidity/contracts/math/SafeMath.sol",
+    "solidity/contracts/KeepToken.sol"
+  ],
+  "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC"
+}

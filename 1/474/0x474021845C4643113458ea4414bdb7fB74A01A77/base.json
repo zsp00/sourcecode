@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UnoRe",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000013e2ca33d4ff3a396180000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://33617fca1d13ee6781b9a714ab6784443a4277840918c78003cec6a429770823",
+  "path": [
+    "UnoRe.sol"
+  ],
+  "address": "0x474021845C4643113458ea4414bdb7fB74A01A77"
+}
