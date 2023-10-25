@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TXN",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://dd7a75eff7e64a54bb802ff54739579bea54a0e9067f68dbd46a539ac3b80e5b",
+  "path": [
+    "TXN.sol"
+  ],
+  "address": "0x7236A7Ad67976eE07961Ab26Ed6F4CD23F7a9bD1"
+}
