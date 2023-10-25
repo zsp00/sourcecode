@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WAGMI",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0e3626235160f4dc7b425c1099f014c9072c6c36af2c92c6e4cb42a1575a1b6e",
+  "path": [
+    "WAGMI.sol"
+  ],
+  "address": "0xd70D59f358830d5FD1CbAB2C1D0bB50fdA66Ba55"
+}
