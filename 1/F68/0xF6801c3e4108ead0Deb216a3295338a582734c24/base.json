@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LBC",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://49e7f181c110d6ed45187c71e26e2f46431d36af2c66feeea9ef4a14e7fa10ed",
+  "path": [
+    "LBC.sol"
+  ],
+  "address": "0xF6801c3e4108ead0Deb216a3295338a582734c24"
+}
