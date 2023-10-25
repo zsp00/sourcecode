@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Mumu",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b756979e35987dae16f8a7c1ae87faf7552a6fbafb9e19cd04d34186c6722ca9",
+  "path": [
+    "Mumu.sol"
+  ],
+  "address": "0x2F573070E6090b3264Fe707e2C9F201716F123c7"
+}
