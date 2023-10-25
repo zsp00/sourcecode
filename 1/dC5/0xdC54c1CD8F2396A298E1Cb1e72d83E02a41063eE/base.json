@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BitcoinUp",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://452183f64199686ed24777320d7fe6746b9de6613e2623c640434cf1d795a99e",
+  "path": [
+    "BitcoinUp.sol"
+  ],
+  "address": "0xdC54c1CD8F2396A298E1Cb1e72d83E02a41063eE"
+}
