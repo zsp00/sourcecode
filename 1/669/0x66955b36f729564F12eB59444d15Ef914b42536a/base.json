@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FOODToken",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://525cd4552752a0a77c06b0d69e6063c2adc2575daaff35dce5379addae6c1244",
+  "path": [
+    "FOODToken.sol"
+  ],
+  "address": "0x66955b36f729564F12eB59444d15Ef914b42536a"
+}
