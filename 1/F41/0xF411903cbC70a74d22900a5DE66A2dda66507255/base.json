@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VraToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bff526c3c0ca8ee4afba1b3fa191fc0873e5eb4ac456f02ea2af6e5eb9ac9847",
+  "path": [
+    "VraToken.sol"
+  ],
+  "address": "0xF411903cbC70a74d22900a5DE66A2dda66507255"
+}
