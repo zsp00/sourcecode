@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SKULL",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f7d56edcb25d449995640c9eb6987121a06fc89e0ab3a7ebe891e7736ce07967",
+  "path": [
+    "SKULL.sol"
+  ],
+  "address": "0x0BE7C768ee5150D158a34A02830695A4A6AD1E16"
+}
