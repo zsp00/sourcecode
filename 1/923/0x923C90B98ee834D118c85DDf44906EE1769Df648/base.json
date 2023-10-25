@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Qitcoin",
+  "CompilerVersion": "v0.5.11+commit.c082d0b4",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://72bb0f98637b997b2a328d6a23a0fe078e2f2fe5b73c3b7c9d7e23de3fceffc7",
+  "path": [
+    "Qitcoin.sol"
+  ],
+  "address": "0x923C90B98ee834D118c85DDf44906EE1769Df648"
+}

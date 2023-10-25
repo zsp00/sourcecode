@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "luhcalmfit",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://45a80f93869b0c8d9383e7c8e9e4dcf94414382832b3e03405d7bd626839cc8f",
+  "path": [
+    "luhcalmfit.sol"
+  ],
+  "address": "0x7698136F5A4334D684BB9fE24CC5B0ce9eaF9B6d"
+}
