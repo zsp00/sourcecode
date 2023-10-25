@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LuffyToken",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7b85d33fb5f77df8df6aba4dc598a3203a3ec8addc9c6387e72a3e3098f392cd",
+  "path": [
+    "LuffyToken.sol"
+  ],
+  "address": "0x54012cDF4119DE84218F7EB90eEB87e25aE6EBd7"
+}

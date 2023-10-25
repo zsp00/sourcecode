@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FAMCO",
+  "CompilerVersion": "v0.8.14+commit.80d49f37",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d6b9836646a97a51d7c63f92a76fb69f6c2f461eb9f1a66cb1bdb7c763044834",
+  "path": [
+    "FAMCO.sol"
+  ],
+  "address": "0x6f841c1f738A8D77D4F303186E0BC0cC2430Aab2"
+}
