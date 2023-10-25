@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Tether",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000089544000000000000000000000000000000000000000000000000000000000000000038",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "OSL-3.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://61315b216efd3c5ccbde37e33c855fba15d4b7425440c4b30667a3775c41bebe",
+  "path": [
+    "Tether.sol"
+  ],
+  "address": "0xB008a07a0fD4603b8720A669a7AAf7d08C0a86D8"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "STAT",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f1818be72e67cf004ec8ddbe035546912d6d48a4ec59ab206c2acf6b0a25d7bc",
+  "path": [
+    "STAT.sol"
+  ],
+  "address": "0x4FC15c91a9c4A9efB404174464687E8e128730C2"
+}

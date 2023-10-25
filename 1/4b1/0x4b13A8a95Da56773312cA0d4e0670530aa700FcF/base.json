@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZHTToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://93a316804a34c285c50a2a91a4fd81ed68986a4703247a6c37cbea16319133c1",
+  "path": [
+    "ZHTToken.sol"
+  ],
+  "address": "0x4b13A8a95Da56773312cA0d4e0670530aa700FcF"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ping",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8d7eb86fe356fcb8c460f8ea6da34d5bbff1a8187a25c3153315b3a541527d05",
+  "path": [
+    "Ping.sol"
+  ],
+  "address": "0xf240b48464eF6bae0306592b48131bECe8cb7333"
+}
