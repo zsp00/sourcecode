@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "The_Secret_Coin",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "Ownable.sol",
+    "Initializable.sol",
+    "IUniswapV2Factory.sol",
+    "IUniswapV2Router02.sol",
+    "Context.sol",
+    "Token.sol",
+    "ERC20.sol",
+    "ERC20Burnable.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "IUniswapV2Pair.sol",
+    "IUniswapV2Router01.sol"
+  ],
+  "address": "0x617eAD3c59Ded3ea1BB17881118Cf310144b450f"
+}

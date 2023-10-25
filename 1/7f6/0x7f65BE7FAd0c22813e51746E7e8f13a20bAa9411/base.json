@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Rebitcoin",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b3b51a2ac69e3ef502c03a9e7c072e0f849d0371f4d36501053aff9aa2454cb6",
+  "path": [
+    "Rebitcoin.sol"
+  ],
+  "address": "0x7f65BE7FAd0c22813e51746E7e8f13a20bAa9411"
+}
