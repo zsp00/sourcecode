@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MROv1",
+  "CompilerVersion": "v0.5.9+commit.e560f70d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://12b10752f7eb31773f5b630dabc34a45a028d56997e1bd7156ec869cf0251629",
+  "path": [
+    "MROv1.sol"
+  ],
+  "address": "0x6ff313FB38d53d7A458860b1bf7512f54a03e968"
+}

@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AimBot",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/AimBotDividends.sol",
+    "contracts/Context.sol",
+    "contracts/IERC20.sol",
+    "contracts/IUniswapV2Router.sol",
+    "contracts/SafeMath.sol",
+    "contracts/AimBot.sol",
+    "contracts/ERC20.sol",
+    "contracts/IERC20Metadata.sol",
+    "contracts/IUniswapV2Factory.sol",
+    "contracts/Ownable.sol"
+  ],
+  "address": "0x0c48250Eb1f29491F1eFBeEc0261eb556f0973C7"
+}

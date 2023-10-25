@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Green",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8a112db585141ae3cb3525878caebd717dae347ce2099163ce29f4caf389df1f",
+  "path": [
+    "Green.sol"
+  ],
+  "address": "0xb2089A7069861C8D90c8dA3aaCAB8e9188C0C531"
+}
