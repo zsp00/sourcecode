@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SACO",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7fa33c4c356fc779f33cea50f7475921e7485eedd1546428dbbc93f5af1fe373",
+  "path": [
+    "SACO.sol"
+  ],
+  "address": "0xf34839B310097FcB4Cf3a302dda8CC9B57501083"
+}
