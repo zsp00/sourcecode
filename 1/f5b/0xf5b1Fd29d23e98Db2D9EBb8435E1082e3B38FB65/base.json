@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KishimotoInu",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a72543e1d2117c34011f7a45b2d67f34077411f7909545c792655f571d6db673",
+  "path": [
+    "KishimotoInu.sol"
+  ],
+  "address": "0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65"
+}
