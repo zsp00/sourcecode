@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LOONToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://66d0b4fa8b84a3b56eaf216fd98ac9bd06d6f4becbf80b3157a2265c1a564d5c",
+  "path": [
+    "LOONToken.sol"
+  ],
+  "address": "0x7C5d5100B339Fe7D995a893AF6CB496B9474373c"
+}

@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SimpleToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://49661cee51378e5de480f9d7708d3ec6a0ca15194967d4b5b1d48e7c451e359b",
+  "path": [
+    "Owned.sol",
+    "SafeMath.sol",
+    "SimpleToken.sol",
+    "SimpleTokenConfig.sol",
+    "ERC20Interface.sol",
+    "ERC20Token.sol",
+    "OpsManaged.sol"
+  ],
+  "address": "0x16cdd7DFaecd43409f72069bc46af309449f7403"
+}

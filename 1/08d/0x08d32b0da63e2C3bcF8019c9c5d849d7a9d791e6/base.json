@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DentacoinToken",
+  "CompilerVersion": "v0.4.8+commit.60cc1668",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://dd908e47570658e19355d4d9d91ee9d6351055f8f5e70c8a58e1831de5274da2",
+  "path": [
+    "DentacoinToken.sol"
+  ],
+  "address": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6"
+}

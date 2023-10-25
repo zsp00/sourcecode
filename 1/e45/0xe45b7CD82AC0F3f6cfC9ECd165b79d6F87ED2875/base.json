@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SEcoin",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000052873e9191f21a26ddc8b65e5dddbac6b73b69e8",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://508ad3286943686a966a80b402710c7310b2e2fe9df0e3ec43447cea874536d3",
+  "path": [
+    "SEcoin.sol"
+  ],
+  "address": "0xe45b7CD82AC0F3f6cfC9ECd165b79d6F87ED2875"
+}
