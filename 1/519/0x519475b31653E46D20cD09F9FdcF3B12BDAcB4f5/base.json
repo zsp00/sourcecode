@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VIUToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://23c9c9fad1f79166e239d934800c100c09226d6a11d19fdc733e928c26bcd28d",
+  "path": [
+    "VIUToken.sol"
+  ],
+  "address": "0x519475b31653E46D20cD09F9FdcF3B12BDAcB4f5"
+}
