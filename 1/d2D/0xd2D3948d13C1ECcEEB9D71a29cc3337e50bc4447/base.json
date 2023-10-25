@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SmurfToken",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000014bddab3e51a57cff87a50000000",
+  "EVMVersion": "constantinople",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "/contracts/SmurfToken.sol",
+    "@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0xd2D3948d13C1ECcEEB9D71a29cc3337e50bc4447"
+}
