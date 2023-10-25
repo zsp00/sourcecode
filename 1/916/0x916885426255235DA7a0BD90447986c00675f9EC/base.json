@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GoalTimeToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9c2fb7906fe9a30cc3e426cc34297162410ac3f4c07d7a1ab36cab01a78d8105",
+  "path": [
+    "GoalTimeToken.sol"
+  ],
+  "address": "0x916885426255235DA7a0BD90447986c00675f9EC"
+}
