@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CSE",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ce85b1b587a540f80e7ac1cbe3467546a233856c3eb835cc039e5ef8327a8d1f",
+  "path": [
+    "CSE.sol"
+  ],
+  "address": "0x5f6bb53F9e01836D8394d340D5D69B8887E2f1D7"
+}
