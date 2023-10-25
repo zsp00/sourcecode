@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EscrowedIlluvium2",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/EscrowedIlluvium2.sol",
+    "contracts/utils/AddressUtils.sol",
+    "contracts/utils/AccessControl.sol",
+    "contracts/interfaces/ERC20Receiver.sol"
+  ],
+  "address": "0x7E77dCb127F99ECe88230a64Db8d595F31F1b068"
+}

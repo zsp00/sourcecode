@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DODOToken",
+  "CompilerVersion": "v0.6.9+commit.3e3065ac",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b235e2a2bee21589404e1443ef00ec2dca9830877357b2d52c3f9e23e3f8876f",
+  "path": [
+    "DODOToken.sol"
+  ],
+  "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd"
+}

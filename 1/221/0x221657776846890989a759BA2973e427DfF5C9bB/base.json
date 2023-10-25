@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ReputationToken",
+  "CompilerVersion": "v0.5.15+commit.6a57276f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000023916a8f5c3846e3100e5f587ff14f3098722f5d00000000000000000000000049244bd018ca9fd1f06ecc07b9e9de773246e5aa0000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://639a17082bb841ef885557bfd4f939fda1d15d9ef9da41800995126dccd4ef0f",
+  "path": [
+    "reporting/ReputationToken.sol"
+  ],
+  "address": "0x221657776846890989a759BA2973e427DfF5C9bB"
+}
