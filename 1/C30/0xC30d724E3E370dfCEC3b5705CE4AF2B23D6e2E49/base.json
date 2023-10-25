@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YEET",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1a05b3473743377e0ab4983fa55d457d421a10d5d5510af6cc7c5a99e1fabe48",
+  "path": [
+    "YEET.sol"
+  ],
+  "address": "0xC30d724E3E370dfCEC3b5705CE4AF2B23D6e2E49"
+}

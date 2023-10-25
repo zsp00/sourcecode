@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ALADDIN",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e013b31122bf58ca3c56b238f202b58fe0f7be18b42c8355283b5b3965673b59",
+  "path": [
+    "ALADDIN.sol"
+  ],
+  "address": "0x1E1D8d6d00E0b8f9102d2b3D77de439774A70E97"
+}
