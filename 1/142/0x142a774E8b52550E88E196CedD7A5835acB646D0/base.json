@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SaitaRealtyV2",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000c17e776cd218252adfca8d4e761d3fe757e97780000000000000000000000009aeb133ef8ed7a1c49b18e32b496e6793d1f123b",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/saita.sol"
+  ],
+  "address": "0x142a774E8b52550E88E196CedD7A5835acB646D0"
+}
