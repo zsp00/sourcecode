@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UniversalProtocolToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000549650b6dbf1723fec37f0880ec777e8396e7c3e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://35747c9c0f4dc631ebb89bb9f04e7dcb1e5bb92daae1fe033ab72d46087683af",
+  "path": [
+    "UniversalProtocolToken.sol"
+  ],
+  "address": "0x6CA88Cc8D9288f5cAD825053B6A1B179B05c76fC"
+}

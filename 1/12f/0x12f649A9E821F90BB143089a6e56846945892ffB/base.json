@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Howdoo",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000005d5e9bd7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4af960231da7ebfc7cadfbfabc6d768a58d9d33d005b8442c649a63034a0575c",
+  "path": [
+    "Howdoo.sol"
+  ],
+  "address": "0x12f649A9E821F90BB143089a6e56846945892ffB"
+}
