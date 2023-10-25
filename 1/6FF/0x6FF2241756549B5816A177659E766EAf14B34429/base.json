@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AqtisToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://60bea7db3cd1853c4d81e4d5f38635316726d7c050f4961e7d554755a685addb",
+  "path": [
+    "AqtisToken.sol"
+  ],
+  "address": "0x6FF2241756549B5816A177659E766EAf14B34429"
+}
