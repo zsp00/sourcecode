@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MonkeysV3",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://13af051d66e3668069afe54ab1af375e17994e327f9d3991423bbba03b12ec05",
+  "path": [
+    "MonkeysV3.sol"
+  ],
+  "address": "0x9CE07410673206c693BCEC9b07710767637A564c"
+}
