@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DS",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://760483b74deddfcba2fcfd291d0910ef4cac65554f6a13afab8329f86c461949",
+  "path": [
+    "DS.sol"
+  ],
+  "address": "0x607229dB773Fa901215175aEB09A3A5695F813C7"
+}
