@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Salt",
+  "CompilerVersion": "v0.4.8+commit.60cc1668",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a65dd76035e6becbb2cb784931b3028a992d2ac8ff6aac95fa013a048bcfaa53",
+  "path": [
+    "Salt.sol"
+  ],
+  "address": "0x4156D3342D5c385a87D264F90653733592000581"
+}
