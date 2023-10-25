@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "JarvisPlusToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cc44b92d51124a297cdcf68111adb8338229546f9a612c90875058ebef4f3065",
+  "path": [
+    "JarvisPlusToken.sol"
+  ],
+  "address": "0xa249DE6948022783765Fee4850d7b85E43118FCc"
+}

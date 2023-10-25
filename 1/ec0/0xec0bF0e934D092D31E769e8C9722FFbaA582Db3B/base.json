@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Shikokuaido",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000008a63eec1bf7c842146787bd714f060b327abf76b0000000000000000000000004eb2be9f7cd640f63007ccf97199f7189ad77765",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bf3945260483b5c8d59cc40d54f94d0870ece6c12f284338719b3cf60c715c06",
+  "path": [
+    "Shikokuaido.sol"
+  ],
+  "address": "0xec0bF0e934D092D31E769e8C9722FFbaA582Db3B"
+}
