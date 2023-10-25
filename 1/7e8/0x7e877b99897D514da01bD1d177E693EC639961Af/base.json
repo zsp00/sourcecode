@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OGGYINU",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://de7e49b162a65e0e93e4af25f262b2ad25b7c436f355141ee6bb69594ac1a27c",
+  "path": [
+    "OGGYINU.sol"
+  ],
+  "address": "0x7e877b99897D514da01bD1d177E693EC639961Af"
+}

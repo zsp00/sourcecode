@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "nProxy",
+  "CompilerVersion": "v0.7.5+commit.eb77ed08",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000090c3c405716b8ff965dc905c91eee82a0b41a4ff000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0x95df7e34403becd532f2be160cacda56f0bd6ba3",
+  "SwarmSource": "",
+  "path": [
+    "nProxy.sol"
+  ],
+  "address": "0xCFEAead4947f0705A14ec42aC3D44129E1Ef3eD5"
+}

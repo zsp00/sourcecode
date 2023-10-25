@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ReptilianZuckerBidenBartcoin",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "bartcoin.sol"
+  ],
+  "address": "0xa89B728708Be04f57c7a33C6f790B6F077298e26"
+}

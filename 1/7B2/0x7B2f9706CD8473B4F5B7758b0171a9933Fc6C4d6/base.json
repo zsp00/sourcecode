@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EthealPromoToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000064386613c1abc7a2ce3c00765f505c025d10b8b1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://be1faed9eefb6f9d3de9fdb48abaa4d839aac3f6f1fc64d263c4edd0a3e32b80",
+  "path": [
+    "EthealPromoToken.sol"
+  ],
+  "address": "0x7B2f9706CD8473B4F5B7758b0171a9933Fc6C4d6"
+}

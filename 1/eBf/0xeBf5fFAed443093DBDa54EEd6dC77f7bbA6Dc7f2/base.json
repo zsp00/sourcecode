@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GOFCoin",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000002386f26fc10000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://67a53994a3d24bb8411fdb3fde2f813060f27890a6c94b68a36d08e23bb2b11d",
+  "path": [
+    "GOFCoin.sol"
+  ],
+  "address": "0xeBf5fFAed443093DBDa54EEd6dC77f7bbA6Dc7f2"
+}

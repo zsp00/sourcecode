@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BananaCat",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d87b8cebe2bfc1e5de10e466a4b4a565baaf2b1b77ff80dd10e9f70aa450471c",
+  "path": [
+    "BananaCat.sol"
+  ],
+  "address": "0x0590cc9232eBF68D81F6707A119898219342ecB9"
+}
