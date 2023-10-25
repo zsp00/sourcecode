@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PaladinToken",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "000000000000000000000000000000000000000000295be96e640669720000000000000000000000000000000792dcb7080466e4bbc678bdb873fe7d969832b80000000000000000000000000792dcb7080466e4bbc678bdb873fe7d969832b8",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/open-zeppelin/utils/Strings.sol",
+    "contracts/open-zeppelin/interfaces/IERC165.sol",
+    "contracts/open-zeppelin/AccessControl.sol",
+    "contracts/open-zeppelin/utils/Math.sol",
+    "contracts/open-zeppelin/interfaces/IERC20.sol",
+    "contracts/open-zeppelin/utils/Context.sol",
+    "contracts/open-zeppelin/interfaces/IAccessControl.sol",
+    "contracts/open-zeppelin/utils/ERC165.sol",
+    "contracts/PaladinToken.sol",
+    "contracts/open-zeppelin/ERC20.sol",
+    "contracts/open-zeppelin/utils/ECDSA.sol",
+    "contracts/open-zeppelin/interfaces/IERC20Metadata.sol"
+  ],
+  "address": "0xAB846Fb6C81370327e784Ae7CbB6d6a6af6Ff4BF"
+}

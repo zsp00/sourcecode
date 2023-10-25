@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TIKTOK",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://441f82a9d00305fa03e3626743a4f7b505bb3b5942a332a2e4dab7c1ce0d64de",
+  "path": [
+    "TIKTOK.sol"
+  ],
+  "address": "0xf3992CB51b5975530080915D06a00E43d979A1b8"
+}
