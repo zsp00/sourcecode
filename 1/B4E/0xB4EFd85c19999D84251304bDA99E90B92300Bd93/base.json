@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RocketPoolToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c27f2eff3166c0e7e7150fcfc10febaf96de25145b881b1177a41b4343575705",
+  "path": [
+    "RocketPoolToken.sol"
+  ],
+  "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93"
+}

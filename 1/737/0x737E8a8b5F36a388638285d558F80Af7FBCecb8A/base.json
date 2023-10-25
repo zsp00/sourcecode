@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Spirit",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000000000000000000000000000000000000001312d000000000000000000000000005b0891a8770fb99f3a317203026e07b67916e6180000000000000000000000000000000000000000000000000000000000000006537069726974000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000065370697269740000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "shanghai",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/contracts/Spirit.sol",
+    "/contracts/base/SwapV2.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0x737E8a8b5F36a388638285d558F80Af7FBCecb8A"
+}

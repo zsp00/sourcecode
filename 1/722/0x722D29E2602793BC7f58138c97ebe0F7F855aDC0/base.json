@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "cGAG",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://72cb364561bad3e604769b564a6700570b2c1d77a9aa8966e618fece7f0337ad",
+  "path": [
+    "cGAG.sol"
+  ],
+  "address": "0x722D29E2602793BC7f58138c97ebe0F7F855aDC0"
+}

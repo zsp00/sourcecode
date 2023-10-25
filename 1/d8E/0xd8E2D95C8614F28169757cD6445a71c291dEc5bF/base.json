@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GrumpyCat",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000093a8000000000000000000000000000000000000000000000000000000000000001f4000000000000000000000000b3bb4a7253dee002a3b2cea676663b0e0273a6fc0000000000000000000000000000000000000000000000000000000000000019",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "BurntGrumpyCat.sol",
+    "@openzeppelin/contracts/utils/math/SafeMath.sol",
+    "@openzeppelin/contracts@4.5.0/access/Ownable.sol",
+    "@openzeppelin/contracts@4.5.0/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts@4.5.0/utils/Context.sol",
+    "@openzeppelin/contracts@4.5.0/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts@4.5.0/token/ERC20/IERC20.sol",
+    "GrumpyCat.sol"
+  ],
+  "address": "0xd8E2D95C8614F28169757cD6445a71c291dEc5bF"
+}
