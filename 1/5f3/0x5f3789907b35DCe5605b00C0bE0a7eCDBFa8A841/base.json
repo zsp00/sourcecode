@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ContentAdNetworkToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://94b5af0a9055dc4d9ae39053d1a8f28b86835aaf0aed7df60b1326e208981a2a",
+  "path": [
+    "ContentAdNetworkToken.sol"
+  ],
+  "address": "0x5f3789907b35DCe5605b00C0bE0a7eCDBFa8A841"
+}

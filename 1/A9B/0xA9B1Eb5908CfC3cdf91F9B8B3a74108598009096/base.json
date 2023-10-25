@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BounceAuctionToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000005beabaebb3146685dd74176f68a0721f91297d37",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://158d89938a264dca505501ce79a65f78be0acb5ddae7cd5fcf6695214d5f3d17",
+  "path": [
+    "BounceAuctionToken.sol"
+  ],
+  "address": "0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096"
+}

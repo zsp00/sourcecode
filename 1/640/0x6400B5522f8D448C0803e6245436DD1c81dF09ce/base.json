@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CvnToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d0b6069283234c5091de775e015697e4b5b7a5a94eb36c3d0fc117b86a640eb6",
+  "path": [
+    "CvnToken.sol"
+  ],
+  "address": "0x6400B5522f8D448C0803e6245436DD1c81dF09ce"
+}

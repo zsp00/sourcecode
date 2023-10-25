@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DiceBotToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://97b0d5eba94a818c70b055b91f83219c6e709a2a150a1ed574e112ea0af105f4",
+  "path": [
+    "DiceBotToken.sol"
+  ],
+  "address": "0x762FCF5183Ae366c0629d0bCd30b40F331496d0f"
+}

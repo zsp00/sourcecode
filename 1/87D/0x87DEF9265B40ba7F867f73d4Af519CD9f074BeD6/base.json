@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OBSR",
+  "CompilerVersion": "v0.5.2+commit.1df8f40c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d24b28cb158afc9a38921a76027ded12780af8e23bc7bc696c037a4d2826cdea",
+  "path": [
+    "ERC20.sol",
+    "ERC20Detailed.sol",
+    "IERC20.sol",
+    "Migrations.sol",
+    "OBSR.sol",
+    "SafeMath.sol",
+    "ERC1132.sol"
+  ],
+  "address": "0x87DEF9265B40ba7F867f73d4Af519CD9f074BeD6"
+}

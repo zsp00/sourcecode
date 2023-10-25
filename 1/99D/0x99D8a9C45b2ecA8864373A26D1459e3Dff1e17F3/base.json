@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MagicInternetMoneyV1",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e98cc5840c217883fec6085f37f8bf1aec9c9edfdb3868aed3e7e8a4bfb059fb",
+  "path": [
+    "MagicInternetMoneyV1.sol"
+  ],
+  "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3"
+}
