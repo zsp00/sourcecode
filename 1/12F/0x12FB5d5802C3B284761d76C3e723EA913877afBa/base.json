@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HydroToken",
+  "CompilerVersion": "v0.4.20+commit.3155dd80",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ac63dafa1464c6fe5972ffbd81c928f8ea2c58e9df55f1d9cbd568d37ef20409",
+  "path": [
+    "HydroToken.sol"
+  ],
+  "address": "0x12FB5d5802C3B284761d76C3e723EA913877afBa"
+}
