@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ALIENFRENS",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0aca109fb1a0f08f28277b348ec38cf6d091da8ce1c719000f47c50a0a159c1a",
+  "path": [
+    "ALIENFRENS.sol"
+  ],
+  "address": "0x123b30E25973FeCd8354dd5f41Cc45A3065eF88C"
+}

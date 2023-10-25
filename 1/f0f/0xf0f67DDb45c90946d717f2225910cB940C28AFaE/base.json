@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MEMES",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fdc0c92621715d5c5db1b6de9f4a80b953a4f1c3b7f3832136677411d90b033b",
+  "path": [
+    "MEMES.sol"
+  ],
+  "address": "0xf0f67DDb45c90946d717f2225910cB940C28AFaE"
+}

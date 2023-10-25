@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SempsunAI",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0908c49b3ad3810aca1973602d90810224e9532c9c5b410c6fe592e20c94f021",
+  "path": [
+    "SempsunAI.sol"
+  ],
+  "address": "0x02a97Fd243B8301BCd6bA3a87693162d6bD130BD"
+}
