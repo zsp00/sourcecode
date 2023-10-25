@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BLT",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000f418eed07958f018d484b8d43e1af1249cce0b6e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://63d99dc8aa536d6773fb92c35aa7f2cb046a6a87dd1cdf8c82b66cd5de9e0804",
+  "path": [
+    "BLT.sol"
+  ],
+  "address": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e"
+}

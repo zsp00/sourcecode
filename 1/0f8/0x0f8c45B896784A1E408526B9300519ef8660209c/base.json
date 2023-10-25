@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XmxToken",
+  "CompilerVersion": "v0.4.22+commit.4cb486ee",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c32761f9d9a19f8a2d4a7e9a03751b77d09b5ae6fe5d59bd9f7348fe10fe782e",
+  "path": [
+    "XmxToken.sol"
+  ],
+  "address": "0x0f8c45B896784A1E408526B9300519ef8660209c"
+}
