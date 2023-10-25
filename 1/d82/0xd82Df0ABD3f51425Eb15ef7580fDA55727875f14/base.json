@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DAVToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "000000000000000000000000000000000000000005b94a974109b96f5a8c0000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a96b41d53ba155c1e07d828585ae5c88f3031f050e4a97e4a9f5c3fe835944af",
+  "path": [
+    "DAVToken.sol"
+  ],
+  "address": "0xd82Df0ABD3f51425Eb15ef7580fDA55727875f14"
+}
