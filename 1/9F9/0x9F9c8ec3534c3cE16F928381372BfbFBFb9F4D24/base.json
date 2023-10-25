@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GraphLinq",
+  "CompilerVersion": "v0.7.4+commit.3f05b770",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e87e9c55a720c89257302237b76cd5ba386d3819",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/mnt/f/eth/graphlinq/GraphLinq.Engine/NodeBlock.GraphLinqERC20Contract/contracts/GraphLinq.sol",
+    "/mnt/f/eth/graphlinq/GraphLinq.Engine/NodeBlock.GraphLinqERC20Contract/contracts/erc20/Context.sol",
+    "/mnt/f/eth/graphlinq/GraphLinq.Engine/NodeBlock.GraphLinqERC20Contract/contracts/erc20/ERC20.sol",
+    "/mnt/f/eth/graphlinq/GraphLinq.Engine/NodeBlock.GraphLinqERC20Contract/contracts/erc20/interfaces/IERC20.sol",
+    "/mnt/f/eth/graphlinq/GraphLinq.Engine/NodeBlock.GraphLinqERC20Contract/contracts/erc20/maths/SafeMath.sol"
+  ],
+  "address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24"
+}

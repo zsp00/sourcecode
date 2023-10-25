@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ECHO",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://78af3da82dde787388084e8e123b0a7070010853d37872cd861e9cb8b7840284",
+  "path": [
+    "ECHO.sol"
+  ],
+  "address": "0x2B46578B7F06F2B373AD0E0c9b28F800dCc80bF3"
+}
