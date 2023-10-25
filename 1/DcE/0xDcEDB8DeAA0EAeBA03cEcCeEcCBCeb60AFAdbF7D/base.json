@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Bassiani",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f92ea90f2e7f747523fc57a78ff77004d9c73d6741cd4ea8f9ea723c4a58ee1d",
+  "path": [
+    "Context.sol",
+    "ERC20.sol",
+    "IERC20.sol",
+    "Token.sol"
+  ],
+  "address": "0xDcEDB8DeAA0EAeBA03cEcCeEcCBCeb60AFAdbF7D"
+}
