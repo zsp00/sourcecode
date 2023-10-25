@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AsobiCoin",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://55f650a578374db9bed5624dfe01485094a8424642ddccf1c8a55c3cf01c04c3",
+  "path": [
+    "AsobiCoin.sol"
+  ],
+  "address": "0x49ceB57714000F18F3749Cf2D130E135F9c473A4"
+}

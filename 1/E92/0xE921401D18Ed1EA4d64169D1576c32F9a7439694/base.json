@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Bluemel",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000007603f89e1dd337b200000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "Bluemel.sol",
+    "ERC20.sol",
+    "Context.sol",
+    "IERC20.sol",
+    "SafeMath.sol"
+  ],
+  "address": "0xE921401D18Ed1EA4d64169D1576c32F9a7439694"
+}

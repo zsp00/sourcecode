@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WrappedStraxToken",
+  "CompilerVersion": "v0.6.0+commit.26b70077",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000d3c21bcecceda1000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b5f04b02af0d8bf30b964ca210e061f4e75150f0acb5c8bd64871dcefa578441",
+  "path": [
+    "WrappedStraxToken.sol"
+  ],
+  "address": "0xa3C22370de5f9544f0c4De126b1e46cEadF0A51B"
+}

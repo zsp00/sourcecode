@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FLCToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "800",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "openzeppelin-contracts/contracts/interfaces/draft-IERC6093.sol",
+    "openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
+    "openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "openzeppelin-contracts/contracts/utils/Context.sol",
+    "src/FLCToken.sol"
+  ],
+  "address": "0x102c776DDB30C754dEd4fDcC77A19230A60D4e4f"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NinjaCoinNC",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://975a3ef95ab244bf8307fff81a1d17e4ebb8ef94d3615a556290d38272a3a46c",
+  "path": [
+    "NinjaCoinNC.sol"
+  ],
+  "address": "0x7f4C1ea56e9E4ab0B47bddc396F131074919E25f"
+}

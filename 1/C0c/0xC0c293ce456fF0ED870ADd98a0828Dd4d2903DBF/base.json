@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AuraToken",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "800",
+  "ConstructorArguments": "000000000000000000000000af52695e1bb01a16d33d7194c28c42b10e0dbec2000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000004417572610000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044155524100000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts-0.8/token/ERC20/ERC20.sol",
+    "contracts/AuraMath.sol",
+    "@openzeppelin/contracts-0.8/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts-0.8/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts-0.8/utils/Context.sol",
+    "contracts/Aura.sol"
+  ],
+  "address": "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF"
+}

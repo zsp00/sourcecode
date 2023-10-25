@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "STCERC20",
+  "CompilerVersion": "v0.8.3+commit.8d00100c",
+  "OptimizationUsed": "1",
+  "Runs": "20000",
+  "ConstructorArguments": "",
+  "EVMVersion": "istanbul",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f8dbd08da264a9dbd79a0ec8df9e649e31ff65e534b77c9cb9a4e43dd8f89f9f",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "/home/gorbak25/stc_erc20/contracts/STCERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x15B543e986b8c34074DFc9901136d9355a537e7E"
+}

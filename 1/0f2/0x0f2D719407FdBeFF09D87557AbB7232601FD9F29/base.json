@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SynapseERC20",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "10000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts-upgradeable/cryptography/ECDSAUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/proxy/Initializable.sol",
+    "@openzeppelin/contracts-upgradeable/utils/CountersUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/drafts/ERC20PermitUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/token/ERC20/ERC20BurnableUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/token/ERC20/IERC20Upgradeable.sol",
+    "contracts/synapse/SynapseERC20.sol",
+    "@openzeppelin/contracts-upgradeable/math/SafeMathUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/utils/AddressUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/token/ERC20/ERC20Upgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/utils/EnumerableSetUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/drafts/EIP712Upgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/drafts/IERC20PermitUpgradeable.sol"
+  ],
+  "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29"
+}
