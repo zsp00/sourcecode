@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BaseRegistrarImplementation",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000c2e074ec69a0dfb2997ba6c7d2e1e93cdeb708b7545dc668eb9280176169d1c33cfd8ed6f04690a0bcc88a93fc4ae",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3851e1a7c34807fd87cd4b670538168e0584812b7d1f4078ac2687a8c6455ca6",
+  "path": [
+    "BaseRegistrarImplementation.sol"
+  ],
+  "address": "0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85"
+}
