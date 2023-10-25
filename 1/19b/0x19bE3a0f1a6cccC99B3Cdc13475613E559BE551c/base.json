@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FrenbotV2",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://58a9ad461f9c65c8a816b4836191d6a61ba0f4866a5256ab97dcf5fde3433a29",
+  "path": [
+    "FrenbotV2.sol"
+  ],
+  "address": "0x19bE3a0f1a6cccC99B3Cdc13475613E559BE551c"
+}

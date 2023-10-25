@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EncryptedToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://48b5de2b84052ba13bd87159c569eda1bc20817ad3102b77cc80d8530336fc72",
+  "path": [
+    "EncryptedToken.sol"
+  ],
+  "address": "0x62a644E03659fe3E0F5dB08260bb201f912d0e28"
+}

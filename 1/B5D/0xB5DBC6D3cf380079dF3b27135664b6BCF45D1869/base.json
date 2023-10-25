@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OmixToken",
+  "CompilerVersion": "v0.4.20+commit.3155dd80",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000429d069189e0000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8d0a950ac4f153a9d5cf26a9d674384904f20ec098cb3bba79df4b34d8e31e1d",
+  "path": [
+    "OmixToken.sol"
+  ],
+  "address": "0xB5DBC6D3cf380079dF3b27135664b6BCF45D1869"
+}
