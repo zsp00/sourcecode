@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Noone",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Interfaces/IERC20.sol",
+    "contracts/Noone.sol",
+    "contracts/Libs/SafeMath.sol",
+    "contracts/Libs/Ownable.sol",
+    "contracts/Libs/Context.sol",
+    "contracts/Interfaces/IUniswapV2Router.sol",
+    "contracts/Interfaces/IUniswapV2Factory.sol"
+  ],
+  "address": "0x296233E84c1D7bfF11121BF6D60f0FFA39C3f0cf"
+}
