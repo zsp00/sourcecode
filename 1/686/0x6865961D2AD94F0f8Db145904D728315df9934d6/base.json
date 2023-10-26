@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ALGM",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://94476a444c7b4ac1b738a0b01d0717f8039379796574f2d7bcd33f737e1270dd",
+  "path": [
+    "ALGM.sol"
+  ],
+  "address": "0x6865961D2AD94F0f8Db145904D728315df9934d6"
+}
