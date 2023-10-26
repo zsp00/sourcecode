@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PlugToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU LGPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://73fd4db46badbd9328c9a75f110fd3a978fbcdb68f5d07d460bb7febd7c1a74c",
+  "path": [
+    "PlugToken.sol"
+  ],
+  "address": "0x47DA5456bC2e1ce391b645Ce80F2E97192e4976a"
+}
