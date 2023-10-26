@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DogPad",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1f556dd9a6de5b6bc3de7a3f67b00631ce881c4057dd250d271a4fe3e0324ce6",
+  "path": [
+    "DogPad.sol"
+  ],
+  "address": "0x6f3277ad0782a7DA3eb676b85a8346A100BF9C1c"
+}
