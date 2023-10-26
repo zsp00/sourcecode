@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Penchant",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5b8700d33ccc766bf683478644973c2a5b73c8abbd83285a603fdf1ec3b12a4b",
+  "path": [
+    "Penchant.sol"
+  ],
+  "address": "0x70aa2BA250E71850B457E5DAe83fE0E883a4c3A5"
+}
