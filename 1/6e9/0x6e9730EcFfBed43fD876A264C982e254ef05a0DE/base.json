@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NordToken",
+  "CompilerVersion": "v0.7.4+commit.3f05b770",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "contracts/ERC20Permit.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "contracts/IERC2612Permit.sol",
+    "contracts/NordToken.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/SafeERC20.sol",
+    "@openzeppelin/contracts/utils/Counters.sol"
+  ],
+  "address": "0x6e9730EcFfBed43fD876A264C982e254ef05a0DE"
+}
