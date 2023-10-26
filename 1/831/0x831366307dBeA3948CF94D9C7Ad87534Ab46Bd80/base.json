@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ETD",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://15a5a88cd0d601eeab0dad110da80d6c9c155cd8ac398760696cf1ca11eb3638",
+  "path": [
+    "ETD.sol"
+  ],
+  "address": "0x831366307dBeA3948CF94D9C7Ad87534Ab46Bd80"
+}

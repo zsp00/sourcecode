@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KudosDao",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bde76b6a7816902b63ff6afd7459b2541ea9e01b95f2e63489d84e51c4a86926",
+  "path": [
+    "KudosDao.sol"
+  ],
+  "address": "0x0eBe95401Da31E6B89eaBFe512e0D48aA5a7Ca8b"
+}
