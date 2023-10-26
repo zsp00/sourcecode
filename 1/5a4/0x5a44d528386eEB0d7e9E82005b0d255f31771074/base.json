@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MockToken",
+  "CompilerVersion": "v0.8.12+commit.f00d7308",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000012000000000000000000000000000000000000000000000000000000000000000342414c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000342414c0000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "london",
+  "Library": "",
+  "LicenseType": "BSL 1.1",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/test/MockToken.sol"
+  ],
+  "address": "0x5a44d528386eEB0d7e9E82005b0d255f31771074"
+}
