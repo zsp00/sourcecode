@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UnboundToken",
+  "CompilerVersion": "v0.8.2+commit.661d1103",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000504aaaa2c4a94cdf7e32333c665ceaa3cef648fa",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/UnboundToken.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol",
+    "@openzeppelin/contracts/utils/structs/BitMaps.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "@openzeppelin/contracts/utils/math/Math.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/math/SafeCast.sol"
+  ],
+  "address": "0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922"
+}

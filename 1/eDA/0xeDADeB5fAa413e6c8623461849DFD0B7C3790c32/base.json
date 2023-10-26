@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ObortechToken",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000084f424f525445434800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044f424f5400000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "/home/user/Documents/Project/solidity/obortech-sc/contracts/IBurnable.sol",
+    "/home/user/Documents/Project/solidity/obortech-sc/contracts/ObortechToken.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0xeDADeB5fAa413e6c8623461849DFD0B7C3790c32"
+}
