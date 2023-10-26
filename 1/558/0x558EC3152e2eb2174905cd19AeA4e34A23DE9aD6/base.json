@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BRDToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d3b74f7871a7dc547fb403a6767a9398e330436beecb61bd55409c3ef3c31ec0",
+  "path": [
+    "BRDToken.sol"
+  ],
+  "address": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6"
+}
