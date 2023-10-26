@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ccc",
+  "CompilerVersion": "v0.4.20-nightly.2018.1.6+commit.2548228b",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007160e66a83ee8cad4e6cc67da53d36b1a585aab1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7ae2d1d44629744e7c9b34a5fb94bbe5e5c536aaab50ef782944c07f3754aecd",
+  "path": [
+    "Ccc.sol"
+  ],
+  "address": "0x94Cb815F4b601B00b363B3177B4D8ed8e0EB7cF2"
+}

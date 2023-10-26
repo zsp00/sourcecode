@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GOLD",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://896a19ab2024a0ab9ed5ff0f110f640199dc52fc202a1b5ff8bb1d793d0b21ba",
+  "path": [
+    "GOLD.sol"
+  ],
+  "address": "0x34D6A0F5C2f5D0082141fE73d93B9dd00ca7CE11"
+}
