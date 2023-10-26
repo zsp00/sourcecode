@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TMTG",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ba835c259b9c6ad183b2379845717bec2d660897b886c91ff97235a1c3be7986",
+  "path": [
+    "TMTG.sol"
+  ],
+  "address": "0x10086399DD8c1e3De736724AF52587a2044c9fA2"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ATSToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/D/sonnh/Attlas/contract/ATSToken/contracts/ATSToken.sol"
+  ],
+  "address": "0xb9A6644bEf37286fC08e703Ecd15e9DEDf78d3eb"
+}
