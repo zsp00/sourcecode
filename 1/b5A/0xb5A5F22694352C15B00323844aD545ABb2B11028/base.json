@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IcxToken",
+  "CompilerVersion": "v0.4.11+commit.68ef5810",
+  "OptimizationUsed": "1",
+  "Runs": "0",
+  "ConstructorArguments": "0000000000000000000000000000000000000000014b0fffc652531193c000000000000000000000000000007eca82d239c3b1513d6368e2ff21763e469f1298",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://868c14944dfb8f2c55988dcb67fcf0355510dbc94bcf64009ae8027afc09e5c9",
+  "path": [
+    "IcxToken.sol"
+  ],
+  "address": "0xb5A5F22694352C15B00323844aD545ABb2B11028"
+}
