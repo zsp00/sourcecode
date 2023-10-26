@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FiveNightsAtFreddys",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bc08848a456db8fe5fbd421c9783459359689616fa76221c53cb948e1424a5f5",
+  "path": [
+    "FiveNightsAtFreddys.sol"
+  ],
+  "address": "0x8716982abd184355AD23dC04dB76417d1954Ce2F"
+}

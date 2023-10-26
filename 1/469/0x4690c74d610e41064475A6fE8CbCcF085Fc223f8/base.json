@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PausableToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://452dacee784f35fd4cfe1136fb9a35a84562d30915ac541a8be64c6850fd2f00",
+  "path": [
+    "PausableToken.sol"
+  ],
+  "address": "0x4690c74d610e41064475A6fE8CbCcF085Fc223f8"
+}
