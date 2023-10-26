@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TixlToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://14498cf1348391dcf6084c2c893874d3af3ad825cc781672af9ca1ba16b50aa8",
+  "path": [
+    "TixlToken.sol"
+  ],
+  "address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41"
+}
