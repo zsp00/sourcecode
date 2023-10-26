@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "eDIVI",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "2000",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000e000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000009f295cd5f000000000000000000000000000043b1d92f1159d39bb6f964ce1ce46d2b641124d10000000000000000000000000000000000000000000000000000000000000004446976690000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044449564900000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "byzantium",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/contracts/security/IAccessControl.sol",
+    "/contracts/security/AccessControl.sol",
+    "/contracts/utils/introspection/IERC165.sol",
+    "/contracts/utils/introspection/ERC165.sol",
+    "/contracts/utils/Context.sol",
+    "/contracts/token/IERC20.sol",
+    "/contracts/token/ERC20.sol",
+    "/contracts/security/Pausable.sol",
+    "/contracts/interfaces/IDivi.sol",
+    "/contracts/eDIVI.sol",
+    "/contracts/utils/Strings.sol",
+    "/contracts/token/IERC20Metadata.sol"
+  ],
+  "address": "0x246908BfF0b1ba6ECaDCF57fb94F6AE2FcD43a77"
+}
