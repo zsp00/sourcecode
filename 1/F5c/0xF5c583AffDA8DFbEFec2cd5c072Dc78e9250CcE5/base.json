@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YFLOW",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000003170e695dff674ff7f747a61f6e114ad317ad3e40000000000000000000000003170e695dff674ff7f747a61f6e114ad317ad3e40000000000000000000000000000000000000000000000000000000064fb8974",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/SafeMath.sol",
+    "contracts/YFLOW.sol"
+  ],
+  "address": "0xF5c583AffDA8DFbEFec2cd5c072Dc78e9250CcE5"
+}

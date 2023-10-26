@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ETHplode",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://88bbad245c97aabd761f8020b5b8856d6c1f0fc4a95debf259c5a6ef61c32df2",
+  "path": [
+    "ETHplode.sol"
+  ],
+  "address": "0xe0c6CE3e73029F201e5C0Bedb97F67572A93711C"
+}
