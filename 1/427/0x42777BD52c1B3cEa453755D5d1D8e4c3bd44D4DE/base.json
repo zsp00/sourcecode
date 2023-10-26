@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "JusticeToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000060b5da3c929f3fdfb7f0eb42d174e6a9840d13827e0b0f7660899b3d404d55868b0000000000000000000000000000000000000000000000000000000064ae73db00000000000000000000000000000000000000000000000000000000000000054455444153000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "src/JusticeToken.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
+    "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+    "lib/openzeppelin-contracts/contracts/utils/cryptography/MerkleProof.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol"
+  ],
+  "address": "0x42777BD52c1B3cEa453755D5d1D8e4c3bd44D4DE"
+}
