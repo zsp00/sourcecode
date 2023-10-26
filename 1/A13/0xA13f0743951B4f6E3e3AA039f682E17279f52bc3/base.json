@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SencToken",
+  "CompilerVersion": "v0.4.21-nightly.2018.3.1+commit.cf6720ea",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2d13c6499ad03473cef8878cad8f33382c417d3e0726215c995b362f16e01aab",
+  "path": [
+    "SencToken.sol"
+  ],
+  "address": "0xA13f0743951B4f6E3e3AA039f682E17279f52bc3"
+}

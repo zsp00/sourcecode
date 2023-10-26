@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TrendDetectorBot",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fd96e002851ed37f8c1fb3f4f61e6814ea380e0040151f36a2782c9efe0a1d47",
+  "path": [
+    "TrendDetectorBot.sol"
+  ],
+  "address": "0x82f202E11800663a44aFCa96F273927fC72F74ef"
+}
