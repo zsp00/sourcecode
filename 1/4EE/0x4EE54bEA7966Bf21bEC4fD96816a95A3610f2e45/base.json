@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SketchCoin",
+  "CompilerVersion": "v0.5.2+commit.1df8f40c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "byzantium",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "openzeppelin-solidity/contracts/access/Roles.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/SafeERC20.sol",
+    "/Users/ljh/ERC20_Token_Sample/contracts/CustomToken.sol",
+    "/Users/ljh/ERC20_Token_Sample/contracts/SketchCoin.sol",
+    "openzeppelin-solidity/contracts/access/roles/MinterRole.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20Detailed.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/IERC20.sol",
+    "openzeppelin-solidity/contracts/utils/Address.sol",
+    "openzeppelin-solidity/contracts/math/SafeMath.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20Burnable.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20Capped.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/ERC20Mintable.sol",
+    "openzeppelin-solidity/contracts/token/ERC20/TokenTimelock.sol"
+  ],
+  "address": "0x4EE54bEA7966Bf21bEC4fD96816a95A3610f2e45"
+}
