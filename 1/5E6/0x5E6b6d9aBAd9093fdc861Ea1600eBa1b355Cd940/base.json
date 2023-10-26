@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TokenERC20",
+  "CompilerVersion": "v0.4.17+commit.bdeb9e52",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://eb4540246e9037de0edcca9e277f90c23230a589e96612a908bcfcb50cfce15b",
+  "path": [
+    "TokenERC20.sol"
+  ],
+  "address": "0x5E6b6d9aBAd9093fdc861Ea1600eBa1b355Cd940"
+}

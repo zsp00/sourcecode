@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FLUX",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://38b115acda5e7506266536468241d7490f93ecbdc6d5ac6f2758ef2ddb87160d",
+  "path": [
+    "FLUX.sol"
+  ],
+  "address": "0x54735d716995071585A4f6ba341a6Ded79756F09"
+}
