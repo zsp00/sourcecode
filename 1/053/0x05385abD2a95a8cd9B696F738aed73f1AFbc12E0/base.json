@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Fomp",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000662ff41d63917ce75feb3490496a33590a49a3bf",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv2",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c13dc0fdfc498d5ea2cb21d7ea554ededdff97afed93195256b391faee9894d7",
+  "path": [
+    "Fomp.sol"
+  ],
+  "address": "0x05385abD2a95a8cd9B696F738aed73f1AFbc12E0"
+}
