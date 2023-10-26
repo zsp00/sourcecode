@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MWTHREE",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://784755a3ade8a4d77bc03e2ce1e178b83650ed5eafae4cbe7044e839e9ff2d1c",
+  "path": [
+    "MWTHREE.sol"
+  ],
+  "address": "0x789f04E1D1793572A2D43C3CCcD32A10a3794B87"
+}
