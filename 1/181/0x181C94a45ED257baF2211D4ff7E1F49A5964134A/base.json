@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MetaShib",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000003230bd878a62e9b42aed6973231a7336fb0a80000000000000000000000000003230bd878a62e9b42aed6973231a7336fb0a80",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://925b776e724d20b979e08c580618a185577910f06bba79befd724d0e34351bf1",
+  "path": [
+    "MetaShib.sol"
+  ],
+  "address": "0x181C94a45ED257baF2211D4ff7E1F49A5964134A"
+}
