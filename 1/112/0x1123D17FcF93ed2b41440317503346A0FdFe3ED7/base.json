@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PrometheumProdigy",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000075e75ec01ca2d6af404659f33a60fbc3322d7e620000000000000000000000005fd18a7195a81f7ad7273657aa098e1d70a99f36",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://223372691919b133283b2f6f95bdaed990f8271c4e921621ba4be784abd88348",
+  "path": [
+    "PrometheumProdigy.sol"
+  ],
+  "address": "0x1123D17FcF93ed2b41440317503346A0FdFe3ED7"
+}
