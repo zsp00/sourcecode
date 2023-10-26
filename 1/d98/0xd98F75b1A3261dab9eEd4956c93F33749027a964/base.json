@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ShareTokenExtended",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ee5fe244406f35d9b4ddb488a64d51456630befc",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://06dbeaf6b55c99013da18dd9ca32831748e51edc778acbb3f0e8aa154a693686",
+  "path": [
+    "ShareTokenExtended.sol"
+  ],
+  "address": "0xd98F75b1A3261dab9eEd4956c93F33749027a964"
+}
