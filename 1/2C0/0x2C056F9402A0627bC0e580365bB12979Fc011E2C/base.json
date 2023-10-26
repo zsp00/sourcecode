@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SQUID2",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ec6ce4292579a5d99589eba93f1b8d9efcb0f7bfde8755a5dd223462699f23f8",
+  "path": [
+    "SQUID2.sol"
+  ],
+  "address": "0x2C056F9402A0627bC0e580365bB12979Fc011E2C"
+}
