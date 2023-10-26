@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OwnedBeaconProxy",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e5223aa4d2c497be2128dd2eea4860eb73e8114c00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x1f781194f15aa7488986697a3d6706f420b369fa",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/proxy/UpgradeableBeacon.sol",
+    "@openzeppelin/contracts/proxy/Proxy.sol",
+    "@openzeppelin/contracts/proxy/IBeacon.sol",
+    "@openzeppelin/contracts/proxy/BeaconProxy.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "/contracts/proxy/OwnedBeaconProxy.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/Address.sol"
+  ],
+  "address": "0xbbAec992fc2d637151dAF40451f160bF85f3C8C1"
+}
