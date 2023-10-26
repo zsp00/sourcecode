@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MIMO",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000718b7584d410f364fc16724027c07c617b87f2fc",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "MIMO.sol"
+  ],
+  "address": "0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc"
+}
