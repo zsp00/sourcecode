@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GZLR",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6bed5ba789f2a3e829a5cd45ebc16445d06c7ff90769abf4c2802933b8594456",
+  "path": [
+    "GZLR.sol"
+  ],
+  "address": "0x9f4909Cc95FB870BF48C128C1Fdbb5F482797632"
+}

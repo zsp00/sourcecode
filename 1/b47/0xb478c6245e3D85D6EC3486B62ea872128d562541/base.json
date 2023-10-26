@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Token",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000001200000000000000000000000000000000000000000000000000000000000000160000000000000000000000000000000000000000000000000000000000000251c00000000000000000000000000000000000000000000000000000000000186a0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c800000000000000000000000000000000000000000000000000000000000000320000000000000000000000000000000000000000000000000000000000000032000000000000000000000000021368b1bb8a15f40edf9773c8c9a7c18c4897ae00000000000000000000000000000000000000000000000000000000000000074c6f6f74426f74000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005244c4f4f54000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Token.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/math/SafeMath.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol"
+  ],
+  "address": "0xb478c6245e3D85D6EC3486B62ea872128d562541"
+}
