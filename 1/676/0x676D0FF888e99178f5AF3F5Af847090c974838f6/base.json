@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NXFY",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0c3f55c935959ccb102b2b053da45415c5565559a410c7ca02865baa2693c9f1",
+  "path": [
+    "NXFY.sol"
+  ],
+  "address": "0x676D0FF888e99178f5AF3F5Af847090c974838f6"
+}

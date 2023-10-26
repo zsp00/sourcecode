@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ORBN",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "IterableMapping:c35552467bc6bffd7faa1c39d4692c5d081deb27",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d45844ef4fccf2b6555c973928322977e9d0a0c99ab71b261f9b6284eca4ecc6",
+  "path": [
+    "ORBN.sol"
+  ],
+  "address": "0xA7fBd9254f10F8e20a31a593C9E8BC0D041e15F6"
+}
