@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KangaToken",
+  "CompilerVersion": "v0.5.12+commit.7709ece9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1f13e31b17622275961c7bae60ef5f66c563a7b55a48cdbe5714e4af43e769ff",
+  "path": [
+    "KangaToken.sol"
+  ],
+  "address": "0x471d113059324321749E097705197a2B44A070FC"
+}
