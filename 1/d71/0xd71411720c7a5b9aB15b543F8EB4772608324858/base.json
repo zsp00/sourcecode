@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Groot",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://110d735a45ffc2745b09e11a4e4193d0cd94c0e8f528a68bacc22deab619e4b7",
+  "path": [
+    "Groot.sol"
+  ],
+  "address": "0xd71411720c7a5b9aB15b543F8EB4772608324858"
+}
