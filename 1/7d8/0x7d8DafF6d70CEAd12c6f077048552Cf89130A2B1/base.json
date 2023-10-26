@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ArcsToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://15e073efc0af9f2247d84bc2ae4e742a606b9f323ef5eb695eb582138d67801d",
+  "path": [
+    "ArcsToken.sol"
+  ],
+  "address": "0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1"
+}
