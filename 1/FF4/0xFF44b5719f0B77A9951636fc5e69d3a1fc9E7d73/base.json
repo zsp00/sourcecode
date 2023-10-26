@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FourArt",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000944393abcfc9879cedc19e070c056f70703f9b8",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ec9f80d2889cec6b5ed01de2b4f06fb682ad830a518632f20688122726da8452",
+  "path": [
+    "FourArt.sol"
+  ],
+  "address": "0xFF44b5719f0B77A9951636fc5e69d3a1fc9E7d73"
+}
