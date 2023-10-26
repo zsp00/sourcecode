@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BSC",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://76080649115e0682e115f85a2a6b2e040c9ed9f5598202d759b16ba9ecaeb598",
+  "path": [
+    "BSC.sol"
+  ],
+  "address": "0xBB8a10eE081Cbc0f6ef30274eCBA9Ab97dA1BC42"
+}
