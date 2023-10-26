@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Seele",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "IterableMapping:e13d843d03626edc3722a2a5c25fc31070e5cd83",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://06194705f18750e1b366b0b7eae5beb5d5f7d2ea344954144b4b0bf46f359275",
+  "path": [
+    "Seele.sol"
+  ],
+  "address": "0xB1e93236ab6073fdAC58adA5564897177D4bcC43"
+}
