@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MetaBountyHuntress",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e8f515990db3ef189c781021a64f14ac6e42de27",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "/contracts/MetaBountyHuntress.sol",
+    "erc721a/contracts/extensions/IERC721AQueryable.sol",
+    "erc721a/contracts/extensions/ERC721AQueryable.sol",
+    "erc721a/contracts/IERC721A.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/math/SafeMath.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol"
+  ],
+  "address": "0x128DA201549e4b17f23A41fDf095Fd9428e7be7d"
+}
