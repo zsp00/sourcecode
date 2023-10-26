@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Chad",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d000000000000000000000000dce46b2d2193b5fab04b3129ea9498c9b601a140000000000000000000000000e6ba59a768dd5455f1f9eda0cca1a74b723dca35",
+  "EVMVersion": "shanghai",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "src/interfaces/IUniswapV2Factory.sol",
+    "src/interfaces/IUniswapV2Router.sol",
+    "src/Chad.sol",
+    "lib/solmate/src/tokens/ERC20.sol",
+    "lib/solmate/src/tokens/WETH.sol",
+    "lib/solmate/src/auth/Owned.sol",
+    "lib/solmate/src/utils/SafeTransferLib.sol"
+  ],
+  "address": "0xB777eb033557490abb7Fb8F3948000826423Ea07"
+}
