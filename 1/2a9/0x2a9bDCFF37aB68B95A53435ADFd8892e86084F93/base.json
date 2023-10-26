@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AQT",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f56c893ba9b1851bfc08c366c250bae164d60dd02c395a0437946c0b31c64c53",
+  "path": [
+    "AQT.sol"
+  ],
+  "address": "0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93"
+}

@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AuraDropERC20",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000061c9f36800000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000006534845455348000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000035348530000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts-upgradeable/utils/StringsUpgradeable.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "contracts/ERC20Token.sol",
+    "@openzeppelin/contracts-upgradeable/utils/math/MathUpgradeable.sol",
+    "@openzeppelin/contracts-upgradeable/utils/math/SignedMathUpgradeable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0xbB4f3aD7a2cf75d8EfFc4f6D7BD21d95F06165ca"
+}
