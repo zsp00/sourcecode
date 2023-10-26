@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SmartToken",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f97aae096f5a994c9b5ccdca6eba9005659a16ce948ced9fd51c5158e31d6cc9",
+  "path": [
+    "SmartToken.sol"
+  ],
+  "address": "0x5d51FCceD3114A8bb5E90cDD0f9d682bCbCC5393"
+}
