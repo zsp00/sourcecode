@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Bone",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5a8a4e178444ca57894ebd5f881622e62e13e09ca7613573ea91783d6d3ebfc6",
+  "path": [
+    "Bone.sol"
+  ],
+  "address": "0x5C84bc60a796534bfeC3439Af0E6dB616A966335"
+}
