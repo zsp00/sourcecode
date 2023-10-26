@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XCROW",
+  "CompilerVersion": "v0.8.14+commit.80d49f37",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4e014485ee4aaad28d1cb21d41fa515b5e79c16e34f43891c370fe5fea477ebe",
+  "path": [
+    "XCROW.sol"
+  ],
+  "address": "0x082E92001A367cC2331105BBD112733e53D5D624"
+}
