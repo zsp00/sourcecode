@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Four",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000526254c12360d68d8f90c0cd9cfe5a32002e845a00000000000000000000000000000000000000059aa431252d9e69a260000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://04847cea263274c2ec051f8b19adb86dc533ca483f072ccc0f7e6ac64964419b",
+  "path": [
+    "Four.sol"
+  ],
+  "address": "0x244b797d622D4DEe8b188b03546ACAAbD0Cf91A0"
+}

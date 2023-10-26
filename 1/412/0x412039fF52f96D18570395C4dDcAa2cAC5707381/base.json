@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Blips",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000007e0edf8ce600fb51d44f51e3348d77d67f298ae000000000000000000000000e9ef47a66d693bbd335091dfae30ec7f8015e3a7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://75f01192b7b795cad48de0c3ea22d40deb73aab64d8d411f817dccccf7b90ff2",
+  "path": [
+    "Blips.sol"
+  ],
+  "address": "0x412039fF52f96D18570395C4dDcAa2cAC5707381"
+}

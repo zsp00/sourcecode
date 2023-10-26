@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "REALBANANABIRD",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c68d8184ed848684d9fa5d0cb93bc9d6cc04ff942bdcb5581519a71d4fdf9910",
+  "path": [
+    "REALBANANABIRD.sol"
+  ],
+  "address": "0x5368A63D3B141a28bD389ec3893667b5287ff8B8"
+}
