@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ascend",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7cc21b1d4672a127020b050c71d59d881198a2e37cd7dbb75b7ba7cb8028eb2c",
+  "path": [
+    "Ascend.sol"
+  ],
+  "address": "0x17F8e6694080C07D7414C918dd9B9C32a2981ea1"
+}

@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SportX",
+  "CompilerVersion": "v0.7.5+commit.eb77ed08",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000001",
+  "EVMVersion": "istanbul",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://09030b1b6edf5f2d376174e986c6febc04c6f44e49f0b682ef8d990a98bea68d",
+  "path": [
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "/home/julian/betx/betx-contracts/mainchain_contracts/SportX.sol"
+  ],
+  "address": "0x99fE3B1391503A1bC1788051347A1324bff41452"
+}
