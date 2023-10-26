@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LatiumX",
+  "CompilerVersion": "v0.4.17+commit.bdeb9e52",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4356f2af5b2b126513667f373ae33390c3b86dad901c63f8335bfb588be8b669",
+  "path": [
+    "LatiumX.sol"
+  ],
+  "address": "0x2f85E502a988AF76f7ee6D83b7db8d6c0A823bf9"
+}

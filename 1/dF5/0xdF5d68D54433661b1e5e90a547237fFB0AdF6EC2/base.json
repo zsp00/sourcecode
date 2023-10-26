@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ArconaDigitalLand",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3dbd5d7025a01ea6c30168547c10f2c6ba85e7aa1f33da6cea154df17e2b6e72",
+  "path": [
+    "ArconaDigitalLand.sol"
+  ],
+  "address": "0xdF5d68D54433661b1e5e90a547237fFB0AdF6EC2"
+}
