@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KtuneTokenBlocks",
+  "CompilerVersion": "v0.5.2+commit.1df8f40c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0fca1aacf98cb45c3c8b989ed0303d11dc6da50e30e8366cb8c82443d52d49cd",
+  "path": [
+    "KtuneTokenBlocks.sol"
+  ],
+  "address": "0x14cC8DfaF2258E1B8B2869300dBa1B734dc0fE43"
+}
