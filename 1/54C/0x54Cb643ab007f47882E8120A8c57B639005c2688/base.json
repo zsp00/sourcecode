@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IMPACTXPRIMEToken",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d6288844bc36225ec4e974b5c1ee84fbe4134ae13d7d3522c6a26677947719c2",
+  "path": [
+    "IMPACTXPRIMEToken.sol"
+  ],
+  "address": "0x54Cb643ab007f47882E8120A8c57B639005c2688"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Physics",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://539bd0baaadb1cebfca1c000800478e50a6924f6bffd4f781cae77dc31b22a15",
+  "path": [
+    "Physics.sol"
+  ],
+  "address": "0x8e1308f4808788767A864EEe9A4927E38C790352"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DeepFakeAI",
+  "CompilerVersion": "v0.8.12+commit.f00d7308",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2b3924f2369ad7dbfe9fd105b94c4a05d4bc51962f92db5064ae9a5099609e85",
+  "path": [
+    "DeepFakeAI.sol"
+  ],
+  "address": "0x5AEf5bba19e6a1644805Bd4F5C93C8557b87c62c"
+}
