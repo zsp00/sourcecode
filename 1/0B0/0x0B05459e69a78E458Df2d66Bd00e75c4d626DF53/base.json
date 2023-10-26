@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DrDoge",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e6d521afe6ebd3181a17ae2639b9472af69e306c890b807367ece342aa9a9937",
+  "path": [
+    "DrDoge.sol"
+  ],
+  "address": "0x0B05459e69a78E458Df2d66Bd00e75c4d626DF53"
+}
