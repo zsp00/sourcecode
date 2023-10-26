@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FLEXCoin",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://972ee3df937ffd8a3f679d5449372d23f4de04e74059671aad74998653fae242",
+  "path": [
+    "FLEXCoin.sol"
+  ],
+  "address": "0xFcF8eda095e37A41e002E266DaAD7efC1579bc0A"
+}
