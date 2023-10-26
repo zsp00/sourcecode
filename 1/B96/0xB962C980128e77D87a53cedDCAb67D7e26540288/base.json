@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RYderOSHI",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000027e6a4920bde370eb7b7e3fe7ede04fe006fe926000000000000000000000000f0f9d895aca5c8678f706fb8216fa22957685a13000000000000000000000000cfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec00000000000000000000000095ad61b0a150d79219dcf64e1e6cc01f0b64c4ce00000000000000000000000020561172f791f915323241e885b4f7d5187c36e10000000000000000000000000000000000000000000000000000000000000064",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "RYderOSHI/interfaces/IUniswap.sol",
+    "RYderOSHI/RYderOSHI.sol",
+    "RYderOSHI/library/Liquidity.sol",
+    "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.5/contracts/access/Ownable.sol",
+    "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.5/contracts/token/ERC20/ERC20.sol",
+    "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.5/contracts/utils/Context.sol",
+    "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.5/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.5/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0xB962C980128e77D87a53cedDCAb67D7e26540288"
+}
