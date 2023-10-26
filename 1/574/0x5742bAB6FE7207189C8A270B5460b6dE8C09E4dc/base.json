@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TheEchelon",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/ERC721AQueryable.sol",
+    "contracts/IERC721A.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "contracts/ERC721A.sol",
+    "contracts/operator-filter-registry/OperatorFilterer.sol",
+    "contracts/TheEchelon.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "contracts/IERC721AQueryable.sol",
+    "contracts/operator-filter-registry/IOperatorFilterRegistry.sol"
+  ],
+  "address": "0x5742bAB6FE7207189C8A270B5460b6dE8C09E4dc"
+}

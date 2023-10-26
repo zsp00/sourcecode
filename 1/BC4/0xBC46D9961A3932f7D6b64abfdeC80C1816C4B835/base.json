@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LiteXToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://acf742b0636070a9ca4210fe35290b91c364cc4eb241a71c3591d5d9311ebcb0",
+  "path": [
+    "LiteXToken.sol"
+  ],
+  "address": "0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835"
+}
