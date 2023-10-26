@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MCNC",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://58500e7d783d7d7fb847130be5198af27f397b50379a1778a332052043423fee",
+  "path": [
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "Math.sol",
+    "MCNC.sol",
+    "Migrations.sol",
+    "Ownable.sol",
+    "Context.sol",
+    "ERC20.sol"
+  ],
+  "address": "0x3Aa9EBdCF5aff192F1759F35CFD6aFe0b898FB6F"
+}
