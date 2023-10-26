@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XGTokenAny",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b96847e8beb5181b6fbc8d3f49c7a72bbab771a40000000000000000000000000a834205e101e612dbba3586ff74b549f1ee9de3",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/XGTokenAny.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0x510975edA48A97E0cA228dD04d1217292487bea6"
+}
