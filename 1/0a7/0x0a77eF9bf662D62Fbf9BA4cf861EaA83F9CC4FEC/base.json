@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XWGToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://83679c23e93b69d353860ba56f0f592d1f173ec605b9d551b4c95c3e1964c427",
+  "path": [
+    "XWGToken.sol"
+  ],
+  "address": "0x0a77eF9bf662D62Fbf9BA4cf861EaA83F9CC4FEC"
+}
