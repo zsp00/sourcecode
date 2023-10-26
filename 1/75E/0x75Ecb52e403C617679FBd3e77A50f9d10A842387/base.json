@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CSR",
+  "CompilerVersion": "v0.5.2+commit.1df8f40c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://166f0f6527a4c33244a2530ff1755c99d4d67db4a8ec2b673f3636fb0c5f433c",
+  "path": [
+    "CSR.sol"
+  ],
+  "address": "0x75Ecb52e403C617679FBd3e77A50f9d10A842387"
+}

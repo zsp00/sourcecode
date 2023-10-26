@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RealPineappleOwl",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://674212d4a280af1190140bde96b93a33d35d808cd6824afca7e69c571038a7cf",
+  "path": [
+    "RealPineappleOwl.sol"
+  ],
+  "address": "0x3d78A85aa68A93d131E3EcFb912c71745f6D65c8"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "INFS",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d0e3394e770e1935c538c122efd4d9e2ffc459268fa0bd51d2df3e77d5fbd214",
+  "path": [
+    "INFS.sol"
+  ],
+  "address": "0x193408cA0576B73156Ed42A2EA7D6fD3f6507162"
+}
