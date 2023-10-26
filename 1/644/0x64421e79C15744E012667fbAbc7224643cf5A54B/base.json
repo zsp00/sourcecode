@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LNP",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://454000f053c2341c1984be97b6a633af02bf7255a71a9b72b9ffbfc3303cdee1",
+  "path": [
+    "LNP.sol"
+  ],
+  "address": "0x64421e79C15744E012667fbAbc7224643cf5A54B"
+}
