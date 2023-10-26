@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SHILAINU",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d44ab33409c1a39e825ee88a13a7b0886b46b5db5387f081325435555ab5c7c4",
+  "path": [
+    "SHILAINU.sol"
+  ],
+  "address": "0x20c3fa331A385b63EE39137e99d0cF2db142fCe1"
+}
