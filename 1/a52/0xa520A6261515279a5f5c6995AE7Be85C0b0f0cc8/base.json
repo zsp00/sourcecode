@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BombPop",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000204fce5e3e25026110000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e3f6b3dc9dca8c856cd72d2857045812792757eb56269ccf2779f9465e01290d",
+  "path": [
+    "BombPop.sol"
+  ],
+  "address": "0xa520A6261515279a5f5c6995AE7Be85C0b0f0cc8"
+}
