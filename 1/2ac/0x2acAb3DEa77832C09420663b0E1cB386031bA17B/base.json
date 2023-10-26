@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DeadFellazToken",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "1",
+  "Runs": "9999",
+  "ConstructorArguments": "000000000000000000000000a5409ec958c83c3f309868babaca7c86dcb077c1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://73febbe235244e2b9bbf22140406bac1e9e81b4874362d2a4aff9d3fa1c95de6",
+  "path": [
+    "DeadFellazToken.sol",
+    "FlatDependencies.sol"
+  ],
+  "address": "0x2acAb3DEa77832C09420663b0E1cB386031bA17B"
+}

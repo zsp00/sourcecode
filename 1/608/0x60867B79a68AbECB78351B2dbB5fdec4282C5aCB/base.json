@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VZZNProxy",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "1",
+  "Implementation": "0x60103c0507aa038f343ffddfad51b2c34aaa51c3",
+  "SwarmSource": "ipfs://3703c51af3afe7adbaeade24db21fac8ad4d39565316bf8dacfdf29e437f4105",
+  "path": [
+    "VZZNProxy.sol"
+  ],
+  "address": "0x60867B79a68AbECB78351B2dbB5fdec4282C5aCB"
+}
