@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SwipeERC",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://968c39d4f27964bd44d559cafcf045d5ce1ac4e509554d11c823d8fc69f77739",
+  "path": [
+    "SwipeERC.sol"
+  ],
+  "address": "0xacb47686b92fDde6D233EC6445c1f8d4d0d59C38"
+}
