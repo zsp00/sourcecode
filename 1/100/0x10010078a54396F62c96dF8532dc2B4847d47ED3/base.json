@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Hundred",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000001001009911e3fe1d5b45ff8efea7732c33a6c012",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3be1d96312638a059957fd4e793ab2c107e23e97da46145fd450a1aba187ffd3",
+  "path": [
+    "Hundred.sol"
+  ],
+  "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3"
+}
