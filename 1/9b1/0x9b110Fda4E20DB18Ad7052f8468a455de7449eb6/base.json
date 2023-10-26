@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RIA",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/lib/ERC20Capped.sol",
+    "contracts/lib/Ownable.sol",
+    "contracts/lib/SafeMath.sol",
+    "contracts/lib/ERC20.sol",
+    "contracts/lib/IERC20.sol",
+    "contracts/lib/IERC20Metadata.sol",
+    "contracts/lib/Context.sol",
+    "contracts/RIA.sol"
+  ],
+  "address": "0x9b110Fda4E20DB18Ad7052f8468a455de7449eb6"
+}

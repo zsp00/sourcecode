@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BEBEToken",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ccde66922967dcbec62205fb12c3d118d1994913000000000000000000000000edd80a654b811e14275142a579ae609102c50472000000000000000000000000dac17f958d2ee523a2206206994597c13d831ec7000000000000000000000000000000000000000000000000000000012a05f200000000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000000000000000000000000000000000000000064",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://47a035054cea062c61bfb28b8d4b2c7fc466b131979342375879575e985bffc7",
+  "path": [
+    "IUniswapV2Factory.sol",
+    "SafeMath.sol",
+    "SMCWarp.sol",
+    "BEBEToken.sol",
+    "Context.sol",
+    "IUniswapV2Pair.sol",
+    "IUniswapV2Router01.sol",
+    "IUniswapV2Router02.sol",
+    "Ownable.sol",
+    "Address.sol",
+    "IERC20.sol"
+  ],
+  "address": "0x5A36d4ccC64bE5C88576bc332f5f018B828C5136"
+}
