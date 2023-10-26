@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MozCoin",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://dd3cb3ce74cdc0ee37ba5006fb349f1fab3e01c01ad185c8e05bab2a88b59e53",
+  "path": [
+    "MozCoin.sol"
+  ],
+  "address": "0xD320A1B20bEe7D7a5E9e572E2099657e66759737"
+}
