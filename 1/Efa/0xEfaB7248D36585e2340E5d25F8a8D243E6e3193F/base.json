@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC20FixedSupply",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0aaf69a2c369aabd2b9aa3a3660dd1d5766618e8367b334ad09f96466ed50aed",
+  "path": [
+    "ERC20FixedSupply.sol"
+  ],
+  "address": "0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F"
+}
