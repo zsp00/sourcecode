@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PepeApeYachtClub",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bc18c37561100d0e8c6ca72ee5c12f5f338572cb1c2856b278260ef478c2c4e9",
+  "path": [
+    "PepeApeYachtClub.sol"
+  ],
+  "address": "0x2D0D57D004F82e9f4471CaA8b9f8B1965a814154"
+}
