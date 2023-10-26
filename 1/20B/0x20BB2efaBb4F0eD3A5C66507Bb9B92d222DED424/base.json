@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AdventurePunks",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000741445650554e4b00000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5453ad18e6387f115fd0a35b4fec3c6e0d0925b2893af81bfae6610512dc6118",
+  "path": [
+    "AdventurePunks.sol"
+  ],
+  "address": "0x20BB2efaBb4F0eD3A5C66507Bb9B92d222DED424"
+}

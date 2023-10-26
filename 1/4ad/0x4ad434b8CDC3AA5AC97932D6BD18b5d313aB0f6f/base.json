@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EverMoon",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "src/EverMoon.sol",
+    "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol"
+  ],
+  "address": "0x4ad434b8CDC3AA5AC97932D6BD18b5d313aB0f6f"
+}

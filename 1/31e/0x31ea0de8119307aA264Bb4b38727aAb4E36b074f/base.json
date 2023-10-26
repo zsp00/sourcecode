@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Store",
+  "CompilerVersion": "v0.8.2+commit.661d1103",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cb5cb9c2a04e4813347f011a7d371ed9da2333cf216d7a7d928d1979475c20ae",
+  "path": [
+    "Store.sol"
+  ],
+  "address": "0x31ea0de8119307aA264Bb4b38727aAb4E36b074f"
+}
