@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LayerZeroToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3e46388683b7d22da0d5ece190b3a7247a43a7049dc613ec1f77b5da53f1c6d1",
+  "path": [
+    "LayerZeroToken.sol"
+  ],
+  "address": "0x32002658029DA06fFFCFbad58706AA325B3e236e"
+}

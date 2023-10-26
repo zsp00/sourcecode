@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Stand",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://72b6ba6f9b76c3acdf1e8a6ec2171467b9db51156e808b38d6a0d93c3290d60d",
+  "path": [
+    "Stand.sol"
+  ],
+  "address": "0x3b685ab8586CdA9F4385aa89d5BD979f78A4Ab9A"
+}
