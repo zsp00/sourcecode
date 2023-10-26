@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AIX",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000277597d760e91cd83fcdc74b4808486d485230d9",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://23bafb7f0b96da5b84bd79e1119b0272a1cb8945e00427f8e110df94aabe51eb",
+  "path": [
+    "AIX.sol"
+  ],
+  "address": "0x1063ce524265d5a3A624f4914acd573dD89ce988"
+}
