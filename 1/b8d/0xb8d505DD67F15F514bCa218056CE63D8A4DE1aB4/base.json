@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FLIX",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d1caea923988c8f5f12087d15463e43cd208c9e578678fb1aba5edf4dc5c37d4",
+  "path": [
+    "FLIX.sol"
+  ],
+  "address": "0xb8d505DD67F15F514bCa218056CE63D8A4DE1aB4"
+}
