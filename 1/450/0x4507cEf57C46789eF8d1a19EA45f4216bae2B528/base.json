@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "T1",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "888",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000155e6ff9a7039a7d15f108647ea5ac7c7aa593ac00000000000000000000000007df8296e4d8d161bf76b00fa84367cc43e946810000000000000000000000000000000000000000000000000000000000000002543100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000025431000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/governance/IGovernanceToken.sol",
+    "contracts/T1.sol",
+    "contracts/tax/ITaxHandler.sol",
+    "contracts/treasury/ITreasuryHandler.sol"
+  ],
+  "address": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528"
+}
