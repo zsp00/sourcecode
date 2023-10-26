@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QUROZ",
+  "CompilerVersion": "v0.8.5+commit.a4f2e591",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2d1b773217e05733ecf3ab1f1e3a0870d6148f642b38f8d4a5a8ac7339174979",
+  "path": [
+    "QUROZ.sol"
+  ],
+  "address": "0xC05A4eD46Ef5b0678D56FFF5a877b4B6B32077bB"
+}

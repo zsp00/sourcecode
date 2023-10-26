@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BOTS",
+  "CompilerVersion": "v0.7.3+commit.9bfce1f6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f6dba8016de59075832d3eb4cfa8f1a51098c906cc03004b7c15eec035830443",
+  "path": [
+    "BOTS.sol"
+  ],
+  "address": "0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8"
+}
