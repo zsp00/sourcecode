@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YoloToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2864886f6d048ef923d0b019ebe3eed74e32f3c8e44c8150166a5b689dc096e2",
+  "path": [
+    "YoloToken.sol"
+  ],
+  "address": "0x21d5678A62DFe63a47062469Ebb2fAc2817D8832"
+}
