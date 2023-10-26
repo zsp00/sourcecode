@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "InitializableAdminUpgradeabilityProxy",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "london",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xadfc8c296eb7cec677c2ddece28007a3d4e465a1",
+  "SwarmSource": "",
+  "path": [
+    "contracts/dependencies/openzeppelin/upgradeability/BaseAdminUpgradeabilityProxy.sol",
+    "contracts/dependencies/openzeppelin/upgradeability/BaseUpgradeabilityProxy.sol",
+    "contracts/dependencies/openzeppelin/upgradeability/InitializableAdminUpgradeabilityProxy.sol",
+    "contracts/dependencies/openzeppelin/upgradeability/InitializableUpgradeabilityProxy.sol",
+    "contracts/dependencies/openzeppelin/upgradeability/Proxy.sol",
+    "contracts/dependencies/openzeppelin/upgradeability/UpgradeabilityProxy.sol",
+    "contracts/dependencies/openzeppelin/contracts/Address.sol"
+  ],
+  "address": "0x2E9045e7c001056cbcF5eD837F96A8630075a04D"
+}

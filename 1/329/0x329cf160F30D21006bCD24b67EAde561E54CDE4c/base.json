@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CareCoin",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b7cc529fe6978b239df39878f915d0fd5d8003403714675ca731d81525aba8d4",
+  "path": [
+    "CareCoin.sol"
+  ],
+  "address": "0x329cf160F30D21006bCD24b67EAde561E54CDE4c"
+}
