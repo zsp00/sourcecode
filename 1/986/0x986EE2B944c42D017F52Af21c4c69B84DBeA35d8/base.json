@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BMC",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000033b2e3c9fd0803ce80000000000000000000000000000000000000000000000000000000000000000000012",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://be00fde271a54d43f9438954d0f4c7cd571e55679f6e217fd77e7898843ce49b",
+  "path": [
+    "BMC.sol"
+  ],
+  "address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8"
+}
