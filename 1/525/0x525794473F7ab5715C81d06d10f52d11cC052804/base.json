@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TSHPToken",
+  "CompilerVersion": "v0.5.1+commit.c8a2cb62",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "1",
+  "Implementation": "0xe03f39b2446f7a2284182da0705547f827f656ec",
+  "SwarmSource": "bzzr://ce32bf36e1c9bd4ffd613143ec1300387e3f5f294788eb328f57cf7a2379ed05",
+  "path": [
+    "TSHPToken.sol"
+  ],
+  "address": "0x525794473F7ab5715C81d06d10f52d11cC052804"
+}
