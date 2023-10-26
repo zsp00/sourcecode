@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "xHono",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000008106f085262b2dd861d2764590619036b16bb3c0",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4d0e1cd232c447040f9b4a821e1ff36304e10cd9c47b402c6eccfc9858c28fe0",
+  "path": [
+    "xHono.sol"
+  ],
+  "address": "0x74e4C18Eb9D7390f6Bf7BC477d94B51608366048"
+}
