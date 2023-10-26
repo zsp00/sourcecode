@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WITCH",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b1cb1042ff1b6b648e7270032eafdf1965b5d7ab049090e34b53d0af9867cf89",
+  "path": [
+    "WITCH.sol"
+  ],
+  "address": "0xdc524e3c6910257744C1F93Cf15E9F472b5bD236"
+}
