@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "nGlitter",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bbdd331c97acbdeec88b501a09165efd9e3cf46d837920b7b74ac7742fa970db",
+  "path": [
+    "nGlitter.sol"
+  ],
+  "address": "0x73a671e9d0e56cC7F098b30431c61f3bFB21917A"
+}

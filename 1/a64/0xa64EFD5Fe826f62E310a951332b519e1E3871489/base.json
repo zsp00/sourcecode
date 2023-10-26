@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BetaCarbon",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://79933612b5ce225902199efccbc967f73a74c271133a2e89a125dcb54800b4e1",
+  "path": [
+    "BetaCarbon.sol"
+  ],
+  "address": "0xa64EFD5Fe826f62E310a951332b519e1E3871489"
+}
