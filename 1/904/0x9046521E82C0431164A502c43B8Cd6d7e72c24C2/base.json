@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GoldAppleToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009d222f983abcebcf814067b964d0e45ea9e3b9da",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5996bc004602a6ace282cb95f4acf39d57319bb356a733a77669262665919e8c",
+  "path": [
+    "Context.sol",
+    "ERC20-v0.8.0.sol",
+    "GoldAppleToken.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol"
+  ],
+  "address": "0x9046521E82C0431164A502c43B8Cd6d7e72c24C2"
+}
