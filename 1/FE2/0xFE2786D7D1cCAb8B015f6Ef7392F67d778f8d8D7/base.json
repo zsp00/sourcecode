@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ParsiqToken",
+  "CompilerVersion": "v0.5.11+commit.c082d0b4",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a6b1b798ff29936702e0b1193f0812e740a2b289e1b6bd2474dec9e252007b14",
+  "path": [
+    "ParsiqToken.sol"
+  ],
+  "address": "0xFE2786D7D1cCAb8B015f6Ef7392F67d778f8d8D7"
+}
