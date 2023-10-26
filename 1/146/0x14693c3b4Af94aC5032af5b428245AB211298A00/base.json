@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BJSB",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "300",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x5133522ea5a0494ecb83f26311a095ddd7a9d4b6",
+  "SwarmSource": "",
+  "path": [
+    "contracts/BJSB.sol",
+    "contracts/manifold/ERC721Creator.sol",
+    "node_modules/@openzeppelin/contracts/proxy/Proxy.sol",
+    "node_modules/@openzeppelin/contracts/utils/Address.sol",
+    "node_modules/@openzeppelin/contracts/utils/StorageSlot.sol"
+  ],
+  "address": "0x14693c3b4Af94aC5032af5b428245AB211298A00"
+}
