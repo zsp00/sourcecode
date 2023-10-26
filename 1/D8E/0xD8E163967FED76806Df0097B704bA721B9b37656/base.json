@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Cope",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bf06db3bb0565945ef4a785373f6544f01f6e11ef7d0bc0f7826f4036c6e8608",
+  "path": [
+    "Cope.sol"
+  ],
+  "address": "0xD8E163967FED76806Df0097B704bA721B9b37656"
+}
