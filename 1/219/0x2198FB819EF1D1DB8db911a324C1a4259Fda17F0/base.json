@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CustomToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://414b2bf066f92915d7e598fe1c7329706a6848d7a940d2644161f82ce3ac054b",
+  "path": [
+    "CustomToken.sol"
+  ],
+  "address": "0x2198FB819EF1D1DB8db911a324C1a4259Fda17F0"
+}

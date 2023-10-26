@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BloXmoveToken",
+  "CompilerVersion": "v0.7.3+commit.9bfce1f6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000003ce099bdbb0082fd28ba992f88334cb9bad4e2a30000000000000000000000002cd40b5ff501d8ee3a2ded01227660dc051d959000000000000000000000000049cedf639f0e6ed75a58489dd11f2f30bd06e64a00000000000000000000000000000000000000000028f208607c9ff2a18000000000000000000000000000000000000000000000000034f086f3b33b684000000000000000000000000000000000000000000000000034f086f3b33b68400000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/introspection/ERC165.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/introspection/IERC165.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "contracts/BloXmoveToken.sol"
+  ],
+  "address": "0x38d9eb07A7b8Df7D86F440A4A5c4a4c1a27E1a08"
+}
