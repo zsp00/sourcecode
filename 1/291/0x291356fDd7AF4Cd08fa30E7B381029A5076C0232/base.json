@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "better",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "250327",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bd6eb0e6a6ac0298aba6c93122ea9ce80766149916c91dfe1439a8018a478749",
+  "path": [
+    "better.sol"
+  ],
+  "address": "0x291356fDd7AF4Cd08fa30E7B381029A5076C0232"
+}
