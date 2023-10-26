@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WickedCraniums",
+  "CompilerVersion": "v0.7.0+commit.9e61f92b",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4cae106dcf80eedc4658d1b3752ea9c0f413203b3fad58d3add4018dd1e34005",
+  "path": [
+    "WickedCraniums.sol"
+  ],
+  "address": "0x85f740958906b317de6ed79663012859067E745B"
+}
