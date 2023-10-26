@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Koyo",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007ea8baee089fd574b393eca2b89121be0391bc0f000000000000000000000000454240a1a2c866200bb17fdac741107f02c42caf0000000000000000000000003d2591b95373d7cdc9927b5b66304f6ad1dede95000000000000000000000000000000000000000000000000000000000000001900000000000000000000000000000000000000000000000000000000001275000000000000000000000000000000000000000000000000000000000000093a80",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "Koyo.sol",
+    "IShibaBurn.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x198065e69A86cb8a9154B333AAD8eFE7A3c256F8"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MOMO",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9acf1c8a10815669c37bcd37f6dfdb3c80db0f1458d0f6e95a7a274c7296a7b7",
+  "path": [
+    "MOMO.sol"
+  ],
+  "address": "0x9439131c63eF144dE5898751CCFA7Db004b8389a"
+}
