@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DevilDogeCoin",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4ff7bc63967e0e4d11639b9da1f237895d2c68b3b8526ed57ff2f630b034be3a",
+  "path": [
+    "DevilDogeCoin.sol"
+  ],
+  "address": "0x8e0DeB118f7C9b79d0277341E4Dcc5093E7f6e7D"
+}

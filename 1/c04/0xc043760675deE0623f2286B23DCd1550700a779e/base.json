@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FAK",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7f6579f0509076d5ab0b206c4706051317748fa048b84c877799b087898ed90d",
+  "path": [
+    "FAK.sol"
+  ],
+  "address": "0xc043760675deE0623f2286B23DCd1550700a779e"
+}
