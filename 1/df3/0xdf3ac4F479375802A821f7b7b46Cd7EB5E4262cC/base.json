@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EUSD",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000c8353594eeedc5ce5a4544d3d9907b694c4690ff",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/lybra/interfaces/Iconfigurator.sol",
+    "contracts/lybra/token/EUSD.sol"
+  ],
+  "address": "0xdf3ac4F479375802A821f7b7b46Cd7EB5E4262cC"
+}

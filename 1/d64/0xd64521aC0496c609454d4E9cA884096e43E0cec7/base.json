@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Moveer",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://41fadba0ea222f48d8712f16fe9c4c893ad8dc98464171a0e90281438cbb2426",
+  "path": [
+    "Moveer.sol"
+  ],
+  "address": "0xd64521aC0496c609454d4E9cA884096e43E0cec7"
+}
