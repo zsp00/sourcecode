@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NOTHING",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fe6b7b24bf0f242d803c295fc9c62ad06015aa8a92f6b7e15124da989a9c6d82",
+  "path": [
+    "NOTHING.sol"
+  ],
+  "address": "0xFfD822149fA6749176C7a1424e71a417F26189C8"
+}
