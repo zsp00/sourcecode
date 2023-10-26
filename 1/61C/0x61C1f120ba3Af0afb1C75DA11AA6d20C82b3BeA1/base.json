@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "REALSMURFPEPE",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://959c52739baa4470711820cbbb5d1a3cfca39a42066d740d23ab426c245810e7",
+  "path": [
+    "REALSMURFPEPE.sol"
+  ],
+  "address": "0x61C1f120ba3Af0afb1C75DA11AA6d20C82b3BeA1"
+}

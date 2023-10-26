@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PumpkinPepe",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cefef34937b61784b742e68dae8bbbcf73f1412650d977766bdd01efe1606162",
+  "path": [
+    "PumpkinPepe.sol"
+  ],
+  "address": "0x3Bd5D3e5f2aD5Ad84D0CD1219a5508Bd6135b41e"
+}
