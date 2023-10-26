@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MyToken",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000000000000000172c3be7e6615aaccc1180000000000000000000000000000000000000000000000000000000000000000000000b4d454d4556454e4745525300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044d4d564700000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/ERC20.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol"
+  ],
+  "address": "0xdDF688e96cB2531a69Bf6347C02f069266C1Aa81"
+}

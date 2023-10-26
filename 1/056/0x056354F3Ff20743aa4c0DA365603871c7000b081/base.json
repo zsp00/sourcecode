@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TRIX",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a6eefcc1d64602f99dba641d7988c57c75134c8c1cb7b6ad909b6f1f283f1ff7",
+  "path": [
+    "TRIX.sol"
+  ],
+  "address": "0x056354F3Ff20743aa4c0DA365603871c7000b081"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MIXOR",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b7813d1ba40689f9f7ce3eb6569c7ce7ee124cee87d958c6e3b9b1b77d496f1f",
+  "path": [
+    "MIXOR.sol"
+  ],
+  "address": "0xDbE11Eb848da80ED4Fa88FB10a4e64F275a9c5Ec"
+}
