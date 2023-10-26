@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WagmiCoin",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9ac673db7d1dd3fd13a1a2113b59747a88c976b9e2622d56a3f086db481a171e",
+  "path": [
+    "WagmiCoin.sol"
+  ],
+  "address": "0xEf8E456967122Db4c3C160314bDE8d2602Ad6199"
+}

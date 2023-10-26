@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TIKTOKFROG",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a7fa4ff4e81a6856ffaf703c17d46208824ad3cd25cb8566f5777ff381cefc57",
+  "path": [
+    "TIKTOKFROG.sol"
+  ],
+  "address": "0xcFca16d87bdfeC95fd2782E4dbBDD929d0d35684"
+}
