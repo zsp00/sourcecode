@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TRUEToken",
+  "CompilerVersion": "v0.4.16-nightly.2017.8.9+commit.81887bc7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e04aee1dd91b2cd256bd196d09271756498ca143",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f8218b733ea4576d9249756371a061572cb064c3f8bbaa299bcf667172d2fedf",
+  "path": [
+    "TRUEToken.sol"
+  ],
+  "address": "0xA4d17AB1eE0efDD23edc2869E7BA96B89eEcf9AB"
+}

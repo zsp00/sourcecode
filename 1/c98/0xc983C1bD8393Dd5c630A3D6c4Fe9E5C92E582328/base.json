@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Kekya",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8123f80c218d4dc79949b24a045d347a70cafce4ead6744b450ccc9c76023d96",
+  "path": [
+    "Kekya.sol"
+  ],
+  "address": "0xc983C1bD8393Dd5c630A3D6c4Fe9E5C92E582328"
+}
