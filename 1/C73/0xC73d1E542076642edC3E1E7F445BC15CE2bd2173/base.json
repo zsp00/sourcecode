@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DJX",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d7f7d2040ef0f75f2350949c524d640d15012e5c5d7616683931d9d1f0a8051f",
+  "path": [
+    "DJX.sol"
+  ],
+  "address": "0xC73d1E542076642edC3E1E7F445BC15CE2bd2173"
+}
