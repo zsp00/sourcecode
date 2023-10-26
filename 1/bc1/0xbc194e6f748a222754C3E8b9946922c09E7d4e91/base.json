@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Lev",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e0d02780b6874cb06704d8e26b08a89a1a969999",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b82636d1bad46015845ae35c6259357405f32e22fa793a249ba15209961bf455",
+  "path": [
+    "Lev.sol"
+  ],
+  "address": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91"
+}
