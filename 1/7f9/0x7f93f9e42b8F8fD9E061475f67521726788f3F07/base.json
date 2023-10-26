@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Yobama",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "IUniswapV2Pair.sol",
+    "IUniswapV2Router02.sol",
+    "IERC20Metadata.sol",
+    "IUniswapV2Factory.sol",
+    "ERC20.sol",
+    "ERC20Burnable.sol",
+    "Ownable.sol",
+    "Initializable.sol",
+    "IUniswapV2Router01.sol",
+    "Context.sol",
+    "IERC20.sol",
+    "Token.sol"
+  ],
+  "address": "0x7f93f9e42b8F8fD9E061475f67521726788f3F07"
+}

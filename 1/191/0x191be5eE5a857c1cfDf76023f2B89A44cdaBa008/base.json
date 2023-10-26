@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DeBoxGuardiansCobra",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "b779ddfe47536b0042cb4b6d7d5cbe7dc2871a2c9ec9e0252c8e9a540eae13070000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000004a68747470733a2f2f6465626f782e70726f2f6e66742f697066732f516d516a37534a45324748576b6b66436b72677468637764784e58546e733831506a65533668537173674c4257452f00000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
+    "@openzeppelin/contracts/utils/math/Math.sol",
+    "@openzeppelin/contracts/token/ERC721/ERC721.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "guardians/debox_guardians_cobra.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol"
+  ],
+  "address": "0x191be5eE5a857c1cfDf76023f2B89A44cdaBa008"
+}
