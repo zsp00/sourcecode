@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BIZCOIN",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e75a3e4bf328828ccf38ef75839ab3345d2de7e84028ab9466d55055f51e9040",
+  "path": [
+    "BIZCOIN.sol"
+  ],
+  "address": "0x0b2a3bEedB2827ea0ceD44ED967e23879d208156"
+}
