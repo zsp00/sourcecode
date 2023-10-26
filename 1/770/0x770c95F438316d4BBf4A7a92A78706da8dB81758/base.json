@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QMFToken",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000092a477ed5b35805157caa670f2dde865b19456d0000000000000000000000002ffbab7b2c0bce0668c86164f7a25d018b623920000000000000000000000000fe9bbbb444af5eac7c5cabb8cc597f068e090945",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7be1348b1aec2efcd351f2268b1e7d15afe204fd566bbf6e6ef58e73ee9fe289",
+  "path": [
+    "QMFToken.sol"
+  ],
+  "address": "0x770c95F438316d4BBf4A7a92A78706da8dB81758"
+}
