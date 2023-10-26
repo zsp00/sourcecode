@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UniswapV2Pair",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7dca18479e58487606bf70c79e44d8dee62353c9ee6d01f9a9d70885b8765f22",
+  "path": [
+    "UniswapV2Pair.sol"
+  ],
+  "address": "0xa33C2e2766406BB5866A0aC6148e424816E07980"
+}
