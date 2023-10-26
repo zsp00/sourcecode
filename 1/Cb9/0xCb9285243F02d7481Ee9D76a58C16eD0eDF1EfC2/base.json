@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "swiftintel",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3e62ed837c17b9b82bbae45e5c5105ef91d511b0ca5dabc38160dc23b874baa1",
+  "path": [
+    "swiftintel.sol"
+  ],
+  "address": "0xCb9285243F02d7481Ee9D76a58C16eD0eDF1EfC2"
+}
