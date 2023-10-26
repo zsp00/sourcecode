@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ExordeToken",
+  "CompilerVersion": "v0.8.8+commit.dddeac2f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a64470b03ad6face8b4e4d195f2d65734017f934cb0b762ef34e320ade2e0ac7",
+  "path": [
+    "ExordeToken.sol"
+  ],
+  "address": "0x02dE007D412266a2e0Fa9287C103474170F06560"
+}
