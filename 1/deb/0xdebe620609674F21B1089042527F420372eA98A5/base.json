@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Tava",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/TAVA.sol",
+    "contracts/ERC20Interface.sol",
+    "contracts/Pausable.sol",
+    "contracts/Ownable.sol",
+    "contracts/Context.sol"
+  ],
+  "address": "0xdebe620609674F21B1089042527F420372eA98A5"
+}
