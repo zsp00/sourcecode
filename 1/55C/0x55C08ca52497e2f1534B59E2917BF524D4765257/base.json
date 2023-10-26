@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UwU",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7c013370caf2dad11b6a87ead4e6ebf970b92dee827e6d0a064bce626836b27b",
+  "path": [
+    "UwU.sol"
+  ],
+  "address": "0x55C08ca52497e2f1534B59E2917BF524D4765257"
+}
