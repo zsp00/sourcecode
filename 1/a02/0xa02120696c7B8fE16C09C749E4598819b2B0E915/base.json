@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WirexToken",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://09683a66b6bfc5580749353b5589cde4b5a3365dca8e3e676a5afceec96bca15",
+  "path": [
+    "ERC20.sol",
+    "ERC20Burnable.sol",
+    "IERC20.sol",
+    "Ownable.sol",
+    "Pausable.sol",
+    "WirexToken.sol",
+    "Context.sol"
+  ],
+  "address": "0xa02120696c7B8fE16C09C749E4598819b2B0E915"
+}
