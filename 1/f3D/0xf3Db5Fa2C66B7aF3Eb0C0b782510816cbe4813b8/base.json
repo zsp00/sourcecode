@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EVXToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000003a35294400",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ecce5181406b9910148da7a081b32a68a3accce411a01bb738bbc19c3d8a10a0",
+  "path": [
+    "EVXToken.sol"
+  ],
+  "address": "0xf3Db5Fa2C66B7aF3Eb0C0b782510816cbe4813b8"
+}
