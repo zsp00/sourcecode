@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GNYerc20Token",
+  "CompilerVersion": "v0.4.22+commit.4cb486ee",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://863dab0532c8b1f99db5e43a5739593f8164ffc8641f0c1844bbfb3c75718510",
+  "path": [
+    "GNYerc20Token.sol"
+  ],
+  "address": "0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4"
+}
