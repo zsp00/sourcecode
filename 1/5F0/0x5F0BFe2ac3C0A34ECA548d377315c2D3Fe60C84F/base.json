@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Defraycoin",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6f3a96901dd89989c77dd9c146a3f86163b4191345992ba87a9f426c1292d47c",
+  "path": [
+    "Defraycoin.sol"
+  ],
+  "address": "0x5F0BFe2ac3C0A34ECA548d377315c2D3Fe60C84F"
+}
