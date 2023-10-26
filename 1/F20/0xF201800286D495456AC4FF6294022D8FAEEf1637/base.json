@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "fantasysports",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://de9d0e30390bc5380c68f6cd338492604bf8c8f2e6a5fcc7f841b6612bc34490",
+  "path": [
+    "fantasysports.sol"
+  ],
+  "address": "0xF201800286D495456AC4FF6294022D8FAEEf1637"
+}

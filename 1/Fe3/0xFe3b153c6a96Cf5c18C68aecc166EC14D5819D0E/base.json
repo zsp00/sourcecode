@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PAPAJOE",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8b28c06828730ddc179e6db55e746f9043df69171f3b394abfec721c73d27604",
+  "path": [
+    "PAPAJOE.sol"
+  ],
+  "address": "0xFe3b153c6a96Cf5c18C68aecc166EC14D5819D0E"
+}
