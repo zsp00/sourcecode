@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PaxUnitas",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f3ceed72a411f67d5c710121a955d9df9dc91a6fdf0e46ffbc6601d41ae4abee",
+  "path": [
+    "PaxUnitas.sol"
+  ],
+  "address": "0x4E452B391a86C9240e98DF7277CE0BeA5bE08e43"
+}

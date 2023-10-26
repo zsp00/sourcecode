@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YOHO",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5e459e97d30be372f03859b6aec6d10e3182f48a30d12e16bef93f4ff5735fb6",
+  "path": [
+    "YOHO.sol"
+  ],
+  "address": "0xc8d1acd9aC1116F8450b375be2A3730F43e916d4"
+}
