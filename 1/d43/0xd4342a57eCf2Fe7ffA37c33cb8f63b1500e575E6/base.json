@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ApronToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://37f1da62e5cf726180d1e33d00fcd2413819c2d0ed0c056d37f7a247bc79fd04",
+  "path": [
+    "ApronToken.sol"
+  ],
+  "address": "0xd4342a57eCf2Fe7ffA37c33cb8f63b1500e575E6"
+}

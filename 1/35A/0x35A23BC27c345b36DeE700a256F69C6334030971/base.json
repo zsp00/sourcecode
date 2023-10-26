@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CHY",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c2fd68de471f4f71fc9d3ae41540b2ef255f80cd380567449f3afda5c3cea7d4",
+  "path": [
+    "CHY.sol"
+  ],
+  "address": "0x35A23BC27c345b36DeE700a256F69C6334030971"
+}
