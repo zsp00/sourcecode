@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "preToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a6c87eab648a4128b28c5c59ae73a1749c650f163a3c28c7c71e516320c3bade",
+  "path": [
+    "preToken.sol"
+  ],
+  "address": "0x88A3E4F35D64aAD41A6d4030ac9AFE4356cB84fA"
+}

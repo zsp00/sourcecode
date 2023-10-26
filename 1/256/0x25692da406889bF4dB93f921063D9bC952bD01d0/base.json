@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Itsuki",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "1",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000043697066733a2f2f62616679626569676a707068363435616c6d6c76767a3375656e63326b3474697967723478356f656a7961643276637961746d713433653676646d2f0000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "erc721a/contracts/IERC721A.sol",
+    "contracts/Itsuki.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0x25692da406889bF4dB93f921063D9bC952bD01d0"
+}

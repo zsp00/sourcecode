@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NODE",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ecd59429ea48be31647ba853ff39d0bbdb4fc251db0088c558ea428fcd926d57",
+  "path": [
+    "NODE.sol"
+  ],
+  "address": "0x0C3eF32f802967DB75B9D49fE1e76620151cCB81"
+}
