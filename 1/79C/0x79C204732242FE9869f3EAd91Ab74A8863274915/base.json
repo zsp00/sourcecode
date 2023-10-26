@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XETF",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://71f14c2493a27774154f0de015f2157c135fa8821d8b66ac4c36f4f3757232e9",
+  "path": [
+    "XETF.sol"
+  ],
+  "address": "0x79C204732242FE9869f3EAd91Ab74A8863274915"
+}
