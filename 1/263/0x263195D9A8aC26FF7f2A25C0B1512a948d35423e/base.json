@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AlliedUnit",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2f06a56257774ee8192b29205fc0e26bf38c649783f890fec4655b7130238805",
+  "path": [
+    "AlliedUnit.sol"
+  ],
+  "address": "0x263195D9A8aC26FF7f2A25C0B1512a948d35423e"
+}
