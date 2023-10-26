@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XRP6900",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f1a7ffbd8ba4605550c097daf8b9d737e17414ace8bce10f5c4e48ce13e8380f",
+  "path": [
+    "XRP6900.sol"
+  ],
+  "address": "0x972b168f95091d358c507d9434E566947D609eBe"
+}
