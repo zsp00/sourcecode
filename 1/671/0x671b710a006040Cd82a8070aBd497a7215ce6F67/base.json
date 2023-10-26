@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NTH",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://02411611863d2cfe6e02d7476b47ffd16bd8845cef7f93b48403e19411113288",
+  "path": [
+    "NTH.sol"
+  ],
+  "address": "0x671b710a006040Cd82a8070aBd497a7215ce6F67"
+}
