@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "InitializableERC20",
+  "CompilerVersion": "v0.6.9+commit.3e3065ac",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9696997771024917130355a174ab51dc8834dca09ba3ad712331627999960d8d",
+  "path": [
+    "InitializableERC20.sol"
+  ],
+  "address": "0xa721372B2C9950AD686a9Bf484c61daF86454573"
+}
