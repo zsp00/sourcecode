@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AntiMEV",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1ecc252b290ab1fb26b9ad157d5fa0607444a707d4b797f2e3cf7edc1c777d4e",
+  "path": [
+    "AntiMEV.sol"
+  ],
+  "address": "0x48b8039cF08E1D1524A68fC6d707D1D7e032e90C"
+}
