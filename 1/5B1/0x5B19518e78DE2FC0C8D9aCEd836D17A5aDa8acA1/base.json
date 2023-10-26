@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MetaWolves",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "2000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7e06d28bdd430135b8a06cbea9cdb637a8df9bbc31614fe5bcdfb201e1ef09e0",
+  "path": [
+    "Ownable.sol",
+    "Pausable.sol",
+    "Strings.sol",
+    "Address.sol",
+    "IERC721.sol",
+    "IERC721Metadata.sol",
+    "MetaWolves.sol",
+    "IERC165.sol",
+    "IERC721Receiver.sol",
+    "Context.sol",
+    "Counters.sol",
+    "ERC165.sol",
+    "ERC721.sol"
+  ],
+  "address": "0x5B19518e78DE2FC0C8D9aCEd836D17A5aDa8acA1"
+}
