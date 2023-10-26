@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FlipToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3c70eb07cf191a84ad7197c39835a72bbf7dc938ace48c95c45cb4bbb9845aaa",
+  "path": [
+    "FlipToken.sol"
+  ],
+  "address": "0x3a1Bda28AdB5B0a812a7CF10A1950c920F79BcD3"
+}

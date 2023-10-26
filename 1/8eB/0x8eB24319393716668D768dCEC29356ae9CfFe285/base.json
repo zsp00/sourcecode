@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SingularityNetToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e3bbab3e87a1debb97341b08f7432c80ad78cc4d94f9000d0dcaaf4d46ed8e1c",
+  "path": [
+    "SingularityNetToken.sol"
+  ],
+  "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285"
+}
