@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RETURN",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4accdbc3049a8adb6a9cb1b9ff5ec6c73e34ab8939525593658a59801f907ce1",
+  "path": [
+    "RETURN.sol"
+  ],
+  "address": "0x45FEC56Db4Eb564Ab33D7DB1e7a125c6AC4518cD"
+}
