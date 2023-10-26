@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HappyLandGummyBears",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bc4db3b4e95e68b8f69cba651656099db36299ddad1c7030190bed875976ccd7",
+  "path": [
+    "HappyLandGummyBears.sol"
+  ],
+  "address": "0xf32e1bdE889eCf672FFAe863721C8f7d280F853b"
+}
