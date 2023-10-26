@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Quailrun",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2ef5ae61b16893e55a06c908df3c92152523b11eef404139b9e8c5ff80c76d1f",
+  "path": [
+    "Context.sol",
+    "ERC20.sol",
+    "IERC20.sol",
+    "Token.sol"
+  ],
+  "address": "0xA77167EAD9a774Dbc04a192d1f6227ddf8AC8cd8"
+}
