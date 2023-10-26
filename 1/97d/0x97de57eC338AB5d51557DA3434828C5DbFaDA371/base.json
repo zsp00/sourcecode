@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Lybra",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Governable.sol",
+    "contracts/EUSD.sol",
+    "contracts/IERC20.sol",
+    "contracts/SafeMath.sol",
+    "contracts/Lybra.sol"
+  ],
+  "address": "0x97de57eC338AB5d51557DA3434828C5DbFaDA371"
+}
