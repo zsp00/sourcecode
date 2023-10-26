@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Lendex",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://74c4ee056fce520e8143c1108e8b257d73c885bd1114dba25f783a2449fa51e3",
+  "path": [
+    "Lendex.sol"
+  ],
+  "address": "0x8CAfc13eEBa5caB3694aefC1631f3109a1C3bD1e"
+}

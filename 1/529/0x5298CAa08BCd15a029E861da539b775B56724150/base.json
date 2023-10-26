@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "rain",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f35af468339f519c828b87901f7993d181a077ecaf86ad8e3b442d15e792884c",
+  "path": [
+    "rain.sol"
+  ],
+  "address": "0x5298CAa08BCd15a029E861da539b775B56724150"
+}

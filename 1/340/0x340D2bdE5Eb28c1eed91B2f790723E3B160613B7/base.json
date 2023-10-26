@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BlockvToken",
+  "CompilerVersion": "v0.4.17+commit.bdeb9e52",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000006CFA1A9CB5C94087f418B3cA45338e5Fd9c511B9",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c6a34536db6fc0608a713bea6dbad42f113850027b7d137e28efc0b58eb5b46c",
+  "path": [
+    "BlockvToken.sol"
+  ],
+  "address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7"
+}
