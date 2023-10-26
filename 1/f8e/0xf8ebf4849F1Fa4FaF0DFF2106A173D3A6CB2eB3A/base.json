@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TROLLFACE",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9b46f0d311d6307733fab3ea7d3d8e5c44833c66802e301c7f4ca9e8b813397c",
+  "path": [
+    "TROLLFACE.sol"
+  ],
+  "address": "0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A"
+}
