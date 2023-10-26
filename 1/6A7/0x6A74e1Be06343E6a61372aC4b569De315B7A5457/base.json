@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CROS",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://afe7234a6441e75725e527cbf37b1de961cfdcd98bb86e3d5479550553bdb3e3",
+  "path": [
+    "CROS.sol"
+  ],
+  "address": "0x6A74e1Be06343E6a61372aC4b569De315B7A5457"
+}

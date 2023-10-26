@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BNB",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://55071b6e977a4fda317556cfee54120193749a452269ae76416bd54dcc483556",
+  "path": [
+    "BNB.sol"
+  ],
+  "address": "0x4824F4814BBe005EaFeb1d2dAc99a9cd80374982"
+}
