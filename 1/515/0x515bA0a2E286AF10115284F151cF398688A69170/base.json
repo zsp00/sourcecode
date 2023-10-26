@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TENXToken",
+  "CompilerVersion": "v0.5.4+commit.9549d8ff",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000d41f5a9bf9ff2aed4497f39bb3ccb5ef58346aff000000000000000000000000000000000000000000a9c0a7f258183071078b8f",
+  "EVMVersion": "byzantium",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://47019c3539fcedb634408cd6c43e8a5e4e651bf313ec9ff2ef8acd2213417f0d",
+  "path": [
+    "TENXToken.sol"
+  ],
+  "address": "0x515bA0a2E286AF10115284F151cF398688A69170"
+}

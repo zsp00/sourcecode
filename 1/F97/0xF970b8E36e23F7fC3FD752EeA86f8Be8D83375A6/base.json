@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RCNToken",
+  "CompilerVersion": "v0.4.15+commit.bbb8e64f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ad4ba0910497c3181968ede46c4edf45019a3c59b10d8a0c76df8286b447b5be",
+  "path": [
+    "RCNToken.sol"
+  ],
+  "address": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6"
+}
