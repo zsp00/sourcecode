@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KimchiToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0122296c87e9f491ff7232de3c869dd2b7661b2b2b19ebb5e20fd8ef3383102b",
+  "path": [
+    "KimchiToken.sol"
+  ],
+  "address": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0"
+}
