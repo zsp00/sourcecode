@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CatgirlOptimus",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://13b3a6e39bb17c8c9272f8ecb052e66e049073e2f0c550ee3dd9d3211ec4845c",
+  "path": [
+    "CatgirlOptimus.sol"
+  ],
+  "address": "0xD5DF655087d99B7B720A5bc8711F296180A4F44b"
+}
