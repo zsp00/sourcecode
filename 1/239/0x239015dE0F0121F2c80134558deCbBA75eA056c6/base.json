@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Wand",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://15c62e3749bc4a33a6570161bd4af9f00d1a8fa16e1b7fbff7f39b970fec8ec4",
+  "path": [
+    "Wand.sol"
+  ],
+  "address": "0x239015dE0F0121F2c80134558deCbBA75eA056c6"
+}
