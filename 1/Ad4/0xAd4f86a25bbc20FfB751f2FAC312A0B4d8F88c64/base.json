@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RoomToken",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://33906ff8c5fd45638073d3923b63968c0ed5ef2ceb990836803aacdc014a4db6",
+  "path": [
+    "RoomToken.sol"
+  ],
+  "address": "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64"
+}
