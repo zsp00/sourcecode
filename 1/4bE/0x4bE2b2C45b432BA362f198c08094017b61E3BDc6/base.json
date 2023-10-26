@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MARSWAP",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000003f7724180aa6b939894b5ca4314783b0b36b3290000000000000000000000001f2205315a42132f1f1b0dc8fe2d9cbb4f5fc18d000000000000000000000000000000000000000000000000000000e8d4a5100000000000000000000000000095ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7a64f2c5de7e943f1ba21771523a6cbec3accfffd6423c1ecd1c5657d0d339db",
+  "path": [
+    "MARSWAP.sol"
+  ],
+  "address": "0x4bE2b2C45b432BA362f198c08094017b61E3BDc6"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NPC",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000031b73666ca5874950e94babc0c5f93419facc82b0000000000000000000000000000000000000000000000000000000000000001",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6ed75449b1c4689fb654c849323a3f0c74a97844b6021a9d8db56479ae2b4e61",
+  "path": [
+    "NPC.sol"
+  ],
+  "address": "0x8eD97a637A790Be1feff5e888d43629dc05408F6"
+}
