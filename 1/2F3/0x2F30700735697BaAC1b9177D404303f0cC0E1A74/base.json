@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StartupersCoin",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fcfae406024fe73127959e5546d41feb4857e9625c9c1db3ef83d22c652267ea",
+  "path": [
+    "StartupersCoin.sol"
+  ],
+  "address": "0x2F30700735697BaAC1b9177D404303f0cC0E1A74"
+}
