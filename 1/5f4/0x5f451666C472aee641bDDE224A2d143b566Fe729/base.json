@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Quadrazhao",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007cf48a5695cd737bc2af716190798bdf819e17040000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/LPDiv.sol",
+    "contracts/Quadrazhao.sol",
+    "contracts/SafeMath.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/interfaces/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "contracts/ILPDiv.sol"
+  ],
+  "address": "0x5f451666C472aee641bDDE224A2d143b566Fe729"
+}
