@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DBCERC20",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://809d168b5d25948c116928f46925c0cdd7cc64b108bcc0703d5d5069909a7538",
+  "path": [
+    "IERC165.sol",
+    "IERC20Metadata.sol",
+    "Context.sol",
+    "Strings.sol",
+    "ERC20.sol",
+    "Pausable.sol",
+    "AccessControlEnumerable.sol",
+    "dbc_erc20.sol",
+    "ERC165.sol",
+    "ERC20Burnable.sol",
+    "ERC20Pausable.sol",
+    "ERC20PresetMinterPauser.sol",
+    "IERC20.sol",
+    "AccessControl.sol",
+    "EnumerableSet.sol"
+  ],
+  "address": "0x1F735f84b07cc20E9aC471C291a87b5A2428d518"
+}

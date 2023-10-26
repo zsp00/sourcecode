@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "cvxCrvToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://dbbdb3e5432dbeef7103ed90f983c11793de00c15442ba74e4869c7b65e07405",
+  "path": [
+    "cvxCrvToken.sol"
+  ],
+  "address": "0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7"
+}
