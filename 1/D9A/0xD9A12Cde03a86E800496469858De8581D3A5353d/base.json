@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YUPToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000825181155e417f93f697149cd4c6f456e04423ba000000000000000000000000db20ad2642d773c5a321ad7b14ad04315ed8b9b1000000000000000000000000aa972c54ae1a4b185bf5d72a3695dfcee91163d900000000000000000000000017652eb6f864a5fddb5f3e17107f1e2d21cd95a600000000000000000000000046983ddc9b79cfe2686952af04f38c7dde2e3e34",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a2d44b87a2ba9fb27fa617c1be802cde7782326763f998cae3a24a0dcb0feaa8",
+  "path": [
+    "YUPToken.sol"
+  ],
+  "address": "0xD9A12Cde03a86E800496469858De8581D3A5353d"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Terareum",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://87e60772895fbe49ff32d23a7c164a96ce7b90b68555385e53415a2dd8893aaa",
+  "path": [
+    "Terareum.sol"
+  ],
+  "address": "0x009668A9691e456972c8ec4Cc84e99486308b84D"
+}
