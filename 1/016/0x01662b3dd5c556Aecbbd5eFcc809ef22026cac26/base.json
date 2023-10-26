@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PixelPuppers",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "erc721a/contracts/IERC721A.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/PixelPuppers.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol"
+  ],
+  "address": "0x01662b3dd5c556Aecbbd5eFcc809ef22026cac26"
+}
