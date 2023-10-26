@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ThetaToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0fe1c5a3abd944bad9194ee5f79d592e5f3abe5acf868d4fe39073497baf1e60",
+  "path": [
+    "ThetaToken.sol"
+  ],
+  "address": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645"
+}

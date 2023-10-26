@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Agricoin",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://935b961acf2a794d8574db4e88718b0bc0d689b88a409046fa1fffd18e4f41c6",
+  "path": [
+    "Agricoin.sol"
+  ],
+  "address": "0x25d9Bef26b6F7018D24d18144fe3C8bFD0d48a53"
+}

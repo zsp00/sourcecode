@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ABSToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cf6d8c35898fd2afbf7672c92193e73d1820a50f4f11c1bb764eefaeb510c70d",
+  "path": [
+    "ABSToken.sol"
+  ],
+  "address": "0x81c30C0E827E732878F8dF74A63A8Df63934dA27"
+}
