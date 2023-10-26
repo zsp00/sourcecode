@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NicCageWaluigiElmo42069Inu",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://66e0abccd6246084fa059ff96ee21e86bf2c3dfd2b91d255abb441d0109588a7",
+  "path": [
+    "NicCageWaluigiElmo42069Inu.sol"
+  ],
+  "address": "0xfcaF0e4498E78d65526a507360F755178b804Ba8"
+}
