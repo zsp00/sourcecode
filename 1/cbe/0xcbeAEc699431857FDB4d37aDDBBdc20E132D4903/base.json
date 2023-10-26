@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YOYOW",
+  "CompilerVersion": "v0.4.13+commit.fb4cb1a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000b793d8996cfb2ab6b336c5136d7aba2256a62166",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a1c0a90144d9df780c36d34567d10b781a3c0343feac21bdc525044cae1b334b",
+  "path": [
+    "YOYOW.sol"
+  ],
+  "address": "0xcbeAEc699431857FDB4d37aDDBBdc20E132D4903"
+}
