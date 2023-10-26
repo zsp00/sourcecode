@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XXCOIN",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0412b6a030acae2be9065c1e2a27695673335d780699baed367047f18e79d7b4",
+  "path": [
+    "XXCOIN.sol"
+  ],
+  "address": "0x642Ac912A58428767FA14a26A749f9A1b001bA92"
+}

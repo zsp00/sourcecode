@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "red",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1e10b873a8826e63c821468585c454ee8e284928f3dd002bd830066854652913",
+  "path": [
+    "red.sol"
+  ],
+  "address": "0x8CEBf350C546De615EE4D0dEFaD9893608Ef3447"
+}
