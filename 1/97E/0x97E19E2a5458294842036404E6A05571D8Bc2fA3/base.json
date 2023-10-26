@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "THERUGGAME",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "1",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000000000000000000000d7695fc9950b960f50680000000000000000000000000000d6ca3708d2ffc8f8aa0bb8e287d3ca9b42e945a80000000000000000000000000000000000000000000000000000000000000001540000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000015400000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "contracts/interfaces/IUniswap.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "contracts/interfaces/IFactory.sol",
+    "contracts/Liquidity.sol",
+    "contracts/tokens/THERUGGAME.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0x97E19E2a5458294842036404E6A05571D8Bc2fA3"
+}
