@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GPU",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e965b24de04d5b102e689a14c992a1d9d614ce68045b5164a859614788f7daae",
+  "path": [
+    "GPU.sol"
+  ],
+  "address": "0xab6CA202933EFad29Ed7F8BB497A5A49a57d121e"
+}
