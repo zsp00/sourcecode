@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GarbageFriends",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000060000000000000000000000000b367b1a74c409fc148fb21753b130b65b794dad30000000000000000000000001f8b54af6a505c922108d9eb451587a895ae2e35000000000000000000000000000000000000000000000000000000000000002b68747470733a2f2f6d657461646174612e7479706963616c667269656e64732e636f6d2f7374616765342f000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/utils/math/Math.sol",
+    "@openzeppelin/contracts/utils/math/SignedMath.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
+    "erc721a/contracts/IERC721A.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/interfaces/IERC2981.sol",
+    "@openzeppelin/contracts/token/common/ERC2981.sol",
+    "contracts/GarbageFriends.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/IWalkingCans.sol"
+  ],
+  "address": "0xEF371A11e6AdB9dc3d333DAfCB1Ff5aFBCB6cdC8"
+}
