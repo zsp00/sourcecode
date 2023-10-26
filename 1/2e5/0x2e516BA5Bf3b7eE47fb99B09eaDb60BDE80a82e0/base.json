@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Eggs",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://05830f71c59d6a058a073e3a3934021ee4d8ad47edfdd253e77ed5c39a7757ab",
+  "path": [
+    "Eggs.sol"
+  ],
+  "address": "0x2e516BA5Bf3b7eE47fb99B09eaDb60BDE80a82e0"
+}

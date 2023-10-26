@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WTFNFT",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8e2b5e515fb02168298df9697376a6434523e033f88d7913a9684bb0cf33e5e9",
+  "path": [
+    "PRBMath.sol",
+    "PRBMathUD60x18.sol",
+    "StakingRewards.sol",
+    "Treasury.sol",
+    "WTF.sol",
+    "WTFNFT.sol",
+    "ERC20.sol",
+    "Metadata.sol"
+  ],
+  "address": "0x9D90308D16b94C38048C782BDD8104a964758A23"
+}
