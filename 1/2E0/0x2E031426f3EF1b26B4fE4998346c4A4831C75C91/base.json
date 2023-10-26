@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BUYTHISCOIN",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://34c756f1c6cda6d94f51211ff7aada13bf1ad67caeb3481cd1a83fa8123a8a97",
+  "path": [
+    "BUYTHISCOIN.sol"
+  ],
+  "address": "0x2E031426f3EF1b26B4fE4998346c4A4831C75C91"
+}

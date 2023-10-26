@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Proxy",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d899005f048ae0f3135960de1cdec8e9909de3b49897b8bba9ec2d2214b97892",
+  "path": [
+    "Proxy.sol"
+  ],
+  "address": "0x9205C049C231DdA51bAce0ba569f047E3E1e9979"
+}
