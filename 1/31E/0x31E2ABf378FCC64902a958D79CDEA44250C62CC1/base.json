@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QAS",
+  "CompilerVersion": "v0.5.2+commit.1df8f40c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "QAS.sol"
+  ],
+  "address": "0x31E2ABf378FCC64902a958D79CDEA44250C62CC1"
+}
