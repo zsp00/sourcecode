@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PumpkinPotter",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://eca412721c707254f77d4eef2bf73f8a1cbcc9d4a25098170869c8e5fe393ac8",
+  "path": [
+    "PumpkinPotter.sol"
+  ],
+  "address": "0x9a04493680F258e4b9ef4efa5094895fC3A4CF20"
+}

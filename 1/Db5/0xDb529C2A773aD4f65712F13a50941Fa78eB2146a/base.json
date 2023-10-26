@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ProofNonReflectionToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000050000000000000000000000000024a4338a6e712323dcf269b478a1182feb2f3b300000000000000000000000079f5611fa5ff7ddb7bc5bb9008543d45aa0174ef00000000000000000000000092f8be8b54b2223196298710253b12c92b242bf9000000000000000000000000acfb878960bcda38782d854efb2e687b57e31f09",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cb6ee584d0f29733d6115f5ed29937e29b4dad74b30c2139ade4f53b812f29f5",
+  "path": [
+    "ProofNonReflectionToken.sol"
+  ],
+  "address": "0xDb529C2A773aD4f65712F13a50941Fa78eB2146a"
+}
