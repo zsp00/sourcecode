@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "STFX",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000083c190df7ba769e78390c6d93a351ea53258c3eb",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "src/STFX.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol"
+  ],
+  "address": "0x9343e24716659A3551eB10Aff9472A2dcAD5Db2d"
+}
