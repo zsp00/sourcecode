@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "deh",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f8ab2ba15805d1b5d49e572b3ba95c75ab78cbeba61de6a3c8378d251c6992a7",
+  "path": [
+    "deh.sol"
+  ],
+  "address": "0x3162C92921bC93ea84F18e6f95632fb0c3666c16"
+}
