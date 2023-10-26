@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TokoinTokenV2",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://97dcd4232458e3e49076d2f63d9ff0f801c10127d1d6b59023b0de020f975518",
+  "path": [
+    "TokoinTokenV2.sol"
+  ],
+  "address": "0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675"
+}
