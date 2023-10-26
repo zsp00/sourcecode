@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TubeToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a832f121a5204d03212b886e019492c4febd593715cbecaa6d2292dcee5063f5",
+  "path": [
+    "SafeMath.sol",
+    "TubeToken.sol"
+  ],
+  "address": "0xdA86006036540822e0cd2861dBd2fD7FF9CAA0e8"
+}

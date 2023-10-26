@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WAR",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4a4e07d4c5966ca8c906091507f2a273a1df4ebe4f2aa30cdb134251222ce18f",
+  "path": [
+    "WAR.sol"
+  ],
+  "address": "0xffc9d8a2d12Ee5a9bA863aC8793315fDf1aed65f"
+}
