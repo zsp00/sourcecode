@@ -1,0 +1,21 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EON",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "0",
+  "Runs": "2000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/interfaces/IEON.sol",
+    "contracts/EON.sol",
+    "contracts/ERC20.sol"
+  ],
+  "address": "0x0E74417b5A86BB99E6Bd27Cd4EF8772C8eeA8310"
+}
