@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NativeXBTProExchangeToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e90b3b2a3e54362c849609391903d0a2ced6ef668f171f0f808609db42290dc5",
+  "path": [
+    "NativeXBTProExchangeToken.sol"
+  ],
+  "address": "0x1499c5C04da98d6B5E5AA8880Ab4Bf802854c631"
+}
