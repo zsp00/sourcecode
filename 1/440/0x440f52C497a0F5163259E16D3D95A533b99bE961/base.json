@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TurboChain",
+  "CompilerVersion": "v0.5.12+commit.7709ece9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://dbc17d4856eed11e989486d38f0d69dcebc7aade7b010b920c4e0aad46b24294",
+  "path": [
+    "TurboChain.sol"
+  ],
+  "address": "0x440f52C497a0F5163259E16D3D95A533b99bE961"
+}

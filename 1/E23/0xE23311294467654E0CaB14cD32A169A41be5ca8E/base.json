@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CRNOTOKEN",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://41e839e0742fccf4649e6c79499784e1615583c94ec3351b62e1a96828e5c747",
+  "path": [
+    "CRNOTOKEN.sol"
+  ],
+  "address": "0xE23311294467654E0CaB14cD32A169A41be5ca8E"
+}

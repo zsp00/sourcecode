@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "METToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://62ffa3d2c04263654dbffc8876e9fb51bf446bbfa2c43a5d01b62f8b0a66f1bb",
+  "path": [
+    "METToken.sol"
+  ],
+  "address": "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e"
+}

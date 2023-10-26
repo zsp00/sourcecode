@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "pepeCoin",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4b98789cf1d1f04355899900191ea19b27b7ffca46308279bc40cfc1a0eeeab8",
+  "path": [
+    "pepeCoin.sol"
+  ],
+  "address": "0xA9E8aCf069C58aEc8825542845Fd754e41a9489A"
+}
