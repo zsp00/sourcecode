@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Kneenano",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://13cf55bf1281e901f3e120b9ee089f9f44f223aa8b8fdfc01c8dc51dc4ca8eec",
+  "path": [
+    "Kneenano.sol"
+  ],
+  "address": "0x9f2E9C159BF6693fb39a96402066293186371f94"
+}
