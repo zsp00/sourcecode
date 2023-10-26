@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OlympusERC20Token",
+  "CompilerVersion": "v0.7.5+commit.eb77ed08",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU AGPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://54343f536e203961161ab34593398e259ffe1c8f4007a8e9ddb63bf35ae5b3d7",
+  "path": [
+    "OlympusERC20Token.sol"
+  ],
+  "address": "0x383518188C0C6d7730D91b2c03a03C837814a899"
+}
