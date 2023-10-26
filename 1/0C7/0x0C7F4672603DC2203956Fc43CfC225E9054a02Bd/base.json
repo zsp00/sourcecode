@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ethereum",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0681c8c263c91a963b1ab5c71c3d464f3eba7cc8e79e589d8c44730f19c7c944",
+  "path": [
+    "Ethereum.sol"
+  ],
+  "address": "0x0C7F4672603DC2203956Fc43CfC225E9054a02Bd"
+}
