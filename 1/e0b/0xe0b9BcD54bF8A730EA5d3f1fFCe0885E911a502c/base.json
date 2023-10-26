@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZumToken",
+  "CompilerVersion": "v0.5.1+commit.c8a2cb62",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://77a49ace22412ce157baddf56fc56a9c55f50ad69acd07e562ad742d04d6c4f2",
+  "path": [
+    "ZumToken.sol"
+  ],
+  "address": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c"
+}
