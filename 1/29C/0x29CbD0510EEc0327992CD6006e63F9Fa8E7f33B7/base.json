@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TidalToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://66e1764050e6f384ce2544d118bad21a463bd6cea1b7d0a73b15c7cc9978e5d4",
+  "path": [
+    "TidalToken.sol"
+  ],
+  "address": "0x29CbD0510EEc0327992CD6006e63F9Fa8E7f33B7"
+}
