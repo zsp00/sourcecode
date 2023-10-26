@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MimirToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://56cae4c167f8354b6ce4b23c385ea2bbb7266a5a8b7e48ef87eecfb7b10c34be",
+  "path": [
+    "MimirToken.sol"
+  ],
+  "address": "0x71dc40668682a124231301414167E4CF7f55383C"
+}

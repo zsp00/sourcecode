@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XDEX",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "istanbul",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1c37bbabcd6ddcc683c4be4bcdf2c463a9ed849928be23c7a55af1b4db5a6bb5",
+  "path": [
+    "XDEX.sol"
+  ],
+  "address": "0x000000000000d0151E748d25b766e77efe2A6c83"
+}
