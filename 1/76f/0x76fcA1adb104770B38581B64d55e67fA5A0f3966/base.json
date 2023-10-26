@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZKT",
+  "CompilerVersion": "v0.8.14+commit.80d49f37",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d23d44c7fb731236db999ccc64cdbdcb38d595843455aa0d5649bfe4d390e719",
+  "path": [
+    "ZKT.sol"
+  ],
+  "address": "0x76fcA1adb104770B38581B64d55e67fA5A0f3966"
+}
