@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WALLSTREETBABY",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000004ee2d6d415b85acef8100000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fe81dfe8d283e3e90ca1b18b5d62c2391864b13dc1f976b21d4cdc3bbbc662ac",
+  "path": [
+    "WALLSTREETBABY.sol"
+  ],
+  "address": "0x15F20f9DFDf96CCf6AC96653b7C0aBfe4A9C9f0f"
+}

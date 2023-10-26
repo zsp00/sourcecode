@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HINU",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b478f43eaa73f6475a15f5d4cf847ce75ca2469a33fa5f89663c5ae11ccc0980",
+  "path": [
+    "HINU.sol"
+  ],
+  "address": "0x4e166e4a643026e652B7618A8c713F7833619e39"
+}
