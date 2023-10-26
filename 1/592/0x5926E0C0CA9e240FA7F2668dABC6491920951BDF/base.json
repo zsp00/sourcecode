@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CreateNewToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f1a8f87f570e8b57b0d5674299e75f87902145b3a47696daa73ef9902793761e",
+  "path": [
+    "CreateNewToken.sol"
+  ],
+  "address": "0x5926E0C0CA9e240FA7F2668dABC6491920951BDF"
+}
