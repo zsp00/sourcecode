@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Doke",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://76481171511556a36487307c29618657a4e84fc05877d2345b947473d8d7c926",
+  "path": [
+    "Doke.sol"
+  ],
+  "address": "0x517ABf1fCDBD76BC75B532683ada9113E313A128"
+}

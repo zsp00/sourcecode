@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KEKW",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://dc4a5ff12710f7aa457e77e651315dd7377b125f65f0db35d87831b85c87644a",
+  "path": [
+    "KEKW.sol"
+  ],
+  "address": "0x0DF596AD12F927e41EC317AF7DD666cA3574845f"
+}
