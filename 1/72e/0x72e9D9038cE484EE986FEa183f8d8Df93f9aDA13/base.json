@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SMARTCREDIT",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000077d1d1638d6770de23125f6298d2814a6ecebccc00000000000000000000000000000000000000000014adf4b7320334b9000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8344facf3a728d87df0afbeb89aa18338e64381977004f366fd04728c1b50033",
+  "path": [
+    "SMARTCREDIT.sol"
+  ],
+  "address": "0x72e9D9038cE484EE986FEa183f8d8Df93f9aDA13"
+}
