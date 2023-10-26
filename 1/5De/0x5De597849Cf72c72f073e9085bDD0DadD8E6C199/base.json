@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FBXToken",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fc3c4bf46001f9102f84a682c7426d443be8e9c1a00c2964dc576c5c0b5bed7a",
+  "path": [
+    "FBXToken.sol"
+  ],
+  "address": "0x5De597849Cf72c72f073e9085bDD0DadD8E6C199"
+}
