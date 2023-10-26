@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "USDT",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2735096b44e130674e3ccfcf32f2b9284ebf1f0bde4058a56c533fcf3cd7dcbe",
+  "path": [
+    "USDT.sol"
+  ],
+  "address": "0x66087d2f2923a63e48F930cf95A10641817e28E9"
+}
