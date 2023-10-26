@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BigBlackCandle",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b0a1203bf718eccf3013fe6df633e5cc374b042574531f8fe72a9d28a1972390",
+  "path": [
+    "BigBlackCandle.sol"
+  ],
+  "address": "0xf13E236708c1978AB7473fa1dC5C62A83e5045a6"
+}
