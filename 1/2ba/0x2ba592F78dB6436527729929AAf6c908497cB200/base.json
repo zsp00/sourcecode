@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Comp",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000197939c1ca20c2b506d6811d8b6cdb3394471074",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://55de07ce6369f007713cdb724fd0b4c7bb5af3ec46f8eb61b5f4e4a0dd7f01d7",
+  "path": [
+    "Comp.sol"
+  ],
+  "address": "0x2ba592F78dB6436527729929AAf6c908497cB200"
+}
