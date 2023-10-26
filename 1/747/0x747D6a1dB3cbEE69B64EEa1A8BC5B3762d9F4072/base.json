@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "JIJI",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://46b4f55c40fec1c18d52d4415ed7fb3447b3651ab6a78d31076e27599fd9f15f",
+  "path": [
+    "JIJI.sol"
+  ],
+  "address": "0x747D6a1dB3cbEE69B64EEa1A8BC5B3762d9F4072"
+}

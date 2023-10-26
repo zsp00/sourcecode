@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BrightToken",
+  "CompilerVersion": "v0.8.3+commit.8d00100c",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/BrightToken.sol",
+    "@openzeppelin/contracts/access/Ownable.sol"
+  ],
+  "address": "0x5dD57Da40e6866C9FcC34F4b6DDC89F1BA740DfE"
+}
