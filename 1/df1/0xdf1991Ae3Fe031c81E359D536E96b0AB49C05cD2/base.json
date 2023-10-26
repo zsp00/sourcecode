@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CWCToken",
+  "CompilerVersion": "v0.5.4+commit.9549d8ff",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a966476a8dedd48be2a0e28a45724d7d981542b3c415f6408a3f25d200949b6b",
+  "path": [
+    "CWCToken.sol"
+  ],
+  "address": "0xdf1991Ae3Fe031c81E359D536E96b0AB49C05cD2"
+}

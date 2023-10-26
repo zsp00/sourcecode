@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NYSEX",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7fbf51b4f1a89738d949d943e8bb740f797488099844a58aa2309caeb116d01c",
+  "path": [
+    "NYSEX.sol"
+  ],
+  "address": "0x865580d561AfB7DC0E429DDF7336ce3608B58D68"
+}
