@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ALPINE",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ca92eaed2aa9dd5fd407015d429cacd8d76a4b93e4ad8a76eba8262309f504b1",
+  "path": [
+    "ALPINE.sol"
+  ],
+  "address": "0xc56AA8032D2Cda3e401171B7787205F6640837d9"
+}

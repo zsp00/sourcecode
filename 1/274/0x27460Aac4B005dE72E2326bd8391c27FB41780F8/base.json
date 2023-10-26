@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RootWINR",
+  "CompilerVersion": "v0.8.2+commit.661d1103",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/Users/mrtanilgrn/development/extrawatts/blockchain/jb-winr/contracts/token/IMintableERC20.sol",
+    "/Users/mrtanilgrn/development/extrawatts/blockchain/jb-winr/contracts/utils/ContextMixin.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "/Users/mrtanilgrn/development/extrawatts/blockchain/jb-winr/contracts/token/RootWINR.sol",
+    "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol",
+    "/Users/mrtanilgrn/development/extrawatts/blockchain/jb-winr/contracts/utils/EIP712Base.sol",
+    "/Users/mrtanilgrn/development/extrawatts/blockchain/jb-winr/contracts/utils/NativeMetaTransaction.sol",
+    "@openzeppelin/contracts/security/Pausable.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "/Users/mrtanilgrn/development/extrawatts/blockchain/jb-winr/contracts/utils/AccessControlMixin.sol",
+    "@openzeppelin/contracts-upgradeable/utils/AddressUpgradeable.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x27460Aac4B005dE72E2326bd8391c27FB41780F8"
+}
