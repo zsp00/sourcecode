@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KnownOriginDigitalAssetV3",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009028b16494a9363f3eaaf381a6fde67296abc68c000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c3500",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5712aba8ff8bcb06b189f5b71d437e5dcf339bf4f383c556b796b346234366d8",
+  "path": [
+    "KnownOriginDigitalAssetV3.sol"
+  ],
+  "address": "0xABB3738f04Dc2Ec20f4AE4462c3d069d02AE045B"
+}
