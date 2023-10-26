@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Kabosu",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://13da8b7de2a9301d294d71332ac56574086064cb3d91c165e718e238046f559d",
+  "path": [
+    "Kabosu.sol"
+  ],
+  "address": "0xBADFf0eF41D2A68F22De21EAbca8A59Aaf495cF0"
+}
