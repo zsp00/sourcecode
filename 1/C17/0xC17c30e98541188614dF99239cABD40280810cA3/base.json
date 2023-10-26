@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EverRise",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d",
+  "EVMVersion": "Default",
+  "Library": "EverRiseLib:99fe7b37639ae33d0f15f61f4288a2fc9cff7bc1",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0x99fe7b37639ae33d0f15f61f4288a2fc9cff7bc1",
+  "SwarmSource": "ipfs://91e982e5bd4e999830b5c60ea202a439612419afc9a698006fb4989473cf7523",
+  "path": [
+    "EverRise.sol"
+  ],
+  "address": "0xC17c30e98541188614dF99239cABD40280810cA3"
+}
