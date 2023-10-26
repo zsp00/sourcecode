@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LANDProxy",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x554bb6488ba955377359bed16b84ed0822679cdc",
+  "SwarmSource": "bzzr://9c5cf1525023f56b020c8e8faef83d3057389d0673a91d557b8dcd49d811dae9",
+  "path": [
+    "LANDProxy.sol"
+  ],
+  "address": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d"
+}

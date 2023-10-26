@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC20FixedSupply",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "gist-c4e8fbad6215030ec9f6e4e7627d00bf/contracts/ERC20FixedSupply.sol",
+    "gist-c4e8fbad6215030ec9f6e4e7627d00bf/contracts/ERC20.sol",
+    "gist-c4e8fbad6215030ec9f6e4e7627d00bf/contracts/Context.sol",
+    "gist-c4e8fbad6215030ec9f6e4e7627d00bf/contracts/IERC20Metadata.sol",
+    "gist-c4e8fbad6215030ec9f6e4e7627d00bf/contracts/IERC20.sol"
+  ],
+  "address": "0x69e5C11a7C30f0bf84A9faECBd5161AA7a94decA"
+}
