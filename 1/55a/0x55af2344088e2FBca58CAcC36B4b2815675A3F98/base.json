@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Create_Token",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://90f9fab503ad89e88494f4fe5f52ee95fbcd086b5894cf14c99a4d06214e65f1",
+  "path": [
+    "Create_Token.sol"
+  ],
+  "address": "0x55af2344088e2FBca58CAcC36B4b2815675A3F98"
+}
