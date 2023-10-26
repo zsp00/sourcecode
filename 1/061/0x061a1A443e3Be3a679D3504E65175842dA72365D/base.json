@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "POLARBEAR",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d07d2bb2105b8c57f42483a2054a249edf54381c2edef8acb3d1b64aa7d00d18",
+  "path": [
+    "POLARBEAR.sol"
+  ],
+  "address": "0x061a1A443e3Be3a679D3504E65175842dA72365D"
+}
