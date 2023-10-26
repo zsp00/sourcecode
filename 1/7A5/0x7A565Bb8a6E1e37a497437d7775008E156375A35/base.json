@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BONE2",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4b777e702cd0db2e5a17ffb6a667091cb01df6c2ccc97398ef91c758aa57367e",
+  "path": [
+    "BONE2.sol"
+  ],
+  "address": "0x7A565Bb8a6E1e37a497437d7775008E156375A35"
+}
