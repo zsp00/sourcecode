@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GWOKToken",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f9e962229a546eb1f6ea715d6f490a8ea33cc087b71732d8bc06a854a053f382",
+  "path": [
+    "GWOKToken.sol"
+  ],
+  "address": "0x1C4853Ec0d55e420002c5eFaBc7Ed8e0bA7A4121"
+}
