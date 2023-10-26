@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ShibaRoyale",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c4d46bb5381ab534dee64bfce16b84d25ef3fe061c397e4ee60bb180457511f4",
+  "path": [
+    "ShibaRoyale.sol"
+  ],
+  "address": "0x1d323A82Eef778fb8a587a7618D8661481dE2f34"
+}

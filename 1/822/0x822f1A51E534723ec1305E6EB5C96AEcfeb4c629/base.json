@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "METAUStoken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3190458543e514315f3095cbf65585e8c206acc2ad3f5d4927f57c228f31ede9",
+  "path": [
+    "Context.sol",
+    "ERC20.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "METAUStoken.sol",
+    "Ownable.sol",
+    "Pausable.sol"
+  ],
+  "address": "0x822f1A51E534723ec1305E6EB5C96AEcfeb4c629"
+}
