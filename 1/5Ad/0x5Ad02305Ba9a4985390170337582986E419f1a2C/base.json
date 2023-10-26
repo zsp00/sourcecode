@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CryptoX",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9a4de2166ef6a829518db5b84edc65241636b504b12a68f034d40d53c311e73d",
+  "path": [
+    "CryptoX.sol"
+  ],
+  "address": "0x5Ad02305Ba9a4985390170337582986E419f1a2C"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PEPE6900",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000099d5a0daafb18a3650ec597eb34bf98f182a95fe",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7bbe814fe5480cceaa684ea729122bce4030d765f9ce4f03ae929467392fdc6b",
+  "path": [
+    "PEPE6900.sol"
+  ],
+  "address": "0x01469617B776b05344382412173E3BC25356397C"
+}

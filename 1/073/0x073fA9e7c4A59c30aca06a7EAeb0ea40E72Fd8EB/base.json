@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Saratoshi",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://aa26644b949f793348c116ed144bb35aa26ab9f55e0ecf291b9b3f294b785c15",
+  "path": [
+    "Saratoshi.sol"
+  ],
+  "address": "0x073fA9e7c4A59c30aca06a7EAeb0ea40E72Fd8EB"
+}
