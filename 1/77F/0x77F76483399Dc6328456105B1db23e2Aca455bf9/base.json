@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HYCOToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000004720f1796314fbe7d242ae5848d6a6689cc843dc000000000000000000000000eb54c0baea6afe00332d9db185ff4b0228321548",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/HYCOToken.sol"
+  ],
+  "address": "0x77F76483399Dc6328456105B1db23e2Aca455bf9"
+}

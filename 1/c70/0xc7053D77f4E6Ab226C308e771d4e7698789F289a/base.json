@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Brainbuddy",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000f57ce00effd8eceb57ce9398edfe4815978709a90000000000000000000000009765d4aa7d34f2c8ae5a311b83f0ce08373a8ef6000000000000000000000000991f09114a025398b448de8511a7e816320d36b1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://aa72f62b8de9231e06140e5ce603ac20513d774213b1ff97a0d48d7ba6fbf99c",
+  "path": [
+    "Brainbuddy.sol"
+  ],
+  "address": "0xc7053D77f4E6Ab226C308e771d4e7698789F289a"
+}
