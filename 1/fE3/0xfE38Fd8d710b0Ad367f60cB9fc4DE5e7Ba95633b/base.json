@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Lena",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "london",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Lena.sol",
+    "node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "node_modules/@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0xfE38Fd8d710b0Ad367f60cB9fc4DE5e7Ba95633b"
+}
