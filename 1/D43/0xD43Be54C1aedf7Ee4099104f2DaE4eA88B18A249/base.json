@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TokenTraxx",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000001200000000000000000000000000000000000000000000000000000000000000160000000000000000000000000000000000000000000000000000000000000001200000000000000000000000000000000000000000121836204bc2ce21e000000000000000000000000000000c574c8d0f8ad170430a2efb085aa9eb51983dfe00000000000000000000000000000000000000000001cf389cd46047d03000000000000000000000000000000c574c8d0f8ad170430a2efb085aa9eb51983dfe0000000000000000000000000c574c8d0f8ad170430a2efb085aa9eb51983dfe0000000000000000000000000c574c8d0f8ad170430a2efb085aa9eb51983dfe00000000000000000000000000000000000000000000000000000000000000005545241585800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000055452415858000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/TokenTraxx.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/security/Pausable.sol",
+    "@openzeppelin/contracts/access/IAccessControl.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/access/IAccessControlEnumerable.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol",
+    "@openzeppelin/contracts/access/AccessControlEnumerable.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol"
+  ],
+  "address": "0xD43Be54C1aedf7Ee4099104f2DaE4eA88B18A249"
+}
