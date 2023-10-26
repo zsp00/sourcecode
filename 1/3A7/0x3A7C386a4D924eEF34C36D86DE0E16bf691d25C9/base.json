@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RealhappyCAT",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f6095896d06c5ee19909ad296cced68f8ebfce6b3f74f236269c632c8808437f",
+  "path": [
+    "RealhappyCAT.sol"
+  ],
+  "address": "0x3A7C386a4D924eEF34C36D86DE0E16bf691d25C9"
+}
