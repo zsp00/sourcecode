@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Jiraverse",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "erc721a/contracts/IERC721A.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/Jiraverse.sol",
+    "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol"
+  ],
+  "address": "0xbd3F82a81c3F74542736765cE4FD579D177b6bC5"
+}
