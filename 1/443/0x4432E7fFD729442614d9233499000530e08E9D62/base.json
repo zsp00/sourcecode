@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TCoin",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://948ec82c8fc2270bc1dd947e4478eae6a3c8984cb50c148b1e2d57cd5dff1155",
+  "path": [
+    "TCoin.sol"
+  ],
+  "address": "0x4432E7fFD729442614d9233499000530e08E9D62"
+}
