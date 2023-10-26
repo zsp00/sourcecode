@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BasicToken",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000000000000000000000108b2a2c2802909400000000000000000000000000000068e7c3fa4b4062dd2861edfcf74b7ef0144f1f6d000000000000000000000000000000000000000000000000000000000000000a546574686572205553440000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000045553445400000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "contracts/ERC20/tokens/BasicToken.sol",
+    "contracts/ERC20/services/IFeeReceiver.sol",
+    "contracts/ERC20/services/FeeProcessor.sol",
+    "contracts/ERC20/libraries/CopyrightToken.sol",
+    "@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0x540acd09b5A0A229b19790fF0f034fA05794E3EB"
+}
