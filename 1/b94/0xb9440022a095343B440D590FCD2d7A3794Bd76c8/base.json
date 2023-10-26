@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Saturn",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1e04d712dca7e476276103c5f49cb3846009590ba68331144f9b52ca4b06b210",
+  "path": [
+    "Saturn.sol"
+  ],
+  "address": "0xb9440022a095343B440D590FCD2d7A3794Bd76c8"
+}
