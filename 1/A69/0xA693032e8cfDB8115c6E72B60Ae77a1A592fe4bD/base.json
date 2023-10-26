@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Hibiki",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e07fe4e47ac582067701acd568202c7ff15f78423bf85ee9ad7a3f96350785f9",
+  "path": [
+    "Hibiki.sol"
+  ],
+  "address": "0xA693032e8cfDB8115c6E72B60Ae77a1A592fe4bD"
+}
