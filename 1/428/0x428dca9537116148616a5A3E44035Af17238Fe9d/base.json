@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OXAI",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "src/OXAI.sol",
+    "lib/solmate/src/tokens/ERC20.sol"
+  ],
+  "address": "0x428dca9537116148616a5A3E44035Af17238Fe9d"
+}

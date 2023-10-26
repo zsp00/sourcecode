@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UppsalaToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f58ce71667d4a37022f7e12e5789b2cff0219dfa1b460f2ac39160df2afdc885",
+  "path": [
+    "UppsalaToken.sol"
+  ],
+  "address": "0xC86D054809623432210c107af2e3F619DcFbf652"
+}
