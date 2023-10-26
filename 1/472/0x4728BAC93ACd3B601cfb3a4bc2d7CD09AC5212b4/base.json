@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LaikaCoin",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://03efd9c67ebbd1975e9aa61fcad406e1b01b5b39302fbf364c040e86611b2bc7",
+  "path": [
+    "LaikaCoin.sol"
+  ],
+  "address": "0x4728BAC93ACd3B601cfb3a4bc2d7CD09AC5212b4"
+}
