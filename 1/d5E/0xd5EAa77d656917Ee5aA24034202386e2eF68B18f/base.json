@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MINAToken",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9c41e05867cb73a42cf0e55d42fae5c3ca190bd61f78fa8bf24e75d5e150b914",
+  "path": [
+    "MINAToken.sol"
+  ],
+  "address": "0xd5EAa77d656917Ee5aA24034202386e2eF68B18f"
+}
