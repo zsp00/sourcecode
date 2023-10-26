@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Kudoe",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b276d029cf21f4a0e7e102e7eb56de04d77a6f87503f617508670e25556c5bd6",
+  "path": [
+    "Kudoe.sol"
+  ],
+  "address": "0x5f190F9082878cA141F858c1c90B4C59fe2782C5"
+}

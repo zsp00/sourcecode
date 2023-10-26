@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GigaSwap",
+  "CompilerVersion": "v0.8.15+commit.e14f2714",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://447f0f2f9b3a25cc1c4ea3dc2f2f80e98d4e8e5c61b747d299664abea8a5fd9a",
+  "path": [
+    "GigaSwap.sol"
+  ],
+  "address": "0x83249c6794BCa5a77Eb8c0AF9F1A86E055459cea"
+}

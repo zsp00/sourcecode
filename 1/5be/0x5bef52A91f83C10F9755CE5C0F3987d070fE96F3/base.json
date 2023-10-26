@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WSETF",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://675dc9143b2974bfa245bf28b7dd209df30adf5e5394586c61aaa338bfd6d2f4",
+  "path": [
+    "WSETF.sol"
+  ],
+  "address": "0x5bef52A91f83C10F9755CE5C0F3987d070fE96F3"
+}
