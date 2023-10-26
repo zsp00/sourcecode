@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CentraToken",
+  "CompilerVersion": "v0.4.13+commit.fb4cb1a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7265aa844742b6d244b7e7c44ebacf3470efe2bebfdd6f99df45905ab3cebe21",
+  "path": [
+    "CentraToken.sol"
+  ],
+  "address": "0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a"
+}

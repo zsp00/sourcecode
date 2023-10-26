@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CoinPokerToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ef906cdb3d12d7e3a5d1f8c570d5d3a3e315489c000000000000000000000000c2cce044b0cafd51fb4a6408f9577159b8b18c8700000000000000000000000011faae77555e9bf3c1b0882b9076d12a56017dff00000000000000000000000084af694c42093690f0081e45dccd99965a75f442",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://450ec7eb734bda5d8e868bfe788a8c1b2d5cd17ca70ed185dac7a6e3055aa861",
+  "path": [
+    "CoinPokerToken.sol"
+  ],
+  "address": "0xf3db7560E820834658B590C96234c333Cd3D5E5e"
+}
