@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TOKE",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fb25d16722ff50b1890d8a774686dcec5e36bf70eb6b7f42a0b0d4cc3edf698e",
+  "path": [
+    "TOKE.sol"
+  ],
+  "address": "0x41cAE35Cf114A6FA4C9Af87cD629A0Bc7fe0993A"
+}
