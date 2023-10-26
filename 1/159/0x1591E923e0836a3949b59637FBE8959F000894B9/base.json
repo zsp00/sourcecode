@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MAI",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e375bddcc64abb9a0b1026a18080f5ce5cf8be651fbaddd086a61659ed24be52",
+  "path": [
+    "MAI.sol"
+  ],
+  "address": "0x1591E923e0836a3949b59637FBE8959F000894B9"
+}
