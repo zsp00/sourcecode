@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DontBuyInu",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f5b1a92803eb52df8859a57649ea11ead9160c2d2ee4fb7fe641f1a210a001e9",
+  "path": [
+    "DontBuyInu.sol"
+  ],
+  "address": "0x2dE509bf0014ddF697b220bE628213034d320EcE"
+}
