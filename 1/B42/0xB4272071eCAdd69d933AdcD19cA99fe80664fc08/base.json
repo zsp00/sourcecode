@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CryptoFranc",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000002386f26fc10000000000000000000000000000000000000000000000000000000000000000000c584348465f47454e455349530000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6facbe743f91d65d3989dfc2fcd8e75d33840d112aa26d37d0f15830a61f642c",
+  "path": [
+    "CryptoFranc.sol"
+  ],
+  "address": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08"
+}
