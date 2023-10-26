@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MASQv2",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f488e58bab9eb60ad11a153e9d883a11791f78a5b7b285d6a7af21a7e0673396",
+  "path": [
+    "MASQv2.sol"
+  ],
+  "address": "0x06F3C323f0238c72BF35011071f2b5B7F43A054c"
+}

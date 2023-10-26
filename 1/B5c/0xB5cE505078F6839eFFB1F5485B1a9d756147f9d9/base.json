@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Bitcoin6900",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://86f8eb94f3ad095d9a01fda20e2f5c2e7984d136b48876612ca3aaecc164b260",
+  "path": [
+    "Bitcoin6900.sol"
+  ],
+  "address": "0xB5cE505078F6839eFFB1F5485B1a9d756147f9d9"
+}
