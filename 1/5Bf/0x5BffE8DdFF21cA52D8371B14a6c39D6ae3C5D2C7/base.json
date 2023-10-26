@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HOLA",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e8cd74d8608dadf4cec3fd488df0c18b777e3c5a86afc763fea250a4e9b517e0",
+  "path": [
+    "HOLA.sol"
+  ],
+  "address": "0x5BffE8DdFF21cA52D8371B14a6c39D6ae3C5D2C7"
+}
