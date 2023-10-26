@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CropBytes",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3b6d5f0505848ef061f2e6bc32d0893b401fff7b9298c1459e83090489209e96",
+  "path": [
+    "CropBytes.sol"
+  ],
+  "address": "0x37FC4b48CE93469dbEA9918468993C735049642a"
+}
