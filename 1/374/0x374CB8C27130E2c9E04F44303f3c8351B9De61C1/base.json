@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BaoToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000d20fa400000000000000000000000000000000000000000000000000000000013fd5ca",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://22767f60f38ad485d48c12e0639ccd171d088f2f10545fca82dc84b50efd9b9b",
+  "path": [
+    "BaoToken.sol"
+  ],
+  "address": "0x374CB8C27130E2c9E04F44303f3c8351B9De61C1"
+}
