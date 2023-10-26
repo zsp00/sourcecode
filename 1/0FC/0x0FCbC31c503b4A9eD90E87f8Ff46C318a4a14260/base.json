@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QTF",
+  "CompilerVersion": "v0.5.9+commit.e560f70d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1b4256fdcc1ea5e09a18b579d1a788b8c627dded27788a48bfaf5f4896bd5935",
+  "path": [
+    "QTF.sol"
+  ],
+  "address": "0x0FCbC31c503b4A9eD90E87f8Ff46C318a4a14260"
+}
