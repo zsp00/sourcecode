@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HanChain",
+  "CompilerVersion": "v0.8.2+commit.661d1103",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://eadf1df264f069e0acb0c78903f347238b3b72f8b6f0758d54a3c7c7891b47c0",
+  "path": [
+    "HanChain.sol"
+  ],
+  "address": "0x0c90C57aaf95A3A87eadda6ec3974c99D786511F"
+}
