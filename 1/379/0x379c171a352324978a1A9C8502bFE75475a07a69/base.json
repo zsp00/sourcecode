@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LocalBitcoins",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://82bd9921097c18807bd5ffd1c7f888c940c6ff991383ff7032da06e614374cb2",
+  "path": [
+    "LocalBitcoins.sol"
+  ],
+  "address": "0x379c171a352324978a1A9C8502bFE75475a07a69"
+}
