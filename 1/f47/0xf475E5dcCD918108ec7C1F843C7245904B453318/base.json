@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "vitalikETH",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://958e3903607fa9485e3c460953144497c7a3a52e363e95dbd535ffe079120083",
+  "path": [
+    "vitalikETH.sol"
+  ],
+  "address": "0xf475E5dcCD918108ec7C1F843C7245904B453318"
+}

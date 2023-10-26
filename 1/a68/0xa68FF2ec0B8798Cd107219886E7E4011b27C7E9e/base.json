@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KhabaneLame",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://84a27fc67f173ad6ed87732f9148de8dbaf3ab7d9741e9ddfdf75aa83fd8aecd",
+  "path": [
+    "KhabaneLame.sol"
+  ],
+  "address": "0xa68FF2ec0B8798Cd107219886E7E4011b27C7E9e"
+}
