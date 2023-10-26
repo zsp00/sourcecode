@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "cfo",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://78e3f27fa55232a6801a65d8174caf86fadb4f1b560e7ddd7f03e864436a9b9b",
+  "path": [
+    "cfo.sol"
+  ],
+  "address": "0xB8981aCbBF7DA95A8fF6Df79Aab935cE63434fC8"
+}
