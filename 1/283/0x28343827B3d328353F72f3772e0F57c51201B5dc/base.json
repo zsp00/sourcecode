@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BEAN",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000025a01c500",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://608a1db9a2c3ff527b8988d9c81ad64495d4cd70f0f141c92f713be92543c06e",
+  "path": [
+    "BEAN.sol"
+  ],
+  "address": "0x28343827B3d328353F72f3772e0F57c51201B5dc"
+}
