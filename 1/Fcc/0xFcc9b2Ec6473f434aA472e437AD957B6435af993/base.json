@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HalfBone",
+  "CompilerVersion": "v0.8.12+commit.f00d7308",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d8fc9e96402a6732ca6ad8ae03d21420b70674ab23037022364f70b24833a40f",
+  "path": [
+    "HalfBone.sol"
+  ],
+  "address": "0xFcc9b2Ec6473f434aA472e437AD957B6435af993"
+}
