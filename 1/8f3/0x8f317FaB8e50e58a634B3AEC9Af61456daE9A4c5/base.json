@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NobodySausage",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ed6b7e6c9e5589f13c9b6d58570b779a6ee10aea290b80ed51e402254af7ff3a",
+  "path": [
+    "NobodySausage.sol"
+  ],
+  "address": "0x8f317FaB8e50e58a634B3AEC9Af61456daE9A4c5"
+}

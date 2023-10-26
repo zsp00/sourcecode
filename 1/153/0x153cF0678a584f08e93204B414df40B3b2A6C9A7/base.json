@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Snokie",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://19ea1e1930980358df4a9f9c9adce9126f6407e8c267a4dded4707300026dacc",
+  "path": [
+    "Snokie.sol"
+  ],
+  "address": "0x153cF0678a584f08e93204B414df40B3b2A6C9A7"
+}
