@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MHLKC",
+  "CompilerVersion": "v0.6.10+commit.00c0fcaf",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://720a2d5396d24ae054bbceef6b9574ed78ac8825e40d3c34bc8637d595b82d7b",
+  "path": [
+    "MHLKC.sol"
+  ],
+  "address": "0x8420d4f8945127D79589285aCA224F47119Cf70c"
+}
