@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CoinMeet",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b575504ba182de6b022e5f413730265c5853c953d13b102f3503148f212a8031",
+  "path": [
+    "CoinMeet.sol"
+  ],
+  "address": "0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068"
+}
