@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MEDIFAKT",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/security/Pausable.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/MEDIFAKT.sol",
+    "contracts/Security.sol"
+  ],
+  "address": "0x0262E9374E95B9667B78136C3897Cb4e4Ef7f0c2"
+}
