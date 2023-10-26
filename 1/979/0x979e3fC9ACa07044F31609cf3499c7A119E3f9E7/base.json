@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GBLOX",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://22a145b1a4f430cfccdab826cc955bf72d54adb7ac50c19627316b4e369cf26e",
+  "path": [
+    "GBLOX.sol"
+  ],
+  "address": "0x979e3fC9ACa07044F31609cf3499c7A119E3f9E7"
+}
