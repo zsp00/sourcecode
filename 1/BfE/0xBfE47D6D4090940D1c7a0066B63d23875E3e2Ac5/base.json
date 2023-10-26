@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TransparentUpgradeableProxy",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000002022b1c3d10ccc7ccae72d848c4e545a26b74aad0000000000000000000000006c60a05fb54e78bc089cdc6ad07fdd38744abeea000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000c48087457d0000000000000000000000007edbb7ef41a6de5f9b0e1746b345463f18642e1400000000000000000000000000000000000000000000000000000000000000800000000000000000000000000000000000000000000000000de0b6b3a7640000000000000000000000000000514910771af9ca656af840dff83e8264ecf986ca0000000000000000000000000000000000000000000000000000000000000020613366613938323739326164343836373835626535643839616333333361623500000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xda4ef73ae19b412439f92ac1ecf06ef332bda237",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/StorageSlot.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/proxy/beacon/BeaconProxy.sol",
+    "@openzeppelin/contracts/proxy/beacon/UpgradeableBeacon.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/proxy/transparent/ProxyAdmin.sol",
+    "@openzeppelin/contracts/proxy/beacon/IBeacon.sol",
+    "@openzeppelin/contracts/proxy/Proxy.sol",
+    "@openzeppelin/contracts/proxy/ERC1967/ERC1967Upgrade.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "contracts/import.sol",
+    "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol",
+    "@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol"
+  ],
+  "address": "0xBfE47D6D4090940D1c7a0066B63d23875E3e2Ac5"
+}
