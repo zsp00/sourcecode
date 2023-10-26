@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC20",
+  "CompilerVersion": "v0.7.4+commit.3f05b770",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009415fd4372671182fc32d00ba04c8a9ffa22c2fb",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9aaa0e2baa4d02d9d71f7594675b32bd14e62b20aea02936d049e886cab7c5f8",
+  "path": [
+    "ERC20.sol"
+  ],
+  "address": "0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d"
+}

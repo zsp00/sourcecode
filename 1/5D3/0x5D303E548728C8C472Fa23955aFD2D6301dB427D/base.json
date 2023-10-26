@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Shibabitcoin",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d0cb710e2f46524c456a47fb6196ab5426505a3eaf777281c12259b91eed659a",
+  "path": [
+    "Shibabitcoin.sol"
+  ],
+  "address": "0x5D303E548728C8C472Fa23955aFD2D6301dB427D"
+}
