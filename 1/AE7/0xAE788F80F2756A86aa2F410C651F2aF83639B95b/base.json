@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Metaverse",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/Metaverse.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Capped.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol"
+  ],
+  "address": "0xAE788F80F2756A86aa2F410C651F2aF83639B95b"
+}
