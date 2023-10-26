@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IslandToken",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://753bb1d086827504383a243331b61046a46408c6337a9a9842ec41849decd776",
+  "path": [
+    "IslandToken.sol"
+  ],
+  "address": "0x586fF7DAd82B5fc6B799566f89492C219D4A2988"
+}
