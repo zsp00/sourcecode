@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MeGusta",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000ab4de1dfd3d2494fcd42a00000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c70daa000c43bc799baa12692c273f18ff96ee7cd6ff3c89cf41a5ce54fa531a",
+  "path": [
+    "MeGusta.sol"
+  ],
+  "address": "0xe2F668f6166EDa65620A01c4C116a5F6E5528614"
+}

@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SotokotoPeaceToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000a69daac782d52a73401ab509b482a3991c5940b90000000000000000000000000000000000000000000000000000000000000014536f746f6b6f746f20506561636520546f6b656e000000000000000000000000000000000000000000000000000000000000000000000000000000000000000453544b5400000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "contracts/SotokotoPeaceToken.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/security/Pausable.sol"
+  ],
+  "address": "0x279380c832534d0Af61AD3Ff803BED4749AC58a4"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Patrick",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7147ee7f256a0c4452fed931a5855a1aea9054a76e8b7637af82198fd5c3d0d9",
+  "path": [
+    "Patrick.sol"
+  ],
+  "address": "0xdd78B3E430361560A70B9CBB7d98d961f0428b61"
+}
