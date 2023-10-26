@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CoinToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c5f31889e3915aad670c448dac3aa2e66d2b27260024d48e62c2b7ab26b2697b",
+  "path": [
+    "CoinToken.sol"
+  ],
+  "address": "0xE61fDAF474Fac07063f2234Fb9e60C1163Cfa850"
+}

@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WrappedSienna",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000f4b00c937b4ec4bb5ac051c3c719036c668a31ec",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/EnumerableSet.sol",
+    "/Users/doctoro/sienna/wrapped-sienna/contracts/WrappedSienna.sol",
+    "@openzeppelin/contracts/access/AccessControl.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Pausable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/Pausable.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol"
+  ],
+  "address": "0x9b00e6E8D787b13756eb919786c9745054DB64f9"
+}
