@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Token",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://692702e5d022acfca4f3f561088a15fdedc52d7b488b0f07a71efe323a7243e1",
+  "path": [
+    "Owned.sol",
+    "SafeMath.sol",
+    "DGN.sol",
+    "ERC20contract.sol"
+  ],
+  "address": "0x7461C43bb1E96863233D72A09191008ee9217Ee8"
+}
