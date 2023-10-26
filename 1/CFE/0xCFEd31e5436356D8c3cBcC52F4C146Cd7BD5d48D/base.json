@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FLOPPY",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8d0836742f2f01999d608eee1581a397d08afc99687c548f9cebff5f82682c02",
+  "path": [
+    "FLOPPY.sol"
+  ],
+  "address": "0xCFEd31e5436356D8c3cBcC52F4C146Cd7BD5d48D"
+}
