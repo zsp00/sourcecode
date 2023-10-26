@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CCPCONTRACT",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2fb4b0f40d9519991db07c8de8544b3ea420fb2b69728cccf2622bc8760b1270",
+  "path": [
+    "CCPCONTRACT.sol"
+  ],
+  "address": "0xE2dFa2cDC346DC1E08185eAF06567ccc635E6605"
+}
