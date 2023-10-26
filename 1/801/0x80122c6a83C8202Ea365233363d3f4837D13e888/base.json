@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "M87",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://16326bb7293c473f9b7779947bbe81356c8fe16635272e5ca03b231a71e0504d",
+  "path": [
+    "M87.sol"
+  ],
+  "address": "0x80122c6a83C8202Ea365233363d3f4837D13e888"
+}
