@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ElecTokenSmartContract",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000026c62ad77dc602dae000000000000000000000000000000000000000000000000000000000000005a901050000000000000000000000000000000000000000000000000000000005a994acf00000000000000000000000000000000000000000000000000000000000000070000000000000000000000002471ec648db9eb3e63dbbe1396782b3c6f7a3787",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://994e504d217c1979ca9660211dedac5422339baba4de7822701175d26865d2d8",
+  "path": [
+    "ElecTokenSmartContract.sol"
+  ],
+  "address": "0xD49ff13661451313cA1553fd6954BD1d9b6E02b9"
+}
