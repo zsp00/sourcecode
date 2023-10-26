@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "meowToken",
+  "CompilerVersion": "v0.8.1+commit.df193b15",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cb4b84587dd7b5f0e7dc76ffdd8dbced003485aa6969ed53c715f270616a4ed9",
+  "path": [
+    "meowToken.sol"
+  ],
+  "address": "0x9196E18Bc349B1F64Bc08784eaE259525329a1ad"
+}
