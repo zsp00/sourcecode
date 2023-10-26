@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Qobit",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://329d92b60008381319646bad1f9ba2d0495da25fb439564cac115361a07e6f5b",
+  "path": [
+    "Qobit.sol"
+  ],
+  "address": "0x1A75288226AD60431eB7759430cdF764E2Bb56Ea"
+}

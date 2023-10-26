@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DOCA",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2bc573eb763dccd7b870a253720d9c6f1d667512d46403d7c7b90dce258903fc",
+  "path": [
+    "DOCA.sol"
+  ],
+  "address": "0x9B5777971A47b54306E2F01a772EA4E6b7e85904"
+}
