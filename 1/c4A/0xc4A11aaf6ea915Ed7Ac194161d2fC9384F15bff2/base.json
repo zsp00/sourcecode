@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WTON",
+  "CompilerVersion": "v0.5.12+commit.7709ece9",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000002be5e8c109e2197d077d13a82daead6a9b3433c5",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b9c2d3c1c3f479025a7ef17ad9483bef45595462f2fc820bc2ea5f485a9d7909",
+  "path": [
+    "WTON.sol"
+  ],
+  "address": "0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2"
+}
