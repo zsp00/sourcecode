@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BERRYCAT",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://990d732b60f5cc2397c4242155e54d1b0849d5c73a4de7edc829ce919366cac6",
+  "path": [
+    "BERRYCAT.sol"
+  ],
+  "address": "0xcc54D19ea3779d7f410c30D9C618D8268B2Aa04a"
+}
