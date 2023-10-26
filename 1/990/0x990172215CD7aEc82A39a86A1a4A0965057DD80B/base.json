@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RICHIE",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://209c2143057199f33e785040169ec47c1dbbd69feecd7e51b4dd20701a372893",
+  "path": [
+    "RICHIE.sol"
+  ],
+  "address": "0x990172215CD7aEc82A39a86A1a4A0965057DD80B"
+}
