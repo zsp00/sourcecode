@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Landwolf",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c2ed802ccd2ff2c9b702f4b0f3089a76e0d88c2b833f035c422ef26f89154cb9",
+  "path": [
+    "Landwolf.sol"
+  ],
+  "address": "0xf6aFC05fCCEa5A53F22A3e39fFeE861e016Bd9A0"
+}
