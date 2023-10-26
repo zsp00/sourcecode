@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NIOCTIB",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e9ea4087e2ca2bc7c236f05155765cfe10edb35cf9f0d2e399a51f23c415117b",
+  "path": [
+    "NIOCTIB.sol"
+  ],
+  "address": "0x99cf786dad3C68019f9919D153A3F1F949A18171"
+}

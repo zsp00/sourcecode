@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MOON",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4b96593b210b9c8bf26542d32eb44c15c4070241939a6266964852516a883c62",
+  "path": [
+    "MOON.sol"
+  ],
+  "address": "0xBB23FCF2b08c21eFd2c0D2944d2e6f11F54e87cE"
+}

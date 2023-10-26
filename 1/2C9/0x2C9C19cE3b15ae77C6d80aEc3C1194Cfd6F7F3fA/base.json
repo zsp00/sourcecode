@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TwoCrazyToken",
+  "CompilerVersion": "v0.8.5+commit.a4f2e591",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "contracts/ERC20Permit.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/TwoCrazyToken.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "contracts/IERC2612Permit.sol",
+    "@openzeppelin/contracts/utils/math/SafeMath.sol"
+  ],
+  "address": "0x2C9C19cE3b15ae77C6d80aEc3C1194Cfd6F7F3fA"
+}
