@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "POODL",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c211746b989a8383943e2c2826cd6c218777d5965e258df178930e070cc5fb0b",
+  "path": [
+    "Context.sol",
+    "IERC20.sol",
+    "Ownable.sol",
+    "poodl.sol",
+    "SafeMath.sol",
+    "Address.sol"
+  ],
+  "address": "0x56a980328AEE33AaBB540A02E002C8323326bf36"
+}
