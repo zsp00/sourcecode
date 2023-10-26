@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BOSAGORA",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://186f246765302075551cded700764879216a802a0bf1860ce73f843368511f3d",
+  "path": [
+    "BOSAGORA.sol"
+  ],
+  "address": "0x746DdA2ea243400D5a63e0700F190aB79f06489e"
+}
