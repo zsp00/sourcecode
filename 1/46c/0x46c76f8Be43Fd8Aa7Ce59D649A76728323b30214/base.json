@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MCTK",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://714b054d8d7ab96d7ae5ec1aa5b65950bdf1c2d3a167e2daea55eb28d58ac78e",
+  "path": [
+    "MCTK.sol"
+  ],
+  "address": "0x46c76f8Be43Fd8Aa7Ce59D649A76728323b30214"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IERC20",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1e09a3e53c90fd2b7204a5ef34d3b09d3d1fd23b1fcd35fe2b1d792c576d26dd",
+  "path": [
+    "IERC20.sol"
+  ],
+  "address": "0x18B5751460B161223b434677202d96970F5F3931"
+}
