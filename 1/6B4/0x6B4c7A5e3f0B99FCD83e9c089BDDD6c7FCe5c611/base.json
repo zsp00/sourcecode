@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MillionToken",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a8837d15ac190ef33e48c071513fc494ee29bc4f93acbb15f84518b53e9d2989",
+  "path": [
+    "MillionToken.sol"
+  ],
+  "address": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611"
+}

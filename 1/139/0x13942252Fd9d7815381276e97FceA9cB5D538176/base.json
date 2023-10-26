@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MiracleAngelCoin",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8965b85fbc2e2cbc9f65bd8814c21f66fca2743ecd8130dd8b9a355095cb4cf9",
+  "path": [
+    "ERC20Detailed.sol",
+    "IERC20.sol",
+    "MiracleAngelCoin.sol",
+    "SafeMath.sol",
+    "Context.sol",
+    "ERC20.sol"
+  ],
+  "address": "0x13942252Fd9d7815381276e97FceA9cB5D538176"
+}

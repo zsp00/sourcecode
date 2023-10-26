@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WrappedMistCoin",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "WrappedMistCoin.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x7Fd4d7737597E7b4ee22AcbF8D94362343ae0a79"
+}
