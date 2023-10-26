@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MtnToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1e3eb0e59ba0ca728f728bc12910cdd1992d2e22e1bdc779b130903192fdea78",
+  "path": [
+    "MtnToken.sol"
+  ],
+  "address": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3"
+}
