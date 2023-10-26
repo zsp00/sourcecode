@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MultiPlanetaryInus",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://42f5e36f443845718caa4c94e577b5852198bda6042e7eb6ddb93b109a36b4de",
+  "path": [
+    "MultiPlanetaryInus.sol"
+  ],
+  "address": "0x39207D2E2fEEF178FBdA8083914554C59D9f8c00"
+}

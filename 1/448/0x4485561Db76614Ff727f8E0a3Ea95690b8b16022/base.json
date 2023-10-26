@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "InvoxFinanceToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://73a35a85361d3cc835e10569015e470b35e297b4ac206511c8441320de39007e",
+  "path": [
+    "InvoxFinanceToken.sol"
+  ],
+  "address": "0x4485561Db76614Ff727f8E0a3Ea95690b8b16022"
+}
