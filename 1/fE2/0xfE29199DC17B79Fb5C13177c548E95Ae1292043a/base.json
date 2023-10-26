@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TheWalrus",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0bbe790f815585cd0084fed7a85e9a955f0ab98b21dbd87cd5b783263272e9c5",
+  "path": [
+    "TheWalrus.sol"
+  ],
+  "address": "0xfE29199DC17B79Fb5C13177c548E95Ae1292043a"
+}
