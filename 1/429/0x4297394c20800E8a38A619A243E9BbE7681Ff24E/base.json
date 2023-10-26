@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HotCrossToken",
+  "CompilerVersion": "v0.8.3+commit.8d00100c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2c45b7b57ed9794f8bf0238f1d1a63fe6e6b57c60cdda9ab1be2d17237afb28c",
+  "path": [
+    "HotCrossToken.sol"
+  ],
+  "address": "0x4297394c20800E8a38A619A243E9BbE7681Ff24E"
+}
