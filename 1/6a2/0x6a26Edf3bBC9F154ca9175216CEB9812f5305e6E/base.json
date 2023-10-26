@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Pixel",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "20000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+    "src/Pixel.sol",
+    "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol"
+  ],
+  "address": "0x6a26Edf3bBC9F154ca9175216CEB9812f5305e6E"
+}

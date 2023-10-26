@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BezosEarth",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5ce5912bf21847cbc3e379055795ce11e203fab3ce229533c2c195f4425b1bc9",
+  "path": [
+    "BezosEarth.sol"
+  ],
+  "address": "0xDC349913d53b446485E98b76800b6254f43Df695"
+}
