@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UniMex",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d2198d4565499ffcd72d3e89395fc3bfcbe4132e7f01fdf1538399b3ff46ceee",
+  "path": [
+    "UniMex.sol"
+  ],
+  "address": "0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15"
+}
