@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RoobeeToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b7e465e99c718b9625aa8516f0edde3e7d3a5aa66fe68835fa03a868eec7fc77",
+  "path": [
+    "RoobeeToken.sol"
+  ],
+  "address": "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA"
+}

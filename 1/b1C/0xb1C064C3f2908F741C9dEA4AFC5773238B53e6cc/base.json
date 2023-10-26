@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WarioXrpDumbledoreYugioh69Inu",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://eb4b6521e77f193a1c8698ac5294a534a8d536ae10700f23596d1ea65d956eac",
+  "path": [
+    "WarioXrpDumbledoreYugioh69Inu.sol"
+  ],
+  "address": "0xb1C064C3f2908F741C9dEA4AFC5773238B53e6cc"
+}
