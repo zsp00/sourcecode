@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CLARK",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "300",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x2d3fc875de7fe7da43ad0afa0e7023c9b91d06b1",
+  "SwarmSource": "",
+  "path": [
+    "node_modules/@openzeppelin/contracts/utils/Address.sol",
+    "node_modules/@openzeppelin/contracts/utils/StorageSlot.sol",
+    "contracts/CLARK.sol",
+    "contracts/manifold/ERC721Creator.sol",
+    "node_modules/@openzeppelin/contracts/proxy/Proxy.sol"
+  ],
+  "address": "0xBaF5DF1f0f0c25BF20F070b90d0Aac8053DDFBc3"
+}
