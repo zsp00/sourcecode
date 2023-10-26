@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BLHZMedel",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/BLHZMedel.sol",
+    "contracts/Base721.sol",
+    "@openzeppelin/contracts/token/ERC1155/IERC1155.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol",
+    "erc721a/contracts/extensions/ERC721AQueryable.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "erc721a/contracts/extensions/IERC721AQueryable.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+    "erc721a/contracts/IERC721A.sol"
+  ],
+  "address": "0xfF74698A258c7B29F0C5aFb578e53e560c5012B9"
+}
