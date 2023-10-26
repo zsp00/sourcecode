@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Label",
+  "CompilerVersion": "v0.5.9+commit.e560f70d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv2",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3ff6cc55f70bb9e269aee535e8618933de5218a30f7443a3f1e51bdce996edd2",
+  "path": [
+    "ERC20Interface.sol",
+    "Label.sol",
+    "OwnerHelper.sol",
+    "SafeMath.sol"
+  ],
+  "address": "0x2162f572B25f7358db9376AB58a947a4e45CeDE1"
+}
