@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NeverFearTruth",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000e00000000000000000000000000000000000000000000000000000000000002b67000000000000000000000000596888f1c21824552b2727a5281be39ad3c03c6100000000000000000000000000000000000000000000000000000000000001f400000000000000000000000000000000000000000000000000000000000000104e6576657220466561722054727574680000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000054a444e4654000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "contracts/NeverFearTruth.sol",
+    "@openzeppelin/contracts/interfaces/IERC2981.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/interfaces/IERC165.sol",
+    "@openzeppelin/contracts/token/ERC721/ERC721.sol"
+  ],
+  "address": "0x06B3fcc9E79d724a08012f0B9F71bd03B415d334"
+}
