@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Hoppy",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://79bf6c7847ce76b2bf698e7660d8e2cabb0b3cb91143906c4e09dd5dc3498aca",
+  "path": [
+    "Hoppy.sol"
+  ],
+  "address": "0x8C130499D33097D4D000D3332E1672f75b431543"
+}
