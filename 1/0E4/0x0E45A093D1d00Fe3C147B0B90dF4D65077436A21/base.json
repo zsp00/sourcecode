@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KNIFE",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://069c669533c1ae213e8b7ef1b53de5d8f251f31e35547cbdda08f5e6fac0d21e",
+  "path": [
+    "KNIFE.sol"
+  ],
+  "address": "0x0E45A093D1d00Fe3C147B0B90dF4D65077436A21"
+}
