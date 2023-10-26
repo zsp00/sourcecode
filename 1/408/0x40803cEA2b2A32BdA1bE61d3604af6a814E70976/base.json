@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SpoolDaoToken",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "1000000",
+  "ConstructorArguments": "000000000000000000000000f6bc2e3b1f939c435d9769d078a6e5048aabd463000000000000000000000000f6bc2e3b1f939c435d9769d078a6e5048aabd463",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/vendor/IERC20.sol",
+    "contracts/vendor/IERC20Metadata.sol",
+    "contracts/vendor/Ownable.sol",
+    "contracts/vendor/Pausable.sol",
+    "contracts/SpoolDaoToken.sol",
+    "contracts/vendor/Context.sol",
+    "contracts/vendor/ERC20.sol",
+    "contracts/vendor/ERC20Pausable.sol"
+  ],
+  "address": "0x40803cEA2b2A32BdA1bE61d3604af6a814E70976"
+}
