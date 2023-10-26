@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Nemuka",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://79ecbb5a08c4a3d57d9ff87a6797f8b591c817ad5cd33b43aa135b537252f1cf",
+  "path": [
+    "Nemuka.sol"
+  ],
+  "address": "0x83E81d437B669d9b7Ee29b57320fC9cC130f6721"
+}
