@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "APU",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://695b5038cc839d2a878440a17f0d814c6094df88752769a4c085102e146335f2",
+  "path": [
+    "APU.sol"
+  ],
+  "address": "0x15B7F9943530a09e642A726791aC07bA32FeF29F"
+}
