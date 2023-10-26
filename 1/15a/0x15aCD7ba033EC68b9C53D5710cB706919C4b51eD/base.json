@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PacWeen",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000033b2e3c9fd0803ce8000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0e302db8ce0f6885f31fc329181ec42d61db5a73c1106b57ded781e4d4a1966b",
+  "path": [
+    "PacWeen.sol"
+  ],
+  "address": "0x15aCD7ba033EC68b9C53D5710cB706919C4b51eD"
+}
