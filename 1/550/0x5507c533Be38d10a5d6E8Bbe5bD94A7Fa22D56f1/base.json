@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ROLL",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://19e7a208af9b6e5c55093cf603516525053539a7e8d436d6ab3d93de46e5591e",
+  "path": [
+    "ROLL.sol"
+  ],
+  "address": "0x5507c533Be38d10a5d6E8Bbe5bD94A7Fa22D56f1"
+}
