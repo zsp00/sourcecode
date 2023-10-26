@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YoloNoloV2",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "lib/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "lib/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+    "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+    "lib/openzeppelin-contracts/contracts/interfaces/IERC20.sol",
+    "lib/openzeppelin-contracts/contracts/interfaces/IERC20Metadata.sol",
+    "lib/openzeppelin-contracts/contracts/utils/math/SafeMath.sol",
+    "src/YoloNolo.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
+    "lib/v2-core/contracts/interfaces/IUniswapV2Pair.sol",
+    "lib/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x9754d5e5ea788C62F11d34a818aeAE927AeAC84C"
+}
