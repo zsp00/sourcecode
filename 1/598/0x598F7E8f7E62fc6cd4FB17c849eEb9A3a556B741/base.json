@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Ye24",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "IterableMapping:9b5bdfcbdc72e7a62ee57652dc459b8da5090fd4",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0cc605fca0bfb169f76ccb2be8f1a6dae533b4a317724a8d7b090acab2dce1a5",
+  "path": [
+    "Ye24.sol"
+  ],
+  "address": "0x598F7E8f7E62fc6cd4FB17c849eEb9A3a556B741"
+}
