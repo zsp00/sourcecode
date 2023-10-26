@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Beanz",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "000000000000000000000000ed5af388653567af2f388e6224dc7c4b3241c5440000000000000000000000000000000000000000000000000000000000004e20000000000000000000000000271682deb8c4e0901d1a1550ad2e64d568e69909000000000000000000000000514910771af9ca656af840dff83e8264ecf986ca00000000000000000000000000000000000000000000000000000000000000c000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000009536f6d657468696e6700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004534d544800000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Beanz.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@chainlink/contracts/src/v0.8/VRFConsumerBaseV2.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "contracts/MultisigOwnable.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@chainlink/contracts/src/v0.8/interfaces/LinkTokenInterface.sol",
+    "@chainlink/contracts/src/v0.8/interfaces/VRFCoordinatorV2Interface.sol"
+  ],
+  "address": "0x306b1ea3ecdf94aB739F1910bbda052Ed4A9f949"
+}
