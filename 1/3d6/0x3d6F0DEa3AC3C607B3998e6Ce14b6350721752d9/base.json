@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Cards",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "2000",
+  "ConstructorArguments": "",
+  "EVMVersion": "byzantium",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/C/Crypto/Projects/Cards/cards_solidity/contracts/Cards.sol",
+    "/C/Crypto/Projects/Cards/cards_solidity/contracts/Constants.sol",
+    "@openzeppelin/contracts/GSN/Context.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0x3d6F0DEa3AC3C607B3998e6Ce14b6350721752d9"
+}

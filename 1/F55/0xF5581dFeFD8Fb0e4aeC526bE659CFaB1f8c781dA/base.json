@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HoprToken",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "1",
+  "Runs": "10000000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://390a28fa8069140ab3fa17935c1941cfa66495f73b64d3262a85cb032eb768e7",
+  "path": [
+    "HoprToken.sol"
+  ],
+  "address": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA"
+}
