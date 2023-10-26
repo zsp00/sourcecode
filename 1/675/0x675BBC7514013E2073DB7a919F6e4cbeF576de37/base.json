@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Coldstack",
+  "CompilerVersion": "v0.7.4+commit.3f05b770",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://308625f22c5fb660ee93a9d2696450c5310cb481340ce4ad3e7829ed7d1f7e3a",
+  "path": [
+    "ContextUpgradeable.sol",
+    "ERC20Upgradeable.sol",
+    "IERC20Upgradeable.sol",
+    "Initializable.sol",
+    "SafeMathUpgradeable.sol",
+    "AddressUpgradeable.sol",
+    "Coldstack.sol"
+  ],
+  "address": "0x675BBC7514013E2073DB7a919F6e4cbeF576de37"
+}

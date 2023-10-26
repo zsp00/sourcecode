@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UniDex",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://90eceaa655eb518bf8ee7011f4ef66a41c51c74ba14c53a84b81725f224f82f8",
+  "path": [
+    "UniDex.sol"
+  ],
+  "address": "0xf0655DcEE37E5C0b70Fffd70D85f88F8eDf0AfF6"
+}
