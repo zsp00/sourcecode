@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RealHuskyPenguin",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ab030d2dcfcfea3dec666a77445ecfd7480ae41b4a403f1744c66b9db507d610",
+  "path": [
+    "RealHuskyPenguin.sol"
+  ],
+  "address": "0x95318b80BB93be81d8f117d7445Adda8290d8C5d"
+}
