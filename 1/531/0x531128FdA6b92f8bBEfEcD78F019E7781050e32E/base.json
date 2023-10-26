@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WITCOIN",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8728e854582562f6da76090e2db7dbd98b6f40069ca793c222dca7a13dcdac12",
+  "path": [
+    "WITCOIN.sol"
+  ],
+  "address": "0x531128FdA6b92f8bBEfEcD78F019E7781050e32E"
+}
