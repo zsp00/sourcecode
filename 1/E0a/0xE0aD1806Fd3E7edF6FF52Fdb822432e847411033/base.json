@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ONXToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000044fb0d3ca750d056b892fe53e72d34361df5a173000000000000000000000000d03adc74cd87059acbc612c1f938aae9da4f42e2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c716bd3252de519c290fed24c421b4c5803a4a12f5ab303d37bae4084f7dd50f",
+  "path": [
+    "ONXToken.sol"
+  ],
+  "address": "0xE0aD1806Fd3E7edF6FF52Fdb822432e847411033"
+}
