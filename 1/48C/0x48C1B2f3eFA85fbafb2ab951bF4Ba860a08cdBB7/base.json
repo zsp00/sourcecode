@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HAND",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fa377f383c806c860476fca45efad8b9ee65810ca8611ffe5c7b38c30ba7ad81",
+  "path": [
+    "HAND.sol"
+  ],
+  "address": "0x48C1B2f3eFA85fbafb2ab951bF4Ba860a08cdBB7"
+}
