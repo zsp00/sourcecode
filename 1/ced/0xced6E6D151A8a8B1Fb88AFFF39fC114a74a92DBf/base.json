@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AANG",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://da35669dc92f0a79af617bb92889a45a13347258c57d1a0d1100ed786f592cda",
+  "path": [
+    "AANG.sol"
+  ],
+  "address": "0xced6E6D151A8a8B1Fb88AFFF39fC114a74a92DBf"
+}
