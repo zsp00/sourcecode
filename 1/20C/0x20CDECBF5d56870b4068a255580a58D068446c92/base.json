@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MonkeysToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1916b82982dd19113c2eea2dbbeb092b6a57affd0e33faa5f0f0ca937f00f7e6",
+  "path": [
+    "MonkeysToken.sol"
+  ],
+  "address": "0x20CDECBF5d56870b4068a255580a58D068446c92"
+}
