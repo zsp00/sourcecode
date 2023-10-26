@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TOPToken",
+  "CompilerVersion": "v0.5.6+commit.b259423e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://72f11bf2397891e0fd3ce70c1a473187504c3f307c969b1b227eb0cd647dca61",
+  "path": [
+    "TOPToken.sol"
+  ],
+  "address": "0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b"
+}
