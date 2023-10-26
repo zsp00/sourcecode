@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Metacrypt_B_TR_MB_US_NC_X",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000003980a73f4159f867e6eec7555d26622e53d356b900000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000001200000000000000000000000000000000000000000052b7d2dcc80cd2e40000000000000000000000000000000000000000000000000000000000000000000024476c6f62616c20477265656e686f75736520526564756374696f6e2045786368616e67650000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044747525800000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/tokens/helpers/ERC20Mintable.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IERC20.sol",
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/tokens/helpers/ERC20Burnable.sol",
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/tokens/helpers/ERC20Decimals.sol",
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/tokens/helpers/ERC20.sol",
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/tokens/helpers/ERC20Ownable.sol",
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/tokens/helpers/TokenRecover.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/service/MetacryptHelper.sol",
+    "/D/MicroSaaS/Metacrypt/code/metacrypt-contracts/contracts/tokens/Metacrypt_B_TR_MB_US_NC_X.sol"
+  ],
+  "address": "0x33425DF320241c8942E0e3377361cB4b27c9930F"
+}
