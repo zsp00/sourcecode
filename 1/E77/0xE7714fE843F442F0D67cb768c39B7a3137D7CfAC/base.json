@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EOI",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000c454f5320494e46494e4954590000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fb6ca29ba341cd08f50f281118894e413044ae4684c67c18016aab2e3f904a12",
+  "path": [
+    "EOI.sol"
+  ],
+  "address": "0xE7714fE843F442F0D67cb768c39B7a3137D7CfAC"
+}

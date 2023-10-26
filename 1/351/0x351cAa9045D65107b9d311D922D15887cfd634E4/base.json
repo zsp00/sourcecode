@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ARW",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f9c633f9182647b9ff5a3fa89f6791459d5ce4f4f0279da43f58721bc701127e",
+  "path": [
+    "ARW.sol"
+  ],
+  "address": "0x351cAa9045D65107b9d311D922D15887cfd634E4"
+}
