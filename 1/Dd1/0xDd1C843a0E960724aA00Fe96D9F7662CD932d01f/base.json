@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Meelons",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000061c054200000000000000000000000000000000000000000000000000000000000000036697066733a2f2f516d65664a626b6e6544656e4d57336b3555324761505759735032574c3756524b5969503765386a4239653378482f00000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b02edffc4dc4b75fb1ca5718deee1f97ce0c615fb138c9cfe90dc7a433936612",
+  "path": [
+    "IERC721Metadata.sol",
+    "InitializableOwnable.sol",
+    "Meelons.sol",
+    "Address.sol",
+    "Context.sol",
+    "ERC165.sol",
+    "IERC165.sol",
+    "IERC721.sol",
+    "ERC721.sol",
+    "IERC721Receiver.sol",
+    "Strings.sol"
+  ],
+  "address": "0xDd1C843a0E960724aA00Fe96D9F7662CD932d01f"
+}

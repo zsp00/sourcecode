@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AdminUpgradeabilityProxy",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000048ec5680eb030356ff12ad82be1433a6992fffe7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x48ec5680eb030356ff12ad82be1433a6992fffe7",
+  "SwarmSource": "bzzr://efcb7a35c85d4d66117811ade2579fa33f7925bd5c6c995949763e1c3d12140f",
+  "path": [
+    "AdminUpgradeabilityProxy.sol"
+  ],
+  "address": "0x954b890704693af242613edEf1B603825afcD708"
+}
