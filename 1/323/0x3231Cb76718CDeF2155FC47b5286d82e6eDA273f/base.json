@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EUR",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://765e12d38c92f02cf10981887c9c07e0c5dcbc669c7b320acc5a00ab94b339f9",
+  "path": [
+    "EUR.sol"
+  ],
+  "address": "0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MCGUIRE",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1ff9779bb3317a0f81c92c3fd54dcc95fd729c370a484838b3c830fccca6b30f",
+  "path": [
+    "MCGUIRE.sol"
+  ],
+  "address": "0x8a8b4a2B977dA9CEF0580ac11F030dA2afdD69B4"
+}
