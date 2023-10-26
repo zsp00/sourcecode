@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TPCToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://988020f73b1eec31689e6db53ea47d81d9a4ea033bce37a491d67de3a6e13977",
+  "path": [
+    "TPCToken.sol"
+  ],
+  "address": "0x0C178237d47172440C5792526c4952a279FDADf1"
+}
