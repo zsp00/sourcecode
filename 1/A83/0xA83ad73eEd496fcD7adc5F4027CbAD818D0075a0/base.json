@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OGAC",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000fdade2fcc08286beff02795c1164eb9dbb5ec4c00000000000000000000000000000000000000000000000000000000000000005656d707479000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f9767fd479714b670f341253f9a83ecd5d3be2ed5965c895db1b8ee652f639e4",
+  "path": [
+    "OGAC.sol"
+  ],
+  "address": "0xA83ad73eEd496fcD7adc5F4027CbAD818D0075a0"
+}
