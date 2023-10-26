@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BTCBOYZ",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "Token.sol",
+    "Ownable.sol",
+    "Initializable.sol",
+    "IUniswapV2Pair.sol",
+    "IUniswapV2Router02.sol",
+    "Context.sol",
+    "ERC20.sol",
+    "ERC20Burnable.sol",
+    "IUniswapV2Factory.sol",
+    "IUniswapV2Router01.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol"
+  ],
+  "address": "0xc7Ed1D9D51c6bF38708566458C4c39cA0AF8EFAA"
+}
