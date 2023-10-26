@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BTX",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9b380e75234d4f54633fa2950cb6632da8f00722bd24fa8f9926b89430c2a424",
+  "path": [
+    "BTX.sol"
+  ],
+  "address": "0x2Ed4EfdAE72a0E7E4Ac9d1DF632277998Ea7F9F0"
+}

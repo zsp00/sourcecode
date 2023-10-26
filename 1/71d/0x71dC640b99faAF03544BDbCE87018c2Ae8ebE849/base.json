@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OmniaVerse",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://10c39829f4f158ab38ff915ab9123bc2910e45c0be883622462ad5e84031ca72",
+  "path": [
+    "OmniaVerse.sol"
+  ],
+  "address": "0x71dC640b99faAF03544BDbCE87018c2Ae8ebE849"
+}
