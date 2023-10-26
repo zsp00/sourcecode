@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Junca",
+  "CompilerVersion": "v0.6.8+commit.0bbfe453",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c5410075d4cddb7f6d619897f6ce0a34a9cdb7fb4fcfb75ab092bfc7866036d6",
+  "path": [
+    "IERC20.sol",
+    "junca.sol",
+    "pausable.sol",
+    "pauser.sol",
+    "SafeMath.sol",
+    "user.sol",
+    "access.sol",
+    "Context.sol"
+  ],
+  "address": "0xeA7aA1eDd21735A5ab05EE3E90869016191e274E"
+}

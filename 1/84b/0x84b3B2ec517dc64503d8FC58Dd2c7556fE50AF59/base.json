@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Cat",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d74961ca64c52a19a5e904af53364cc33c48db32ae0025431b899d97e7d5896d",
+  "path": [
+    "Cat.sol"
+  ],
+  "address": "0x84b3B2ec517dc64503d8FC58Dd2c7556fE50AF59"
+}
