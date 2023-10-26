@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SMURFS",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://80148bab53fc6a570118d394a67ec083df4073975958b5acf9d2028d99d22c24",
+  "path": [
+    "SMURFS.sol"
+  ],
+  "address": "0xA89B240906a20D8D4e4757470De45BA94B907170"
+}

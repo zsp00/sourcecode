@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HedgeUp",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fd82b9132dc843f6618b67691a0805e118c74415d5a4bb4ea4bad6da23815d37",
+  "path": [
+    "HedgeUp.sol"
+  ],
+  "address": "0xF033acbb2EDd5A3dA90855A5AffF0Fb7736f4dDA"
+}
