@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BullishOnMEME",
+  "CompilerVersion": "v0.8.22+commit.4fc1097e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bb3bf2735b5ed08e8dcf657fccd3b98be5dcbf5c9d50931ece2f86b08cf25eac",
+  "path": [
+    "BullishOnMEME.sol"
+  ],
+  "address": "0x3B3fF38bb6875012D974c6Eed2FcB7c0a9B279B7"
+}
