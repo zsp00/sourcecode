@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TokenFansToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "Math:a6a67e10d132ce7511f842d10c4022bb6276a2c3",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4fd91f6281c5749ddd6e3469b4a3a7c22e0a17514926ddbbbca49033b17b0bc6",
+  "path": [
+    "TokenFansToken.sol"
+  ],
+  "address": "0xE534619dEFDBF0cAf673b8AbF7158714F5BD4bd9"
+}
