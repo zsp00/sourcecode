@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Pawzaar",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://73ebd77005d8fed1a20634c9a3aaa542fd9873108f98786096d2c1aa46d3af19",
+  "path": [
+    "Pawzaar.sol"
+  ],
+  "address": "0x195D98EBB69dF0DcE2eEE2A790550Ed84cCA25cE"
+}
