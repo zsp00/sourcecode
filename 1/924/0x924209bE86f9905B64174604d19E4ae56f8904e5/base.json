@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NBEX",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5e4dce36db75b695923eb1fe51efb3041e496c36a3cbdc6027dc5b8f6c95c3ae",
+  "path": [
+    "NBEX.sol"
+  ],
+  "address": "0x924209bE86f9905B64174604d19E4ae56f8904e5"
+}
