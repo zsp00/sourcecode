@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AGICoin",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f953d608906b08657be45ea0868a586d8fd1f25c5b483d41913e698cca17a3c4",
+  "path": [
+    "contracts/AGICoin.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/security/Pausable.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x5F18ea482ad5cc6BC65803817C99f477043DcE85"
+}
