@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "InsurChainCoin",
+  "CompilerVersion": "v0.4.13+commit.fb4cb1a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://61456322ddc0270f753ffb485c70a842b0d70ff609bd00c54254db1df22fa0a3",
+  "path": [
+    "InsurChainCoin.sol"
+  ],
+  "address": "0x6ea6531b603F270d23d9EDd2d8279135DC5D6773"
+}
