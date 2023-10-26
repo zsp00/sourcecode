@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CollectionProxy",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000632b73f5cdf8500b5db98f077138c660285a2033",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "1",
+  "Implementation": "0x632b73f5cdf8500b5db98f077138c660285a2033",
+  "SwarmSource": "ipfs://db861581b1ddd36391df34a3fa6258e20fcdd23db2ce0fadb96d86c6a103f374",
+  "path": [
+    "CollectionProxy.sol"
+  ],
+  "address": "0xdFF698B9fDb5113a061E0C1fFCbDcbA3f2040efc"
+}
