@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DACContract",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f6621c9ddfd5004e725ae52787a6749c85079e2c67fd75716f8f9c2c7542cff5",
+  "path": [
+    "DACContract.sol"
+  ],
+  "address": "0xAAD54C9f27B876D2538455DdA69207279fF673a5"
+}

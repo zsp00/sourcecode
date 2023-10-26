@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TradeTokenX",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "0",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://43e00bcca83c7a5d1a5dc4dac2f24bdaac17c2bcf86a6dcf185c66684edd23ee",
+  "path": [
+    "TradeTokenX.sol"
+  ],
+  "address": "0xd947b0ceab2A8885866B9A04A06AE99DE852a3d4"
+}
