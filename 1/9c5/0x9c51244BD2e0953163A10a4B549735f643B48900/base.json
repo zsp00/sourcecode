@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SundaeCoin",
+  "CompilerVersion": "v0.8.14+commit.80d49f37",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8e238ac1a75635fc725c823699c043deba2787ffb912f81f3224f2e5f16cef45",
+  "path": [
+    "SundaeCoin.sol"
+  ],
+  "address": "0x9c51244BD2e0953163A10a4B549735f643B48900"
+}
