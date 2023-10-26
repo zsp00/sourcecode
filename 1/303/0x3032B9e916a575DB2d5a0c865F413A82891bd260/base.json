@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EONToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b4eb9a414e43b4534473b727d013dcaef584992586683b5fd547f6eb9c73222a",
+  "path": [
+    "EONToken.sol"
+  ],
+  "address": "0x3032B9e916a575DB2d5a0c865F413A82891bd260"
+}

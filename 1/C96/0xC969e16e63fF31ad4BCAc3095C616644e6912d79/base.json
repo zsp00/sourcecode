@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SEEDToken",
+  "CompilerVersion": "v0.5.1+commit.c8a2cb62",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c41694aa540c7e737d38bb2db30815ae28aa9b1477ad27d60206bf19ea8e4b82",
+  "path": [
+    "SEEDToken.sol"
+  ],
+  "address": "0xC969e16e63fF31ad4BCAc3095C616644e6912d79"
+}
