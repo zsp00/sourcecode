@@ -1,0 +1,28 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YIELDToken",
+  "CompilerVersion": "v0.7.4+commit.3f05b770",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "/C/xampp/htdocs/YFarmer/YIELD-token/contracts/erc20permit/EIP712.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol",
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "/C/xampp/htdocs/YFarmer/YIELD-token/contracts/YIELDToken.sol",
+    "/C/xampp/htdocs/YFarmer/YIELD-token/contracts/erc20permit/ERC20Permit.sol",
+    "/C/xampp/htdocs/YFarmer/YIELD-token/contracts/erc20permit/IERC20Permit.sol"
+  ],
+  "address": "0xa8B61CfF52564758A204F841E636265bEBC8db9B"
+}
