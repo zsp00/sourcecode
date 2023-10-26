@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ISO",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "300",
+  "ConstructorArguments": "",
+  "EVMVersion": "london",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0x5133522ea5a0494ecb83f26311a095ddd7a9d4b6",
+  "SwarmSource": "",
+  "path": [
+    "contracts/ISO.sol",
+    "contracts/manifold/ERC721Creator.sol",
+    "node_modules/@openzeppelin/contracts/proxy/Proxy.sol",
+    "node_modules/@openzeppelin/contracts/utils/Address.sol",
+    "node_modules/@openzeppelin/contracts/utils/StorageSlot.sol"
+  ],
+  "address": "0x2a58fE07F8C43cA875fAB6331A6A5a22F449F39D"
+}
