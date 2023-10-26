@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SafeitCoin",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d0000000000000000000000005505f73e6c780e0d0be44fed8cd92ade786a8e56000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://27400a6a845ca4bd23749f0df7081453e3b4d90407332ffd95eefdb97329c2c1",
+  "path": [
+    "SafeitCoin.sol"
+  ],
+  "address": "0x75ceA2e69Fb8FAa48D244042ACe4E5a0A417f82d"
+}

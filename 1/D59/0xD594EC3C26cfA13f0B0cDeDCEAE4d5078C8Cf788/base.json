@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GrimaceBunny",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://25ba23504f1b7908671899efccceef613e0ac361d141fc9eb5326c8b9919362f",
+  "path": [
+    "GrimaceBunny.sol"
+  ],
+  "address": "0xD594EC3C26cfA13f0B0cDeDCEAE4d5078C8Cf788"
+}
