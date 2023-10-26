@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EMMI",
+  "CompilerVersion": "v0.4.22+commit.4cb486ee",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cda54e79c02b295efd495a115e15036140683b324a17712e749533228134ed54",
+  "path": [
+    "EMMI.sol"
+  ],
+  "address": "0x17bE403329ceD6DF4Fdb8278f039bC6Ffd3d537f"
+}

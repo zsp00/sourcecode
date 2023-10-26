@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MainToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "byzantium",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f5cefc202d4c70101ca0f22887d2df00d6fc389cc6e85d92434e5da3373cab25",
+  "path": [
+    "StandardToken.sol",
+    "BurnableToken.sol",
+    "MainToken.sol",
+    "MintableToken.sol",
+    "SafeMath.sol",
+    "Pausable.sol",
+    "BasicToken.sol",
+    "ERC20Basic.sol",
+    "FreezableToken.sol",
+    "Ownable.sol",
+    "Consts.sol",
+    "PausableToken.sol",
+    "TransferableToken.sol",
+    "ERC20.sol"
+  ],
+  "address": "0x3A810ff7211b40c4fA76205a14efe161615d0385"
+}
