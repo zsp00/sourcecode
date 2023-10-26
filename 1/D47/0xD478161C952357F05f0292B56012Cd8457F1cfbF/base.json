@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PolkamarketsToken",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000763e3ee4ee9cac68200e0d358ab10f5136206008000000000000000000000000531a9f9f384be2a3acd9581d574bd47e65ac8273000000000000000000000000afea4511e634928f3a70b18ae565cd07736b7a04000000000000000000000000126b53a1b0f6d036f4ef93a4e5af984bb4b95861000000000000000000000000a6972fd8b71e7af7173e18a3ed986114bb721805",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://85a58e26fbd5f35aee5578f79cea013c3461138e45989b0cd2e3eadb8332b2e6",
+  "path": [
+    "PolkamarketsToken.sol"
+  ],
+  "address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF"
+}

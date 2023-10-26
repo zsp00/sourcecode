@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CHFPToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a82d3396f564a46da315b69a1f6dfb33ef556bb4f047ebd2b38fe504936b6c62",
+  "path": [
+    "CHFPToken.sol"
+  ],
+  "address": "0x3f0c858C26775dF75e45934B189154C436bD7335"
+}

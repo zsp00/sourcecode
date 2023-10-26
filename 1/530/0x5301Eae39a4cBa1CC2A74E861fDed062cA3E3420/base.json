@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Centaure",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d1b4e9dc679a05f72d73542601fe3dc11b6a088bbf92a89c6b037d1ced1db8f0",
+  "path": [
+    "Centaure.sol"
+  ],
+  "address": "0x5301Eae39a4cBa1CC2A74E861fDed062cA3E3420"
+}
