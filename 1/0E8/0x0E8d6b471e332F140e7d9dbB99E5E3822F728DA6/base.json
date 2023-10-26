@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ABYSS",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000049db6ee4507132d1fdac92318e0e6150bf78672800000000000000000000000000000000000000000000000000000000000000600000000000000000000000005eaf0a37346ff992199fbc4480c9ccc4137d9c1f0000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://50e6734d2e5bb8a18d6b1b029eb056a7d79606d1696897d0ed77f44ce8a8ce60",
+  "path": [
+    "ABYSS.sol"
+  ],
+  "address": "0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6"
+}

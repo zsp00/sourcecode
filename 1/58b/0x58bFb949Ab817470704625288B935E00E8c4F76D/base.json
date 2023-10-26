@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PATRICK",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://df0550e6e58f584ae4960f529b4709d4c6ff55b0cd10f5e30fea8f24368effd5",
+  "path": [
+    "PATRICK.sol"
+  ],
+  "address": "0x58bFb949Ab817470704625288B935E00E8c4F76D"
+}
