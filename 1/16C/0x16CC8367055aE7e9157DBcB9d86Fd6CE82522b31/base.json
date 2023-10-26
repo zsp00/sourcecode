@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Voxel",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://495f2871dce757f660cc496507e38482332e386d13470aae28f5584b6afdecab",
+  "path": [
+    "Voxel.sol"
+  ],
+  "address": "0x16CC8367055aE7e9157DBcB9d86Fd6CE82522b31"
+}
