@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "moonrock",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://048851d91743f385716c148c54b67fe9121b3fba781dfd21e731e22c57987cc6",
+  "path": [
+    "moonrock.sol"
+  ],
+  "address": "0x1a6921F7B92113c79306f1A9E148D83445ac42BC"
+}

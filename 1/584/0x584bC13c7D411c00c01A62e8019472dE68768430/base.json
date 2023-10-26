@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Hegic",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d70ddfc48042e0c834cd8c7279dc68bcccf705a37fe5cb94db26803d0d5281aa",
+  "path": [
+    "Hegic.sol"
+  ],
+  "address": "0x584bC13c7D411c00c01A62e8019472dE68768430"
+}

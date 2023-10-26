@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BitGame",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a2113accf516078a2e9f7215c5a76543ec9f1da278366bfc03c00d233986eb37",
+  "path": [
+    "BitGame.sol"
+  ],
+  "address": "0x54260Acee1B942440bFAf11CcFC255CE58498868"
+}
