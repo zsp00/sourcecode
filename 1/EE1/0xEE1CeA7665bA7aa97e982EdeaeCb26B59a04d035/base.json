@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AdminUpgradeabilityProxy",
+  "CompilerVersion": "v0.6.8+commit.0bbfe453",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000205615010d66198e6ef6da039497d104b717ca9300000000000000000000000053d2020a0b7da5ea873d4dea303535f46740ba2900000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/proxy/UpgradeabilityProxy.sol",
+    "contracts/proxy/Proxy.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "contracts/proxy/AdminUpgradeabilityProxy.sol"
+  ],
+  "address": "0xEE1CeA7665bA7aa97e982EdeaeCb26B59a04d035"
+}
