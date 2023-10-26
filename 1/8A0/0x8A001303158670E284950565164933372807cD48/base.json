@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WaifuAIToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000002c2ad68fd9000000000000000000000000000bbd77881cefbbbb5655ba49d9d9597811b8483ea000000000000000000000000f4e1e5871e5205dc7a0d2900f42de907cbf170ad000000000000000000000000d99da940bd8d766ec80bd87955fee7a9c9a6415600000000000000000000000094ac56dfd6d804167d7253e19528a995a4445d9e",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://042aae8c962f5e8654162d176f0afa8a51b360fe80254a1b4df4b4694b8cf8b4",
+  "path": [
+    "WaifuAIToken.sol"
+  ],
+  "address": "0x8A001303158670E284950565164933372807cD48"
+}
