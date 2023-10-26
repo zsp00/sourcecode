@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KtuluERC",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://69b5194ae001446264f95374d1c8bfe46ae5cd830d32453d79095ddbb8226c07",
+  "path": [
+    "KtuluERC.sol"
+  ],
+  "address": "0x8011383432572c3708DD599e5Fb36d3223ec8679"
+}
