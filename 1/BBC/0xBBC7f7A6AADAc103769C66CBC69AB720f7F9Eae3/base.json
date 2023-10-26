@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "InxToken",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e0f92fb0d2634a5f814158eaecbdd752ebdac282",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fd2b7c0b63c2b263df6c412efa85ea764ada4d00a7fd7bffebfbf707855dd9f6",
+  "path": [
+    "InxToken.sol"
+  ],
+  "address": "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3"
+}
