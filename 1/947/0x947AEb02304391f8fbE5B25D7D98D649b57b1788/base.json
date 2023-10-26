@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MandalaToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3254a6329b9687cf32e33e9520f9583e30ff980c03d0d85300c5f9c55ac59035",
+  "path": [
+    "MintableToken.sol",
+    "Ownable.sol",
+    "SafeMath.sol",
+    "StandardToken.sol",
+    "BasicToken.sol",
+    "ERC20.sol",
+    "ERC20Basic.sol",
+    "MandalaToken.sol"
+  ],
+  "address": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788"
+}
