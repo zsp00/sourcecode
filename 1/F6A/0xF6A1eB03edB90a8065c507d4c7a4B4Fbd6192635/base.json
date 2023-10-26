@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MFM",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f3b297424a14b6ea1053a7ad865151c909061d53218f9291f8b59645a9e5955b",
+  "path": [
+    "MFM.sol"
+  ],
+  "address": "0xF6A1eB03edB90a8065c507d4c7a4B4Fbd6192635"
+}
