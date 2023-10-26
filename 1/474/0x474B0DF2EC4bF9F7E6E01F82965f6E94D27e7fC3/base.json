@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BUILD",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://407eb8ee70ef38fa41b506d7eea595ca3f67b1501281507f36b54abd9de059b2",
+  "path": [
+    "BUILD.sol"
+  ],
+  "address": "0x474B0DF2EC4bF9F7E6E01F82965f6E94D27e7fC3"
+}

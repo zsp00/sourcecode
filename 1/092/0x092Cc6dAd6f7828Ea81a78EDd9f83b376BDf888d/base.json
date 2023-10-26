@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AISI",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://18a72324dd6a7c9d1dc41fbb48358b6c3073dbbda6c051f355fe8a69e46fbd82",
+  "path": [
+    "AISI.sol"
+  ],
+  "address": "0x092Cc6dAd6f7828Ea81a78EDd9f83b376BDf888d"
+}
