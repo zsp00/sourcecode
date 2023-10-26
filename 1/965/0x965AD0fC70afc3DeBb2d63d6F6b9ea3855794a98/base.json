@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GRIFT",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f99b68356889f51afe36e790be0db202f1dcd65bbad9757c13e41aa14030078d",
+  "path": [
+    "GRIFT.sol"
+  ],
+  "address": "0x965AD0fC70afc3DeBb2d63d6F6b9ea3855794a98"
+}
