@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MaxToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ac287be0f39a2b5f4dc417c2f631be2404cefcac758a8b3b8d0d49fbd931cabe",
+  "path": [
+    "MaxToken.sol"
+  ],
+  "address": "0xe7976c4Efc60d9f4C200Cc1bCEF1A1e3B02c73e7"
+}
