@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EpinToken",
+  "CompilerVersion": "v0.4.25-nightly.2018.6.6+commit.59b35fa5",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007d42cef1665463371167d7dbfdda1fdf66e47207",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2ff9c87de27ff7336ad468c82cf992b6bcf5d2c0351b0c376940d73640bceaf5",
+  "path": [
+    "EpinToken.sol"
+  ],
+  "address": "0xa91fF20BD37D9275498Aa468351c14FF2c290a99"
+}
