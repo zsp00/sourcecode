@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AIBOT",
+  "CompilerVersion": "v0.8.12+commit.f00d7308",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000002a68bedbb190931f650000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e6489244f6b997783dac81f63d35841fd2a7d9f08baca86e727e1da784a91b15",
+  "path": [
+    "AIBOT.sol"
+  ],
+  "address": "0xAa7fe5c1B2AF196CCd20B2FCbE80b5A81F7E98c2"
+}
