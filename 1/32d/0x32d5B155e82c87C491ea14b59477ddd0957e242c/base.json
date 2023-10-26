@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XBridgeBot",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000002052a0c1593d22e08bce93de5fe5c5d6df5ea1c8",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://03cf3475909858c73bbf24acf745dab8d8eb8f98721f12c0baaf3cd9e3c3e974",
+  "path": [
+    "XBridgeBot.sol"
+  ],
+  "address": "0x32d5B155e82c87C491ea14b59477ddd0957e242c"
+}
