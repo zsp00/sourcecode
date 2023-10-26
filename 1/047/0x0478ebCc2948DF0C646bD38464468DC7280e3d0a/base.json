@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DERP",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cde772ed2ea57ac8cd62ce23a01ed5e8e6b95c6861bac3c0402f73f5a2400dc7",
+  "path": [
+    "DERP.sol"
+  ],
+  "address": "0x0478ebCc2948DF0C646bD38464468DC7280e3d0a"
+}

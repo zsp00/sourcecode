@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KlubCoin",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0a709c80ff93fe95bf3b4f824dfbb48b895bd87ea98040f38cbf944340ba5544",
+  "path": [
+    "KlubCoin.sol"
+  ],
+  "address": "0xf993c2749A21d10a4a36Fe5ddA23830b415D9E0D"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ETHAToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3858b8828ed49376d6e2f7eac7c8e797da21c16d39375ac402ef57d7a3a06280",
+  "path": [
+    "ETHAToken.sol"
+  ],
+  "address": "0x59E9261255644c411AfDd00bD89162d09D862e38"
+}

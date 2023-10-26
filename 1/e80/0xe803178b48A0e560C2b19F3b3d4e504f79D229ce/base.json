@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BOBC",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://dcb25425b4fd529368045062064741e755a1b77b0c0bd1c3826f8c8c76e107d2",
+  "path": [
+    "BOBC.sol"
+  ],
+  "address": "0xe803178b48A0e560C2b19F3b3d4e504f79D229ce"
+}
