@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AOFPass",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000dac17f958d2ee523a2206206994597c13d831ec7000000000000000000000000756e0f78e93f05ca784ac018ebb552d17954f300",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f9549a098dc9a863fa74d1383741a29f344287d123721da020d315f3623b2d1e",
+  "path": [
+    "AOFPass.sol"
+  ],
+  "address": "0x7deB314c10f2A7B3E2D210990A953F48d500124D"
+}

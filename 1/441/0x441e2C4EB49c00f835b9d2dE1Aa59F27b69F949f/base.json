@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BytecoinBlack_ERC20",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://3d22b99a9a3c95845403cd448e8a7ac3d23b305d1b3b0283b7c962c9edd4b164",
+  "path": [
+    "BytecoinBlack_ERC20.sol"
+  ],
+  "address": "0x441e2C4EB49c00f835b9d2dE1Aa59F27b69F949f"
+}
