@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Betnomi",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e8bc0c2c873e2bd36d232336f71338ea43cddcc8042b226748f397a2066ffcf2",
+  "path": [
+    "Betnomi.sol"
+  ],
+  "address": "0x6507D942191E94f4A706A35B42e50560a3e41421"
+}

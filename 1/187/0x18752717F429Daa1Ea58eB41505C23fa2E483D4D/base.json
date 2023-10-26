@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StdContract",
+  "CompilerVersion": "v0.5.10+commit.5a6ea5b1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5a20b3d1b8fc8947c347fa04c882666d87f689083381a0ab8c130096d7b5a0ba",
+  "path": [
+    "StdContract.sol"
+  ],
+  "address": "0x18752717F429Daa1Ea58eB41505C23fa2E483D4D"
+}

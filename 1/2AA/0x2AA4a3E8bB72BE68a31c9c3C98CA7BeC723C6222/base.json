@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BispexToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d5a08aaf272e2432443c1618141ed3f4212aba42307200f15d793a941b63cbde",
+  "path": [
+    "BispexToken.sol"
+  ],
+  "address": "0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222"
+}

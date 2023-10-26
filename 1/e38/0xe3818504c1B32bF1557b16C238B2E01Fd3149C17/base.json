@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PillarToken",
+  "CompilerVersion": "v0.4.11+commit.68ef5810",
+  "OptimizationUsed": "1",
+  "Runs": "0",
+  "ConstructorArguments": "00000000000000000000000005a9afd79a05c3e1afefa282ef8d58f9366b160b000000000000000000000000ff678a624472fe0d195e3cac47dec2375dc2d8be",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c4ae36a7545c31672d946cd91cf7a40cd2f28581238d70d2980c389d2add4afa",
+  "path": [
+    "PillarToken.sol"
+  ],
+  "address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17"
+}
