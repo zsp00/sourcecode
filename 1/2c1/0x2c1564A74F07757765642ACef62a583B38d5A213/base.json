@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Wesion",
+  "CompilerVersion": "v0.5.7+commit.6da8b019",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2a9b46a3990d45efe607389c91c6814aeea7b1f833f3678bd8571fc4facaf055",
+  "path": [
+    "Wesion.sol"
+  ],
+  "address": "0x2c1564A74F07757765642ACef62a583B38d5A213"
+}
