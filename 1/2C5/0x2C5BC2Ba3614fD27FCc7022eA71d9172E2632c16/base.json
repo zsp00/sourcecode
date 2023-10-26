@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ShibOriginalVisionToken",
+  "CompilerVersion": "v0.8.12+commit.f00d7308",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000e0000000000000000000000000000000000000314dc6448d9338c15b0a000000000000000000000000000000000000000000000037892ab1facf9c16d3800000000000000000000000000000003e31404e456a5b035707c0057aea3164d44376f30000000000000000000000000000000000000000000000000000000000000012536869624f726967696e616c566973696f6e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003534f560000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/ShibOriginalVisionToken.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+  ],
+  "address": "0x2C5BC2Ba3614fD27FCc7022eA71d9172E2632c16"
+}
