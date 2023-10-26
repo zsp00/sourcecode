@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RoxToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://021598021cc74be10d5d832f17b320a64740d331192c098628c8129faafc1b1f",
+  "path": [
+    "RoxToken.sol"
+  ],
+  "address": "0x574F84108a98c575794F75483d801d1d5DC861a5"
+}
