@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SPOT",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://35917afab56b113427e604238ecfb94ad02f71418e471c310688989ed5a1ad46",
+  "path": [
+    "SPOT.sol"
+  ],
+  "address": "0xeF3B179ECB4103dA80e72A7ED3764041af04C8Ed"
+}
