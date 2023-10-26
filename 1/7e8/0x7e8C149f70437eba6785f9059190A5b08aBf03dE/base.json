@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Minibitcoin",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ed6d0afc7442c67248a84f8dd345854e8a5c11df2462c7b249db8fa26596c3fd",
+  "path": [
+    "Minibitcoin.sol"
+  ],
+  "address": "0x7e8C149f70437eba6785f9059190A5b08aBf03dE"
+}
