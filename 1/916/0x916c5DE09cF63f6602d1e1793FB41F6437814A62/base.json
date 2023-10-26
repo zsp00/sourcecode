@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "JACY",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://873d8f6a5e1da6451e7782321ddf806ef4d592267ab4f6c0af555cf20417f4b1",
+  "path": [
+    "JACY.sol"
+  ],
+  "address": "0x916c5DE09cF63f6602d1e1793FB41F6437814A62"
+}
