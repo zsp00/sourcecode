@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Climate",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000094Efbf381fC1D927d40Fd2ee2c889EA900526B7",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://80ca2914c8906c11ccd73ffffeb6ac12d634eb63c401d935dc0e436f405f0626",
+  "path": [
+    "Climate.sol"
+  ],
+  "address": "0xB4b1D2C217EC0776584CE08D3DD98F90EDedA44b"
+}
