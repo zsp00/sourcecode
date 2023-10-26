@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BeatToken",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000276138dfe8f58df0a1cb0ed8c609e5f8877734900000000000000000000000001b96126d6bffeefba682e3c04d404585122e392a0000000000000000000000001a6e4e6adef4bc0eada2f8464195a6507b41df7c000000000000000000000000de6c14a61831b39f8c683ca7701d53b9ad15b07f",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/beat.sol"
+  ],
+  "address": "0xD478ba4613C47Bc3643ED8BEE76aCD9D0e903234"
+}
