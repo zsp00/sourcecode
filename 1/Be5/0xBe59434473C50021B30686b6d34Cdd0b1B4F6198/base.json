@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Mobilio",
+  "CompilerVersion": "v0.5.7+commit.6da8b019",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000002a68bdc41e98ab0fb60c9610e62d83ab29312d060000000000000000000000004509ab400d81c759fb9b8f8eb032ba79b8ba6bc2",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://aa35cce3a9b2b13c175ce4a4e31db465924a709308a6d6b4116bdaba2f298cf8",
+  "path": [
+    "Mobilio.sol"
+  ],
+  "address": "0xBe59434473C50021B30686b6d34Cdd0b1B4F6198"
+}
