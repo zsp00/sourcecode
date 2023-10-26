@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OOF",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b2cd4c01afd389fadd66b8be4e5c92fdc4b4f519bcdc61b3efd5247864e7bd2e",
+  "path": [
+    "OOF.sol"
+  ],
+  "address": "0xe5Efc701825D795F4F6253C508f3BCd019b5e967"
+}
