@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "COLT",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000599727f7e3783ea007a9469041f44be6bdeef756000000000000000000000000000000000000000004860d8812f0b38878000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d1a63ddefb27185da9572e8393f3aaf1a1007d6cf1b560f4a6316fcae78abd8c",
+  "path": [
+    "COLT.sol"
+  ],
+  "address": "0x1A3cBdA3853494acAb67648EE59AfeB7ec3E9334"
+}
