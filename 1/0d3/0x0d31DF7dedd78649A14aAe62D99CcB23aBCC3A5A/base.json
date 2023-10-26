@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ethTCGCoin20",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://680a548488016062e1913285c8294437ae232677d2eb29d9462251bfc7f0bbc0",
+  "path": [
+    "ethTCGCoin20.sol"
+  ],
+  "address": "0x0d31DF7dedd78649A14aAe62D99CcB23aBCC3A5A"
+}
