@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EVZ",
+  "CompilerVersion": "v0.5.1+commit.c8a2cb62",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://7b4910278fb7cd758ff62e7e729439e6d187cdd95f0b081441b1fcb61c424cad",
+  "path": [
+    "EVZ.sol"
+  ],
+  "address": "0x7A939Bb714fd2A48EbeB1E495AA9aaa74BA9fA68"
+}

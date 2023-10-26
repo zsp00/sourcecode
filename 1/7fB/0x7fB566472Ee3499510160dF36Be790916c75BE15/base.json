@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OrdinalAI",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://597a9203f8d9ac32bebf0f9759cfa1523f0dea8ff44ec4fdf132d318ff57c1ca",
+  "path": [
+    "OrdinalAI.sol"
+  ],
+  "address": "0x7fB566472Ee3499510160dF36Be790916c75BE15"
+}
