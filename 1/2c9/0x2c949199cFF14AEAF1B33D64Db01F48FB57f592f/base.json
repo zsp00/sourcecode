@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CONI",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d986914cfa0d2f267823ba2f356f864b6c3e9178e7e143e757d11ef8639dc827",
+  "path": [
+    "CONI.sol"
+  ],
+  "address": "0x2c949199cFF14AEAF1B33D64Db01F48FB57f592f"
+}
