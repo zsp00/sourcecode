@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SUZUME",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6bba73e7048942825588eef2ffebb7a78bcd2da2949240f629d861e227623b98",
+  "path": [
+    "SUZUME.sol"
+  ],
+  "address": "0x0B452278223D3954F4AC050949D7998e373e7E43"
+}

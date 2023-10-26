@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BlacksmithToken",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000033b2e3c9fd0803ce8000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3f8d34803ff5cb7ab0a156c39b4087586ac4b6dddd7dced1db958fd81a06c410",
+  "path": [
+    "BlacksmithToken.sol"
+  ],
+  "address": "0x5ECa7B975E34567d9460FA613013A7A6993ad185"
+}
