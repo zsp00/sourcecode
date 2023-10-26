@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MEME",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "9999",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ffc3074faad045382b582b5f8ac14046d08a41c7f3a632d64780118d576967ba",
+  "path": [
+    "MEME.sol"
+  ],
+  "address": "0x7E1b870B7d194A18ae220C0b8473851C236103E1"
+}

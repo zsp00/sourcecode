@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Azuki",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "500",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000005000000000000000000000000000000000000000000000000000000000000271000000000000000000000000000000000000000000000000000000000000022c400000000000000000000000000000000000000000000000000000000000000c8",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "contracts/Azuki.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "contracts/ERC721A.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol"
+  ],
+  "address": "0xED5AF388653567Af2F388E6224dC7C4b3241C544"
+}
