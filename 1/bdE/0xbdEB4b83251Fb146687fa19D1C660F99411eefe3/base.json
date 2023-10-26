@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SvdToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f86c268a5112e93ba94d66904db23d6ad0b962ff72b6838af91788ed0b266ab4",
+  "path": [
+    "SvdToken.sol"
+  ],
+  "address": "0xbdEB4b83251Fb146687fa19D1C660F99411eefe3"
+}
