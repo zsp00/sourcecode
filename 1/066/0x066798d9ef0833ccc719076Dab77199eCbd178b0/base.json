@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SakeToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4e84c00f75e16e4a1041d20a6b5623a4336042f7ef9ccd178775fa106b0bdc9e",
+  "path": [
+    "SakeToken.sol"
+  ],
+  "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0"
+}
