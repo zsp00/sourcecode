@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "InvalidPepeERC",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8ea8a07782612920f18499f1bcbd86d5408d35d585433733fdae464c97daf68d",
+  "path": [
+    "InvalidPepeERC.sol"
+  ],
+  "address": "0x3EE310C0B1aEb0399106351455b75e488772E320"
+}
