@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BEANToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000002540be400",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d3d09cf8595515b80b699c722b8cd03a8cb5332c1de2b2c934ea4bb6f0717ab5",
+  "path": [
+    "BEANToken.sol"
+  ],
+  "address": "0xB9e61193a510a81D4230734d3dA06E386b965160"
+}
