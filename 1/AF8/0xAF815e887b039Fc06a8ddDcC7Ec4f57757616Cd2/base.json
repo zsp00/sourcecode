@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OneGameToken",
+  "CompilerVersion": "v0.4.24-nightly.2018.4.27+commit.1604a996",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000056b1337e8c71984755b3ddcb32e9888ad1fbb671",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://328c58afef4784eb73f250cad3fadbde22eb516599146bbd2c719b8db77e483c",
+  "path": [
+    "OneGameToken.sol"
+  ],
+  "address": "0xAF815e887b039Fc06a8ddDcC7Ec4f57757616Cd2"
+}
