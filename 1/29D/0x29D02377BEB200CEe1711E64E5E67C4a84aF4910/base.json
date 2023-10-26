@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SPENDTOKEN",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://5c37de6cfb4626fc93b9e69bbc5d79ff6a7ef2da41b8371afdc05fc9b9a65326",
+  "path": [
+    "SPENDTOKEN.sol"
+  ],
+  "address": "0x29D02377BEB200CEe1711E64E5E67C4a84aF4910"
+}
