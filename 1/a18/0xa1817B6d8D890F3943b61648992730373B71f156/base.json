@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MONGOOSE",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e18c9610076af65e8029a1cdc1e366d8c96439dc10b29c21de0a1b6aeab2c1bd",
+  "path": [
+    "MONGOOSE.sol"
+  ],
+  "address": "0xa1817B6d8D890F3943b61648992730373B71f156"
+}
