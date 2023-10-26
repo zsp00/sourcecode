@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LR",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000033b2e3c9fd0803ce8000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://14cea84ec5b65ba18b64958b5873407cd3745b98737d930081baee80500b7a68",
+  "path": [
+    "LR.sol"
+  ],
+  "address": "0xb7Bd2284680277FCCd52f0a9EfF50c7277367605"
+}

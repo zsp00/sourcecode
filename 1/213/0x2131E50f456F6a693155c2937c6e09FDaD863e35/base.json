@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "pumpkin",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e2de846158c6635b15226a6a9479ef083cbceef4",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8ebcd75b9ba42915b4e20f8747756f7e8592053f681bc07f3df37832ec9b002f",
+  "path": [
+    "pumpkin.sol"
+  ],
+  "address": "0x2131E50f456F6a693155c2937c6e09FDaD863e35"
+}
