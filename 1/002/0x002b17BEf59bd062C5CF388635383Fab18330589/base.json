@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TetherUSDT",
+  "CompilerVersion": "v0.8.6+commit.11564f7e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c8c4c4078199f281b7c8617319c9b0919a932453eea01e6d4892759f2bd1f52b",
+  "path": [
+    "TetherUSDT.sol"
+  ],
+  "address": "0x002b17BEf59bd062C5CF388635383Fab18330589"
+}
