@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MAXCAT",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000c9f2c9cd04674edea40000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://76747a3854836d441f89dfa07bafb5183e28d98dcadf7b42a9c92abcf0ef18d5",
+  "path": [
+    "MAXCAT.sol"
+  ],
+  "address": "0xB6A7a1d8f64fC6F984A6F3b52b7426F7b0aBAb5B"
+}

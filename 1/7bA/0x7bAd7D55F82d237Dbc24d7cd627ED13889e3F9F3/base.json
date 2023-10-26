@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DeBoxGuardiansEagle",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "ca925d265ae19fa875614817a3d227af807461691567a9cd2f1e87cb843eb66a",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/token/ERC721/ERC721.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "guardians/debox_guardians_eagle.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol"
+  ],
+  "address": "0x7bAd7D55F82d237Dbc24d7cd627ED13889e3F9F3"
+}
