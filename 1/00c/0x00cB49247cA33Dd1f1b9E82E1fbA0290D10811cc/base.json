@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "POSSUM",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ed8cd9f8aecdd238915b490df398c5803b26fdfb8b6816331178dca43aa2c64e",
+  "path": [
+    "POSSUM.sol"
+  ],
+  "address": "0x00cB49247cA33Dd1f1b9E82E1fbA0290D10811cc"
+}
