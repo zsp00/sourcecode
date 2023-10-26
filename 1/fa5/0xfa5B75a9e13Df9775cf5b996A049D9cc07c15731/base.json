@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VCK",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000204fce5e3e25026110000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b19d6d9e336b5155fc9a614fab6a6f5a8871ddd8dc35951bddd2cd42898e9443",
+  "path": [
+    "VCK.sol"
+  ],
+  "address": "0xfa5B75a9e13Df9775cf5b996A049D9cc07c15731"
+}
