@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SAT",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ac327fc7a243aad485fed0049aa78c4b2ca0adf85ae65112acd2987e3eabd82b",
+  "path": [
+    "SAT.sol"
+  ],
+  "address": "0x5ABf88cF3444611D13F6D1B39F3f3EE8575c91a2"
+}
