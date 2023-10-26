@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BOO",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cc3e0b953c1d6ed615ada21b154877d1a5dbc9ad3d966c4ef3be1fa8212e4056",
+  "path": [
+    "BOO.sol"
+  ],
+  "address": "0x91a21A0b54AD840E36E454E035882Ae6A12bccE9"
+}

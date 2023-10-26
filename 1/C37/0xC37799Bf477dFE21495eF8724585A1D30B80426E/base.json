@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SmurfCat",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8a605cb74f9032027b94eefa3e00e2ede099784727dc259260faed742e2a7fed",
+  "path": [
+    "SmurfCat.sol"
+  ],
+  "address": "0xC37799Bf477dFE21495eF8724585A1D30B80426E"
+}

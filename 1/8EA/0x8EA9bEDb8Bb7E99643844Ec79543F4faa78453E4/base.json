@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Marble",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Marble.sol",
+    "contracts/utils/Context.sol",
+    "contracts/utils/Ownable.sol",
+    "hardhat/console.sol",
+    "contracts/ERC20.sol",
+    "contracts/interfaces/IERC20.sol",
+    "contracts/interfaces/IUniswapV2Pair.sol",
+    "contracts/interfaces/IUniswapV2Router02.sol",
+    "contracts/library/SafeMath.sol",
+    "contracts/interfaces/IERC20Metadata.sol",
+    "contracts/interfaces/IUniswapV2Factory.sol"
+  ],
+  "address": "0x8EA9bEDb8Bb7E99643844Ec79543F4faa78453E4"
+}
