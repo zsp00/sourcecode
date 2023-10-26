@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FOMO",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://65ed5792cd740889b0a4e3cab797bfa5c3d4146fdd1f7dd7103d39fbdbf6fda0",
+  "path": [
+    "FOMO.sol"
+  ],
+  "address": "0x9750CE7823568c9354720407e2763fD16bf0b1C6"
+}
