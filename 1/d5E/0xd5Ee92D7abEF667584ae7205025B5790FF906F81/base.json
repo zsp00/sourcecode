@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CUM",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "mainnet/0x39559b9E23a5FdA93B159E4E2F809609536784A8/mainnet/Shitcoin/cum.sol"
+  ],
+  "address": "0xd5Ee92D7abEF667584ae7205025B5790FF906F81"
+}
