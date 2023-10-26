@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DTT_Exchange_v4",
+  "CompilerVersion": "v0.7.5+commit.eb77ed08",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b12d85133ae00bb4ece1bb0a36ea43698ad3d5c673661bccd9740c7f7d502018",
+  "path": [
+    "DTT_Exchange_v4.sol"
+  ],
+  "address": "0xC226F9Aa491406a40d12a70b198e70daFa91dAB9"
+}
