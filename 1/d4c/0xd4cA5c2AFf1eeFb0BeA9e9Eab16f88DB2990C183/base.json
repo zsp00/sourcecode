@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XrpClassic",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://960f33e29764337e8a604e79657709b54d383976992c34ca4a465779efe18838",
+  "path": [
+    "XrpClassic.sol"
+  ],
+  "address": "0xd4cA5c2AFf1eeFb0BeA9e9Eab16f88DB2990C183"
+}
