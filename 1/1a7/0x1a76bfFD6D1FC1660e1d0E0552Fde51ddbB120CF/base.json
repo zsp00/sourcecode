@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RstToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://82b1d11c75e393a3fd4826514065c47c2f6672d4fcdac06d4ac1a98774502e5b",
+  "path": [
+    "RstToken.sol"
+  ],
+  "address": "0x1a76bfFD6D1FC1660e1d0E0552Fde51ddbB120CF"
+}
