@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SPECTRUM",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ac017467cf023986c58445a14ff735ffbe586bb86a02605a6c67377be3a0c032",
+  "path": [
+    "SPECTRUM.sol"
+  ],
+  "address": "0x19a71179fD41C19F8Dfb1f38343482bEc0271e3c"
+}
