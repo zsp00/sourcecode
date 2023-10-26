@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Muverse",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6986373b95721400f822366d2283079fdaf8d2613c9594d41e359902b6c41b02",
+  "path": [
+    "Muverse.sol"
+  ],
+  "address": "0x05030203674173Fa6dF6F9f7E34D6E70E9a761D7"
+}
