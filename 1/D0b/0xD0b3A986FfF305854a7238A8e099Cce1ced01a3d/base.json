@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NovaToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d0000000000000000000000002362de4a9198c91ad122679f138fba897bda97a9000000000000000000000000573136a967382d4747ad62e1560513141aea4f32000000000000000000000000cc0e3d349f5c3395f31a38ae8cb631bc10026060",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/NovaTokenFlat.sol"
+  ],
+  "address": "0xD0b3A986FfF305854a7238A8e099Cce1ced01a3d"
+}

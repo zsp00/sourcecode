@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GOTGToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://9e971c65a76a70ab33f44b4157b53ec1c8bd6fb24464ebad4cd2b937a526895e",
+  "path": [
+    "GOTGToken.sol"
+  ],
+  "address": "0xceEB07Dd26b36287B6d109f0b06d7e8202Ce8c1D"
+}
