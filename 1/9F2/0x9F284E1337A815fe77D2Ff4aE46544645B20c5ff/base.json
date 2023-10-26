@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KTON",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://bd08a8d32c539f9eafee33cf04080989ca969044eaa0d4135373a7f77072a0bd",
+  "path": [
+    "KTON.sol"
+  ],
+  "address": "0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff"
+}
