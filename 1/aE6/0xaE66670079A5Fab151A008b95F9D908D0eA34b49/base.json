@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BTCToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000033a5a7a8401b34f47000000000000000000000000000000eb2a9ee506c18566f826849b3c56deb7ff67d805",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "BTCToken.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "libraries/Recoverable.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "libraries/ERC20Base.sol",
+    "libraries/ERC20Mintable.sol"
+  ],
+  "address": "0xaE66670079A5Fab151A008b95F9D908D0eA34b49"
+}

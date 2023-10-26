@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RealPolarBear2026",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv2",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://903efe160e088573cae4399e0ba0f38298a1fd55247fa172ba786c580271daa7",
+  "path": [
+    "RealPolarBear2026.sol"
+  ],
+  "address": "0x5f3FE11928cA9A26dE0B7b94D91037B99B556467"
+}
