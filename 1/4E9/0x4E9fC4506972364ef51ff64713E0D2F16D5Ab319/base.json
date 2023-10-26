@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GOPE",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1377900aba05f9f5edc022616b470e05fde0f02544d90803cb3d638df3953941",
+  "path": [
+    "GOPE.sol"
+  ],
+  "address": "0x4E9fC4506972364ef51ff64713E0D2F16D5Ab319"
+}
