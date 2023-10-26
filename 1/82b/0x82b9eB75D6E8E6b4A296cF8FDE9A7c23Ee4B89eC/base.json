@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OMNIS",
+  "CompilerVersion": "v0.5.7+commit.6da8b019",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d3d1c51141e0ad854d0def3df48055d3117895e67b4d02b4538e00c62a19fee0",
+  "path": [
+    "OMNIS.sol"
+  ],
+  "address": "0x82b9eB75D6E8E6b4A296cF8FDE9A7c23Ee4B89eC"
+}
