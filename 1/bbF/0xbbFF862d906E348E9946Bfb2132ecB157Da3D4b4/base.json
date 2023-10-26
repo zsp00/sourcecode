@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SharderToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a1a794f615e82f408193368a8be60ae2e24489dbe74d625d3437788095fe5f1f",
+  "path": [
+    "SharderToken.sol"
+  ],
+  "address": "0xbbFF862d906E348E9946Bfb2132ecB157Da3D4b4"
+}

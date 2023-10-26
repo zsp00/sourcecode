@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NTON",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000085df8629edd090c7c422d44f3361c01a07a9579",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4bc055d6b749597acc641a997e46c8b68d9e84f63208acd715a376f818ceed2c",
+  "path": [
+    "NTON.sol"
+  ],
+  "address": "0xcfB152E5b93fc2C9906d4ff41fC8407DFa5e8851"
+}
