@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SimpleToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://2834b25310e165b028c7358691ec1bfc91fb5d3d4a55ea9b470bf23ac34d26d9",
+  "path": [
+    "SimpleToken.sol"
+  ],
+  "address": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA"
+}

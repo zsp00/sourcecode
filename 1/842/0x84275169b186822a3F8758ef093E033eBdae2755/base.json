@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Copetober",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://27f55be346336d26d7b77fb75f70af4afd613271041dbce308eb7d38e5ea0b88",
+  "path": [
+    "Copetober.sol"
+  ],
+  "address": "0x84275169b186822a3F8758ef093E033eBdae2755"
+}
