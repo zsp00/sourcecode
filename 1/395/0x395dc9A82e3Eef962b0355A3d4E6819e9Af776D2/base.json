@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CoinCasso",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://375a2aabdf93956f7e56b574f0515ada587b7193cc30c88762c1b9fcc64b4016",
+  "path": [
+    "CoinCasso.sol"
+  ],
+  "address": "0x395dc9A82e3Eef962b0355A3d4E6819e9Af776D2"
+}

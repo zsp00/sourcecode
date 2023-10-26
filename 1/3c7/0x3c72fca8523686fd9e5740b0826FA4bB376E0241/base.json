@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BNFToken",
+  "CompilerVersion": "v0.5.9+commit.e560f70d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ff4b6c643197218b7154bac8de9ab9c3be5570e22b7845d60ceb80087f305405",
+  "path": [
+    "Ownable.sol",
+    "Pausable.sol",
+    "Roles.sol",
+    "AirdroperRole.sol",
+    "ERC20.sol",
+    "Math.sol",
+    "IERC20.sol",
+    "PauserRole.sol",
+    "SafeMath.sol",
+    "BenefitToken.sol",
+    "ERC20Burnable.sol",
+    "ERC20Pausable.sol"
+  ],
+  "address": "0x3c72fca8523686fd9e5740b0826FA4bB376E0241"
+}
