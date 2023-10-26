@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PynToken",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000953e92cce40885295f3642e322b8b2c8998eed",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ef4356749fabf02d8b8030a02b712c9cd84ee5012576f848b6eee2ee863676bb",
+  "path": [
+    "PynToken.sol"
+  ],
+  "address": "0x0142C3B2fC51819B5aF5dFc4AA52Df9722790851"
+}

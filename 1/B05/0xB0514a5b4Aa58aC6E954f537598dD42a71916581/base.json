@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HUMToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a84c731c3dab00ce0dceb2265ff53b3032aec820",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://08b6854b51779d6a02b9301af59b55e8da2f5b13d4b5352c3ed458cf35b586bd",
+  "path": [
+    "HUMToken.sol"
+  ],
+  "address": "0xB0514a5b4Aa58aC6E954f537598dD42a71916581"
+}
