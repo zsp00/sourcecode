@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FountainTokenUpgrade",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000056325d180ec3878a9028afc7b0edcee7486cc9df",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://0c93bf3a33958c45ddd26de8ff997a2406db8cbba9192558666654f4254214b7",
+  "path": [
+    "FountainTokenUpgrade.sol"
+  ],
+  "address": "0xb1D5a03D2FF72F7f226372C4B2fA7B50cD9D7910"
+}

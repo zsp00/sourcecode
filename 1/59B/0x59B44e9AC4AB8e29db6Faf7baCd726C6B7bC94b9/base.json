@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BleYd",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "IterableMapping:fc5a64c58b109d04a7886948f9c113d8e3ef32cc",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://30c92f7efd25d6a93c17cbff2ecb5016e3e0c3daadde8345bebb6d49e4d5acc9",
+  "path": [
+    "BleYd.sol"
+  ],
+  "address": "0x59B44e9AC4AB8e29db6Faf7baCd726C6B7bC94b9"
+}
