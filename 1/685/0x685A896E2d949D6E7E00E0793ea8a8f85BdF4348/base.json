@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Astro",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000c8ceae4079f3255a940bc6663825abee921597bc",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/IUniswapV2Router02.sol",
+    "contracts/ERC20.sol",
+    "contracts/Ownable.sol",
+    "contracts/IERC20Metadata.sol",
+    "contracts/IERC20.sol",
+    "contracts/Context.sol",
+    "Files/Astro.sol",
+    "contracts/SafeMath.sol",
+    "contracts/IUniswapV2Router03.sol",
+    "contracts/IUniswapV2Pair.sol",
+    "contracts/IUniswapV2Factory.sol"
+  ],
+  "address": "0x685A896E2d949D6E7E00E0793ea8a8f85BdF4348"
+}
