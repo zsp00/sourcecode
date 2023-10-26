@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MEMEKongProxy",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "istanbul",
+  "Library": "",
+  "LicenseType": "Apache-2.0",
+  "Proxy": "1",
+  "Implementation": "0xe6c7b1c79c9211391f59f685415ac71588845734",
+  "SwarmSource": "",
+  "path": [
+    "MEMEKongProxy.sol"
+  ],
+  "address": "0x9609831BB1d77DE5eA10e18c9c718cB6c37D4284"
+}

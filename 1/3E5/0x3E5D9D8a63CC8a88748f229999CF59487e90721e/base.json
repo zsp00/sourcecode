@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MetalSwap",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000fdf6fa86058d1eacb441adb5acfc143672e59a58000000000000000000000000000000000000000006765c793fa10079d0000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://87bb6a9fe712a83343396d6ab1fe3c4041272b2349b6828b796846040e9045cf",
+  "path": [
+    "MetalSwap.sol"
+  ],
+  "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e"
+}

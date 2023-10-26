@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERBB",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000f96d119f77ceb3542be8d5b6e4b94fbfd1d4c68c0000000000000000000000003dc10ab2c597263329065e85a5fb8d30eecb59a100000000000000000000000022306c32ba8c0b1880b4097abbcfd86616df7a4b00000000000000000000000098139bf0af3a2f39e400026766a62c738e94306b",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a4751d742e0d67432ddb940bfda165c06c918ce86a16f1079e442891cb569937",
+  "path": [
+    "ERBB.sol"
+  ],
+  "address": "0x5702A4487dA07c827cdE512e2d5969CB430cd839"
+}
