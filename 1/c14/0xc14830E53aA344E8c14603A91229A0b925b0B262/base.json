@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PXTToken",
+  "CompilerVersion": "v0.4.19-nightly.2017.10.18+commit.f7ca2421",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000b1a2bc2ec50000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://83a482321786478e8475363016dc0817417001d9e9ae800a12c63b796daea952",
+  "path": [
+    "PXTToken.sol"
+  ],
+  "address": "0xc14830E53aA344E8c14603A91229A0b925b0B262"
+}
