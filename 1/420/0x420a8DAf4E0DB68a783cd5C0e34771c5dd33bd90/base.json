@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FITYMI",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a706045951bf0c0ee723438709228674a12e205d3aedb69100e273b7811bfb60",
+  "path": [
+    "FITYMI.sol"
+  ],
+  "address": "0x420a8DAf4E0DB68a783cd5C0e34771c5dd33bd90"
+}

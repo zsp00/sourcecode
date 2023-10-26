@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WumboPass",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://980190c452cd3f90854d243823d1ab1d5c86e855b9f3e6fc9694337714378c25",
+  "path": [
+    "WumboPass.sol"
+  ],
+  "address": "0xD0fF87cc052b35241D11127B8687d727B7444D3E"
+}

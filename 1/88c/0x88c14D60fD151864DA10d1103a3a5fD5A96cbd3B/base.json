@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KabosuToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000014bddab3e51a57cff87a50000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ad5cb0067553ab80817a36d3f792c3504718c62e28ec37d840d5266ead039bbf",
+  "path": [
+    "KabosuToken.sol"
+  ],
+  "address": "0x88c14D60fD151864DA10d1103a3a5fD5A96cbd3B"
+}
