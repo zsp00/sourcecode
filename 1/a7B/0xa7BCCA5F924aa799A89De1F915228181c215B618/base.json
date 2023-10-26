@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BTCETF",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fcf28463f28d09413e5945285ee4edeab09aad17ca5577bdf7834e628ed2da39",
+  "path": [
+    "BTCETF.sol"
+  ],
+  "address": "0xa7BCCA5F924aa799A89De1F915228181c215B618"
+}

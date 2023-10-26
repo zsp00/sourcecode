@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AlveyChainToken",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://53b78ca76ee7190d8c15fb5726b022da64466cde135cdfee2974c3b3c04fc551",
+  "path": [
+    "AlveyChainToken.sol"
+  ],
+  "address": "0x256D1fCE1b1221e8398f65F9B36033CE50B2D497"
+}
