@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DappToken",
+  "CompilerVersion": "v0.5.1+commit.c8a2cb62",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://55016751c7b0ab55a97e8c01e14170f1c05a029dc62a34d5097bf47327239d22",
+  "path": [
+    "DappToken.sol"
+  ],
+  "address": "0x3616FD03F11E22942e4Fc01CDd0f1Ca7Cc7BB93d"
+}
