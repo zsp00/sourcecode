@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "UNIPAYBOT",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://10c7ef351ecae38a8607213bce24b58291ba45643e430b38c03cc3ce3ca1f22d",
+  "path": [
+    "UNIPAYBOT.sol"
+  ],
+  "address": "0x463304fa3D90fD1b6dE1198CDB45CF436C7c7B14"
+}
