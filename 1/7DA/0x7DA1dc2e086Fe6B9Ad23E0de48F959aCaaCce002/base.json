@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LARRY",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1bbfa969a772610d242ad1ab32910605f74210205b3532ca43b4b870e9b3f72c",
+  "path": [
+    "LARRY.sol"
+  ],
+  "address": "0x7DA1dc2e086Fe6B9Ad23E0de48F959aCaaCce002"
+}
