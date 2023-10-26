@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TraceNetworkToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://42b9c3439077e6a6277d7082579c5c50de71bcbba9838825133a657dbb7087cf",
+  "path": [
+    "TraceNetworkToken.sol"
+  ],
+  "address": "0x9F7fC686CfD64aA5Ae15b351d03071e91533094b"
+}
