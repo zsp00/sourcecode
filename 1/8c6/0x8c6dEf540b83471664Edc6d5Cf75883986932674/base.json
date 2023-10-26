@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "goblintown",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "goblintown.sol",
+    "operator-filter-registry/src/UpdatableOperatorFilterer.sol",
+    "erc721a/contracts/extensions/ERC721AQueryable.sol",
+    "operator-filter-registry/src/lib/Constants.sol",
+    "operator-filter-registry/src/RevokableOperatorFilterer.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "operator-filter-registry/src/RevokableDefaultOperatorFilterer.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "operator-filter-registry/src/IOperatorFilterRegistry.sol",
+    "erc721a/contracts/extensions/IERC721AQueryable.sol",
+    "erc721a/contracts/IERC721A.sol"
+  ],
+  "address": "0x8c6dEf540b83471664Edc6d5Cf75883986932674"
+}
