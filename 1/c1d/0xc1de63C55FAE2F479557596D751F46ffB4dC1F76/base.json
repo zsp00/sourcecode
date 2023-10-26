@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MONAcoin",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://381dc837cbc77e3c2b13c24c005d7a11a12cfc5d42afcd7e11637a1195b0b9c8",
+  "path": [
+    "MONAcoin.sol"
+  ],
+  "address": "0xc1de63C55FAE2F479557596D751F46ffB4dC1F76"
+}
