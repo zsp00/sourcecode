@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GRDT",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6950c038daaf279b3c3aee10788fd3846a2e666a70813acabddd1d354b06b71a",
+  "path": [
+    "GRDT.sol"
+  ],
+  "address": "0x430A41436644938E7D4DF0E7495509f38028f0b2"
+}
