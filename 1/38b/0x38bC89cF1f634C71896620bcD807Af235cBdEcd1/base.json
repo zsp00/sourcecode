@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QBEE",
+  "CompilerVersion": "v0.6.10+commit.00c0fcaf",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e786b9a5b074cdaf581be7140a401bb3598a4bbd43feb343632e65afbfc7bb3f",
+  "path": [
+    "QBEE.sol"
+  ],
+  "address": "0x38bC89cF1f634C71896620bcD807Af235cBdEcd1"
+}
