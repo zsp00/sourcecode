@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OptimizedTransparentUpgradeableProxy",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "999999",
+  "ConstructorArguments": "000000000000000000000000cdb33cd7479cfa9de696f96b162b0d01dfce7801000000000000000000000000b65240b898ecd307db1d3dc1a98c4ff77183d48200000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000064c0c53b8b000000000000000000000000275677bcad33cbffc5b01a65505346cbfa13055a000000000000000000000000c62d4c5277cd5592fde8c0926c4e962d3bcde9c5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0x0f4c265cfda2f0ba07537014687dbe6f22062785",
+  "SwarmSource": "",
+  "path": [
+    "solc_0.8/openzeppelin/utils/Address.sol",
+    "solc_0.8/openzeppelin/utils/StorageSlot.sol",
+    "solc_0.8/proxy/OptimizedTransparentUpgradeableProxy.sol",
+    "solc_0.8/openzeppelin/interfaces/draft-IERC1822.sol",
+    "solc_0.8/openzeppelin/proxy/ERC1967/ERC1967Proxy.sol",
+    "solc_0.8/openzeppelin/proxy/ERC1967/ERC1967Upgrade.sol",
+    "solc_0.8/openzeppelin/proxy/Proxy.sol",
+    "solc_0.8/openzeppelin/proxy/beacon/IBeacon.sol"
+  ],
+  "address": "0x0E573Ce2736Dd9637A0b21058352e1667925C7a8"
+}

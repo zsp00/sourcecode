@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Animetas",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://32349a38d6236810e2df503f11fb13f70433a9ffbb58c58db33985c8613ba95d",
+  "path": [
+    "Animetas.sol"
+  ],
+  "address": "0x18Df6C571F6fE9283B87f910E41dc5c8b77b7da5"
+}
