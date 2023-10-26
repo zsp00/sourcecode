@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BitoProToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://cf323336c55648f36fd7a81cfc6f5a191634410e95b99bcf6288b5fd8855e203",
+  "path": [
+    "BitoProToken.sol"
+  ],
+  "address": "0x93b1E78a3e652cd2e71C4a767595B77282344932"
+}
