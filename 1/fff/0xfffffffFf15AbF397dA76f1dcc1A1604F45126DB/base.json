@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FalconSwapToken",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8026b572fb2c91eb45c7ea036b65766f61b34bc0f6db8e84c25cf4abf671d292",
+  "path": [
+    "FalconSwapToken.sol"
+  ],
+  "address": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RHOC",
+  "CompilerVersion": "v0.4.10+commit.f0d539ae",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000016345785d8a0000000000000000000000000000e17c20292b2f1b0ff887dc32a73c259fae25f03b",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://71045bcd1c646a7743821f9a8a134b14b80330a91980c662128e12f2be7fa840",
+  "path": [
+    "RHOC.sol"
+  ],
+  "address": "0x168296bb09e24A88805CB9c33356536B980D3fC5"
+}
