@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Revhub",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "ERC20.sol",
+    "ERC20Burnable.sol",
+    "Ownable.sol",
+    "IUniswapV2Router01.sol",
+    "IUniswapV2Router02.sol",
+    "IERC20.sol",
+    "Token.sol",
+    "Initializable.sol",
+    "IUniswapV2Factory.sol",
+    "IUniswapV2Pair.sol",
+    "Context.sol",
+    "IERC20Metadata.sol"
+  ],
+  "address": "0xD3B9A9E5Ee4Aab3963C95dD715882DEF4F22b449"
+}
