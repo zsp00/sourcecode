@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MATT",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7ecbeac58c6a73b9c01fc7405f175cf1810fd7c35a7104b9e6ddc8a12da01da3",
+  "path": [
+    "MATT.sol"
+  ],
+  "address": "0x345fE747B54f42561d809767EdD78281f99671a3"
+}
