@@ -1,0 +1,33 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "REBATE",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@uniswap/v3-periphery/contracts/interfaces/IPeripheryImmutableState.sol",
+    "@uniswap/v3-periphery/contracts/interfaces/IPeripheryPayments.sol",
+    "@uniswap/v3-periphery/contracts/libraries/PoolAddress.sol",
+    "contracts/REBATE.sol",
+    "@openzeppelin/contracts/introspection/IERC165.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Metadata.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Enumerable.sol",
+    "@uniswap/v3-periphery/contracts/interfaces/INonfungiblePositionManager.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@uniswap/v3-periphery/contracts/interfaces/IERC721Permit.sol",
+    "@uniswap/v3-periphery/contracts/interfaces/IPoolInitializer.sol"
+  ],
+  "address": "0x32f044dA25218598D4238A4fc6826Ac4ebb97e9E"
+}

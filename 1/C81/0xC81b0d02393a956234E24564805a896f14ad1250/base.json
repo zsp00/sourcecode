@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BPD",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d78c4e95e51cc864b7103b81bf8f8bfcf2c4b7cc4ef6d53ad240896ab21f734b",
+  "path": [
+    "BPD.sol"
+  ],
+  "address": "0xC81b0d02393a956234E24564805a896f14ad1250"
+}
