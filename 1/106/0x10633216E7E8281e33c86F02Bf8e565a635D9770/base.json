@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Dvision",
+  "CompilerVersion": "v0.5.9+commit.e560f70d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1bf84aa0d30a0bc0b6c943f7b7ee264cccec69172cc54da2d683ec6011c829a2",
+  "path": [
+    "Dvision.sol"
+  ],
+  "address": "0x10633216E7E8281e33c86F02Bf8e565a635D9770"
+}
