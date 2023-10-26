@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KryptonToken",
+  "CompilerVersion": "v0.4.19+commit.c4cbbb05",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000018ae81ceeca544f8839f80a4c71068715a3c18d1",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://00decaf2a109a440e44da1eb8eaaf30140dd5265d35231bafeecf45a8326bf44",
+  "path": [
+    "KryptonToken.sol"
+  ],
+  "address": "0xa8262Eb913FccEa4C3f77fc95b8b4043B384cFbB"
+}
