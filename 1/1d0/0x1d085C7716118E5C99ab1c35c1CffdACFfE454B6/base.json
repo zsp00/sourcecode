@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YGO",
+  "CompilerVersion": "v0.4.18+commit.9cf6e910",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://ca8eb0c027a564571f6e2883050ae2290ca224c12e1d854468b54d3d3bf33b75",
+  "path": [
+    "YGO.sol"
+  ],
+  "address": "0x1d085C7716118E5C99ab1c35c1CffdACFfE454B6"
+}
