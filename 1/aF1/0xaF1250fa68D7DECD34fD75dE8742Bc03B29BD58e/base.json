@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IHF",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000033c68c1b9335782f68dbf2cfee46e828f2d4e70c0000000000000000000000000000000000000000000000000000000000989680",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://01c25e1ed970aae971580bfeeb4562c97013fd66f111bf45163876ec52c58ada",
+  "path": [
+    "IHF.sol"
+  ],
+  "address": "0xaF1250fa68D7DECD34fD75dE8742Bc03B29BD58e"
+}
