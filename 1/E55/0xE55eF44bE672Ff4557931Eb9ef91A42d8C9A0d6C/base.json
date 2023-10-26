@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Actual3DPunks",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "10000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Actual 3D Punks.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "erc721a/contracts/ERC721A.sol",
+    "erc721a/contracts/IERC721A.sol",
+    "@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0xE55eF44bE672Ff4557931Eb9ef91A42d8C9A0d6C"
+}

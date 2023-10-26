@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Silk",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/ERC20Burnable.sol",
+    "contracts/SafeMath.sol",
+    "contracts/Roles.sol",
+    "contracts/Address.sol",
+    "contracts/Silk.sol",
+    "contracts/ERC20.sol",
+    "contracts/MinterRole.sol",
+    "contracts/Context.sol",
+    "contracts/IERC20.sol"
+  ],
+  "address": "0xB045f7f363fE4949954811b113bd56d208c67B23"
+}

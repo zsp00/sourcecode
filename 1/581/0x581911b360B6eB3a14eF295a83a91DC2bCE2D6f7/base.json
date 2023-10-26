@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MileVerseToken",
+  "CompilerVersion": "v0.6.10+commit.00c0fcaf",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0b1fa1469a16cdc6fd366824911912122122f0acc9e228337d2284cc19e3ac96",
+  "path": [
+    "MileVerseToken.sol"
+  ],
+  "address": "0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7"
+}
