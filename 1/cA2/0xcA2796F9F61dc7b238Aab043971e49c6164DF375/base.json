@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YeedToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000204fce5e3e25026110000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a1e439e3392f323261481a5af15ecca243968e1318061f24aad30c75b1499673",
+  "path": [
+    "YeedToken.sol"
+  ],
+  "address": "0xcA2796F9F61dc7b238Aab043971e49c6164DF375"
+}

@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SkinsToken",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e197e63693ae37db57de3ae527a5ea114dbb6e51",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Skins.sol",
+    "contracts/utils/Nonces.sol",
+    "contracts/utils/SafeMath.sol",
+    "contracts/utils/Value.sol",
+    "contracts/Votes.sol"
+  ],
+  "address": "0x509faABc284aa9770437423b9f133863Da9cb728"
+}
