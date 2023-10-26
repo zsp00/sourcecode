@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HoldToken",
+  "CompilerVersion": "v0.4.23+commit.124ca40d",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000008c8675898360d4115e32c0196e8e0a35d4c29840",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8a3f88c91ff23d25f3d0c78392671af945fb85c2e97b9a8c13921a8318a1b527",
+  "path": [
+    "HoldToken.sol"
+  ],
+  "address": "0xD6e1401a079922469e9b965Cb090ea6fF64C6839"
+}

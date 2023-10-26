@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GYOZA",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://279abe27ffc68f8a55296f76d019454b9693ed21961be11405d1ac9041bad85c",
+  "path": [
+    "GYOZA.sol"
+  ],
+  "address": "0x4e51A6b3cC6d5Ae69A0D44dB9de846aEb5a582Dd"
+}
