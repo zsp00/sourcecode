@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DollarPepe",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://27fec70c4fe5474c3d73ce3d5f2c819c74e41ee3b67cfbccafa9108dfd2d1340",
+  "path": [
+    "DollarPepe.sol"
+  ],
+  "address": "0x679e4313aF53e089CEc232E3915A3938039938fb"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ZillowBlockchain",
+  "CompilerVersion": "v0.4.25-nightly.2018.5.30+commit.3f3d6df2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://97d0a9ac6546ea3488fd1950b1f1c4bfb619fb107235f139b7b30530b689ba7c",
+  "path": [
+    "ZillowBlockchain.sol"
+  ],
+  "address": "0x841EA7E00C9C6f8ce0c751A5F8151C928FB63A91"
+}
