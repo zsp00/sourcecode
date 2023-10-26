@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SoMeeToken",
+  "CompilerVersion": "v0.6.8+commit.0bbfe453",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000d341d1680eeee3255b8c4c75bcce7eb57f144dae",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/Pausable.sol",
+    "/Users/hoangquan/Desktop/Self/Deflect/SoMee/contracts/IONGv1.sol",
+    "/Users/hoangquan/Desktop/Self/Deflect/SoMee/contracts/Manager.sol",
+    "/Users/hoangquan/Desktop/Self/Deflect/SoMee/contracts/SoMeeToken.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20Capped.sol"
+  ],
+  "address": "0x65F9A292f1AEED5D755Aa2fD2Fb17AB2E9431447"
+}
