@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "InitializableProductProxy",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0x9ce0ae727954bbdea742c867c5956072124465e0",
+  "SwarmSource": "ipfs://be1f021e2f66b59777d71f7e4b1e5c97a067b4a235bbf3af6ade07c62013268a",
+  "path": [
+    "InitializableProductProxy.sol"
+  ],
+  "address": "0xfb62AE373acA027177D1c18Ee0862817f9080d08"
+}

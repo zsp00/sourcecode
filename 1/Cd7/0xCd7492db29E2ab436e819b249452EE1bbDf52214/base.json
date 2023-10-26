@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SMI",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d988658d50bde999ba983e99a53a82fc28e7589766e4f933e7221a8955846360",
+  "path": [
+    "SMI.sol"
+  ],
+  "address": "0xCd7492db29E2ab436e819b249452EE1bbDf52214"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BEBE",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ba6e393646fb23a41aaf06b6f998be0fef94daee1606c417ee330b2b62304dfe",
+  "path": [
+    "BEBE.sol"
+  ],
+  "address": "0xe8E385A06AD6b9E26F35b502411A6eFF711bc2eC"
+}
