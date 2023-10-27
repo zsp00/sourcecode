@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BS9000COIN",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://89d54893163e96abe12bdc506ed48d7ff67cfd001b58315eac7616b76fc2dd29",
+  "path": [
+    "BS9000COIN.sol"
+  ],
+  "address": "0x0058C8581B9FEd6864faa654505bC89890cdB2dd"
+}
