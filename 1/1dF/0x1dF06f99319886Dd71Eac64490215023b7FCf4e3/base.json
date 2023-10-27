@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CHURN_PROTOCOL",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e29291e25e7f9de9a6cc701037dad17a0714432d6111f1f7a392dff87aec6203",
+  "path": [
+    "CHURN_PROTOCOL.sol"
+  ],
+  "address": "0x1dF06f99319886Dd71Eac64490215023b7FCf4e3"
+}
