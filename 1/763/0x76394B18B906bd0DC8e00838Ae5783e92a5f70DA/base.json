@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RealSmurfFloki",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c49cf3f70e4494ce8fb408970a1ca374638a994db4d5820ae09670921cb2fab5",
+  "path": [
+    "RealSmurfFloki.sol"
+  ],
+  "address": "0x76394B18B906bd0DC8e00838Ae5783e92a5f70DA"
+}
