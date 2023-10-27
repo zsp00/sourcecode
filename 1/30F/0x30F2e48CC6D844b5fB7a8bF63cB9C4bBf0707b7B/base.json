@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XUMToken",
+  "CompilerVersion": "v0.6.6+commit.6c089d02",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://72a2cbbd163744f70c68ed5a12659e209068a676cbdfb4062f440046996d3340",
+  "path": [
+    "ReentrancyGuard.sol",
+    "SafeMath.sol",
+    "XUMToken.sol",
+    "Address.sol",
+    "Context.sol",
+    "ERC20.sol",
+    "IERC20.sol",
+    "Ownable.sol"
+  ],
+  "address": "0x30F2e48CC6D844b5fB7a8bF63cB9C4bBf0707b7B"
+}
