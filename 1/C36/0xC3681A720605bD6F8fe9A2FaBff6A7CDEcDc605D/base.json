@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NiHaoToken",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000002bc822bff2746599448e00000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f6fcd95ade20bf04e08a4c7461c21ade3dc1577e6d53d13bcc3784dc4e1b8f17",
+  "path": [
+    "NiHaoToken.sol"
+  ],
+  "address": "0xC3681A720605bD6F8fe9A2FaBff6A7CDEcDc605D"
+}
