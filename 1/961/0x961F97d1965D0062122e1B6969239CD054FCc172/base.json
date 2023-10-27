@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PowerOfCodeX",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ec5337ca9dc32bf9fbc911d6b9703d235947e8f2c019ccb5ecbb81fec35cb486",
+  "path": [
+    "PowerOfCodeX.sol"
+  ],
+  "address": "0x961F97d1965D0062122e1B6969239CD054FCc172"
+}
