@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NEO",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://97048de50747d71e8d95456f8b949cf593b32a39e6f6a5b85faab6e68f038492",
+  "path": [
+    "NEO.sol"
+  ],
+  "address": "0xF0BEf9840E4f7166E52C7AF2D72EC566BBf39bdB"
+}

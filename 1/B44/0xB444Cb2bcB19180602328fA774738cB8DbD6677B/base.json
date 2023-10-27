@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MUMONGINSEN",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://307512d6379f2dc6df2ecfb5ad051c8b9c14e894860393563a9321166de8af0c",
+  "path": [
+    "MUMONGINSEN.sol"
+  ],
+  "address": "0xB444Cb2bcB19180602328fA774738cB8DbD6677B"
+}
