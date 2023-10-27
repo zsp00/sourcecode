@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BITCOINX",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1a3fa712f9fa9088a7f63a555ff4d022446332651e8f203ddd0892a130dec021",
+  "path": [
+    "BITCOINX.sol"
+  ],
+  "address": "0x397Be174F1653ceD547132Ee352f1711F539Dc68"
+}
