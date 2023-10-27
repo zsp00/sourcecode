@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ShaunInuCoin",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f9a39ffb2ca8a66e6092205bcec14075d428e1bf571ccc86ea55d8262d11efa4",
+  "path": [
+    "ShaunInuCoin.sol"
+  ],
+  "address": "0x982D53Cee5c4fc897Fb7dFd48813dC7f40A71Be4"
+}
