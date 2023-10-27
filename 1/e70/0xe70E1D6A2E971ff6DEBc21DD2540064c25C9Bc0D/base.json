@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Spider",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://15010fa0f3a891fbad2740e201b445b6c480af231aadf156a40e4ce6abeb79c5",
+  "path": [
+    "Spider.sol"
+  ],
+  "address": "0xe70E1D6A2E971ff6DEBc21DD2540064c25C9Bc0D"
+}
