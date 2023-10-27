@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KardiachainToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://a4903ff8355b2dfe35f97cc93c9103782fb0d206d114f6381fccc3ad1f4fcc7e",
+  "path": [
+    "KardiachainToken.sol"
+  ],
+  "address": "0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093"
+}

@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TESTING",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cc679d05f062f2d4456407f54d2c7233bbc743980f0de844e09855bd910d941a",
+  "path": [
+    "TESTING.sol"
+  ],
+  "address": "0x4A322eD0B77f8eC4B07c02f95CAc9FF339C77a4b"
+}
