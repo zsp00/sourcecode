@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ALCA",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "1",
+  "Runs": "20000",
+  "ConstructorArguments": "0000000000000000000000005b09a0371c1da44a8e24d36bf5deb1141a84d875",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/ALCA.sol",
+    "contracts/utils/auth/ImmutableALCABurner.sol",
+    "contracts/utils/auth/ImmutableALCAMinter.sol",
+    "contracts/utils/DeterministicAddress.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/interfaces/IStakingToken.sol",
+    "contracts/libraries/errors/StakingTokenErrors.sol",
+    "contracts/utils/auth/ImmutableFactory.sol"
+  ],
+  "address": "0xBb556b0eE2CBd89ed95DdEA881477723A3Aa8F8b"
+}
