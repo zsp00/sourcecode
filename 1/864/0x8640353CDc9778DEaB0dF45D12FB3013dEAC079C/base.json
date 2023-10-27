@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LIFE",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://54637f68184f611b8758cd4d4526e3fa36bfc736b2f39fc2d184f674df269b71",
+  "path": [
+    "LIFE.sol"
+  ],
+  "address": "0x8640353CDc9778DEaB0dF45D12FB3013dEAC079C"
+}
