@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RTXI",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8604b632542e857b3b93934d2f932c1cf0fb1f5b1cdd4fcfa243ad4a16a01085",
+  "path": [
+    "RTXI.sol"
+  ],
+  "address": "0x07aEceb9595ACe17Fbff8Bc5Fa6A92a85FD0c0fc"
+}
