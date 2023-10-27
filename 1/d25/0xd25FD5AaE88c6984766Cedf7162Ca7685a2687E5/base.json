@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WeaponsTrillionaireThugs",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000729d56ebccf3e952974ecdd3568994985af2164c000000000000000000000000000000000000000000000000000000000000003868747470733a2f2f776561706f6e732e7472696c6c696f6e6169726574687567732e636f6d2f756e72657665616c2f6d657461646174612f0000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://021f51acb83c43a388cfcdadc0f9be51c04b8a35ba70ddd36ec4748d5157d810",
+  "path": [
+    "WeaponsTrillionaireThugs.sol"
+  ],
+  "address": "0xd25FD5AaE88c6984766Cedf7162Ca7685a2687E5"
+}
