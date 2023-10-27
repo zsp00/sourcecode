@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BWSM",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://79a22e73d7b16b7190708268ea41cad8bdfcb1af1a0549fba1b2516a914bd850",
+  "path": [
+    "BWSM.sol"
+  ],
+  "address": "0xC3c7B03335Eb950a2a9207aC5CAc0571DE34d844"
+}
