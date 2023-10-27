@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PhrogCoin",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fa332c67199f9fc233d0f5fc74b1c84610e45a17f4ad3f98e22b1ef9179864ae",
+  "path": [
+    "PhrogCoin.sol"
+  ],
+  "address": "0x03f390049a2a1027C19177796F862c1bdE090B8F"
+}
