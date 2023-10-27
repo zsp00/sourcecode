@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CryptMI",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b20aa24459174e69177fa47f2017e3f96bd44467a091a627be07855dd8c06f21",
+  "path": [
+    "CryptMI.sol"
+  ],
+  "address": "0x7449c93ABe66457e83B3799BCf1A99e92D58A93B"
+}
