@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SLGERC20",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000000000000000000000033b2e3c9fd0803ce80000000000000000000000000000006bccf3aa530ba4a0c701037ae58dc0c6b3a98e5b0000000000000000000000000000000000000000000000000000000000000010536861747465726564204c6567696f6e000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003534c470000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "contracts/SLGERC20.sol",
+    "hardhat/console.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol"
+  ],
+  "address": "0xFc0B60E0DF5Dc9d4B72D957cA2d251ceE308019a"
+}

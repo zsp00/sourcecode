@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RINIA",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ff4dad644c7f5b8cc221de616bb8a96b1b965be45a27744fe35024bfa64e4c3e",
+  "path": [
+    "RINIA.sol"
+  ],
+  "address": "0x8f828a0644f12Fa352888E645a90333d30f6FD7D"
+}
