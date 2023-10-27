@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OMI",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://403b1cc07a50dc24a088f36c3ebcc0bf5d6115e2b9f2a9931127803257e82e1a",
+  "path": [
+    "OMI.sol"
+  ],
+  "address": "0x04969cD041C0cafB6AC462Bd65B536A5bDB3A670"
+}
