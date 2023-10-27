@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PolkaCover",
+  "CompilerVersion": "v0.5.5+commit.47a71e8f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000720a2b7895ea0f70e40000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5fbe77cf0b5842e598b907906aaf499380d0b00ea0c0f9a9ab752b9ea3e7dc1c",
+  "path": [
+    "PolkaCover.sol"
+  ],
+  "address": "0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6"
+}

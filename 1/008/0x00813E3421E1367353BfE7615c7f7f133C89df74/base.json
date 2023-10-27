@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SPS",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000094718f1fe0f4f9f3075ac2a0781a839317b64c1b00000000000000000000000094718f1fe0f4f9f3075ac2a0781a839317b64c1b0000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5841e3798e4de2b05e9994dc48473a860626d5f23407a3bfb8ef6707b6186c2d",
+  "path": [
+    "SPS.sol"
+  ],
+  "address": "0x00813E3421E1367353BfE7615c7f7f133C89df74"
+}
