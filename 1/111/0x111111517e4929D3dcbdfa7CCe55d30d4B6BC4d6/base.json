@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "IchiV2",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000094a5980d5634533551dcb7108322f6c4f2a80e6b00000000000000000000000094a5980d5634533551dcb7108322f6c4f2a80e6b000000000000000000000000903bef1736cddf2a537176cf3c64579c3867a881000000000000000000000000000000000000000000000000000000006955b900",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "BSL 1.1",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/drafts/IERC20Permit.sol",
+    "@openzeppelin/contracts/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/SafeERC20.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "contracts/IchiV2.sol",
+    "interfaces/IIchiV2.sol"
+  ],
+  "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6"
+}

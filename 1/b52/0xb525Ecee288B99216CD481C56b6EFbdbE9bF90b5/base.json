@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KumaToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7dfe79d94765c90009b581563bb9b1272dd234d1677d5808fecafbac7f3043d4",
+  "path": [
+    "KumaToken.sol"
+  ],
+  "address": "0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5"
+}
