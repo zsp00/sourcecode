@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Quit",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f7d28d6f4eb038799a117cc43d5221a6ce26f385507c76951d00a6b8ebde8e16",
+  "path": [
+    "Quit.sol"
+  ],
+  "address": "0x54396F33332eb3AC8566774d897A0B96050c6162"
+}
