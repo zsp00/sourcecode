@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SHART",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://97e5f1fd47b2942ff4fbf8323b29a11bde37f5c22a54bbee3b3104d2cb606df0",
+  "path": [
+    "SHART.sol"
+  ],
+  "address": "0x0b2aB4F85Bed0f40AE7dE55AB8f7305877D5deef"
+}

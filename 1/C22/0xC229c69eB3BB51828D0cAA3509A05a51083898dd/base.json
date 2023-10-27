@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PintuTokenProxy",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000e8fc59036fe59c1237deb11bf7ea3ca6e0883907",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "1",
+  "Implementation": "0xe8fc59036fe59c1237deb11bf7ea3ca6e0883907",
+  "SwarmSource": "bzzr://874a9fbba0bcfa81bc88e5c657e5069cefe84a8b130bcae5ca3f59cf40f55a55",
+  "path": [
+    "PintuTokenProxy.sol"
+  ],
+  "address": "0xC229c69eB3BB51828D0cAA3509A05a51083898dd"
+}

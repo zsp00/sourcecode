@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FBOTR",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://58fd493fa7608c15083834552fa5477d433858b8df68a441fec808dad7c6f390",
+  "path": [
+    "FBOTR.sol"
+  ],
+  "address": "0xC4136C364289cc5b42ACAE1442eA28c1e994aAB5"
+}
