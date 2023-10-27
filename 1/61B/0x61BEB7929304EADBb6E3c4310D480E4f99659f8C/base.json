@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SCREAMEME",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://06aacf9f9de5f08bf1d51d9cb85e9efb5da41ac04e6243faccf7400c097c8114",
+  "path": [
+    "SCREAMEME.sol"
+  ],
+  "address": "0x61BEB7929304EADBb6E3c4310D480E4f99659f8C"
+}
