@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PLUG",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0e2bef56f8a47b49422392756191813c7da08c3896e123ac4f6146091e43cee6",
+  "path": [
+    "PLUG.sol"
+  ],
+  "address": "0xD548bf80B9C74eb19dC46c03C5697c54Cea6DF56"
+}
