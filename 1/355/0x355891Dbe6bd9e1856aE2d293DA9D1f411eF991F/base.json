@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ETHvillages",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://61da44227e2e56a9746e7b8cdcd296524a8461ae3ee53088cf432ef64a5a39a7",
+  "path": [
+    "ETHvillages.sol"
+  ],
+  "address": "0x355891Dbe6bd9e1856aE2d293DA9D1f411eF991F"
+}
