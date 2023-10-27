@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DOGE2",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://903ffc44f4b37641e37119226f4ff4b218a6e3dd7a97fab1dac7b4b5598404d7",
+  "path": [
+    "DOGE2.sol"
+  ],
+  "address": "0x67992E63434F23d4C5c32F926f6b96451b4C2509"
+}

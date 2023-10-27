@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SILLY",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000c8fabab0607ba9dc523d05c66224ccb251314de0000000000000000000000000c8fabab0607ba9dc523d05c66224ccb251314de",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/silly.sol"
+  ],
+  "address": "0xdB82a0AA012726163C61c95F8269C961aEf061c9"
+}
