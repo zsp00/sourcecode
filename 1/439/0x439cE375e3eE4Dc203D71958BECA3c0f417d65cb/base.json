@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BoiToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://539cacf98471bf21e915fb57d7aa4c9e3cb21fbcec005a0f8b85e7228c3f2dea",
+  "path": [
+    "BoiToken.sol"
+  ],
+  "address": "0x439cE375e3eE4Dc203D71958BECA3c0f417d65cb"
+}
