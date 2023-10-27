@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CEO",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://51644dcc6dd85406956d0e02bc179f62a0dba445fec7726d36045c33ab3b8879",
+  "path": [
+    "CEO.sol"
+  ],
+  "address": "0x41747b3Af975B7cf6980bEE3e9b2fbAbA4d9774E"
+}
