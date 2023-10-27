@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SnuggleBuddies",
+  "CompilerVersion": "v0.8.11+commit.d7f03943",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8c584de09f847f651844350a679ff821b425e9b29a9378acbd0e854d1936db6c",
+  "path": [
+    "SnuggleBuddies.sol"
+  ],
+  "address": "0xC58fC4693b3170dE0c1DcD2C0b0aF8EECfB3186f"
+}
