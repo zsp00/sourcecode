@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ParsiqBoost",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://57d18017ba0371a59dfddaa18505c952001721ad0b751945bda17f2f26c1818e",
+  "path": [
+    "ParsiqBoost.sol"
+  ],
+  "address": "0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9"
+}

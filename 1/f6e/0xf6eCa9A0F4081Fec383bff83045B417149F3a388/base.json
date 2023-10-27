@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Marksman",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a365f78d58f392660cb26ad899dc3117d07c03b059188d21688ea4e4ca2288e6",
+  "path": [
+    "Marksman.sol"
+  ],
+  "address": "0xf6eCa9A0F4081Fec383bff83045B417149F3a388"
+}

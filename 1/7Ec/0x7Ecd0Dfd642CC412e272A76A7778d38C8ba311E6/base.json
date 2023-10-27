@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ChuckBucks",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a2cbf85890c76561a171bdff3fe4450659def31f50dc83c39bced22328625f8f",
+  "path": [
+    "ChuckBucks.sol"
+  ],
+  "address": "0x7Ecd0Dfd642CC412e272A76A7778d38C8ba311E6"
+}
