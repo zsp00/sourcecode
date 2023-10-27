@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WTFToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0b528af2da3ce18942997c3a5c1de1b01581d886fb542608143e1f1042958b94",
+  "path": [
+    "WTFToken.sol"
+  ],
+  "address": "0x417b8777Aa5fA4205fAE8E3983175137633AE3a5"
+}

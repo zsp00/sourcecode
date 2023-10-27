@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SYLToken",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "1500",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://319beb498d816a04d38305246e55ef50241e3a7c3dba3815588b0e0b0d1ad1f5",
+  "path": [
+    "SYLToken.sol"
+  ],
+  "address": "0x92925Acf2771Bc59143228499f9610FE5176eb9C"
+}
