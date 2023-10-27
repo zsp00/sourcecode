@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "COOLDOGS",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "db:751fc9716985d50fc5cefad7e267702730a44a35",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c3f9647eb38df3e0e017a7789de0955be90e30fdf559af4cfbeb09849f09bb94",
+  "path": [
+    "smart.sol",
+    "db.sol"
+  ],
+  "address": "0x56681458E00CafE1206313D2D033946f458FDEfD"
+}
