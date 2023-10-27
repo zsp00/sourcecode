@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Sting",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://56dfc326032e077e8ea9620f6da32a15d58e7dbb7dac745e52983a1e3772026e",
+  "path": [
+    "Sting.sol"
+  ],
+  "address": "0x592481A5F6b4F078cc303C2cDE4337dFA2d76fA0"
+}
