@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Meta",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1300ab5a56805cb7355f54968350487cd46ede074de10837aff4bbcf9b7ae26a",
+  "path": [
+    "Meta.sol"
+  ],
+  "address": "0x9aE42b402748cf5E1b9A7594fc779a23A3d5BEe3"
+}
