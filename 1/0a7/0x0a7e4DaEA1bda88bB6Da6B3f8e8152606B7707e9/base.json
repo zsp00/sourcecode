@@ -1,0 +1,26 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ERC1967Proxy",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000ba7902a942ae93fb4f51489bbb4bbb1f22eaa81e000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000048129fc1c00000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "london",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "1",
+  "Implementation": "0xba7902a942ae93fb4f51489bbb4bbb1f22eaa81e",
+  "SwarmSource": "",
+  "path": [
+    "node_modules/@openzeppelin/contracts/interfaces/IERC1967.sol",
+    "node_modules/@openzeppelin/contracts/interfaces/draft-IERC1822.sol",
+    "node_modules/@openzeppelin/contracts/utils/Address.sol",
+    "node_modules/@openzeppelin/contracts/utils/StorageSlot.sol",
+    "node_modules/@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol",
+    "node_modules/@openzeppelin/contracts/proxy/Proxy.sol",
+    "node_modules/@openzeppelin/contracts/proxy/ERC1967/ERC1967Upgrade.sol",
+    "node_modules/@openzeppelin/contracts/proxy/beacon/IBeacon.sol"
+  ],
+  "address": "0x0a7e4DaEA1bda88bB6Da6B3f8e8152606B7707e9"
+}
