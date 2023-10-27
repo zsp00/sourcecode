@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "dAppStoreToken",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f9029ea2f715359fb0ecb924cbd23f801472799cf636ed7701235e6150f0194f",
+  "path": [
+    "dAppStoreToken.sol"
+  ],
+  "address": "0x00d8318E44780EdEEFcF3020A5448F636788883C"
+}
