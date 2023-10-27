@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Gasbot",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bdc3c03b1b1c2c2e8f9fe271a00d189d747ed84491564f9b011f26b1c2a1a5fc",
+  "path": [
+    "Gasbot.sol"
+  ],
+  "address": "0xb49525e6c11EF7758C19e3229214B68D55FC391e"
+}
