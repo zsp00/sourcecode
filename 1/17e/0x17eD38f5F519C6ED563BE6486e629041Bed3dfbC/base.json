@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Adventurer",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "1",
+  "Runs": "1000",
+  "ConstructorArguments": "000000000000000000000000f2c4a41eb934fd9fc361c85566a0f9a86e465a480000000000000000000000000000000000000000000000000000000000001d4c0000000000000000000000000000000000000000000000000000000000001388000000000000000000000000000000000000000000000000000000000000000b0000000000000000000000000000000000000000000000000000000061de1a00",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/Adventurer721.sol",
+    "contracts/ERC721.sol",
+    "@openzeppelin/contracts/utils/math/SafeMath.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "contracts/Adventurer.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol"
+  ],
+  "address": "0x17eD38f5F519C6ED563BE6486e629041Bed3dfbC"
+}
