@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SirenToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000028929b64d1e263b756ce3ce87522fc38778e231a",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0c1f7790b31a9e00562e01d9829e4c3f4f980d48f72964894d3cd27f2c218d73",
+  "path": [
+    "SirenToken.sol"
+  ],
+  "address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de"
+}
