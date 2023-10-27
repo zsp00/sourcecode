@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KUSUNOKI",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://abf81b833044485ce8f82ac2904bf8bf6b5668581798fc8fdf6b4b8ac867c75d",
+  "path": [
+    "KUSUNOKI.sol"
+  ],
+  "address": "0x36919a60a2B67B6d2329863093D180d23d5A0308"
+}
