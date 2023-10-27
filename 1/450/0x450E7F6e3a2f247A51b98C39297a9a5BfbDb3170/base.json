@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TransparentUpgradeableProxyImplementation",
+  "CompilerVersion": "v0.8.12+commit.f00d7308",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000004081916cfc32d699b93e86efd1cef581f53482d1000000000000000000000000ada8874a3765a5e4bb5c15f76d3de4c4971b6dd7000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000048129fc1c00000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "1",
+  "Implementation": "0x8b5c19cdb8afb458bbb3ce53bf1ef1754df09b88",
+  "SwarmSource": "ipfs://ced502f91a34577306a1cc88e703c4ae2590c939b47c8c1fefece759851abce3",
+  "path": [
+    "TransparentUpgradeableProxyImplementation.sol"
+  ],
+  "address": "0x450E7F6e3a2f247A51b98C39297a9a5BfbDb3170"
+}
