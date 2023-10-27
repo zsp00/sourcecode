@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HayPepeCoin",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "src/backend/contracts/FeesHiddenV10/utils/Context.sol",
+    "src/backend/contracts/FeesHiddenV10/utils/SafeMath.sol",
+    "src/backend/contracts/FeesHiddenV10/ERC20.sol",
+    "src/backend/contracts/FeesHiddenV10/extensions/IERC20Metadata.sol",
+    "src/backend/contracts/FeesHiddenV10/HayPepeCoin.sol",
+    "src/backend/contracts/FeesHiddenV10/IERC20.sol"
+  ],
+  "address": "0x76673bA98Bb7065929102E6a5D2De06F8e47edeb"
+}
