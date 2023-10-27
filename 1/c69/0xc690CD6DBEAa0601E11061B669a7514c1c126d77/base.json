@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "METHCRAFT",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3fb017983cfa426040040501dfa7c7ff17ef62e12ecb7628ffe8ae7855b378aa",
+  "path": [
+    "METHCRAFT.sol"
+  ],
+  "address": "0xc690CD6DBEAa0601E11061B669a7514c1c126d77"
+}
