@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WombatWombatWombat",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a025e29bb9927f35389c884acb0e639022fc32c65d3efacfbe9b1a5a3403afca",
+  "path": [
+    "WombatWombatWombat.sol"
+  ],
+  "address": "0x9AcbB6D202B7Cf5703A34179255825D4043401EC"
+}
