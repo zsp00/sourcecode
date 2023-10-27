@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GRASS",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://2cf5ddbd7bb12f36814d0cbd3131b59a06c3df0b7c47e4bdca65780d0103fd44",
+  "path": [
+    "GRASS.sol"
+  ],
+  "address": "0xe119de15610Ad13B2B14030f9e61498c525a2411"
+}

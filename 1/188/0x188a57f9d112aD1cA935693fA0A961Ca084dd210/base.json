@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Finbot",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "Context.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "ERC20.sol",
+    "ERC20Burnable.sol",
+    "Ownable.sol",
+    "IUniswapV2Factory.sol",
+    "IUniswapV2Pair.sol",
+    "Token.sol",
+    "Initializable.sol",
+    "IUniswapV2Router01.sol",
+    "IUniswapV2Router02.sol"
+  ],
+  "address": "0x188a57f9d112aD1cA935693fA0A961Ca084dd210"
+}

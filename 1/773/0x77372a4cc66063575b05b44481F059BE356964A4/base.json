@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "AKCB",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d99cf54f2a75765ba4bb69ece6a42657dd5b7a52993f0c80b66ccd4fc57530d4",
+  "path": [
+    "AKCB.sol"
+  ],
+  "address": "0x77372a4cc66063575b05b44481F059BE356964A4"
+}
