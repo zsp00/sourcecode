@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "StealthPad",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://779cc9a5e3989ba388bac20895b3411cc53b6d3576f34aff95f4a6f572b70895",
+  "path": [
+    "StealthPad.sol"
+  ],
+  "address": "0xB18F98822C22492Bd6b77D19cae9367f3D60fcBf"
+}
