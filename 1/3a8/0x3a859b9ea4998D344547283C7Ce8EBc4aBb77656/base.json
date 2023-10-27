@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KinesisVelocityToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://e627866e043cf4da56f8c79cec5a79ae3e0ab147c534df8d16f19fe0b4d13b9c",
+  "path": [
+    "KinesisVelocityToken.sol"
+  ],
+  "address": "0x3a859b9ea4998D344547283C7Ce8EBc4aBb77656"
+}
