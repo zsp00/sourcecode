@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HanSoloTrumpWoodPecker88inu",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://3b5265afc4d7a8170b2e6e5a675f8c7436a1eddf0b38f77d86f275662b2c994b",
+  "path": [
+    "HanSoloTrumpWoodPecker88inu.sol"
+  ],
+  "address": "0xFeC702C636E13a79ceF2546c2f02700d4379078c"
+}

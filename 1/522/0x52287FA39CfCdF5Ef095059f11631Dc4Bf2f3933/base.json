@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "InitialD",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://6447df00dda9541ef9b5ee8cccf4e5a7d11302857ba6794be4f4dc37b2feb235",
+  "path": [
+    "InitialD.sol"
+  ],
+  "address": "0x52287FA39CfCdF5Ef095059f11631Dc4Bf2f3933"
+}
