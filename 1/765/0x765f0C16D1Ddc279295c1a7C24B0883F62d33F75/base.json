@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DTXToken",
+  "CompilerVersion": "v0.4.21+commit.dfe3193c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000049fb18b9c2c238fd9f9e11db2075d3d0cf967032",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://fdff897542e008ff15086b7dd4c48241bb910dc3cdb78efe590a1026587aea70",
+  "path": [
+    "DTXToken.sol"
+  ],
+  "address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75"
+}
