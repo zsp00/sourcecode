@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "THEXTEAM",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cf62a50848483920e52fd1acb50ed4d9e7207d17a3056e05ade0a4efb24a1e72",
+  "path": [
+    "THEXTEAM.sol"
+  ],
+  "address": "0xAA7e35C143827c424967F3dc43B860e892A65D12"
+}

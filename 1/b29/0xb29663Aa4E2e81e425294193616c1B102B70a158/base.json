@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LDNToken",
+  "CompilerVersion": "v0.5.17+commit.d19bba13",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b0a2b33a9c1b8e38e6f564e06216a895945aefce5c1d35c39cf2b6878d091015",
+  "path": [
+    "LDNToken.sol"
+  ],
+  "address": "0xb29663Aa4E2e81e425294193616c1B102B70a158"
+}

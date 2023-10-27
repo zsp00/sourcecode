@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NKCLM",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "OSL-3.0",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://70f60401345eeff50ee59ffd830c0d734534ff7cfc025b216ca2c27352af8115",
+  "path": [
+    "NKCLM.sol"
+  ],
+  "address": "0x4c0fC6C8ACf92638184741Ca17ec9e71d8Ee6909"
+}
