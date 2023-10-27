@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Battleground",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://c8964b4e6361485dd65a3c17538f29b99dcbd683fbbbb2f68dd1c67f99878944",
+  "path": [
+    "Battleground.sol"
+  ],
+  "address": "0x63F314C44D164D5Be423199AFBfbe129D72d3EA6"
+}

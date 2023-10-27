@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ProofNonReflectionTokenCutter",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/libraries/ProofNonReflectionTokenFees.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "contracts/interfaces/IDividendDistributor.sol",
+    "contracts/interfaces/IUniswapV2Router02.sol",
+    "contracts/libraries/Ownable.sol",
+    "contracts/tokenCutters/ProofNonReflectionTokenCutter.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "contracts/interfaces/IFACTORY.sol",
+    "contracts/interfaces/IProofNonReflectionTokenCutter.sol",
+    "contracts/interfaces/IUniswapV2Factory.sol",
+    "contracts/libraries/Context.sol"
+  ],
+  "address": "0xeb31bA344310Bc4872C6188ff210D7341A301ea9"
+}
