@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Dexioprotocol",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1040e8fcf92062c3e49df76e6503f82252b052cd790126a5a846b05c84c5adbb",
+  "path": [
+    "Dexioprotocol.sol"
+  ],
+  "address": "0xe2cfBBEDbcE1bd59B1B799C44282E6396D692b84"
+}
