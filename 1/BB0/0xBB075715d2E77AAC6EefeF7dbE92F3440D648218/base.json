@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Vendetta",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://fb7fae8dc12eaa9c31d2045afbc6f738ff4840320b2e4b0deb0a4beb620eda33",
+  "path": [
+    "Vendetta.sol"
+  ],
+  "address": "0xBB075715d2E77AAC6EefeF7dbE92F3440D648218"
+}
