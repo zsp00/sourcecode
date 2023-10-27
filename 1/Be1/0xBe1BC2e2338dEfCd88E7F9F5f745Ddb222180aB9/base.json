@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TESO",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://626bb6346d7564a9ec9a76741237599b547d939b2d3aa667c87a5751d5507b18",
+  "path": [
+    "TESO.sol"
+  ],
+  "address": "0xBe1BC2e2338dEfCd88E7F9F5f745Ddb222180aB9"
+}
