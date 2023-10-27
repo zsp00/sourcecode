@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ETF",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://379ae42d7a68bd76eef451fef3754acd26cf28bd2d991ea98070d1a2256bc8c1",
+  "path": [
+    "ETF.sol"
+  ],
+  "address": "0x2FcBD5a6eb694d573D280664393681cB52b9a98b"
+}
