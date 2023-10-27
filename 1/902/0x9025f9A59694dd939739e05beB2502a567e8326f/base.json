@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NamTanToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1d0ce7bd9748ebcb89ce30c2fb25e50eb681c09325e940289a58ae385a1217fe",
+  "path": [
+    "NamTanToken.sol"
+  ],
+  "address": "0x9025f9A59694dd939739e05beB2502a567e8326f"
+}

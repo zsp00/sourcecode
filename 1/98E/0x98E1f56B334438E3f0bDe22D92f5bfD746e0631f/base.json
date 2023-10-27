@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ILUM",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://79d204bf84168ea4a7c7f7aaf99ead3a6e8398e6b00018bba80b6e8d9fffd9d7",
+  "path": [
+    "ILUM.sol"
+  ],
+  "address": "0x98E1f56B334438E3f0bDe22D92f5bfD746e0631f"
+}
