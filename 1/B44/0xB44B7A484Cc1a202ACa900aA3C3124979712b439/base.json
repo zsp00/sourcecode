@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MEMELIToken",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/MemeLisa.sol",
+    "contracts/interfaces/univ2.sol",
+    "contracts/libraries/isContract.sol",
+    "contracts/libraries/solmate/Owned.sol",
+    "contracts/libraries/solmate/ERC20.sol"
+  ],
+  "address": "0xB44B7A484Cc1a202ACa900aA3C3124979712b439"
+}
