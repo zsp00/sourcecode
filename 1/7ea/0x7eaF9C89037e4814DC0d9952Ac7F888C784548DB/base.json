@@ -1,0 +1,20 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RoyaleToken",
+  "CompilerVersion": "v0.6.0+commit.26b70077",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://73a43dac52fb8b96ce8baf75c96e0ad740f5b99524bc210396105f6e967b3ee0",
+  "path": [
+    "RoyaleToken.sol",
+    "SafeMath.sol"
+  ],
+  "address": "0x7eaF9C89037e4814DC0d9952Ac7F888C784548DB"
+}
