@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LDGF",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b57f9a2e1c9b525034234089deb0f0e803e0787df7b8ea38abde967043aa1977",
+  "path": [
+    "LDGF.sol"
+  ],
+  "address": "0x2475FC046632C191f98dec65d89Df602a9e4b450"
+}

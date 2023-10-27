@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BitherPlatformToken",
+  "CompilerVersion": "v0.5.2+commit.1df8f40c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://88d5bceada8c4ec2bd8ec8064e5fccc05ad2cf3da8a3119f783128f11b71dab9",
+  "path": [
+    "BitherPlatformToken.sol"
+  ],
+  "address": "0xcbf15FB8246F679F9Df0135881CB29a3746f734b"
+}
