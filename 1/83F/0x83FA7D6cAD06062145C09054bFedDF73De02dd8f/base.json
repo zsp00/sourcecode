@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "QKCToken",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5cb6879202cb7a54f124048f0993fde6a589f513b2da1d0ac66bc9f3d3b2add0",
+  "path": [
+    "QKCToken.sol"
+  ],
+  "address": "0x83FA7D6cAD06062145C09054bFedDF73De02dd8f"
+}
