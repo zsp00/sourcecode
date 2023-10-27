@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "VetMe",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://0c54f8500f20f72bb925ee45f9cc1a4222bb65ac38310be0a67de6e15b60cd44",
+  "path": [
+    "VetMe.sol"
+  ],
+  "address": "0xe7eF051C6EA1026A70967E8F04da143C67Fa4E1f"
+}

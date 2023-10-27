@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CSTToken",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6cc9805fa2b75868acb6007b0fbc614eb658693eeac08c101d4314ad96d9408c",
+  "path": [
+    "CSTToken.sol"
+  ],
+  "address": "0x26dD9EE44cb825920fd077Fd9EDf4F2F575f69Dd"
+}
