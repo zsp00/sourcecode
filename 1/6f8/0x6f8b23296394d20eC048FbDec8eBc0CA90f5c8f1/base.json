@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TUFToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000002af1ba1647471ece27f864eb8df36115e3931003",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4d6dcf02822f87318d6885cfd2e8a308d0b8e82c40be004391602794e3125043",
+  "path": [
+    "TUFToken.sol"
+  ],
+  "address": "0x6f8b23296394d20eC048FbDec8eBc0CA90f5c8f1"
+}
