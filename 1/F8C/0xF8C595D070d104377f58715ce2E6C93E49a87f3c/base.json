@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DACCToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://8680c0b232b2d87b54eaace3bed277747d6831c959988ebffa3d86e91131fccb",
+  "path": [
+    "DACCToken.sol"
+  ],
+  "address": "0xF8C595D070d104377f58715ce2E6C93E49a87f3c"
+}
