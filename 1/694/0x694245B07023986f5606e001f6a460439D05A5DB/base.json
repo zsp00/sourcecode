@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WOPE",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://eab2b572792abe3ddb50eae656b5bd818200c635011a3af5d37aca49facdd862",
+  "path": [
+    "WOPE.sol"
+  ],
+  "address": "0x694245B07023986f5606e001f6a460439D05A5DB"
+}
