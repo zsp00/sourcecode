@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WadzPayToken",
+  "CompilerVersion": "v0.5.9+commit.e560f70d",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://6de2892abdbb91a7898354b036a9a0e607a9e1783e1af869109efb4cba47fe88",
+  "path": [
+    "WadzPayToken.sol"
+  ],
+  "address": "0xDF9d4674a430BDCC096A3a403128357AB36844BA"
+}
