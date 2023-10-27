@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "OGSMINEM",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "TokenRecover.sol",
+    "IUniswapV2Factory.sol",
+    "IUniswapV2Pair.sol",
+    "IUniswapV2Router01.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "ERC20Burnable.sol",
+    "ERC20.sol",
+    "Ownable.sol",
+    "IUniswapV2Router02.sol",
+    "Context.sol",
+    "Token.sol"
+  ],
+  "address": "0x9778ac3D5A2f916aA9aBf1eb85C207d990ca2655"
+}
