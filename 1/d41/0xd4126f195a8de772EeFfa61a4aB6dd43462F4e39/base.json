@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HIKARI",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d4f33628511899b2e8d20056d96bde6582315cd507bb238fa67efcd15eb82f27",
+  "path": [
+    "HIKARI.sol"
+  ],
+  "address": "0xd4126f195a8de772EeFfa61a4aB6dd43462F4e39"
+}
