@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BUMBLEC",
+  "CompilerVersion": "v0.8.18+commit.87f61d96",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://371dfcac1a89e9ff39668b90c8d69557948b9470ab2786afe62eae5adc8ad659",
+  "path": [
+    "BUMBLEC.sol"
+  ],
+  "address": "0xAD83b92cdD542Db07445597f7F06963B31Cf9444"
+}
