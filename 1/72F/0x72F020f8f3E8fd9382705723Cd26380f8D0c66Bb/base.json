@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PlotXToken",
+  "CompilerVersion": "v0.5.7+commit.6da8b019",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000000a56fa5b99019a5c80000000000000000000000000000009f39fdf803b794af4afbef2c94f4a27e0d50d793",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://5f247ce5ff869558dad3bac49692d0ae4c77b36f5e59380151db598d1f1a094e",
+  "path": [
+    "IERC20.sol",
+    "PlotXToken.sol",
+    "SafeMath.sol",
+    "ERC20.sol"
+  ],
+  "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb"
+}
