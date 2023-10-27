@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MGG",
+  "CompilerVersion": "v0.5.16+commit.9c3226ce",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000003ff9bda6bb59fb87853a25a07764dc241a5ca4eb",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f55612dac0e09f50606baaf0f9f43953cb4225efa8fba8c1419e31f5d33725ae",
+  "path": [
+    "MGG.sol"
+  ],
+  "address": "0x7237C0B30B1355f1B76355582f182F6f04B08740"
+}
