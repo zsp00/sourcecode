@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TaxaToken",
+  "CompilerVersion": "v0.5.11+commit.22be8592",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://34d60c72a7a74cffe56d0d046120d25126c3d11a7585d2c57cf038bca520e2f1",
+  "path": [
+    "TaxaToken.sol"
+  ],
+  "address": "0x547b2F82ceCfAb9C2B1D36fddA96eF9F58C63B8C"
+}
