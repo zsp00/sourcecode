@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "vombatuseth",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://8af53dbd6b9e459dcb4c47c8caa059fdceefc167d78a0d0da83ff99f3c84c00a",
+  "path": [
+    "vombatuseth.sol"
+  ],
+  "address": "0x7eeA80caA68084627fE46C8c63585fD84975D512"
+}

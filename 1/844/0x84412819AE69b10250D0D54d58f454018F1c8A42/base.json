@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Scarab",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "10000",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "src/Scarab.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "lib/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
+    "lib/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "lib/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol"
+  ],
+  "address": "0x84412819AE69b10250D0D54d58f454018F1c8A42"
+}

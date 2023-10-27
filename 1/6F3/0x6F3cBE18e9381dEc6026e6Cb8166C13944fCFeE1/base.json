@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Felix",
+  "CompilerVersion": "v0.8.14+commit.80d49f37",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e1f528d46cab7e814372b9e51386f2613259cc0414ed4f8e78d7516de04f2698",
+  "path": [
+    "Felix.sol"
+  ],
+  "address": "0x6F3cBE18e9381dEc6026e6Cb8166C13944fCFeE1"
+}
