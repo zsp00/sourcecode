@@ -1,0 +1,29 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TETHER_USD",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "IUniswapV2Pair.sol",
+    "IUniswapV2Router01.sol",
+    "Context.sol",
+    "IERC20.sol",
+    "IERC20Metadata.sol",
+    "Token.sol",
+    "ERC20.sol",
+    "ERC20Burnable.sol",
+    "Ownable.sol",
+    "IUniswapV2Factory.sol",
+    "IUniswapV2Router02.sol"
+  ],
+  "address": "0x5d0043b02D38A3F47630369085BF40eB0076d6B4"
+}
