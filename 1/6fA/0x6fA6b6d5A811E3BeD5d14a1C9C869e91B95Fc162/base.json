@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SAFELUNAR",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://a8bc1d87314f22ddeee3d192f04589459ce86d0c4feaf274cdd5d1a9a96c99dd",
+  "path": [
+    "SAFELUNAR.sol"
+  ],
+  "address": "0x6fA6b6d5A811E3BeD5d14a1C9C869e91B95Fc162"
+}
