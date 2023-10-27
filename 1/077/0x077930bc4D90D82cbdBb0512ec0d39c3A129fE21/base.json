@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EDOGE",
+  "CompilerVersion": "v0.8.10+commit.fc410830",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b7691ed97558ebf87d1ba9818f5d8067ecc5ceaf052fe9879b95eb92b17c2b14",
+  "path": [
+    "EDOGE.sol"
+  ],
+  "address": "0x077930bc4D90D82cbdBb0512ec0d39c3A129fE21"
+}
