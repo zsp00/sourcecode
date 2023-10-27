@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CryptoCarbonEnergy",
+  "CompilerVersion": "v0.8.16+commit.07a7930e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://d1b02a8eb4f8c1e9a9cec9dda115cb8499d8d129e79031aaea8974247ed64223",
+  "path": [
+    "SafeMath.sol",
+    "Action.sol",
+    "CryptoCarbonEnergy.sol",
+    "IERC20.sol",
+    "Ownable.sol"
+  ],
+  "address": "0x9681ee0D91E737C3B60aCEbA7Fbdae61B5462f42"
+}
