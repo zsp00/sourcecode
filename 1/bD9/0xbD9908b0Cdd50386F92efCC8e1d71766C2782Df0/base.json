@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RICEToken",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000052b7d2dcc80cd2e4000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://660b4d75f093ed0ca0d3d03e7fe93ece89e7629e907773e7cdf7518e3644c045",
+  "path": [
+    "RICEToken.sol"
+  ],
+  "address": "0xbD9908b0Cdd50386F92efCC8e1d71766C2782Df0"
+}
