@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SHARX",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009e7131bc44b773b6eba76fef158147bd43d7561c0000000000000000000000009c4a412c0fba3c0e45e28acac39d9e9dff3dd20e000000000000000000000000cc861c25058ab7a0f7a0cf96aefa838bffc2c7fe000000000000000000000000464bf79515b3e4c7d72b5bffcbce6372296af75a00000000000000000000000030d46c2ea2f4f9996376757954038a6f6988467200000000000000000000000000000000000000000000000000000000000151800000000000000000000000000000000000000000010934e1e0215f51ab0ab0c50000000000000000000000005af70409ab74309aeb277ce6ecbccc90006c41aa",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol",
+    "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Permit.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
+    "@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "SHARX.sol",
+    "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol",
+    "@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "address": "0x81994DfBBE69c9e03226C2ebe62f7352DC3DB812"
+}
