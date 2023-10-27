@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BlackRock",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://67b0654d1b0634982ff7d7116cc6e8e1d2ee31777a68bf4c16924a9b19c6a1b2",
+  "path": [
+    "BlackRock.sol"
+  ],
+  "address": "0xb43bB25AAAC4EeEbaC8eC848bB323fe68CdE8384"
+}
