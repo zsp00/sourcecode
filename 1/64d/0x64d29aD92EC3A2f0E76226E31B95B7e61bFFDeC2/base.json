@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SMURFCATREFLECTIONS",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://eed6d852109d9a5bf89c86d7af6f26d5e6914805e21d2049c52797dd6b73c413",
+  "path": [
+    "SMURFCATREFLECTIONS.sol"
+  ],
+  "address": "0x64d29aD92EC3A2f0E76226E31B95B7e61bFFDeC2"
+}
