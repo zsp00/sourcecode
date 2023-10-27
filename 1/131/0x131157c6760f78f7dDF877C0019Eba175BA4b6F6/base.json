@@ -1,0 +1,21 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BigSB",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000023e7f318c383a5e9af702ee11e342632006a23cc",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://281b525db88bc80889f4971e43143271149b60a97c552810a456a6732b2b3517",
+  "path": [
+    "bigsb-token.sol",
+    "interfaces.sol",
+    "owned.sol"
+  ],
+  "address": "0x131157c6760f78f7dDF877C0019Eba175BA4b6F6"
+}

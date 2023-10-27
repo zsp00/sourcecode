@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Kaiji",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ed9d13ee5864af8c342f87e161d63c2efb0b92ed90da706c889a232ec5a3dae7",
+  "path": [
+    "Kaiji.sol"
+  ],
+  "address": "0x5A65B7afeE4Ab9D899b6Ab12d9211A776ffA6631"
+}
