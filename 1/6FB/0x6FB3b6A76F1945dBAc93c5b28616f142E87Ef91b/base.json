@@ -1,0 +1,32 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Asset721",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/token/ERC721/ERC721.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "contracts/Asset721.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "contracts/Types.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol"
+  ],
+  "address": "0x6FB3b6A76F1945dBAc93c5b28616f142E87Ef91b"
+}
