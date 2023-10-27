@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MOONVEMBER",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv2",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://bb78c00d39b258102898c3fea48d4335bfbe3b177d4f599e7bef8635ebf0a7e7",
+  "path": [
+    "MOONVEMBER.sol"
+  ],
+  "address": "0xCE699dB96b6B743887Df1514d422270C35c81bB5"
+}
