@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SoarCoin",
+  "CompilerVersion": "v0.4.16+commit.d7661dd9",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://1edd308e9093a5b206eb6e57ec108448f29106348c115dec076aefc928be42d2",
+  "path": [
+    "SoarCoin.sol"
+  ],
+  "address": "0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E"
+}
