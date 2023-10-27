@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ALLIN",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://1abc852edbf7f431fd7406cc40201ae6fb8912e4725beec2621eae65283c1a75",
+  "path": [
+    "ALLIN.sol"
+  ],
+  "address": "0x9dE44F26C011aA308f87C15943CbB514eBCB32D3"
+}

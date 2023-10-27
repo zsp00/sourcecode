@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WOMBAT",
+  "CompilerVersion": "v0.4.26+commit.4563c3fc",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "wombat.sol"
+  ],
+  "address": "0x06f7E3cecd6e66aB2fCC527e8a2e908c96e1a31c"
+}
