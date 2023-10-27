@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "blank",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "mainnet/0x39559b9E23a5FdA93B159E4E2F809609536784A8/mainnet/Shitcoin/blank.sol"
+  ],
+  "address": "0xbfa6A45Af9e04Ed01fF4fb53E8f6b383A867D862"
+}
