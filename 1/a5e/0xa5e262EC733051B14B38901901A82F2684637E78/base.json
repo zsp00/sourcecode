@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MeconCashToken",
+  "CompilerVersion": "v0.5.2+commit.1df8f40c",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://c06ca17a1adc1eaf2532d8b9452e2c8187b20eb2b5ce56fa3c34f170f56546dc",
+  "path": [
+    "ERC20.sol",
+    "ERC20Burnable.sol",
+    "ERC20Detailed.sol",
+    "IERC20.sol",
+    "MeconCashToken.sol",
+    "SafeMath.sol"
+  ],
+  "address": "0xa5e262EC733051B14B38901901A82F2684637E78"
+}
