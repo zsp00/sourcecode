@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XNLToken",
+  "CompilerVersion": "v0.8.3+commit.8d00100c",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://4b21a9e43c994d71107b14ae9f913041442ce52628f70113ba0b1021f5e760c8",
+  "path": [
+    "XNLToken.sol"
+  ],
+  "address": "0x06A00715E6F92210Af9d7680B584931FAF71A833"
+}

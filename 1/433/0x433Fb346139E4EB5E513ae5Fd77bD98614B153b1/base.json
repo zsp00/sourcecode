@@ -1,0 +1,25 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "FragmentToken",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "800",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a00000000000000000000000003eb879cc9a0ef4c6f1d870a40ae187768c278da20000000000000000000000000000000000000000000000000000000000000013cebc426f7265644170655961636874436c7562000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006cebc424159430000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "paris",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "openzeppelin-contracts/contracts/interfaces/draft-IERC6093.sol",
+    "openzeppelin-contracts/contracts/token/ERC20/ERC20.sol",
+    "openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "openzeppelin-contracts/contracts/token/ERC20/IERC20.sol",
+    "openzeppelin-contracts/contracts/utils/Context.sol",
+    "src/FragmentToken.sol",
+    "src/interface/IFragmentToken.sol"
+  ],
+  "address": "0x433Fb346139E4EB5E513ae5Fd77bD98614B153b1"
+}
