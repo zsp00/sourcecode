@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "BONES",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://42cc33140e0036c91c9228acf61f4a475abb565031d47ebf478dfca70ca96d48",
+  "path": [
+    "BONES.sol"
+  ],
+  "address": "0xe7c8537F92b4fEEFdc19bd6b4023dFe79400cb30"
+}
