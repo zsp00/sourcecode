@@ -1,0 +1,30 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ApeFiToken",
+  "CompilerVersion": "v0.8.13+commit.abaa5c0e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000b4170652046696e616e636500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000054150454649000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol",
+    "contracts/ApeFiToken.sol",
+    "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+    "@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol",
+    "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/utils/Counters.sol",
+    "@openzeppelin/contracts/utils/Strings.sol"
+  ],
+  "address": "0x4332f8A38f14BD3D8D1553aF27D7c7Ac6C27278D"
+}
