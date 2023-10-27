@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "six",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "Unlicense",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://cfbe23490ef337c06ad22ca32f4938ab5c441b7a1584c61dd51b4b115cbc502c",
+  "path": [
+    "six.sol"
+  ],
+  "address": "0xCF6396E9b2222004f628AfBdb3F4bc6C755118Ff"
+}
