@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "TrickOrTreat",
+  "CompilerVersion": "v0.8.21+commit.d9974bed",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://ddec64c2c58fdcd136f8dbb8b6e5071b17069db85d671f23cd6680996cfd22f6",
+  "path": [
+    "TrickOrTreat.sol"
+  ],
+  "address": "0xAE1EEB2C12b56BcCE8908dF09A526F97167749a8"
+}
