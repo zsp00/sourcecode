@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "GDT",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000d4d893221d51c8e5f4b3c8ecb55cf400e107569a",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://7f071ec67cd76b610f77f527b3196766410bbfe2e34bbb52687ae5abb23fbb7c",
+  "path": [
+    "GDT.sol"
+  ],
+  "address": "0xc67B12049c2D0CF6e476BC64c7F82fc6C63cFFc5"
+}
