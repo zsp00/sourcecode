@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "HNBProtocol",
+  "CompilerVersion": "v0.5.8+commit.23d335f2",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://4b0abbebdae4b1b90090c7f409709ccdb3b33e37e3ef596540ca2cd62a3672d8",
+  "path": [
+    "HNBProtocol.sol"
+  ],
+  "address": "0x6E0615a03eD9527a6013FcD5B556E36EF4DaB1FF"
+}
