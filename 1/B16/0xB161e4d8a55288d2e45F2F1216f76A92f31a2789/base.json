@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "CryptoNooniz",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU GPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://42f7075c73217852b5fd95e59bcb14482cde91527a6585d6f652b31499f15f8e",
+  "path": [
+    "CryptoNooniz.sol"
+  ],
+  "address": "0xB161e4d8a55288d2e45F2F1216f76A92f31a2789"
+}
