@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "Infireum",
+  "CompilerVersion": "v0.4.25+commit.59dbf8f1",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://b7534f216b697a898ef738d08fd63fba695f4607fca418f7d18debde0dabe3a5",
+  "path": [
+    "Infireum.sol"
+  ],
+  "address": "0x0e7F19C634709559A3743d52d78A369B08CB6fEf"
+}
