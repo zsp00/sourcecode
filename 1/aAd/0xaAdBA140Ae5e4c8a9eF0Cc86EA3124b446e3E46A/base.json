@@ -1,0 +1,31 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "MutantCats",
+  "CompilerVersion": "v0.8.4+commit.c7e474f2",
+  "OptimizationUsed": "1",
+  "Runs": "10",
+  "ConstructorArguments": "000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000e0000000000000000000000000000000000000000000000000000000000000000a4d7574616e74436174730000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000074d555443415453000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000036697066733a2f2f516d585973774348726b5a7262344b52485151337263594e676754577938354b576e507645576532337835744c562f00000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
+    "@openzeppelin/contracts/utils/Address.sol",
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol",
+    "contracts/MutantCats.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
+    "@openzeppelin/contracts/utils/Strings.sol",
+    "@openzeppelin/contracts/token/ERC721/ERC721.sol",
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "@openzeppelin/contracts/access/Ownable.sol",
+    "@openzeppelin/contracts/utils/Context.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol"
+  ],
+  "address": "0xaAdBA140Ae5e4c8a9eF0Cc86EA3124b446e3E46A"
+}
