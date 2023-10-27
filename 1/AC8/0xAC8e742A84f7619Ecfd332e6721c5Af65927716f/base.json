@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "KeyToken",
+  "CompilerVersion": "v0.8.17+commit.8df45f5f",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "00000000000000000000000000000000000000000000000000000000633de240",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f13a843062379aec58c3732581e444b2ade4fbd50ab54212084a68b3d18779cb",
+  "path": [
+    "KeyToken.sol"
+  ],
+  "address": "0xAC8e742A84f7619Ecfd332e6721c5Af65927716f"
+}
