@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "YGToken",
+  "CompilerVersion": "v0.8.0+commit.c7dfd78e",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000a41e000d088dc7dc3f8159634ddfd03650789947000000000000000000000000a3add9e906f31a751c21a867b013c690e9e0bf4d00000000000000000000000062c70a2842d516e4456204d681cd17f1ef4bad7f000000000000000000000000b147fbca1a5eb79666124939455d7dd31844f46c0000000000000000000000008e4a378bc178dcfd181f18dac965d7e368812bbf",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://21eb5186bd70a1fd3674127d28b1861e5524462cac9cc9aad27a327c73e48efb",
+  "path": [
+    "YGToken.sol"
+  ],
+  "address": "0x19C996c4E4596aADDA9b7756B34bBa614376FDd4"
+}

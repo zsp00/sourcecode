@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "NFTSToken",
+  "CompilerVersion": "v0.6.12+commit.27d51765",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://b8fee0d30e90d5f656152c495afea75bf74460c3e9775e4d34e4b81f5a1a5335",
+  "path": [
+    "NFTSToken.sol"
+  ],
+  "address": "0x08037036451C768465369431Da5C671ad9B37dBc"
+}
