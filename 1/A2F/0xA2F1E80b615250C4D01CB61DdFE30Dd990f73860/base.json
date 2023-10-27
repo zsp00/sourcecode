@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "RealSmurfPepe",
+  "CompilerVersion": "v0.8.20+commit.a1b79de6",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9a224829a23ecb9ac8cc4a8982bc1c8c5d402cbe008ca82e4a7be93d92baa02f",
+  "path": [
+    "RealSmurfPepe.sol"
+  ],
+  "address": "0xA2F1E80b615250C4D01CB61DdFE30Dd990f73860"
+}
