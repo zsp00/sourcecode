@@ -1,0 +1,23 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WrappedLunrToken",
+  "CompilerVersion": "v0.8.9+commit.e5eed63a",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000009a016ce184a22dbf6c17daa59eb7d3140dbd1c54",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/libs/token/ERC20/IERC20.sol",
+    "contracts/tokens/WrappedLunrToken.sol",
+    "contracts/libs/token/ERC20/ERC20.sol",
+    "contracts/libs/token/ERC20/ERC20Detailed.sol",
+    "contracts/libs/math/SafeMath.sol"
+  ],
+  "address": "0xA87135285Ae208e22068AcDBFf64B11Ec73EAa5A"
+}
