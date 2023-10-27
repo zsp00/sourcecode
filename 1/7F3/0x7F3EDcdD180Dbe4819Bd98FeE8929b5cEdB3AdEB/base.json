@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "XTKProxy",
+  "CompilerVersion": "v0.6.2+commit.bacdbe57",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000008b68733d7e4f1586ed8268aa1a020efdf2dfe14b000000000000000000000000105ed4e2980cc60a13ddf854c75133434d6b4074",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "1",
+  "Implementation": "0x8b68733d7e4f1586ed8268aa1a020efdf2dfe14b",
+  "SwarmSource": "ipfs://f6b45f4d9e48332915e339393e959fc6ee030fe5434393b9b14eb5b23a001528",
+  "path": [
+    "XTKProxy.sol"
+  ],
+  "address": "0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB"
+}
