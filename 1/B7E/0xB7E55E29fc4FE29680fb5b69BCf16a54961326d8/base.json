@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "moondetector",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000007a250d5630b4cf539739df2c5dacb4c659f2488d",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://e753ca1f706dd2f50174045346c61856f9c9a3574a93ab885ba656824a5ddd3e",
+  "path": [
+    "moondetector.sol"
+  ],
+  "address": "0xB7E55E29fc4FE29680fb5b69BCf16a54961326d8"
+}
