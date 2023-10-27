@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "ProxyToken",
+  "CompilerVersion": "v0.5.0+commit.1d4f565a",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "GNU LGPLv3",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://28b8fc82feb2e9e69149cbfb325fd08956f995be40e29c985a7cce5ea75d34b1",
+  "path": [
+    "ProxyToken.sol"
+  ],
+  "address": "0x2e91E3e54C5788e9FdD6A181497FDcEa1De1bcc1"
+}
