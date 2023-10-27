@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "WannaPanda",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "None",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://32f325e597e4982b020c3a7376f95cba40e3616b4f807326b98aa6c5da8900ff",
+  "path": [
+    "WannaPanda.sol"
+  ],
+  "address": "0xE4A3cbfA0B27db2Def20BFba80905515b0855E54"
+}
