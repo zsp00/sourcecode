@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "LoomToken",
+  "CompilerVersion": "v0.4.20+commit.3155dd80",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://d1b29c2a9b3d8747ac9eb4d8a3de869bad3b44a8ef89287d144828e760ac6a2d",
+  "path": [
+    "LoomToken.sol"
+  ],
+  "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0"
+}
