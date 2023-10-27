@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "DORK",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9b9083a7e82fcd7fc5fe3bd965aef85821e108072fd97cce9c478b4ec9d6d719",
+  "path": [
+    "DORK.sol"
+  ],
+  "address": "0x3fB04229566BfFDf6B4813cF8Ea77BA29A5674F0"
+}
