@@ -1,0 +1,27 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "styleToken",
+  "CompilerVersion": "v0.8.7+commit.e28d00a7",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "000000000000000000000000000000000000000002f90193ef3075fa9800000000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://528fb2746d25c5cecb9013363a98fb2ab6c8b873821c087445fd7e08f7a5744c",
+  "path": [
+    "IERC777.sol",
+    "IERC777Recipient.sol",
+    "IERC777Sender.sol",
+    "Address.sol",
+    "ERC777.sol",
+    "IERC20.sol",
+    "Source.sol",
+    "Context.sol",
+    "IERC1820Registry.sol"
+  ],
+  "address": "0xA962fC9d092c1E2dE00Bf600e261cf058B5685b1"
+}
