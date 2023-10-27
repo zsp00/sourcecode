@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "wAIge",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://f00447377a03cb56245484cb4d69754dc2bbf2286be9f7d417105ce8df9c21ac",
+  "path": [
+    "wAIge.sol"
+  ],
+  "address": "0x8fe90f7a6863892d2062688047Bdf4F922Bc342e"
+}
