@@ -1,0 +1,22 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SLSToken",
+  "CompilerVersion": "v0.8.5+commit.a4f2e591",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "path": [
+    "contracts/lina_swap/sls_token.sol",
+    "contracts/lina_swap/interfaces/IERC20.sol",
+    "contracts/lina_swap/ownership/Ownable.sol",
+    "contracts/lina_swap/utils/SafeMath.sol"
+  ],
+  "address": "0xEC537c4469Ff15811595a67dB0f6d7BD6131DED8"
+}
