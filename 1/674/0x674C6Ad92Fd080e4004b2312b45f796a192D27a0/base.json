@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "USDN",
+  "CompilerVersion": "v0.6.8+commit.0bbfe453",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://9257874fed3a071998833d8e81f6f0ea91a9d98817e402b507e08b74760e4998",
+  "path": [
+    "USDN.sol"
+  ],
+  "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0"
+}
