@@ -1,0 +1,24 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "EPANToken",
+  "CompilerVersion": "v0.7.5+commit.eb77ed08",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "0000000000000000000000000000000000000000004e54dea8095efc3fa00000",
+  "EVMVersion": "istanbul",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://212c4fe3e7b584437cd1c4ddf40ca8e49b0cb5a3a059fb2d1350f8950774829c",
+  "path": [
+    "SafeMath.sol",
+    "Address.sol",
+    "Context.sol",
+    "EPANToken.sol",
+    "ERC20.sol",
+    "IERC20.sol"
+  ],
+  "address": "0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc"
+}

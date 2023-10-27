@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "PivotToken",
+  "CompilerVersion": "v0.4.24+commit.e67f0147",
+  "OptimizationUsed": "0",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "bzzr://f22f5b04ed284f387a50df99f9cd0dc47666c34a2b1bcbbfe9cd3e7549df233d",
+  "path": [
+    "PivotToken.sol"
+  ],
+  "address": "0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834"
+}
