@@ -1,0 +1,19 @@
+{
+  "SourceCode": "",
+  "ABI": "",
+  "ContractName": "SAFE",
+  "CompilerVersion": "v0.8.19+commit.7dd6d404",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "LicenseType": "MIT",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "ipfs://23b480808dddc1173320c26c1f9f6744d993a872f983d9ef30dcea1e5a5f13bd",
+  "path": [
+    "SAFE.sol"
+  ],
+  "address": "0x9eD78f401fa1D2A541761b463eC7F0A14f5B47e0"
+}
